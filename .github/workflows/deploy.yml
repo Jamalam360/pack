@@ -1,0 +1,12 @@
+name: Deploy Modpack
+
+on: push
+
+jobs:
+  deploy:
+    runs-on: ubuntu-20.04
+
+    steps:
+      - name: Send API Request
+        run: |
+          curl -X POST -H "Content-Type: application/json" -H "Authorization: ${{ secrets.API_DEPLOY_KEY }}" https://server-api.jamalam.tech/deploy/pack
