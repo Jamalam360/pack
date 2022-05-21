@@ -100,6 +100,11 @@ hash = "db28f1cf66e33d904f5ee009cf898c697d3e11b4f880cbabf88e67be3538269f"
 metafile = true
 
 [[files]]
+file = "mods/indium.toml"
+hash = "735bb894e8fd0430de8fe331347ff24c5c64643bc65f2c040f7a82fb17e8b826"
+metafile = true
+
+[[files]]
 file = "mods/inspecio.toml"
 hash = "7baba0d5b6448760f7a0ad285c82633842efeeda7714571daa477486a4899c50"
 metafile = true
