@@ -1,8 +1,20 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/deploy.yml"
+hash = "95ea71bc516b672d6c16af8200a1979be6daa9932444f856b5b5eb0cdf55865e"
+
+[[files]]
+file = ".vscode/settings.json"
+hash = "ba94cccfa48922e9446626a33470fd1ef65695499228202b0e1879eed55445d5"
+
+[[files]]
 file = "LICENSE"
 hash = "8759648fd631f4e11e8ef3935fd15b56ea0d0300dfa3d0ba606ef32bac9a32a6"
+
+[[files]]
+file = "TO_ADD.md"
+hash = "9f9ffde793a834dcbabb8653c3370e14f6d6daa216e2968b9c6662be77401312"
 
 [[files]]
 file = "mods/advancementinfo.toml"
@@ -41,7 +53,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunky.toml"
-hash = "28bb1d5f48456c9c78599e37c8c52e2a87fd30ef90bb7fcb1db24a6abd40d697"
+hash = "163f685f318ba34efbb4d3071cfe175de1e85e83735e4f881ec26ae289bf8ed1"
 metafile = true
 
 [[files]]
@@ -186,7 +198,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.toml"
-hash = "f3788c11d6e2da088378f7b2fa47dbf01da87bc13a34bf0dbafac24fbdbc6acb"
+hash = "a95017e7401b2e6ccab13553bca0bc4ac7ed6c044d2a3afa486b8188f2f47e0d"
 metafile = true
 
 [[files]]
@@ -203,3 +215,7 @@ metafile = true
 file = "mods/visuality.toml"
 hash = "c47c339948a3dff50f1b879d6748e949c85e1a79c094aa639886b76c5b7301c8"
 metafile = true
+
+[[files]]
+file = "upload_to_server.ts"
+hash = "c86431a3b34205e44d05b497ee34960dbe2b98e79d0ce8b92133f88127f7dbdc"
