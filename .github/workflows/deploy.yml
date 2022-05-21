@@ -10,6 +10,7 @@ jobs:
       - name: Send API Request
         run: |
           curl -X POST -H "Content-Type: application/json" -H "Authorization: ${{ secrets.API_DEPLOY_KEY }}" https://server-api.jamalam.tech/deploy/pack
+      - uses: actions/checkout@v3
       - uses: denoland/setup-deno@v1
         with:
           deno-version: vx.x.x
