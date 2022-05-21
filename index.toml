@@ -20,8 +20,28 @@ hash = "757207131774e618e46c6c0ad407c8ba7c45d3c9c4fb59ffa8209d1bfe04a0d8"
 metafile = true
 
 [[files]]
+file = "mods/betterf3.toml"
+hash = "628c921ed428851da53ed2b47cabab1d83bc7cdfa773de9f860445a03f878ee8"
+metafile = true
+
+[[files]]
+file = "mods/blur-fabric.toml"
+hash = "f781e21b5f5ac35b6b9be2a8219dcce459ad7564581c2f9a1c83059b48c82efc"
+metafile = true
+
+[[files]]
 file = "mods/borderless-mining.toml"
 hash = "bed51582473ebbd8dc843f53f255d01a52683fa1ecd710e59eabf6173a9bdc98"
+metafile = true
+
+[[files]]
+file = "mods/charmonium.toml"
+hash = "9b17f81e976c2aaf1c4ed29266b805c78b8145357a02d6fe0c9f13682f388933"
+metafile = true
+
+[[files]]
+file = "mods/chunky.toml"
+hash = "28bb1d5f48456c9c78599e37c8c52e2a87fd30ef90bb7fcb1db24a6abd40d697"
 metafile = true
 
 [[files]]
@@ -45,6 +65,11 @@ hash = "9d5d339c329cb7e2a8c7540da5dff5e81cb99b769986c3f88fcfa17d21477f18"
 metafile = true
 
 [[files]]
+file = "mods/dripsounds-fabric.toml"
+hash = "430077b3930865fbafb2e0a5cbfc15251403d88051f8358eb7c96ce7ff45cdb8"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.toml"
 hash = "ffc1f6d147394bfeb65b2fb9a78ca7d3365cbf5192c31af1312bc899190e4e34"
 metafile = true
@@ -60,8 +85,23 @@ hash = "75d8979ac6cdc549e71d3ff2f6fee6f809c17e96d6c37692d9b06568ad1aae1f"
 metafile = true
 
 [[files]]
+file = "mods/fallingtree.toml"
+hash = "f4e2a688b20447f37e6cfca27bbf764f3448021a7c93fd54e33fb151bc6fb0db"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.toml"
 hash = "f19e328fe42f91d1b65e244ee5bcf70f1e5305a27278945098ea85af82e05d0d"
+metafile = true
+
+[[files]]
+file = "mods/immersiveportals.toml"
+hash = "db28f1cf66e33d904f5ee009cf898c697d3e11b4f880cbabf88e67be3538269f"
+metafile = true
+
+[[files]]
+file = "mods/inspecio.toml"
+hash = "7baba0d5b6448760f7a0ad285c82633842efeeda7714571daa477486a4899c50"
 metafile = true
 
 [[files]]
@@ -70,8 +110,18 @@ hash = "cbc3d6649757c3751ac73aed8df427b3ebc5685a808935b0e631d213bf6a760b"
 metafile = true
 
 [[files]]
+file = "mods/krypton.toml"
+hash = "219d4425679c60fd2855a6a39a6fccb6db3948dcc57b9da7c20907c855c5bd3d"
+metafile = true
+
+[[files]]
 file = "mods/lambdabettergrass.toml"
 hash = "01f79a7fb966690009a42f285e779bac8f7958df56240494e4d3d7d862332c2d"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.toml"
+hash = "158c40f09b2ed4fe14f5f2925751796fe11f6baee7e1ac7f35931ad831631a3d"
 metafile = true
 
 [[files]]
@@ -85,6 +135,11 @@ hash = "8243fcb2221942db16259a029d2964ca41d7a336fccc60464597d9f0d6699529"
 metafile = true
 
 [[files]]
+file = "mods/mcdiscordchat.toml"
+hash = "9c9924578e3bd0a3151b6636d8cacf7516de065191efd81f1614f9f76136d77c"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.toml"
 hash = "8f501b0b0f968e3b4819219c5fd5c656500bb0a2736cafff092ce7279fe85574"
 metafile = true
@@ -92,6 +147,26 @@ metafile = true
 [[files]]
 file = "mods/ok-zoomer.toml"
 hash = "d240a40073a8ae5c5f56b4c3cde5d78951ca71dc5b8279f0405f346a537659b7"
+metafile = true
+
+[[files]]
+file = "mods/petowner.toml"
+hash = "a526744d12a2a3cdd3064bdb6634e4d06ba029dc7116e823df03f4a5cbad4a15"
+metafile = true
+
+[[files]]
+file = "mods/pinglist.toml"
+hash = "e17c18833aea515aef4f44aae82a7d05eca457059301fb7c010aca5daa9f1286"
+metafile = true
+
+[[files]]
+file = "mods/plasmo-voice.toml"
+hash = "69b74bbfe190074a1aca83d0f2e780f263810a20f05d72e1db35907785c02835"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.toml"
+hash = "525252bb860d002a1985a4ffbb4cee19d727dc01bc78eaee0d3881e7bfff2eca"
 metafile = true
 
 [[files]]
@@ -110,6 +185,21 @@ hash = "d1480fd38a1ac53311baa2d57b92556834372f6ac04c355169441df9a59a161c"
 metafile = true
 
 [[files]]
+file = "mods/spark.toml"
+hash = "f3788c11d6e2da088378f7b2fa47dbf01da87bc13a34bf0dbafac24fbdbc6acb"
+metafile = true
+
+[[files]]
 file = "mods/starlight.toml"
 hash = "722031c0ae5d2de71783d6c4bfbf1c5cd25c65e55cb42d8bb4f7cadf478c4368"
+metafile = true
+
+[[files]]
+file = "mods/statuseffecttimer.toml"
+hash = "3610cc0efd4c0bfa58b962452b7ee2c735f3c9a86c66b175a5c186258aaeecc7"
+metafile = true
+
+[[files]]
+file = "mods/visuality.toml"
+hash = "c47c339948a3dff50f1b879d6748e949c85e1a79c094aa639886b76c5b7301c8"
 metafile = true
