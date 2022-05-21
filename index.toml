@@ -1,20 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/workflows/deploy.yml"
-hash = "95ea71bc516b672d6c16af8200a1979be6daa9932444f856b5b5eb0cdf55865e"
-
-[[files]]
-file = ".vscode/settings.json"
-hash = "ba94cccfa48922e9446626a33470fd1ef65695499228202b0e1879eed55445d5"
-
-[[files]]
 file = "LICENSE"
 hash = "8759648fd631f4e11e8ef3935fd15b56ea0d0300dfa3d0ba606ef32bac9a32a6"
-
-[[files]]
-file = "TO_ADD.md"
-hash = "9f9ffde793a834dcbabb8653c3370e14f6d6daa216e2968b9c6662be77401312"
 
 [[files]]
 file = "mods/advancementinfo.toml"
