@@ -10,6 +10,11 @@ hash = "46de5114d8a0017b14c0f6b63401fc7a1cb69b0dce336d36e25e80e91b51319b"
 metafile = true
 
 [[files]]
+file = "mods/arch-ex.pw.toml"
+hash = "96436812c83bc9a98e55b73132d8bca99e14415013ed78519966a3c03ddd4918"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "bdd490e9e4fd643d7f4b1024a6000a4e7fbece47986e5950cebd7f163de764e8"
 metafile = true
@@ -30,6 +35,11 @@ hash = "628c921ed428851da53ed2b47cabab1d83bc7cdfa773de9f860445a03f878ee8"
 metafile = true
 
 [[files]]
+file = "mods/blur-fabric.pw.toml"
+hash = "1f1143578e44c21c78c7360e92a392a87a1d60cc3be2f25d15e88cce6a765849"
+metafile = true
+
+[[files]]
 file = "mods/blur-fabric.toml"
 hash = "f781e21b5f5ac35b6b9be2a8219dcce459ad7564581c2f9a1c83059b48c82efc"
 metafile = true
@@ -42,6 +52,11 @@ metafile = true
 [[files]]
 file = "mods/borderless-mining.toml"
 hash = "bed51582473ebbd8dc843f53f255d01a52683fa1ecd710e59eabf6173a9bdc98"
+metafile = true
+
+[[files]]
+file = "mods/cc-restitched.pw.toml"
+hash = "4347d29a5aeaabc2ee1711aede87c4dbe4881aeba6ed7136f783a79438a3d3d2"
 metafile = true
 
 [[files]]
@@ -110,6 +125,11 @@ hash = "50780c17b5bb008c6786a9ab8e4405fba1908a8276a1d7d03dff90f8f7408d78"
 metafile = true
 
 [[files]]
+file = "mods/enchancement.pw.toml"
+hash = "8fc2cc534895488b8b282d19037d5dc378fca4cb96327c8257f3c04d5728dd59"
+metafile = true
+
+[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "9adbc1fa2ae409396b3fa6701f06456d07acd843766a8e70f03f670af71f7ffb"
 metafile = true
@@ -117,6 +137,16 @@ metafile = true
 [[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "f3fdedadc83ac9005a59566330e45964cd52625d8dc15014ca8a40b929863638"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "3c3d7e7f9e0ae6a978564276c618a802d0c54c4ca098a7a897252a662ff4723a"
+metafile = true
+
+[[files]]
+file = "mods/fabrishot.pw.toml"
+hash = "30a8da2902fbabd5898b849496d98d0df6898481635388293716805dc162f40e"
 metafile = true
 
 [[files]]
@@ -140,6 +170,16 @@ hash = "f19e328fe42f91d1b65e244ee5bcf70f1e5305a27278945098ea85af82e05d0d"
 metafile = true
 
 [[files]]
+file = "mods/get-off-my-lawn-reserved.pw.toml"
+hash = "c0af71db69e5ef0aba312a3713d67d505faf569c92c3e13f659b48ea1dccab17"
+metafile = true
+
+[[files]]
+file = "mods/haema.pw.toml"
+hash = "5cea0de4f3bc0e613c9f6dc6a9d18714c45a477d92f3d0bf55b65f6abea8ba11"
+metafile = true
+
+[[files]]
 file = "mods/harvest-scythes.pw.toml"
 hash = "27bcbe87ab79c37499f30df737c989b7c9f08a53dbe823eca0df689d3cf5b0b1"
 metafile = true
@@ -150,8 +190,18 @@ hash = "aa3c1f64855eb76ea105ede0bb2f0171be8cc28fefee374df71aa6e2eec14134"
 metafile = true
 
 [[files]]
+file = "mods/indium.pw.toml"
+hash = "a6d77464f14dd48fe50828b321e0d8996a53e0c81a3866f3522014c2bf5e34a7"
+metafile = true
+
+[[files]]
 file = "mods/indium.toml"
 hash = "735bb894e8fd0430de8fe331347ff24c5c64643bc65f2c040f7a82fb17e8b826"
+metafile = true
+
+[[files]]
+file = "mods/inspecio.pw.toml"
+hash = "399e2642bdf663c6352d6560f4f48e903750e889e1b78c731d240caf0c6a2e28"
 metafile = true
 
 [[files]]
@@ -195,6 +245,11 @@ hash = "158c40f09b2ed4fe14f5f2925751796fe11f6baee7e1ac7f35931ad831631a3d"
 metafile = true
 
 [[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "79abdb9bafc3793dd8c51e633667c20cb85f9dbfdad0d008bbca8be26f22cbf3"
+metafile = true
+
+[[files]]
 file = "mods/lazydfu.toml"
 hash = "ea127e8f74006f3a9ce099f9e96adaa3b3f4f281231ece703c4e7f9732137ebd"
 metafile = true
@@ -202,6 +257,11 @@ metafile = true
 [[files]]
 file = "mods/lib.pw.toml"
 hash = "ed4c78f8b133f50574d7e4b399b7546edf2efb90472384e069d58959bac54853"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "a6c1b4971c7c06b4a6e802362ae24feb242ae2943cef941fe6319b651768b7e1"
 metafile = true
 
 [[files]]
@@ -215,6 +275,11 @@ hash = "9c9924578e3bd0a3151b6636d8cacf7516de065191efd81f1614f9f76136d77c"
 metafile = true
 
 [[files]]
+file = "mods/modmenu.pw.toml"
+hash = "6dc27377674c79509779c7b17d7db80748d9636c5d639b0e5f67f90b45f1a8e5"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.toml"
 hash = "8f501b0b0f968e3b4819219c5fd5c656500bb0a2736cafff092ce7279fe85574"
 metafile = true
@@ -222,6 +287,11 @@ metafile = true
 [[files]]
 file = "mods/notrample-fabric.pw.toml"
 hash = "41283e158089d02d0df6042883bd092e38cbe8bdcfd3dd611853a3ff14a3c7c0"
+metafile = true
+
+[[files]]
+file = "mods/now-playing.pw.toml"
+hash = "4c6fdb97b8ad3d7dcbfc9d998b35903a4023e3c3fe130c5b7eec3ff0f7b21370"
 metafile = true
 
 [[files]]
@@ -245,8 +315,23 @@ hash = "a526744d12a2a3cdd3064bdb6634e4d06ba029dc7116e823df03f4a5cbad4a15"
 metafile = true
 
 [[files]]
+file = "mods/phonos.pw.toml"
+hash = "8968958187e755adb57eebe7bf61cc6b846ca977267f58a8a4fd0b6dfe5a53f5"
+metafile = true
+
+[[files]]
+file = "mods/phosphor.pw.toml"
+hash = "c3d3973ca1e942ea42f9d14c64eceaa835e4f969fe95d6838701db8d56790c71"
+metafile = true
+
+[[files]]
 file = "mods/pinglist.toml"
 hash = "e17c18833aea515aef4f44aae82a7d05eca457059301fb7c010aca5daa9f1286"
+metafile = true
+
+[[files]]
+file = "mods/plasmo-voice.pw.toml"
+hash = "192bdfc89dba1d7d3a152bee5999c8872a131c505a197e9417de81d582c09691"
 metafile = true
 
 [[files]]
@@ -275,8 +360,23 @@ hash = "d935b491016306e60b08bc234cc978ac84412d84d1ae5a9b6f8878a09ea25202"
 metafile = true
 
 [[files]]
+file = "mods/resounding.pw.toml"
+hash = "10e158d05263f4fc9a970d29d663961f26dd3c50baba88134fe1c255db209db4"
+metafile = true
+
+[[files]]
 file = "mods/rightclickharvest-fabric.pw.toml"
 hash = "eaffd2377e668381b726a8e01df5114e5e8006ad857daf963a663c1509678dfa"
+metafile = true
+
+[[files]]
+file = "mods/sandwichable.pw.toml"
+hash = "38da2b18421ee5d9163c6fb693f5c67e764af13f20d2550d51172548e3141c67"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "470c19232a750a398997935c13778a662468fa69fb78c9f269189f41b132d094"
 metafile = true
 
 [[files]]
