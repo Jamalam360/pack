@@ -1,0 +1,13 @@
+name = "Reaping"
+filename = "reaping-2.1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dc9e32320efce723b2d3fd3a30f199abf162d05a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3802753
+project-id = 485532

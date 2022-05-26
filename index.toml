@@ -10,6 +10,11 @@ hash = "46de5114d8a0017b14c0f6b63401fc7a1cb69b0dce336d36e25e80e91b51319b"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "bdd490e9e4fd643d7f4b1024a6000a4e7fbece47986e5950cebd7f163de764e8"
+metafile = true
+
+[[files]]
 file = "mods/badstdout.toml"
 hash = "893c68376d94e2385584cc798e205eecf8de15d79e352bdebc5bc487a2200c19"
 metafile = true
@@ -30,6 +35,11 @@ hash = "f781e21b5f5ac35b6b9be2a8219dcce459ad7564581c2f9a1c83059b48c82efc"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf.pw.toml"
+hash = "2eaf54d060f96426c2d99b497d24aa2afb4e7d29ee1d72b3b347591edc9a666e"
+metafile = true
+
+[[files]]
 file = "mods/borderless-mining.toml"
 hash = "bed51582473ebbd8dc843f53f255d01a52683fa1ecd710e59eabf6173a9bdc98"
 metafile = true
@@ -42,6 +52,21 @@ metafile = true
 [[files]]
 file = "mods/chunky.toml"
 hash = "163f685f318ba34efbb4d3071cfe175de1e85e83735e4f881ec26ae289bf8ed1"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config-legacy.pw.toml"
+hash = "ebb8d0a31f63dfb0d248ff7748cebe42913f5541bb0e2b44346ca4b5d1d7544d"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "3c184c5f2b8648c1106038d68ffece8f508dd3d4241b3d1e89080a0ed2d35b3e"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "397657d22c2666f9c7a22247204feccafecf2f770aeffdf395a88bcc22f97809"
 metafile = true
 
 [[files]]
@@ -70,6 +95,11 @@ hash = "430077b3930865fbafb2e0a5cbfc15251403d88051f8358eb7c96ce7ff45cdb8"
 metafile = true
 
 [[files]]
+file = "mods/dual-riders.pw.toml"
+hash = "0d70cb6c1c7185420ba64a968ac757512457cdc272fdf586abf5adf3842e8e6e"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.toml"
 hash = "ffc1f6d147394bfeb65b2fb9a78ca7d3365cbf5192c31af1312bc899190e4e34"
 metafile = true
@@ -77,6 +107,16 @@ metafile = true
 [[files]]
 file = "mods/ebe.toml"
 hash = "50780c17b5bb008c6786a9ab8e4405fba1908a8276a1d7d03dff90f8f7408d78"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "9adbc1fa2ae409396b3fa6701f06456d07acd843766a8e70f03f670af71f7ffb"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "f3fdedadc83ac9005a59566330e45964cd52625d8dc15014ca8a40b929863638"
 metafile = true
 
 [[files]]
@@ -97,6 +137,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.toml"
 hash = "f19e328fe42f91d1b65e244ee5bcf70f1e5305a27278945098ea85af82e05d0d"
+metafile = true
+
+[[files]]
+file = "mods/harvest-scythes.pw.toml"
+hash = "27bcbe87ab79c37499f30df737c989b7c9f08a53dbe823eca0df689d3cf5b0b1"
 metafile = true
 
 [[files]]
@@ -125,6 +170,16 @@ hash = "7848466b7f337faf90f5edb14aeed716c398f8abfe091cef7c4894102e2727d4"
 metafile = true
 
 [[files]]
+file = "mods/jamlib.pw.toml"
+hash = "34cf204f9b291735f08270c26d8b8e091055bf55aa388af0f2248616059a0c27"
+metafile = true
+
+[[files]]
+file = "mods/jamtastic.pw.toml"
+hash = "2f0d275181c513b59f5a7ea67d041b5f46311a46f8eb72599c61dccbb595e035"
+metafile = true
+
+[[files]]
 file = "mods/krypton.toml"
 hash = "219d4425679c60fd2855a6a39a6fccb6db3948dcc57b9da7c20907c855c5bd3d"
 metafile = true
@@ -145,6 +200,11 @@ hash = "ea127e8f74006f3a9ce099f9e96adaa3b3f4f281231ece703c4e7f9732137ebd"
 metafile = true
 
 [[files]]
+file = "mods/lib.pw.toml"
+hash = "ed4c78f8b133f50574d7e4b399b7546edf2efb90472384e069d58959bac54853"
+metafile = true
+
+[[files]]
 file = "mods/lithium.toml"
 hash = "83541b1d3e1e936638a6938eb505bf0f508c13aed7f8416af8d064ffc7cda4dc"
 metafile = true
@@ -160,8 +220,23 @@ hash = "8f501b0b0f968e3b4819219c5fd5c656500bb0a2736cafff092ce7279fe85574"
 metafile = true
 
 [[files]]
+file = "mods/notrample-fabric.pw.toml"
+hash = "41283e158089d02d0df6042883bd092e38cbe8bdcfd3dd611853a3ff14a3c7c0"
+metafile = true
+
+[[files]]
+file = "mods/offhand-overhaul.pw.toml"
+hash = "518f9d0766e67f20019b0c31dc038c56555dc1afe30dc0b7695e38f9f171081a"
+metafile = true
+
+[[files]]
 file = "mods/ok-zoomer.toml"
 hash = "d240a40073a8ae5c5f56b4c3cde5d78951ca71dc5b8279f0405f346a537659b7"
+metafile = true
+
+[[files]]
+file = "mods/patchouli-fabric.pw.toml"
+hash = "22b07787d338866bb50df01328b2c355f7794cfe341b90c74c54521775f9d0a5"
 metafile = true
 
 [[files]]
@@ -190,8 +265,18 @@ hash = "046d2a1630f05efc4c6dc894ca73c0f1f0868ef610262340af86a81283728294"
 metafile = true
 
 [[files]]
+file = "mods/reaping.pw.toml"
+hash = "e7aba469ccc1b22255e160914b572a4104313197a81509a6645e52feefb863c6"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.toml"
 hash = "d935b491016306e60b08bc234cc978ac84412d84d1ae5a9b6f8878a09ea25202"
+metafile = true
+
+[[files]]
+file = "mods/rightclickharvest-fabric.pw.toml"
+hash = "eaffd2377e668381b726a8e01df5114e5e8006ad857daf963a663c1509678dfa"
 metafile = true
 
 [[files]]
@@ -217,6 +302,11 @@ metafile = true
 [[files]]
 file = "mods/tooltipfix.pw.toml"
 hash = "69214e78788c8db0b1b2e9fa48deff5fdb090dd590ced6898ac5b4286aa370b2"
+metafile = true
+
+[[files]]
+file = "mods/valleycraft.pw.toml"
+hash = "60fb27a8b75c689c1d8c1802e42d70da59c873850dc5e1dbca79cb02b91194c9"
 metafile = true
 
 [[files]]

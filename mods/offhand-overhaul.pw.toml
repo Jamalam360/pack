@@ -1,0 +1,13 @@
+name = "Offhand Overhaul"
+filename = "offhand-overhaul-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f5ce3059d0a25a70ab81db88ce51a4b27909e08a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3802351
+project-id = 494447

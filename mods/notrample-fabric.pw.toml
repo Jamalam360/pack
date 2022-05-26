@@ -1,0 +1,13 @@
+name = "NoTrample"
+filename = "notramplefabric-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "75f18b17b6642b3132ade50d55734fc5ec0b754c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3224557
+project-id = 452698
