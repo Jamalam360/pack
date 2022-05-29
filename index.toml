@@ -16,7 +16,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "bdd490e9e4fd643d7f4b1024a6000a4e7fbece47986e5950cebd7f163de764e8"
+hash = "01ec12c07032284b27afde5695c2fca99dfca2b785d06729fb13917a00a85c92"
 metafile = true
 
 [[files]]
@@ -46,7 +46,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "2eaf54d060f96426c2d99b497d24aa2afb4e7d29ee1d72b3b347591edc9a666e"
+hash = "f90500d8a671a20939619caee98bc58aee30c9c58362e20b8c01463c9173cd6a"
 metafile = true
 
 [[files]]
@@ -56,7 +56,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-restitched.pw.toml"
-hash = "4347d29a5aeaabc2ee1711aede87c4dbe4881aeba6ed7136f783a79438a3d3d2"
+hash = "423f3cb323804973ccd4bcfbeb7c412857598df4074dcd0fd3764b699de1f657"
 metafile = true
 
 [[files]]
@@ -186,7 +186,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersiveportals.toml"
-hash = "aa3c1f64855eb76ea105ede0bb2f0171be8cc28fefee374df71aa6e2eec14134"
+hash = "91cdff5c72518833d5349723829fa66c2b2abb6b91941000e4dbcf6f36bb6a3c"
 metafile = true
 
 [[files]]
