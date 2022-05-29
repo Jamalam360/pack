@@ -278,6 +278,11 @@ hash = "9c9924578e3bd0a3151b6636d8cacf7516de065191efd81f1614f9f76136d77c"
 metafile = true
 
 [[files]]
+file = "mods/mealapi.pw.toml"
+hash = "e50530e14e455bed140ae34f590fe00fa0f0c08bc5ce06404eb0a5fd1ffd7683"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "6dc27377674c79509779c7b17d7db80748d9636c5d639b0e5f67f90b45f1a8e5"
 metafile = true
@@ -303,8 +308,8 @@ hash = "518f9d0766e67f20019b0c31dc038c56555dc1afe30dc0b7695e38f9f171081a"
 metafile = true
 
 [[files]]
-file = "mods/ok-zoomer.toml"
-hash = "d240a40073a8ae5c5f56b4c3cde5d78951ca71dc5b8279f0405f346a537659b7"
+file = "mods/ok-zoomer.pw.toml"
+hash = "2c4643d064b78aa317a5a595923723bf15cd4aa947c9278406c0110be4b6d65b"
 metafile = true
 
 [[files]]
@@ -320,11 +325,6 @@ metafile = true
 [[files]]
 file = "mods/phonos.pw.toml"
 hash = "8968958187e755adb57eebe7bf61cc6b846ca977267f58a8a4fd0b6dfe5a53f5"
-metafile = true
-
-[[files]]
-file = "mods/phosphor.pw.toml"
-hash = "c3d3973ca1e942ea42f9d14c64eceaa835e4f969fe95d6838701db8d56790c71"
 metafile = true
 
 [[files]]
