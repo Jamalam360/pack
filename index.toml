@@ -404,7 +404,7 @@ metafile = true
 
 [[files]]
 file = "mods/tooltipfix.pw.toml"
-hash = "521243f1869918c709d94db11f69e3b1268a652bac8af0973dec7ee1b4583170"
+hash = "69214e78788c8db0b1b2e9fa48deff5fdb090dd590ced6898ac5b4286aa370b2"
 metafile = true
 
 [[files]]
