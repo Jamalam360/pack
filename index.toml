@@ -228,6 +228,11 @@ hash = "2f0d275181c513b59f5a7ea67d041b5f46311a46f8eb72599c61dccbb595e035"
 metafile = true
 
 [[files]]
+file = "mods/krypton.pw.toml"
+hash = "2846c36f482f25a522d648da964512e0231d59210816cdd7a56783d344fa1ec4"
+metafile = true
+
+[[files]]
 file = "mods/krypton.toml"
 hash = "219d4425679c60fd2855a6a39a6fccb6db3948dcc57b9da7c20907c855c5bd3d"
 metafile = true
@@ -295,11 +300,6 @@ metafile = true
 [[files]]
 file = "mods/now-playing.pw.toml"
 hash = "4c6fdb97b8ad3d7dcbfc9d998b35903a4023e3c3fe130c5b7eec3ff0f7b21370"
-metafile = true
-
-[[files]]
-file = "mods/offhand-overhaul.pw.toml"
-hash = "518f9d0766e67f20019b0c31dc038c56555dc1afe30dc0b7695e38f9f171081a"
 metafile = true
 
 [[files]]
@@ -400,6 +400,11 @@ metafile = true
 [[files]]
 file = "mods/statuseffecttimer.toml"
 hash = "3610cc0efd4c0bfa58b962452b7ee2c735f3c9a86c66b175a5c186258aaeecc7"
+metafile = true
+
+[[files]]
+file = "mods/styled-nicknames.pw.toml"
+hash = "8b96cd130bddf96a7703fa2dfa55189fd6ee76aca40bb835e1f20f37bb9e8884"
 metafile = true
 
 [[files]]
