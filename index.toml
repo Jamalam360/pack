@@ -323,11 +323,6 @@ hash = "e17c18833aea515aef4f44aae82a7d05eca457059301fb7c010aca5daa9f1286"
 metafile = true
 
 [[files]]
-file = "mods/plasmo-voice.pw.toml"
-hash = "192bdfc89dba1d7d3a152bee5999c8872a131c505a197e9417de81d582c09691"
-metafile = true
-
-[[files]]
 file = "mods/plasmo-voice.toml"
 hash = "69b74bbfe190074a1aca83d0f2e780f263810a20f05d72e1db35907785c02835"
 metafile = true
@@ -370,6 +365,11 @@ metafile = true
 [[files]]
 file = "mods/sandwichable.pw.toml"
 hash = "38da2b18421ee5d9163c6fb693f5c67e764af13f20d2550d51172548e3141c67"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "9346d09f897be45df79ad6af92e38f34f650ca557e65bc199f629021bbcff915"
 metafile = true
 
 [[files]]
