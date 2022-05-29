@@ -1,6 +1,6 @@
 name = "Resounding"
 filename = "resounding-1.0.0-bc.9.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/UwbKhrqq/versions/v1.0.0-bc.9/resounding-1.0.0-bc.9.jar"
