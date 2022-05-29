@@ -108,11 +108,6 @@ hash = "9d5d339c329cb7e2a8c7540da5dff5e81cb99b769986c3f88fcfa17d21477f18"
 metafile = true
 
 [[files]]
-file = "mods/disfabric.pw.toml"
-hash = "b6a3eaedd0de352bbaa11372f8c99e3a4a127d7cc50ba65fede5222f3276e672"
-metafile = true
-
-[[files]]
 file = "mods/dripsounds-fabric.toml"
 hash = "430077b3930865fbafb2e0a5cbfc15251403d88051f8358eb7c96ce7ff45cdb8"
 metafile = true
