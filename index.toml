@@ -128,11 +128,6 @@ hash = "50780c17b5bb008c6786a9ab8e4405fba1908a8276a1d7d03dff90f8f7408d78"
 metafile = true
 
 [[files]]
-file = "mods/enchancement.pw.toml"
-hash = "8fc2cc534895488b8b282d19037d5dc378fca4cb96327c8257f3c04d5728dd59"
-metafile = true
-
-[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "9adbc1fa2ae409396b3fa6701f06456d07acd843766a8e70f03f670af71f7ffb"
 metafile = true
