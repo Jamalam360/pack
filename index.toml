@@ -350,6 +350,11 @@ hash = "046d2a1630f05efc4c6dc894ca73c0f1f0868ef610262340af86a81283728294"
 metafile = true
 
 [[files]]
+file = "mods/quickconnectbutton.pw.toml"
+hash = "f7449d1861f82b651036360ac235845bf549fc1d7be4fe215a951e3e909b3c6a"
+metafile = true
+
+[[files]]
 file = "mods/reaping.pw.toml"
 hash = "e7aba469ccc1b22255e160914b572a4104313197a81509a6645e52feefb863c6"
 metafile = true
