@@ -14,7 +14,7 @@ hash = "76ecae872289fe31c4e0cbe2cba09912e53397fa4f9a704c191e98fd0b0150ac"
 
 [[files]]
 file = "mods/advancementinfo.toml"
-hash = "46de5114d8a0017b14c0f6b63401fc7a1cb69b0dce336d36e25e80e91b51319b"
+hash = "a25ff503721a6b8c3ee3cfea976b564a107a3d5ad587d7e03a84e6788f5cf185"
 metafile = true
 
 [[files]]
@@ -134,7 +134,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "9adbc1fa2ae409396b3fa6701f06456d07acd843766a8e70f03f670af71f7ffb"
+hash = "8899872561af0fc58621dc7a0e3c7a831d8e5cb97cb298311f2a73bacb6f9515"
 metafile = true
 
 [[files]]
@@ -214,7 +214,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-model-fix.pw.toml"
-hash = "7848466b7f337faf90f5edb14aeed716c398f8abfe091cef7c4894102e2727d4"
+hash = "130976ca98c3b2514ba7f4246dfb1e9ceff213d8a1ff62748c26461b5e345085"
 metafile = true
 
 [[files]]
@@ -294,7 +294,7 @@ metafile = true
 
 [[files]]
 file = "mods/now-playing.pw.toml"
-hash = "4c6fdb97b8ad3d7dcbfc9d998b35903a4023e3c3fe130c5b7eec3ff0f7b21370"
+hash = "273dc3a807d97ea6166902e0e5057688ce790479f389cfde3f9006411747fe7b"
 metafile = true
 
 [[files]]
@@ -359,7 +359,7 @@ metafile = true
 
 [[files]]
 file = "mods/resounding.pw.toml"
-hash = "10e158d05263f4fc9a970d29d663961f26dd3c50baba88134fe1c255db209db4"
+hash = "82a685396caa4f7cbdf7ccb722381d879d9961a0806051faeae1aa52213ac55d"
 metafile = true
 
 [[files]]
@@ -404,7 +404,7 @@ metafile = true
 
 [[files]]
 file = "mods/tooltipfix.pw.toml"
-hash = "69214e78788c8db0b1b2e9fa48deff5fdb090dd590ced6898ac5b4286aa370b2"
+hash = "521243f1869918c709d94db11f69e3b1268a652bac8af0973dec7ee1b4583170"
 metafile = true
 
 [[files]]
