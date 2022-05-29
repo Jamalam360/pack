@@ -5,6 +5,14 @@ file = "LICENSE"
 hash = "8759648fd631f4e11e8ef3935fd15b56ea0d0300dfa3d0ba606ef32bac9a32a6"
 
 [[files]]
+file = "config/fallingtree.json"
+hash = "3179fae689777a95853935397c303ba8908b7c4df959d542801c550444b647fc"
+
+[[files]]
+file = "config/quickconnectbutton.json5"
+hash = "76ecae872289fe31c4e0cbe2cba09912e53397fa4f9a704c191e98fd0b0150ac"
+
+[[files]]
 file = "mods/advancementinfo.toml"
 hash = "46de5114d8a0017b14c0f6b63401fc7a1cb69b0dce336d36e25e80e91b51319b"
 metafile = true
@@ -67,11 +75,6 @@ metafile = true
 [[files]]
 file = "mods/chunky.toml"
 hash = "163f685f318ba34efbb4d3071cfe175de1e85e83735e4f881ec26ae289bf8ed1"
-metafile = true
-
-[[files]]
-file = "mods/cloth-config-legacy.pw.toml"
-hash = "ebb8d0a31f63dfb0d248ff7748cebe42913f5541bb0e2b44346ca4b5d1d7544d"
 metafile = true
 
 [[files]]
@@ -423,7 +426,3 @@ metafile = true
 file = "mods/yosbr.pw.toml"
 hash = "003dee7fef878abc298c3c6589b7b21e8922def090c9cf8259ae8c6aacc0946f"
 metafile = true
-
-[[files]]
-file = "upload_to_server.ts"
-hash = "c86431a3b34205e44d05b497ee34960dbe2b98e79d0ce8b92133f88127f7dbdc"
