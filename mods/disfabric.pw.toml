@@ -1,0 +1,13 @@
+name = "DisFabric"
+filename = "disfabric-1.18.2-1.3.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1090788ebd78e8018b6e6503769b94948ea4f9cf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3670645
+project-id = 399520
