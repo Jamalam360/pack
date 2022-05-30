@@ -80,7 +80,7 @@ async function home(request: Request) {
         content: `
 Mods:
 \`\`\`
-${modNames.join("")}
+${modNames.join("\n")}
 \`\`\`
         `,
       },
