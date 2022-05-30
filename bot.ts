@@ -61,7 +61,7 @@ async function home(request: Request) {
     const pattern = /name = "([A-z]*)"/gm;
 
     for (const file of await req.json()) {
-      const r = await fetch(file.html_url);
+      const r = await fetch(file.download_url);
       const text = await r.text();
       const match = pattern.exec(text);
       console.log(r);
