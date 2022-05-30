@@ -9,6 +9,7 @@ import {
 // TweetNaCl is a cryptography library that we use to verify requests
 // from Discord.
 import nacl from "https://cdn.skypack.dev/tweetnacl@v1.0.3?dts";
+import toml from "https://esm.sh/toml@3.0.0";
 
 // For all requests to "/" endpoint, we want to invoke home() handler.
 serve({
@@ -58,19 +59,25 @@ async function home(request: Request) {
     );
 
     const modNames: string[] = [];
-    const pattern = /name = "(.*)"/gm;
+    // const pattern = /name = "(.*)"/gm;
 
     for (const file of await req.json()) {
       const r = await fetch(file.download_url);
-      const text = await r.text();
-      const match = pattern.exec(text);
-
-      if (match) {
-        modNames.push(match[1]);
+      const data = toml.parse(await r.text());
+      if (data.name) {
+        modNames.push(data.name);
       } else {
-        modNames.push("[Failed to parse name]");
-        console.log(`Failed to parse name (${match}): ${text}`);
+        modNames.push("[Failed to prase name]");
+        console.log(data);
       }
+      // const match = pattern.exec(text);
+
+      // if (match) {
+      //   modNames.push(match[1]);
+      // } else {
+      //   modNames.push("[Failed to parse name]");
+      //   console.log(`Failed to parse name (${match}): ${text}`);
+      // }
     }
 
     return json({
