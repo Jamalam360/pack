@@ -64,6 +64,8 @@ async function home(request: Request) {
       const r = await fetch(
         `https://api.github.com/repos/Jamalam360/pack/contents/${file.html_url}`,
       );
+      console.log(r);
+
       const text = await r.text();
 
       console.log(text);
