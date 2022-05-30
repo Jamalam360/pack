@@ -41,7 +41,7 @@ async function home(request: Request) {
     );
   }
 
-  const { type = 0, data = { options: [] } } = JSON.parse(body);
+  const { type = 0, _data = { options: [] } } = JSON.parse(body);
   // Discord performs Ping interactions to test our application.
   // Type 1 in a request implies a Ping interaction.
   if (type === 1) {
@@ -53,8 +53,6 @@ async function home(request: Request) {
   // Type 2 in a request is an ApplicationCommand interaction.
   // It implies that a user has issued a command.
   if (type === 2) {
-    const { value } = data.options.find((option) => option.name === "name");
-
     const req = await fetch(
       "https://api.github.com/repos/Jamalam360/pack/contents/mods",
     );
@@ -63,10 +61,10 @@ async function home(request: Request) {
     const pattern = /name = "([A-z]*)"/gm;
 
     for (const file of await req.json()) {
-      let r = await fetch(
+      const r = await fetch(
         `https://api.github.com/repos/Jamalam360/pack/contents/${file.html_url}`,
       );
-      let text = await r.text();
+      const text = await r.text();
 
       modNames.push(text.match(pattern)!.groups![1]);
     }
