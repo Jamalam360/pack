@@ -52,11 +52,6 @@ hash = "1f1143578e44c21c78c7360e92a392a87a1d60cc3be2f25d15e88cce6a765849"
 metafile = true
 
 [[files]]
-file = "mods/blur-fabric.toml"
-hash = "f781e21b5f5ac35b6b9be2a8219dcce459ad7564581c2f9a1c83059b48c82efc"
-metafile = true
-
-[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "f90500d8a671a20939619caee98bc58aee30c9c58362e20b8c01463c9173cd6a"
 metafile = true
@@ -192,18 +187,8 @@ hash = "a6d77464f14dd48fe50828b321e0d8996a53e0c81a3866f3522014c2bf5e34a7"
 metafile = true
 
 [[files]]
-file = "mods/indium.toml"
-hash = "735bb894e8fd0430de8fe331347ff24c5c64643bc65f2c040f7a82fb17e8b826"
-metafile = true
-
-[[files]]
 file = "mods/inspecio.pw.toml"
 hash = "399e2642bdf663c6352d6560f4f48e903750e889e1b78c731d240caf0c6a2e28"
-metafile = true
-
-[[files]]
-file = "mods/inspecio.toml"
-hash = "7baba0d5b6448760f7a0ad285c82633842efeeda7714571daa477486a4899c50"
 metafile = true
 
 [[files]]
@@ -259,11 +244,6 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "a6c1b4971c7c06b4a6e802362ae24feb242ae2943cef941fe6319b651768b7e1"
-metafile = true
-
-[[files]]
-file = "mods/lithium.toml"
-hash = "83541b1d3e1e936638a6938eb505bf0f508c13aed7f8416af8d064ffc7cda4dc"
 metafile = true
 
 [[files]]
