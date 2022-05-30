@@ -5,6 +5,10 @@ file = "LICENSE"
 hash = "8759648fd631f4e11e8ef3935fd15b56ea0d0300dfa3d0ba606ef32bac9a32a6"
 
 [[files]]
+file = "bot.ts"
+hash = "3f86c21786169c38e99e7a0e23ebd32d5f715315ccbe07334d84d50fe948e011"
+
+[[files]]
 file = "config/fallingtree.json"
 hash = "3179fae689777a95853935397c303ba8908b7c4df959d542801c550444b647fc"
 
@@ -315,11 +319,6 @@ metafile = true
 [[files]]
 file = "mods/pinglist.toml"
 hash = "e17c18833aea515aef4f44aae82a7d05eca457059301fb7c010aca5daa9f1286"
-metafile = true
-
-[[files]]
-file = "mods/plasmo-voice.toml"
-hash = "69b74bbfe190074a1aca83d0f2e780f263810a20f05d72e1db35907785c02835"
 metafile = true
 
 [[files]]
