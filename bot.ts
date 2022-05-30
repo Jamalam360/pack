@@ -64,9 +64,12 @@ async function home(request: Request) {
       const r = await fetch(file.download_url);
       const text = await r.text();
       const match = pattern.exec(text);
-      console.log(match);
 
-      modNames.push(match![1]);
+      if (match) {
+        modNames.push(match[1]);
+      } else {
+        modNames.push("[Failed to parse name]");
+      }
     }
 
     return json({
