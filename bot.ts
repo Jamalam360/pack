@@ -61,19 +61,8 @@ async function home(request: Request) {
     const pattern = /name = "([A-z]*)"/gm;
 
     for (const file of await req.json()) {
-      const r = await fetch(
-        `https://api.github.com/repos/Jamalam360/pack/contents/${file.html_url}`,
-      );
-      console.log(r);
-
-      const text = await r.text();
-
-      console.log(text);
-
-      const match = pattern.exec(text);
-
-      console.log(match);
-
+      const r = await fetch(file.html_url);
+      const match = pattern.exec(await r.text());
       modNames.push(match![1]);
     }
 
