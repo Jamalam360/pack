@@ -62,7 +62,11 @@ async function home(request: Request) {
 
     for (const file of await req.json()) {
       const r = await fetch(file.html_url);
-      const match = pattern.exec(await r.text());
+      const text = await r.text();
+      const match = pattern.exec(text);
+      console.log(r);
+      console.log(text);
+
       modNames.push(match![1]);
     }
 
