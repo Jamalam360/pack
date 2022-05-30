@@ -59,7 +59,6 @@ async function command(request: Request) {
       type: 4,
       data: {
         content: `
-Mods:
 \`\`\`
 ${modNames.join("\n")}
 \`\`\`
