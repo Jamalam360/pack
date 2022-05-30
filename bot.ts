@@ -66,7 +66,9 @@ async function home(request: Request) {
       );
       const text = await r.text();
 
-      modNames.push(text.match(pattern)!.groups![1]);
+      const match = pattern.exec(text);
+
+      modNames.push(match![1]);
     }
 
     return json({
