@@ -66,7 +66,11 @@ async function home(request: Request) {
       );
       const text = await r.text();
 
+      console.log(text);
+
       const match = pattern.exec(text);
+
+      console.log(match);
 
       modNames.push(match![1]);
     }
