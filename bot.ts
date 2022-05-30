@@ -58,7 +58,7 @@ async function home(request: Request) {
     );
 
     const modNames: string[] = [];
-    const pattern = /name = "([A-z]*)"/gm;
+    const pattern = /name = "(.*)"/gm;
 
     for (const file of await req.json()) {
       const r = await fetch(file.download_url);
