@@ -69,6 +69,7 @@ async function home(request: Request) {
         modNames.push(match[1]);
       } else {
         modNames.push("[Failed to parse name]");
+        console.log(`Failed to parse name (${match}): ${text}`);
       }
     }
 
