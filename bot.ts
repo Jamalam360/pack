@@ -64,8 +64,7 @@ async function home(request: Request) {
       const r = await fetch(file.download_url);
       const text = await r.text();
       const match = pattern.exec(text);
-      console.log(r);
-      console.log(text);
+      console.log(match);
 
       modNames.push(match![1]);
     }
