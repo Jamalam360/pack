@@ -278,7 +278,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli-fabric.pw.toml"
-hash = "22b07787d338866bb50df01328b2c355f7794cfe341b90c74c54521775f9d0a5"
+hash = "407ce658d76cdcf7049ab62ab50175dc61e5889254af8b840388f3ae965be8ac"
 metafile = true
 
 [[files]]
