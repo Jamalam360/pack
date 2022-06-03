@@ -17,8 +17,23 @@ file = "config/quickconnectbutton.json5"
 hash = "76ecae872289fe31c4e0cbe2cba09912e53397fa4f9a704c191e98fd0b0150ac"
 
 [[files]]
+file = "mods/addadd.pw.toml"
+hash = "817d444340345cbd5eb9860d1fd2eccabfc54e5579c5f46d05e05e150573c769"
+metafile = true
+
+[[files]]
 file = "mods/advancementinfo.toml"
 hash = "a25ff503721a6b8c3ee3cfea976b564a107a3d5ad587d7e03a84e6788f5cf185"
+metafile = true
+
+[[files]]
+file = "mods/animal_feeding_trough.pw.toml"
+hash = "7bd35ab87cc191359f8b7ca64bd6e812ce2cc81f34b75ae22948c2425a2e5e6d"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "86fddf37d21255242d6b36388910ca86296a2b2db683fc4508fc6ea3f986e4d9"
 metafile = true
 
 [[files]]
@@ -67,6 +82,11 @@ hash = "423f3cb323804973ccd4bcfbeb7c412857598df4074dcd0fd3764b699de1f657"
 metafile = true
 
 [[files]]
+file = "mods/charm.pw.toml"
+hash = "867474a18b242c6f2b3373e0fb1c90fcbcf28c4c77a29ac5b5975d83af13e606"
+metafile = true
+
+[[files]]
 file = "mods/charmonium.toml"
 hash = "9b17f81e976c2aaf1c4ed29266b805c78b8145357a02d6fe0c9f13682f388933"
 metafile = true
@@ -92,13 +112,28 @@ hash = "85ddcfb16aa129ae2cc12343b533ea0e6feb3257869af25c4b2ca9adc08c9605"
 metafile = true
 
 [[files]]
+file = "mods/cull-less-leaves.pw.toml"
+hash = "f103f2600d5c7c0c468cc2576803751f0227c68dc2bdbf693606452f3887b540"
+metafile = true
+
+[[files]]
 file = "mods/cull-less-leaves.toml"
 hash = "cd41e5b7c8618ab49ce53eb61df2877be283b16eebf92b11f1b110bcd8494a02"
 metafile = true
 
 [[files]]
+file = "mods/dcch.pw.toml"
+hash = "484f375d32bebd88cdefe79a7789fa3b24a87edd840eca49cb3e2669a8d727ce"
+metafile = true
+
+[[files]]
 file = "mods/dcch.toml"
 hash = "f811170d884fbbe2ccbd8e5c42137eb490d0116255878f5b53336efafcb2877c"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
+hash = "5c05e7323ec7f46a986c6cb90a7cff289a9f5edf532ebcb90667a7c4ade3e519"
 metafile = true
 
 [[files]]
@@ -162,6 +197,11 @@ hash = "f19e328fe42f91d1b65e244ee5bcf70f1e5305a27278945098ea85af82e05d0d"
 metafile = true
 
 [[files]]
+file = "mods/flowery-structures.pw.toml"
+hash = "431b05c27adc28c6402af1cf1963f0b865863dbc49edee7e36e3ce5481cac817"
+metafile = true
+
+[[files]]
 file = "mods/get-off-my-lawn-reserved.pw.toml"
 hash = "c0af71db69e5ef0aba312a3713d67d505faf569c92c3e13f659b48ea1dccab17"
 metafile = true
@@ -177,13 +217,18 @@ hash = "27bcbe87ab79c37499f30df737c989b7c9f08a53dbe823eca0df689d3cf5b0b1"
 metafile = true
 
 [[files]]
+file = "mods/immersiveportals.pw.toml"
+hash = "91cdff5c72518833d5349723829fa66c2b2abb6b91941000e4dbcf6f36bb6a3c"
+metafile = true
+
+[[files]]
 file = "mods/immersiveportals.toml"
 hash = "91cdff5c72518833d5349723829fa66c2b2abb6b91941000e4dbcf6f36bb6a3c"
 metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "a6d77464f14dd48fe50828b321e0d8996a53e0c81a3866f3522014c2bf5e34a7"
+hash = "502cd535f6cda8e1e0b0cf83a785e8d8f5702f18b8902ae0c765952d8cfe0b4a"
 metafile = true
 
 [[files]]
@@ -252,6 +297,11 @@ hash = "e50530e14e455bed140ae34f590fe00fa0f0c08bc5ce06404eb0a5fd1ffd7683"
 metafile = true
 
 [[files]]
+file = "mods/mo-structures.pw.toml"
+hash = "468e0c4a59295cec423096466630d304f00115d5474bdb39f8d191f3597fedd6"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "6dc27377674c79509779c7b17d7db80748d9636c5d639b0e5f67f90b45f1a8e5"
 metafile = true
@@ -272,13 +322,28 @@ hash = "273dc3a807d97ea6166902e0e5057688ce790479f389cfde3f9006411747fe7b"
 metafile = true
 
 [[files]]
+file = "mods/offhand-overhaul.pw.toml"
+hash = "60ef9ef56f4f23bfbe1354258bc83b524ef800132d8c6b35579429fa83f9662b"
+metafile = true
+
+[[files]]
 file = "mods/ok-zoomer.pw.toml"
 hash = "2c4643d064b78aa317a5a595923723bf15cd4aa947c9278406c0110be4b6d65b"
 metafile = true
 
 [[files]]
+file = "mods/ost-overhaul.pw.toml"
+hash = "a92dc9f9e8f7b4b80cd25b658b96a1ca38bd1dc2cf1acb039398182a0bdb2f5d"
+metafile = true
+
+[[files]]
 file = "mods/patchouli-fabric.pw.toml"
 hash = "407ce658d76cdcf7049ab62ab50175dc61e5889254af8b840388f3ae965be8ac"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "41648c2dd451dda685897dfe215a9d47c91ff5c62de2055ab6140ffc9cb45b45"
 metafile = true
 
 [[files]]
@@ -294,6 +359,11 @@ metafile = true
 [[files]]
 file = "mods/pinglist.toml"
 hash = "e17c18833aea515aef4f44aae82a7d05eca457059301fb7c010aca5daa9f1286"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "593b7c2a291591f43c642779aa528174c453c657052c3d658f2040a0a43442d6"
 metafile = true
 
 [[files]]
@@ -319,6 +389,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.toml"
 hash = "d935b491016306e60b08bc234cc978ac84412d84d1ae5a9b6f8878a09ea25202"
+metafile = true
+
+[[files]]
+file = "mods/repurposed-structures-fabric.pw.toml"
+hash = "8ca1cc52a03eb50066accb95d57654e9173b9c279c9dc017d964c4f22976bcb7"
 metafile = true
 
 [[files]]
@@ -357,6 +432,11 @@ hash = "a95017e7401b2e6ccab13553bca0bc4ac7ed6c044d2a3afa486b8188f2f47e0d"
 metafile = true
 
 [[files]]
+file = "mods/starlight.pw.toml"
+hash = "b51973797d0cc8b656e71b85c4a2143995a4bb599181453ef9b0e7e6e3de549f"
+metafile = true
+
+[[files]]
 file = "mods/starlight.toml"
 hash = "722031c0ae5d2de71783d6c4bfbf1c5cd25c65e55cb42d8bb4f7cadf478c4368"
 metafile = true
@@ -372,13 +452,28 @@ hash = "8b96cd130bddf96a7703fa2dfa55189fd6ee76aca40bb835e1f20f37bb9e8884"
 metafile = true
 
 [[files]]
+file = "mods/the-bumblezone-fabric.pw.toml"
+hash = "46df8abe0e02c7611627e3abc1a298cd8864398c47e2824d19bf2a58010efd69"
+metafile = true
+
+[[files]]
 file = "mods/tooltipfix.pw.toml"
 hash = "69214e78788c8db0b1b2e9fa48deff5fdb090dd590ced6898ac5b4286aa370b2"
 metafile = true
 
 [[files]]
+file = "mods/traverse.pw.toml"
+hash = "28dce8574dea2287f47d647e2d04d6d68908f2bd9ba0e6d766dd7d0d9142389a"
+metafile = true
+
+[[files]]
 file = "mods/valleycraft.pw.toml"
 hash = "60fb27a8b75c689c1d8c1802e42d70da59c873850dc5e1dbca79cb02b91194c9"
+metafile = true
+
+[[files]]
+file = "mods/visuality.pw.toml"
+hash = "cf7587112d781431bba84480b54cd7735a828e9c82acd40b6011f9ce64a1faf7"
 metafile = true
 
 [[files]]
