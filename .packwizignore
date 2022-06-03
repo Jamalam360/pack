@@ -2,7 +2,12 @@
 # See https://git-scm.com/docs/gitignore
 
 /README.md
-/TO_ADD.md
-/upload_to_server.md
+/bot.ts
+/MultiMC.zip
+/.packwizignore
+/.gitignore
+/.gitattributes
+
 .github/
 .vscode/
+.git/
