@@ -467,6 +467,11 @@ hash = "60fb27a8b75c689c1d8c1802e42d70da59c873850dc5e1dbca79cb02b91194c9"
 metafile = true
 
 [[files]]
+file = "mods/visual-overhaul.pw.toml"
+hash = "f1164f7741fe64b8d47a2515f453e1f4e14d6d3516f83c892c0e62b45266a188"
+metafile = true
+
+[[files]]
 file = "mods/visuality.pw.toml"
 hash = "cf7587112d781431bba84480b54cd7735a828e9c82acd40b6011f9ce64a1faf7"
 metafile = true
@@ -474,6 +479,11 @@ metafile = true
 [[files]]
 file = "mods/visuality.toml"
 hash = "c47c339948a3dff50f1b879d6748e949c85e1a79c094aa639886b76c5b7301c8"
+metafile = true
+
+[[files]]
+file = "mods/wiredredstone.pw.toml"
+hash = "c3befb94337e27ee79c23dfd8423a31fb67b2e262b74053b783c876098419d2f"
 metafile = true
 
 [[files]]
