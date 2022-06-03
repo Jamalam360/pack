@@ -53,7 +53,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "f90500d8a671a20939619caee98bc58aee30c9c58362e20b8c01463c9173cd6a"
+hash = "beed33cf896de71b0667ae5499904217fbad118d652f1a85eebd0d9fa01f14e6"
 metafile = true
 
 [[files]]
@@ -88,7 +88,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.toml"
-hash = "36252af7e1234b6de68a888cb6d859d9f71ba32a1d8ec6b00cbe3d2bc5a50f41"
+hash = "85ddcfb16aa129ae2cc12343b533ea0e6feb3257869af25c4b2ca9adc08c9605"
 metafile = true
 
 [[files]]
@@ -303,7 +303,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.toml"
-hash = "1b8646c09f572f1b71bf5c77a8e12f0b7f17b82ea2b877ed3c0a39a9fba0984e"
+hash = "d29f3453270997e009cf7dc946594053b717c2eb6981d7a2515ab287751564d7"
 metafile = true
 
 [[files]]
@@ -328,7 +328,7 @@ metafile = true
 
 [[files]]
 file = "mods/rightclickharvest-fabric.pw.toml"
-hash = "eaffd2377e668381b726a8e01df5114e5e8006ad857daf963a663c1509678dfa"
+hash = "73e34aea96a46fccf82d7a093ea7cc01ccefcbf2f4d741367fb21cdf014f69bc"
 metafile = true
 
 [[files]]
