@@ -337,6 +337,11 @@ hash = "41648c2dd451dda685897dfe215a9d47c91ff5c62de2055ab6140ffc9cb45b45"
 metafile = true
 
 [[files]]
+file = "mods/pehkui.pw.toml"
+hash = "427fda4ecbc844bf6640b34458fcf050e2f49644fc950eb1a34381afd8060d18"
+metafile = true
+
+[[files]]
 file = "mods/petowner.toml"
 hash = "a526744d12a2a3cdd3064bdb6634e4d06ba029dc7116e823df03f4a5cbad4a15"
 metafile = true
