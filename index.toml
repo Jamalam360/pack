@@ -202,11 +202,6 @@ hash = "431b05c27adc28c6402af1cf1963f0b865863dbc49edee7e36e3ce5481cac817"
 metafile = true
 
 [[files]]
-file = "mods/get-off-my-lawn-reserved.pw.toml"
-hash = "c0af71db69e5ef0aba312a3713d67d505faf569c92c3e13f659b48ea1dccab17"
-metafile = true
-
-[[files]]
 file = "mods/haema.pw.toml"
 hash = "5cea0de4f3bc0e613c9f6dc6a9d18714c45a477d92f3d0bf55b65f6abea8ba11"
 metafile = true
