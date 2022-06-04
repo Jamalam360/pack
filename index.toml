@@ -73,6 +73,11 @@ hash = "9ccf3bb60409cd170f9c0acd58158ddd29370c9e71e9b437fbccbb59d7c26a92"
 metafile = true
 
 [[files]]
+file = "mods/better-beds.pw.toml"
+hash = "caa5229f3b414f1f83c10ac307e1de0e52beae3c741846c0fe83c326df45e4c7"
+metafile = true
+
+[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "757207131774e618e46c6c0ad407c8ba7c45d3c9c4fb59ffa8209d1bfe04a0d8"
 metafile = true
@@ -95,6 +100,11 @@ metafile = true
 [[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "bed51582473ebbd8dc843f53f255d01a52683fa1ecd710e59eabf6173a9bdc98"
+metafile = true
+
+[[files]]
+file = "mods/campanion.pw.toml"
+hash = "a79e7f6e05ac9bfa97ab047777ab00babe5e6ae636fd069227dc1b7a5e85609d"
 metafile = true
 
 [[files]]
@@ -173,6 +183,11 @@ hash = "9adbc1fa2ae409396b3fa6701f06456d07acd843766a8e70f03f670af71f7ffb"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+hash = "e075e0b77fafbf166171df8412138fe15cb6d6f6dbbe96129349dce357d70d9c"
+metafile = true
+
+[[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "3c3d7e7f9e0ae6a978564276c618a802d0c54c4ca098a7a897252a662ff4723a"
 metafile = true
@@ -180,6 +195,11 @@ metafile = true
 [[files]]
 file = "mods/fabrishot.pw.toml"
 hash = "30a8da2902fbabd5898b849496d98d0df6898481635388293716805dc162f40e"
+metafile = true
+
+[[files]]
+file = "mods/fallingleaves.pw.toml"
+hash = "2c50cbfecc65d79312c01d4eacbc806ff33e7baedd50c851b96028af04135afe"
 metafile = true
 
 [[files]]
@@ -194,7 +214,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "f19e328fe42f91d1b65e244ee5bcf70f1e5305a27278945098ea85af82e05d0d"
+hash = "a8870bf1740259a7392af3e5a8a001fe957e9cb3b6a7879a5acfe608d45eaf73"
 metafile = true
 
 [[files]]
@@ -244,7 +264,7 @@ metafile = true
 
 [[files]]
 file = "mods/krypton.pw.toml"
-hash = "2846c36f482f25a522d648da964512e0231d59210816cdd7a56783d344fa1ec4"
+hash = "ded057bbb3ab2991addbf96e472df8efa7434c3060f65f6e4d95491c488e659c"
 metafile = true
 
 [[files]]
@@ -278,6 +298,11 @@ hash = "e50530e14e455bed140ae34f590fe00fa0f0c08bc5ce06404eb0a5fd1ffd7683"
 metafile = true
 
 [[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "b99ac27df2f720034b01acc2ea7637b5f020be861a5ac691135fdbd815eb3882"
+metafile = true
+
+[[files]]
 file = "mods/mo-structures.pw.toml"
 hash = "468e0c4a59295cec423096466630d304f00115d5474bdb39f8d191f3597fedd6"
 metafile = true
@@ -285,6 +310,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "6dc27377674c79509779c7b17d7db80748d9636c5d639b0e5f67f90b45f1a8e5"
+metafile = true
+
+[[files]]
+file = "mods/mouse-wheelie.pw.toml"
+hash = "32ab4cf00cde6b04c1a699789487ba55913bdd41ea46bb45748a6373e1fc9b29"
 metafile = true
 
 [[files]]
@@ -385,6 +415,16 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "9346d09f897be45df79ad6af92e38f34f650ca557e65bc199f629021bbcff915"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "8a2f7bd4e0b892213e121ace77cbe399351a8c9d1ce12a8dc13973d9ec7a50dc"
+metafile = true
+
+[[files]]
+file = "mods/sodium-shadowy-path-blocks.pw.toml"
+hash = "7567299fa7d28f7cf08896c0f5cd6a6cc6cbb838f84850ab5fc8df0017c8ce06"
 metafile = true
 
 [[files]]
