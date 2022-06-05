@@ -391,6 +391,11 @@ hash = "e17c18833aea515aef4f44aae82a7d05eca457059301fb7c010aca5daa9f1286"
 metafile = true
 
 [[files]]
+file = "mods/polymer.pw.toml"
+hash = "616ef63d544f8897ba5501d6bd3e7995de29b5b56c78f8f0f4f95e7ba728edec"
+metafile = true
+
+[[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "593b7c2a291591f43c642779aa528174c453c657052c3d658f2040a0a43442d6"
 metafile = true
