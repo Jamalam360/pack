@@ -357,11 +357,6 @@ hash = "2c4643d064b78aa317a5a595923723bf15cd4aa947c9278406c0110be4b6d65b"
 metafile = true
 
 [[files]]
-file = "mods/ost-overhaul.pw.toml"
-hash = "a92dc9f9e8f7b4b80cd25b658b96a1ca38bd1dc2cf1acb039398182a0bdb2f5d"
-metafile = true
-
-[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "41648c2dd451dda685897dfe215a9d47c91ff5c62de2055ab6140ffc9cb45b45"
 metafile = true
