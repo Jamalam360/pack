@@ -417,11 +417,6 @@ hash = "8ca1cc52a03eb50066accb95d57654e9173b9c279c9dc017d964c4f22976bcb7"
 metafile = true
 
 [[files]]
-file = "mods/resounding.pw.toml"
-hash = "82a685396caa4f7cbdf7ccb722381d879d9961a0806051faeae1aa52213ac55d"
-metafile = true
-
-[[files]]
 file = "mods/rightclickharvest-fabric.pw.toml"
 hash = "73e34aea96a46fccf82d7a093ea7cc01ccefcbf2f4d741367fb21cdf014f69bc"
 metafile = true
