@@ -64,7 +64,7 @@ metafile = true
 
 [[files]]
 file = "mods/aurorasdecorations.pw.toml"
-hash = "cb2808ea117fc7c7e652673020cd191ee6a47e30e339b7c66975a353b9ab61c9"
+hash = "6d6419c483e455e486031a13c78a4207c5646c25621a80b2f90503b6d4775950"
 metafile = true
 
 [[files]]
@@ -344,7 +344,7 @@ metafile = true
 
 [[files]]
 file = "mods/offhand-overhaul.pw.toml"
-hash = "60ef9ef56f4f23bfbe1354258bc83b524ef800132d8c6b35579429fa83f9662b"
+hash = "7cfb1eecd10f8c65c5cf0b8e227f8fe95e021f6cff29db48b194cba78f9267f9"
 metafile = true
 
 [[files]]
