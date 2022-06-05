@@ -9,4 +9,4 @@ jobs:
     steps:
       - name: Send API Request
         run: |
-          curl -X POST -H "Content-Type: application/json" -H "Authorization: ${{ secrets.API_DEPLOY_KEY }}" https://server-api.jamalam.tech/deploy/pack
+          curl --silent --show-error --fail -X POST -H "Content-Type: application/json" -H "Authorization: ${{ secrets.API_DEPLOY_KEY }}" https://server-api.jamalam.tech/deploy/pack
