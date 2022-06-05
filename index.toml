@@ -5,6 +5,10 @@ file = "LICENSE"
 hash = "8759648fd631f4e11e8ef3935fd15b56ea0d0300dfa3d0ba606ef32bac9a32a6"
 
 [[files]]
+file = "config/blockbot-discord.toml"
+hash = "db5678efcc39891c54be3141eb709ecc84769937a3719fdee6a992ae2c48d3da"
+
+[[files]]
 file = "config/debugify.json"
 hash = "df4127f50f179d3f1fea36bac1c381a959bba8491175aff14b2f932aae7994d3"
 
