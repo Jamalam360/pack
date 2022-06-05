@@ -141,6 +141,11 @@ hash = "163f685f318ba34efbb4d3071cfe175de1e85e83735e4f881ec26ae289bf8ed1"
 metafile = true
 
 [[files]]
+file = "mods/cloth-api.pw.toml"
+hash = "66e5a832549ae569bb7ccffecbc888aa0b56abdd06bc98f7fd027069738d04d0"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "3c184c5f2b8648c1106038d68ffece8f508dd3d4241b3d1e89080a0ed2d35b3e"
 metafile = true
@@ -186,6 +191,11 @@ hash = "0d70cb6c1c7185420ba64a968ac757512457cdc272fdf586abf5adf3842e8e6e"
 metafile = true
 
 [[files]]
+file = "mods/dusk.pw.toml"
+hash = "ce00adc071ae2fa487cdbdbecca26529383ee13385bbfed0199a2c6ff9eebb65"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "ffc1f6d147394bfeb65b2fb9a78ca7d3365cbf5192c31af1312bc899190e4e34"
 metafile = true
@@ -198,6 +208,11 @@ metafile = true
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "9adbc1fa2ae409396b3fa6701f06456d07acd843766a8e70f03f670af71f7ffb"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-celestials-fabric.pw.toml"
+hash = "cfc773aa6f2529550bed64d00827f8fc1a11694b3a092da4a9142863f705f035"
 metafile = true
 
 [[files]]
@@ -251,6 +266,16 @@ hash = "6956e579b5b4be69e89b8dd2818ef10beb4df9d214a52df06c114683030b6e88"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "8432b798f65f72b144b8f54485b8e23df7ed3708b434297fe16e4d42e3aaac87"
+metafile = true
+
+[[files]]
+file = "mods/guard-villagers-fabric.pw.toml"
+hash = "b0b5796ed441e8d0ec6fd94789c218da8ddc3c5f183bedd12bf34987b9212ec7"
+metafile = true
+
+[[files]]
 file = "mods/haema.pw.toml"
 hash = "5cea0de4f3bc0e613c9f6dc6a9d18714c45a477d92f3d0bf55b65f6abea8ba11"
 metafile = true
@@ -258,6 +283,11 @@ metafile = true
 [[files]]
 file = "mods/harvest-scythes.pw.toml"
 hash = "27bcbe87ab79c37499f30df737c989b7c9f08a53dbe823eca0df689d3cf5b0b1"
+metafile = true
+
+[[files]]
+file = "mods/illuminations.pw.toml"
+hash = "731c239ff8fb415c00c76856453aea3ad7a3082d78837daedbbf98c37279ce67"
 metafile = true
 
 [[files]]
@@ -341,6 +371,11 @@ hash = "6dc27377674c79509779c7b17d7db80748d9636c5d639b0e5f67f90b45f1a8e5"
 metafile = true
 
 [[files]]
+file = "mods/more-villagers-fabric.pw.toml"
+hash = "2550230a2169574172525d4de000668e4596284652c47a8f577e491511893254"
+metafile = true
+
+[[files]]
 file = "mods/mouse-wheelie.pw.toml"
 hash = "d5c5b31884dc8d402831f3d7c5f2d8b3111e4568b7a452338465c7060db7318a"
 metafile = true
@@ -408,6 +443,11 @@ metafile = true
 [[files]]
 file = "mods/quickconnectbutton.pw.toml"
 hash = "f7449d1861f82b651036360ac235845bf549fc1d7be4fe215a951e3e909b3c6a"
+metafile = true
+
+[[files]]
+file = "mods/rats-mischief.pw.toml"
+hash = "7c0573457dffe5098e127f76dfe92d4374de821c0bddbb47d958ba81ee114f96"
 metafile = true
 
 [[files]]
