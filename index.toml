@@ -99,7 +99,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "beed33cf896de71b0667ae5499904217fbad118d652f1a85eebd0d9fa01f14e6"
+hash = "b25a8008747635904c9c28acf1118c3992b14709fdcbaf68d7f5b0ae9de94ae0"
 metafile = true
 
 [[files]]
@@ -144,7 +144,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "85ddcfb16aa129ae2cc12343b533ea0e6feb3257869af25c4b2ca9adc08c9605"
+hash = "3816ff9883e6d76e6cee8daa4f1b3d3e0e4f0abc605457c62ba81791e4ace394"
 metafile = true
 
 [[files]]
