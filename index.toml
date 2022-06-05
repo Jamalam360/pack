@@ -64,12 +64,12 @@ metafile = true
 
 [[files]]
 file = "mods/aurorasdecorations.pw.toml"
-hash = "5516c2f47367a0fc9b2f84575fa7a26dc876949cdb8498cbc843ac748995d574"
+hash = "cb2808ea117fc7c7e652673020cd191ee6a47e30e339b7c66975a353b9ab61c9"
 metafile = true
 
 [[files]]
 file = "mods/automobility.pw.toml"
-hash = "9ccf3bb60409cd170f9c0acd58158ddd29370c9e71e9b437fbccbb59d7c26a92"
+hash = "5c2f4291a1dfe8cf3dbfd0269337bb557e7fda7bcda832495499a761f03fe999"
 metafile = true
 
 [[files]]
@@ -89,7 +89,7 @@ metafile = true
 
 [[files]]
 file = "mods/blockbot.pw.toml"
-hash = "73ebc4af6846b41caaf42ea63a4b328258806b4b603c5a93ab6777dced4e5f1e"
+hash = "1cc8ca586d96809a7d70cf37dd564df50601a6566d3917279bebfbb78ed6c28f"
 metafile = true
 
 [[files]]
