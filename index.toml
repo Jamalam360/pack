@@ -156,6 +156,11 @@ hash = "397657d22c2666f9c7a22247204feccafecf2f770aeffdf395a88bcc22f97809"
 metafile = true
 
 [[files]]
+file = "mods/continuity.pw.toml"
+hash = "e908fcb242bda46e38c324bbcfd810f38d555a61ab766aef32e4f56e1561fa77"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "3816ff9883e6d76e6cee8daa4f1b3d3e0e4f0abc605457c62ba81791e4ace394"
 metafile = true
