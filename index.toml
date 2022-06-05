@@ -291,11 +291,6 @@ hash = "27bcbe87ab79c37499f30df737c989b7c9f08a53dbe823eca0df689d3cf5b0b1"
 metafile = true
 
 [[files]]
-file = "mods/illuminations.pw.toml"
-hash = "cd6f82c7343364db8fd76c3e6474f67ebf5be33c4a5d733c925d6ccde3388e1a"
-metafile = true
-
-[[files]]
 file = "mods/indium.pw.toml"
 hash = "502cd535f6cda8e1e0b0cf83a785e8d8f5702f18b8902ae0c765952d8cfe0b4a"
 metafile = true
