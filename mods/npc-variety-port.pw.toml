@@ -1,0 +1,13 @@
+name = "NPC Variety - Port (Fabric)"
+filename = "npc-variety-1.18.2-2.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a6503b957565edf2d7ed635ed2f82b4504199634"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3786702
+project-id = 476200

@@ -391,6 +391,11 @@ hash = "273dc3a807d97ea6166902e0e5057688ce790479f389cfde3f9006411747fe7b"
 metafile = true
 
 [[files]]
+file = "mods/npc-variety-port.pw.toml"
+hash = "40fdecdeae4efc690b0a894bfd659fdb9b779f434538a557ba5fcc9732f96f7a"
+metafile = true
+
+[[files]]
 file = "mods/offhand-overhaul.pw.toml"
 hash = "7cfb1eecd10f8c65c5cf0b8e227f8fe95e021f6cff29db48b194cba78f9267f9"
 metafile = true
