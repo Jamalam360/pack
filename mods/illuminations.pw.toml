@@ -1,13 +1,9 @@
-name = "Illuminations 🔥"
+name = "Illuminations"
 filename = "illuminations-1.10.4.jar"
 side = "client"
 
 [download]
+url = "https://cdn.discordapp.com/attachments/866314211016835113/983101320137424947/illuminations-1.10.4.jar"
 hash-format = "sha1"
 hash = "076c8fb7929dad53b5c1a727ec34a80d980c6d1f"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 3791214
-project-id = 292908
+mode = ""

@@ -1,13 +1,9 @@
-name = "Rat's Mischief 🐀"
+name = "Rat's Mischief"
 filename = "ratsmischief-1.3.7.jar"
 side = "both"
 
 [download]
+url = "https://cdn.discordapp.com/attachments/866314211016835113/983101751370600479/ratsmischief-1.3.7.jar"
 hash-format = "sha1"
 hash = "0395feeb1dec01d46dde9b91f4953b1ead809aad"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 3778759
-project-id = 431787
+mode = ""

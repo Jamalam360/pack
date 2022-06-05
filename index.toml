@@ -277,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/guard-villagers-fabric.pw.toml"
-hash = "b0b5796ed441e8d0ec6fd94789c218da8ddc3c5f183bedd12bf34987b9212ec7"
+hash = "876ab936584990ce843fe9ca281a10dfc422c722921df3bfc85a76234feca10d"
 metafile = true
 
 [[files]]
@@ -292,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/illuminations.pw.toml"
-hash = "aad777b70996cf404d0df4b18cdbc315aa8d85e14909e0f3b43110e2d1c03d44"
+hash = "cd6f82c7343364db8fd76c3e6474f67ebf5be33c4a5d733c925d6ccde3388e1a"
 metafile = true
 
 [[files]]
@@ -462,7 +462,7 @@ metafile = true
 
 [[files]]
 file = "mods/rats-mischief.pw.toml"
-hash = "7c0573457dffe5098e127f76dfe92d4374de821c0bddbb47d958ba81ee114f96"
+hash = "5d91d444af591f914f4c9f8ab3c3e38f5da69f78abf96051022ce82c0d4ef90d"
 metafile = true
 
 [[files]]
