@@ -172,6 +172,11 @@ hash = "430077b3930865fbafb2e0a5cbfc15251403d88051f8358eb7c96ce7ff45cdb8"
 metafile = true
 
 [[files]]
+file = "mods/drogtor.pw.toml"
+hash = "a6a25539a57e01796161024a1c2c39f49f2110862ad2e6ccfba115f005499a37"
+metafile = true
+
+[[files]]
 file = "mods/dual-riders.pw.toml"
 hash = "0d70cb6c1c7185420ba64a968ac757512457cdc272fdf586abf5adf3842e8e6e"
 metafile = true
@@ -459,11 +464,6 @@ metafile = true
 [[files]]
 file = "mods/statuseffecttimer.pw.toml"
 hash = "3610cc0efd4c0bfa58b962452b7ee2c735f3c9a86c66b175a5c186258aaeecc7"
-metafile = true
-
-[[files]]
-file = "mods/styled-nicknames.pw.toml"
-hash = "8b96cd130bddf96a7703fa2dfa55189fd6ee76aca40bb835e1f20f37bb9e8884"
 metafile = true
 
 [[files]]

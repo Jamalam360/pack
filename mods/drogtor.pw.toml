@@ -1,0 +1,13 @@
+name = "Drogtor the Nickinator"
+filename = "Drogtor-Fabric-1.17-1.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ff1fe45b8a0e006effa7af9e85018aac4e721968"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3462319
+project-id = 412802
