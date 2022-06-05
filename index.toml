@@ -483,11 +483,6 @@ hash = "28dce8574dea2287f47d647e2d04d6d68908f2bd9ba0e6d766dd7d0d9142389a"
 metafile = true
 
 [[files]]
-file = "mods/valleycraft.pw.toml"
-hash = "60fb27a8b75c689c1d8c1802e42d70da59c873850dc5e1dbca79cb02b91194c9"
-metafile = true
-
-[[files]]
 file = "mods/visual-overhaul.pw.toml"
 hash = "f1164f7741fe64b8d47a2515f453e1f4e14d6d3516f83c892c0e62b45266a188"
 metafile = true
