@@ -22,7 +22,7 @@ hash = "3179fae689777a95853935397c303ba8908b7c4df959d542801c550444b647fc"
 
 [[files]]
 file = "config/lithium.properties"
-hash = "2b83f4f372f5334a9d4f0712f55c88d6f261fc089fc92d13ea89a294933e79c0"
+hash = "b099d76bcdc3a4ef7949b91189f05470d3301fc66f8559b9dc159c3c2791509a"
 
 [[files]]
 file = "config/quickconnectbutton.json5"
