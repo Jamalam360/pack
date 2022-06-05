@@ -21,6 +21,10 @@ file = "config/fallingtree.json"
 hash = "3179fae689777a95853935397c303ba8908b7c4df959d542801c550444b647fc"
 
 [[files]]
+file = "config/lithium.properties"
+hash = "2b83f4f372f5334a9d4f0712f55c88d6f261fc089fc92d13ea89a294933e79c0"
+
+[[files]]
 file = "config/quickconnectbutton.json5"
 hash = "76ecae872289fe31c4e0cbe2cba09912e53397fa4f9a704c191e98fd0b0150ac"
 
