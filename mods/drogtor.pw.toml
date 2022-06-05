@@ -1,6 +1,6 @@
 name = "Drogtor the Nickinator"
 filename = "Drogtor-Fabric-1.17-1.1.2.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"
