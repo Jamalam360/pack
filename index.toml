@@ -88,6 +88,11 @@ hash = "628c921ed428851da53ed2b47cabab1d83bc7cdfa773de9f860445a03f878ee8"
 metafile = true
 
 [[files]]
+file = "mods/blockbot.pw.toml"
+hash = "73ebc4af6846b41caaf42ea63a4b328258806b4b603c5a93ab6777dced4e5f1e"
+metafile = true
+
+[[files]]
 file = "mods/blur-fabric.pw.toml"
 hash = "1f1143578e44c21c78c7360e92a392a87a1d60cc3be2f25d15e88cce6a765849"
 metafile = true
