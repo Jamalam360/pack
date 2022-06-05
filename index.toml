@@ -218,6 +218,11 @@ hash = "41233eadb61c59cd9fb298f21709c79f45c78dc3e03b08c40d0c094c86a821d5"
 metafile = true
 
 [[files]]
+file = "mods/feature-nbt-deadlock-be-gone.pw.toml"
+hash = "f10747649a82c46e6671bf47f5cdbf697e0a8eac40608fbc1c7df6e59e12e07d"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "a8870bf1740259a7392af3e5a8a001fe957e9cb3b6a7879a5acfe608d45eaf73"
 metafile = true
@@ -225,6 +230,11 @@ metafile = true
 [[files]]
 file = "mods/flowery-structures.pw.toml"
 hash = "431b05c27adc28c6402af1cf1963f0b865863dbc49edee7e36e3ce5481cac817"
+metafile = true
+
+[[files]]
+file = "mods/flowerycore.pw.toml"
+hash = "6956e579b5b4be69e89b8dd2818ef10beb4df9d214a52df06c114683030b6e88"
 metafile = true
 
 [[files]]
