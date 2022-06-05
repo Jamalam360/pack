@@ -292,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/illuminations.pw.toml"
-hash = "731c239ff8fb415c00c76856453aea3ad7a3082d78837daedbbf98c37279ce67"
+hash = "aad777b70996cf404d0df4b18cdbc315aa8d85e14909e0f3b43110e2d1c03d44"
 metafile = true
 
 [[files]]
@@ -328,6 +328,11 @@ metafile = true
 [[files]]
 file = "mods/krypton.pw.toml"
 hash = "ded057bbb3ab2991addbf96e472df8efa7434c3060f65f6e4d95491c488e659c"
+metafile = true
+
+[[files]]
+file = "mods/lambda-map.pw.toml"
+hash = "ccc7809f8fafe12eb6324eb2146525ea2716be3f4b9fa60751eb64b8dec880f0"
 metafile = true
 
 [[files]]
