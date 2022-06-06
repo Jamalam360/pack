@@ -326,6 +326,11 @@ hash = "ded057bbb3ab2991addbf96e472df8efa7434c3060f65f6e4d95491c488e659c"
 metafile = true
 
 [[files]]
+file = "mods/lambda-map.pw.toml"
+hash = "6a26d1d82aee5cff615513516a9f8ebe6e6e4d791f6d6f39658b668e3cdac206"
+metafile = true
+
+[[files]]
 file = "mods/lambdabettergrass.pw.toml"
 hash = "01f79a7fb966690009a42f285e779bac8f7958df56240494e4d3d7d862332c2d"
 metafile = true
