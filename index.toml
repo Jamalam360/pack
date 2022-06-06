@@ -226,6 +226,11 @@ hash = "e075e0b77fafbf166171df8412138fe15cb6d6f6dbbe96129349dce357d70d9c"
 metafile = true
 
 [[files]]
+file = "mods/extrasounds.pw.toml"
+hash = "bec5ab651fc46ecc58094e523b0a3667e14111f680838f2dbbd9ffc365cc49af"
+metafile = true
+
+[[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "3c3d7e7f9e0ae6a978564276c618a802d0c54c4ca098a7a897252a662ff4723a"
 metafile = true
