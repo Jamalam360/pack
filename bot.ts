@@ -93,6 +93,8 @@ ${failures > 0 ? `\n\nFailed to parse ${failures} mods` : ""}
     });
   }
 
+  console.log(body);
+
   return json({ error: "bad request" }, { status: 400 });
 }
 
