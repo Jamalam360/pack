@@ -73,15 +73,17 @@ async function command(request: Request) {
       }
     }
 
+    const failure = failures > 0 ? `\n\nFailed to parse ${failures} mods` : "";
+
     const message = `${
-      Object.keys(mods).map((category) => {
+      Object.keys(mods).sort().map((category) => {
         return `
 ${constructCategorySection(category, mods[category])}
 `;
       })
     }
-${failures > 0 ? `\n\nFailed to parse ${failures} mods` : ""}
-                    `;
+${failure}
+`;
 
     const tooLong =
       "``` \n\n **The message was too long to send, and has been truncated. Try specifying the category using the category argument to narrow the search results.**";
