@@ -73,19 +73,21 @@ async function command(request: Request) {
       }
     }
 
-    console.log(`
+    console.log(
+      `
 ${
-      Object.keys(mods).map((category) => {
-        return `
+        Object.keys(mods).map((category) => {
+          return `
 ${category.charAt(0).toUpperCase() + category.slice(1)}:
 \`\`\`
 ${mods[category].map((mod) => `- ${mod}`).join("\n")}
 \`\`\`
 `;
-      })
-    }
+        })
+      }
 ${failures > 0 ? `\n\nFailed to parse ${failures} mods` : ""}
-        `);
+        `.length,
+    );
 
     return json({
       type: 4,
