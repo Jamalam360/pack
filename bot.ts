@@ -42,15 +42,24 @@ async function command(request: Request) {
       "https://api.github.com/repos/Jamalam360/pack/contents/mods",
     );
 
-    const modNames: string[] = [];
+    const req2 = await fetch(
+      "https://raw.githubusercontent.com/Jamalam360/pack/masin/categories.json",
+    );
+
+    const categories = await req2.json();
+
+    const mods: Record<string, string[]> = {};
+    let failures = 0;
 
     for (const file of await req.json()) {
       const r = await fetch(file.download_url);
       const data = toml.parse(await r.text());
       if (data.name) {
-        modNames.push(`- ${data.name}`);
+        mods[getCategory(file.name.split(".pw.toml")[0], categories)].push(
+          data.name,
+        );
       } else {
-        modNames.push("[Failed to prase name]");
+        failures++;
         console.log("Failed to parse: " + data);
       }
     }
@@ -59,15 +68,33 @@ async function command(request: Request) {
       type: 4,
       data: {
         content: `
+${
+          Object.keys(mods).map((category) => {
+            return `
+${category.charAt(0).toUpperCase() + category.slice(1)}}:
 \`\`\`
-${modNames.join("\n")}
+${mods[category].map((mod) => `- ${mod}`).join("\n")}
 \`\`\`
+`;
+          })
+        }
+${failures > 0 ? `\n\nFailed to parse ${failures} mods` : ""}
         `,
       },
     });
   }
 
   return json({ error: "bad request" }, { status: 400 });
+}
+
+function getCategory(name: string, categories: Record<string, string[]>) {
+  for (const category in categories) {
+    if (categories[category].includes(name)) {
+      return category;
+    }
+  }
+
+  return "uncategorised";
 }
 
 async function verifySignature(

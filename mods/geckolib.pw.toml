@@ -1,13 +1,13 @@
 name = "GeckoLib"
-filename = "geckolib-fabric-1.18-3.0.43.jar"
+filename = "geckolib-fabric-1.18-3.0.45.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "c039f09bd10c12f230aae7cdd0c19df21e0d36d3"
+hash = "02552991b2ab1baaed46655840110e25a9efbb81"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3817033
+file-id = 3819967
 project-id = 388172
