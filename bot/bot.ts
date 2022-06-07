@@ -49,9 +49,9 @@ class Bot extends Client {
   @slash()
   mods(interaction: Interaction) {
     const options = interaction.data as InteractionApplicationCommandData;
-    const category = options.options.find((e) => e.name == "category")?.value ||
+    const category = options.options.find((e) => e.name == "category")?.value ??
       "all";
-    const page = options.options.find((e) => e.name == "page")?.value || 1;
+    const page = options.options.find((e) => e.name == "page")?.value ?? 1;
 
     getPaginatedMods(category, page).then((res) => {
       const mods = res.mods.map((mod) => `- ${mod}`).join("\n");

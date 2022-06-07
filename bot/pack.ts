@@ -86,9 +86,17 @@ export async function getPaginatedMods(
     };
   }
 
-  const mods = category == "all"
-    ? Object.keys(categories.categories).sort()
-    : categories.categories[category].sort();
+  let mods: string[] = [];
+
+  if (category == "all") {
+    for (const cat in categories.categories) {
+      mods = mods.concat(categories.categories[cat]);
+    }
+  } else {
+    mods = categories.categories[category];
+  }
+
+  mods = mods.sort();
 
   const totalPages = Math.ceil(mods.length / 35);
 
