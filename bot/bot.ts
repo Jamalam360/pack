@@ -62,6 +62,12 @@ ${mods}
 \`\`\`
       `;
 
+      if (page > res.totalPages) {
+        interaction.respond({
+          content: "That page does not exist.",
+        });
+      }
+
       interaction.respond({
         content: message,
       });
@@ -79,7 +85,7 @@ ${mods}
       interaction.respond({
         content: `There are ${
           Object.keys(res.categories).reduce((count, current) =>
-            count + current.length, 0) + res.failures
+            count + current.length, 0)
         } mods on the server.`,
       });
     });

@@ -96,7 +96,7 @@ export async function getPaginatedMods(
     mods = categories.categories[category];
   }
 
-  mods = mods.sort();
+  mods = mods.sort((a, b) => a.toLowerCase().localeCompare(b.toLowerCase()));
 
   const totalPages = Math.ceil(mods.length / 35);
 
