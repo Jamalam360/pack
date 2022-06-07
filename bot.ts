@@ -73,38 +73,29 @@ async function command(request: Request) {
       }
     }
 
-    console.log(
-      `
+    const message = `
 ${
-        Object.keys(mods).map((category) => {
-          return `
+      Object.keys(mods).map((category) => {
+        return `
 ${category.charAt(0).toUpperCase() + category.slice(1)}:
 \`\`\`
 ${mods[category].map((mod) => `- ${mod}`).join("\n")}
 \`\`\`
 `;
-        })
-      }
+      })
+    }
 ${failures > 0 ? `\n\nFailed to parse ${failures} mods` : ""}
-        `.length,
-    );
+                    `;
+
+    const tooLong =
+      "\n\n The message was too long to send, and has been truncated. Try specifying the category using the category argument to narrow the search results.";
 
     return json({
       type: 4,
       data: {
-        content: `
-${
-          Object.keys(mods).map((category) => {
-            return `
-${category.charAt(0).toUpperCase() + category.slice(1)}:
-\`\`\`
-${mods[category].map((mod) => `- ${mod}`).join("\n")}
-\`\`\`
-`;
-          })
-        }
-${failures > 0 ? `\n\nFailed to parse ${failures} mods` : ""}
-                `,
+        content: message.length > 2000
+          ? message.slice(0, 2000 - tooLong.length) + tooLong
+          : message,
       },
     });
   }
