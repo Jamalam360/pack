@@ -73,14 +73,10 @@ async function command(request: Request) {
       }
     }
 
-    const message = `
-${
+    const message = `${
       Object.keys(mods).map((category) => {
         return `
-${category.charAt(0).toUpperCase() + category.slice(1)}:
-\`\`\`
-${mods[category].map((mod) => `- ${mod}`).join("\n")}
-\`\`\`
+${constructCategorySection(category, mods[category])}
 `;
       })
     }
@@ -88,7 +84,7 @@ ${failures > 0 ? `\n\nFailed to parse ${failures} mods` : ""}
                     `;
 
     const tooLong =
-      "\n\n The message was too long to send, and has been truncated. Try specifying the category using the category argument to narrow the search results.";
+      "``` \n\n **The message was too long to send, and has been truncated. Try specifying the category using the category argument to narrow the search results.**";
 
     return json({
       type: 4,
@@ -111,6 +107,15 @@ function getCategory(name: string, categories: Record<string, string[]>) {
   }
 
   return "uncategorised";
+}
+
+function constructCategorySection(name: string, category: string[]): string {
+  return `
+${name.charAt(0).toUpperCase() + name.slice(1)}:
+\`\`\`
+${category.map((mod) => `- ${mod}`).join("\n")}
+\`\`\`
+`;
 }
 
 async function verifySignature(
