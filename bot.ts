@@ -6,6 +6,12 @@ import {
 import nacl from "https://cdn.skypack.dev/tweetnacl@v1.0.3?dts";
 import toml from "https://esm.sh/toml@3.0.0";
 
+const req = await fetch(
+  "https://raw.githubusercontent.com/Jamalam360/pack/main/categories.json",
+);
+
+const categories = await req.json();
+
 serve({
   "/": command,
 });
@@ -41,12 +47,6 @@ async function command(request: Request) {
     const req = await fetch(
       "https://api.github.com/repos/Jamalam360/pack/contents/mods",
     );
-
-    const req2 = await fetch(
-      "https://raw.githubusercontent.com/Jamalam360/pack/main/categories.json",
-    );
-
-    const categories = await req2.json();
 
     const mods: Record<string, string[]> = {};
     let failures = 0;
