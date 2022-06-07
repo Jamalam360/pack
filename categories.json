@@ -101,7 +101,7 @@
     "simple-voice-chat",
     "yosbr"
   ],
-  "bugfixex": [
+  "bugfixes": [
     "debugify",
     "feature-nbt-deadlock-be-gone",
     "item-model-fix",
