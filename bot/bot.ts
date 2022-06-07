@@ -21,9 +21,10 @@ class Bot extends Client {
     commands.forEach((command) => {
       this.interactions.commands.create(command, Deno.env.get("GUILD_ID"))
         .then((cmd) => console.log(`Created Slash Command ${cmd.name}!`))
-        .catch(() =>
-          console.error(`Failed to create ${command.name} command!`)
-        );
+        .catch((err) => {
+          console.error(`Failed to create ${command.name} command!`);
+          console.error(err);
+        });
     });
   }
 
