@@ -55,7 +55,16 @@ async function command(request: Request) {
       const r = await fetch(file.download_url);
       const data = toml.parse(await r.text());
       if (data.name) {
-        mods[getCategory(file.name.split(".pw.toml")[0], categories)].push(
+        const category = getCategory(
+          file.name.split(".pw.toml")[0],
+          categories,
+        );
+
+        if (!mods[category]) {
+          mods[category] = [];
+        }
+
+        mods[category].push(
           data.name,
         );
       } else {
