@@ -1,5 +1,15 @@
 import toml from "https://esm.sh/toml@3.0.0";
 
+interface ModsByCategory {
+  categories: Record<string, string[]>;
+  failures: number;
+}
+
+interface PaginatedMods {
+  mods: string[];
+  totalPages: number;
+}
+
 let categories = await (await fetch(
   "https://raw.githubusercontent.com/Jamalam360/pack/main/categories.json",
 )).json();
@@ -7,7 +17,7 @@ let categories = await (await fetch(
 let lastCache = new Date();
 
 let modsByCategory:
-  | { categories: Record<string, string[]>; failures: number }
+  | ModsByCategory
   | null = null;
 
 async function checkCache() {
@@ -21,9 +31,7 @@ async function checkCache() {
   }
 }
 
-export async function getModsByCategory(): Promise<
-  { categories: Record<string, string[]>; failures: number }
-> {
+export async function getModsByCategory(): Promise<ModsByCategory> {
   await checkCache();
 
   if (modsByCategory != null) {
@@ -62,6 +70,31 @@ export async function getModsByCategory(): Promise<
   return {
     categories: mods,
     failures: failures,
+  };
+}
+
+export async function getPaginatedMods(
+  category: string,
+  page: number,
+): Promise<PaginatedMods> {
+  const categories = await getModsByCategory();
+
+  if (!categories.categories[category] && category != "all") {
+    return {
+      mods: [],
+      totalPages: 0,
+    };
+  }
+
+  const mods = category == "all"
+    ? Object.keys(categories.categories).sort()
+    : categories.categories[category].sort();
+
+  const totalPages = Math.ceil(mods.length / 35);
+
+  return {
+    mods: mods.slice((page - 1) * 35, page * 35),
+    totalPages: totalPages,
   };
 }
 

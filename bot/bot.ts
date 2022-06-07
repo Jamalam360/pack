@@ -3,10 +3,11 @@ import {
   event,
   Intents,
   Interaction,
+  InteractionApplicationCommandData,
   slash,
 } from "https://code.harmony.rocks/v2.6.0/mod.ts";
 import { config } from "https://deno.land/std@v0.141.0/dotenv/mod.ts";
-import { getModsByCategory } from "./pack.ts";
+import { getModsByCategory, getPaginatedMods } from "./pack.ts";
 
 import { commands } from "./commands.ts";
 
@@ -36,6 +37,31 @@ class Bot extends Client {
 
   @slash()
   mods(interaction: Interaction) {
+    const options = interaction.data as InteractionApplicationCommandData;
+    const category = options.options.find((e) => e.name == "category")?.value ||
+      "all";
+    const page = options.options.find((e) => e.name == "page")?.value || 1;
+
+    getPaginatedMods(category, page).then((res) => {
+      const mods = res.mods.map((mod) => `- ${mod}`).join("\n");
+      const message = `
+${
+        category.charAt(0).toUpperCase() + category.slice(1)
+      } [${page}/${res.totalPages}]:
+\`\`\`
+${mods}
+\`\`\`
+      `;
+
+      interaction.respond({
+        content: message,
+      });
+    }).catch((err) => {
+      interaction.respond({
+        content: "Failed to fetch mods!",
+      });
+      console.error(err);
+    });
   }
 
   @slash()
