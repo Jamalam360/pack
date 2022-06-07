@@ -6,7 +6,7 @@
     "the-bumblezone-fabric",
     "traverse"
   ],
-  "combat And Tools": [
+  "combat-and-tools": [
     "harvest-scythes",
     "reaping"
   ],
@@ -71,7 +71,7 @@
     "visual-overhaul",
     "visuality"
   ],
-  "QOL": [
+  "quality-of-life": [
     "addadd",
     "advancementinfo",
     "appleskin",
@@ -89,7 +89,7 @@
     "rightclickharvest-fabric",
     "statuseffecttimer"
   ],
-  "other": [
+  "other-and-utility": [
     "blockbot",
     "charm",
     "chunky",
@@ -101,7 +101,7 @@
     "simple-voice-chat",
     "yosbr"
   ],
-  "bugfixes": [
+  "bug-fixes": [
     "debugify",
     "feature-nbt-deadlock-be-gone",
     "item-model-fix",

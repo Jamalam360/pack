@@ -1,7 +1,15 @@
 import {
+  ApplicationCommandChoice,
   SlashCommandOptionType,
   SlashCommandPartial,
 } from "https://code.harmony.rocks/v2.6.0/mod.ts";
+
+function createChoice(value: string): ApplicationCommandChoice {
+  return {
+    name: value,
+    value: value,
+  };
+}
 
 export const commands: SlashCommandPartial[] = [
   {
@@ -17,7 +25,21 @@ export const commands: SlashCommandPartial[] = [
         name: "category",
         type: SlashCommandOptionType.STRING,
         description: "Filter by category",
-        choices: [],
+        choices: [
+          createChoice("all"),
+          createChoice("worldgen"),
+          createChoice("combat-and-tools"),
+          createChoice("technology"),
+          createChoice("building"),
+          createChoice("entities"),
+          createChoice("ambient"),
+          createChoice("performance"),
+          createChoice("visuals"),
+          createChoice("quality-of-life"),
+          createChoice("other-and-utility"),
+          createChoice("bug-fixes"),
+          createChoice("library"),
+        ],
       },
       {
         name: "page",
