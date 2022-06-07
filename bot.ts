@@ -43,7 +43,7 @@ async function command(request: Request) {
     );
 
     const req2 = await fetch(
-      "https://raw.githubusercontent.com/Jamalam360/pack/masin/categories.json",
+      "https://raw.githubusercontent.com/Jamalam360/pack/main/categories.json",
     );
 
     const categories = await req2.json();
