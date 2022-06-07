@@ -13,6 +13,16 @@ import { commands } from "./commands.ts";
 
 await config({ export: true });
 
+function transformCategoryName(name: string): string {
+  name = name.replaceAll("-", " ");
+
+  name = name.replace(/\w\S*/g, (txt) => {
+    return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();
+  });
+
+  return name;
+}
+
 class Bot extends Client {
   @event()
   ready() {
@@ -46,9 +56,7 @@ class Bot extends Client {
     getPaginatedMods(category, page).then((res) => {
       const mods = res.mods.map((mod) => `- ${mod}`).join("\n");
       const message = `
-${
-        category.charAt(0).toUpperCase() + category.slice(1)
-      } [${page}/${res.totalPages}]:
+${transformCategoryName(category)} [${page}/${res.totalPages}]:
 \`\`\`
 ${mods}
 \`\`\`
