@@ -82,11 +82,14 @@ ${mods}
   @slash()
   count(interaction: Interaction) {
     getModsByCategory().then((res) => {
+      let size = 0;
+
+      for (const cat in res.categories) {
+        size += res.categories[cat].length;
+      }
+
       interaction.respond({
-        content: `There are ${
-          Object.keys(res.categories).reduce((count, current) =>
-            count + current.length, 0)
-        } mods on the server.`,
+        content: `There are ${size} mods on the server.`,
       });
     });
   }
