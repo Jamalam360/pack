@@ -45,7 +45,6 @@ export const commands: SlashCommandPartial[] = [
         name: "page",
         type: SlashCommandOptionType.NUMBER,
         description: "Page number",
-        default: true,
       },
     ],
   },
