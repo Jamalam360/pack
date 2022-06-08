@@ -27,6 +27,7 @@ export const commands: SlashCommandPartial[] = [
         description: "Filter by category",
         choices: [
           createChoice("all"),
+          createChoice("uncategorised"),
           createChoice("worldgen"),
           createChoice("combat-and-tools"),
           createChoice("technology"),
