@@ -1,19 +1,32 @@
 {
   "worldgen": [
+    "biome-makeover",
     "flowery-structures",
     "mo-structures",
     "repurposed-structures-fabric",
     "the-bumblezone-fabric",
-    "traverse"
+    "traverse",
+    "oh-the-biomes-youll-go-fabric",
+    "promenade",
+    "yungs-extras-fabric"
+  ],
+  "magic": [
+    "arcanus",
+    "bewitchment"
   ],
   "combat-and-tools": [
+    "gate-of-babylon",
     "harvest-scythes",
+    "incantationem",
     "reaping"
   ],
   "technology": [
     "automobility",
     "cc-restitched",
+    "create-deco",
     "create-fabric",
+    "createaddition",
+    "createplus",
     "jamtastic",
     "phonos",
     "sandwichable",
@@ -21,18 +34,25 @@
   ],
   "building": [
     "arch-ex",
+    "architects-palette-fabric",
     "aurorasdecorations",
+    "blockus",
     "campanion",
-    "continuity"
+    "continuity",
+    "decorative-blocks",
+    "displaycase",
+    "structure-tools"
   ],
   "entities": [
     "animal_feeding_trough",
     "dual-riders",
-    "guard-villagers",
+    "guard-villagers-fabric",
     "haema",
     "more-villagers-fabric",
     "npc-variety-port",
-    "petowner"
+    "petowner",
+    "lovely-snails",
+    "rats-mischief"
   ],
   "ambient": [
     "charmonium",
@@ -52,7 +72,7 @@
     "krypton",
     "lazydfu",
     "lithium",
-    "reese-sodium-options",
+    "reeses-sodium-options",
     "sodium-extra",
     "sodium-shadowy-path-blocks",
     "sodium",
@@ -67,6 +87,7 @@
     "iris",
     "inspecio",
     "lambda-map",
+    "lambdabettergrass",
     "lambdynamiclights",
     "visual-overhaul",
     "visuality"
@@ -77,19 +98,25 @@
     "appleskin",
     "betterf3",
     "borderless-mining",
+    "couplings",
     "dcch",
     "enchantment-descriptions",
     "fabrishot",
     "fallingtree",
+    "i-know-what-im-doing",
+    "inmis",
+    "inventory-sorting",
     "mouse-wheelie",
     "notrample-fabric",
     "now-playing",
     "offhand-overhaul",
     "ok-zoomer",
     "rightclickharvest-fabric",
-    "statuseffecttimer"
+    "statuseffecttimer",
+    "pling"
   ],
   "other-and-utility": [
+    "artifacts-fabric",
     "blockbot",
     "charm",
     "chunky",
@@ -99,7 +126,8 @@
     "pinglist",
     "quickconnectbutton",
     "simple-voice-chat",
-    "yosbr"
+    "yosbr",
+    "trash-slot-fabric-editions"
   ],
   "bug-fixes": [
     "debugify",
@@ -110,9 +138,11 @@
   ],
   "library": [
     "architectury-api",
+    "balm-fabric",
     "bookshelf",
     "cloth-api",
     "cloth-config",
+    "dawn",
     "fabric-language-kotlin",
     "flowerycore",
     "geckolib",
@@ -124,6 +154,9 @@
     "pehkui",
     "polymer",
     "qsl",
-    "server-translations-api"
+    "server-translations-api",
+    "terrablender-fabric",
+    "trinkets",
+    "yungs-api-fabric"
   ]
 }

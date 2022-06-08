@@ -29,6 +29,7 @@ export const commands: SlashCommandPartial[] = [
           createChoice("all"),
           createChoice("uncategorised"),
           createChoice("worldgen"),
+          createChoice("magic"),
           createChoice("combat-and-tools"),
           createChoice("technology"),
           createChoice("building"),

@@ -526,11 +526,6 @@ hash = "2c4643d064b78aa317a5a595923723bf15cd4aa947c9278406c0110be4b6d65b"
 metafile = true
 
 [[files]]
-file = "mods/patchouli-fabric.pw.toml"
-hash = "407ce658d76cdcf7049ab62ab50175dc61e5889254af8b840388f3ae965be8ac"
-metafile = true
-
-[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "41648c2dd451dda685897dfe215a9d47c91ff5c62de2055ab6140ffc9cb45b45"
 metafile = true
