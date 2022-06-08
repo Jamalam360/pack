@@ -1,0 +1,13 @@
+name = "Architect's Palette [FABRIC]"
+filename = "architects-palette-fabric-2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f1fcdf2cdbbae95fb9653974a8f9aa2edfd2dbd5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3818279
+project-id = 487364

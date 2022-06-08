@@ -1,0 +1,13 @@
+name = "Promenade"
+filename = "promenade-2.6.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6545103884a360786b24ffc53dfe13b53e711edd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3806650
+project-id = 399648

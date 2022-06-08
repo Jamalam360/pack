@@ -1,0 +1,13 @@
+name = "Lovely Snails"
+filename = "lovely_snails-1.0.4+1.18.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "726d1fd8e9528edc36754c6cf43e4284973b3d22"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3683627
+project-id = 499425
