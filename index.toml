@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "73d0fb0a42af741f03c54a70022f5b37aa7c325cf8771cf53ad13ff171174915"
+hash = "a4cad2df36776ad1c8f4ed9c3196e93ab7c315075067e8baa68e907b94eb1e2b"
 metafile = true
 
 [[files]]
@@ -192,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "e908fcb242bda46e38c324bbcfd810f38d555a61ab766aef32e4f56e1561fa77"
+hash = "e2768d23161411dcddebe4bcfa7f154632706b57f685c34bcf65e22543ec0b46"
 metafile = true
 
 [[files]]
@@ -602,7 +602,7 @@ metafile = true
 
 [[files]]
 file = "mods/rightclickharvest-fabric.pw.toml"
-hash = "73e34aea96a46fccf82d7a093ea7cc01ccefcbf2f4d741367fb21cdf014f69bc"
+hash = "1d5c795ada054e5ded0b426174f67bf98efdaa6a27ff424b259237c8c2aa2e17"
 metafile = true
 
 [[files]]
