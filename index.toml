@@ -93,7 +93,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "01ec12c07032284b27afde5695c2fca99dfca2b785d06729fb13917a00a85c92"
+hash = "5271c64a6f26821bd623c7494c83aa01af86d3d90fc2c1023a23b21f0f711465"
 metafile = true
 
 [[files]]
@@ -278,7 +278,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "3b6b69935e8f40dcf95580d486bfa0c8dfe53607ebd7bd3dd9e61e019c24cf8c"
+hash = "11c73c42f830b79b2b2f304881c199da6e1efa97ca60933b4f6db859d103b64c"
 metafile = true
 
 [[files]]
@@ -373,7 +373,7 @@ metafile = true
 
 [[files]]
 file = "mods/harvest-scythes.pw.toml"
-hash = "27bcbe87ab79c37499f30df737c989b7c9f08a53dbe823eca0df689d3cf5b0b1"
+hash = "6972adf3cdc80e0fa773a093eb7db0bc269bd4e6a4446824798efe334ee51ed6"
 metafile = true
 
 [[files]]
@@ -423,7 +423,7 @@ metafile = true
 
 [[files]]
 file = "mods/jamtastic.pw.toml"
-hash = "3fd01078b8b41abd622a3bb041b7446ed093efd477ed1bf15325b43ca8db8930"
+hash = "d46d06c0ec1bfff4a97c52a878f893056e8e3b68fc1db2db91156312fdda0d68"
 metafile = true
 
 [[files]]
