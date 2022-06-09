@@ -6,7 +6,6 @@
     "the-bumblezone-fabric",
     "traverse",
     "oh-the-biomes-youll-go-fabric",
-    "promenade",
     "yungs-extras-fabric"
   ],
   "magic": [
@@ -140,7 +139,6 @@
     "bookshelf",
     "cloth-api",
     "cloth-config",
-    "dawn",
     "fabric-language-kotlin",
     "flowerycore",
     "geckolib",

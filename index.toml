@@ -211,11 +211,6 @@ hash = "f103f2600d5c7c0c468cc2576803751f0227c68dc2bdbf693606452f3887b540"
 metafile = true
 
 [[files]]
-file = "mods/dawn.pw.toml"
-hash = "116790a677992435de3e810d2d1511703b4f623de12e06722d8c83aa9ca54a18"
-metafile = true
-
-[[files]]
 file = "mods/dcch.pw.toml"
 hash = "484f375d32bebd88cdefe79a7789fa3b24a87edd840eca49cb3e2669a8d727ce"
 metafile = true
@@ -553,11 +548,6 @@ metafile = true
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "593b7c2a291591f43c642779aa528174c453c657052c3d658f2040a0a43442d6"
-metafile = true
-
-[[files]]
-file = "mods/promenade.pw.toml"
-hash = "19043dd6917c0858a8d1ac0ae88afeb85c61b94906921baab215fe94c1a5408c"
 metafile = true
 
 [[files]]
