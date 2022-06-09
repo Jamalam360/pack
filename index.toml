@@ -121,11 +121,6 @@ hash = "a609507280cdc176d235d2d3897ee4b5a11fc5ce48c39060d1b3340306395f86"
 metafile = true
 
 [[files]]
-file = "mods/biome-makeover.pw.toml"
-hash = "8558abb5ce38a589f8f85a17bb864397195cf5f9874b45b92b5671dcc7b8975d"
-metafile = true
-
-[[files]]
 file = "mods/blockbot.pw.toml"
 hash = "1cc8ca586d96809a7d70cf37dd564df50601a6566d3917279bebfbb78ed6c28f"
 metafile = true
