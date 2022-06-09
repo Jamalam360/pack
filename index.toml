@@ -126,11 +126,6 @@ hash = "1cc8ca586d96809a7d70cf37dd564df50601a6566d3917279bebfbb78ed6c28f"
 metafile = true
 
 [[files]]
-file = "mods/blockus.pw.toml"
-hash = "9670c25141c3756c8a5b1c51560921279d1bb66122ffb7a6c2a18009c94ab8da"
-metafile = true
-
-[[files]]
 file = "mods/blur-fabric.pw.toml"
 hash = "1f1143578e44c21c78c7360e92a392a87a1d60cc3be2f25d15e88cce6a765849"
 metafile = true
