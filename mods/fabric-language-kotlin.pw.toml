@@ -1,5 +1,5 @@
 name = "Fabric Language Kotlin"
-filename = "fabric-language-kotlin-1.8.0+kotlin.1.7.0.jar"
+filename = "fabric-language-kotlin-1.8.0+kotlin.1.6.21.jar"
 side = "both"
 
 [download]
@@ -9,5 +9,5 @@ mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3825017
+file-id = 3764014
 project-id = 308769
