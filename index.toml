@@ -18,7 +18,7 @@ hash = "36d5222d31aa0f2159a18f66191b542e30922a1589b888246fb0f08fdae5aac9"
 
 [[files]]
 file = "categories.json"
-hash = "604107f70bdd20de6edd7ae8270dbd5acb15bdf2d812717f63fa2188d4fcdfc7"
+hash = "ee68ba2f250184f75703f86e6b9246ffe145c248a2c5a991e64d25a68669f0b5"
 
 [[files]]
 file = "config/blockbot-discord.toml"
@@ -618,6 +618,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "a9f271c60317b13aac69142709084af03969a00a09358c6c34babc30c4cd22a1"
+metafile = true
+
+[[files]]
+file = "mods/singleplayer-yeeter.pw.toml"
+hash = "55874bd76bbced38ef4b7504bfe73c3125fc8da145927689fe87a7507a1e5389"
 metafile = true
 
 [[files]]
