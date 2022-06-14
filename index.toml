@@ -62,7 +62,7 @@ hash = "3e7b728ab0ee306b0ebf4c735d069001cba70c443134e92b131194c6b2ab5c66"
 
 [[files]]
 file = "mods/addadd.pw.toml"
-hash = "817d444340345cbd5eb9860d1fd2eccabfc54e5579c5f46d05e05e150573c769"
+hash = "175093f4eeff366844fa0aaf4dcb96ddd02a4d332b2ae5c7b72ac5bfd8dafeeb"
 metafile = true
 
 [[files]]
@@ -492,7 +492,7 @@ metafile = true
 
 [[files]]
 file = "mods/more-villagers-fabric.pw.toml"
-hash = "2550230a2169574172525d4de000668e4596284652c47a8f577e491511893254"
+hash = "a929f4bfa05a854f613297b75965be4890870268d15610570c2530a3d01061da"
 metafile = true
 
 [[files]]
@@ -532,7 +532,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "41648c2dd451dda685897dfe215a9d47c91ff5c62de2055ab6140ffc9cb45b45"
+hash = "79858c0794b316fb0c1b6629377b378f7ef859fff817dfdaee8e2d45bb36ffed"
 metafile = true
 
 [[files]]
@@ -587,7 +587,7 @@ metafile = true
 
 [[files]]
 file = "mods/reaping.pw.toml"
-hash = "e7aba469ccc1b22255e160914b572a4104313197a81509a6645e52feefb863c6"
+hash = "62278562ada13887025093c53feb866db04a14a072e53c53e32344158febeef2"
 metafile = true
 
 [[files]]
