@@ -211,6 +211,11 @@ hash = "f11a3f0c5dd3c319162b5c42fabd24d0bbb7bcbe383dc5c77d361c7b64488acf"
 metafile = true
 
 [[files]]
+file = "mods/craftpresence.pw.toml"
+hash = "17ac3c7ad4d264714b86b9caa569878d15c7f71ec33c4c61b2ace8eb02139de1"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "64552c2dc46da34272e9b48e3fd294577f16da2570917caa9fc06ab7f848fb6c"
 metafile = true
@@ -228,6 +233,11 @@ metafile = true
 [[files]]
 file = "mods/cull-less-leaves.pw.toml"
 hash = "f103f2600d5c7c0c468cc2576803751f0227c68dc2bdbf693606452f3887b540"
+metafile = true
+
+[[files]]
+file = "mods/dark-loading-screen.pw.toml"
+hash = "f2a8423765175190a918e39ddb48a3fb7ff922b8e42ee350315f2ce6e680df36"
 metafile = true
 
 [[files]]
