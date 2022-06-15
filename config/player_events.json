@@ -1,0 +1,40 @@
+{
+  "first_death": {
+    "actions": [],
+    "broadcast_to_everyone": true,
+    "pick_message_randomly": false
+  },
+  "death": {
+    "actions": [],
+    "broadcast_to_everyone": true,
+    "pick_message_randomly": false
+  },
+  "first_join": {
+    "actions": [
+      "Welcome ${player}, remember to configure voice chat by setting a keybind for the voice chat settings menu!"
+    ],
+    "broadcast_to_everyone": false,
+    "pick_message_randomly": false
+  },
+  "join": {
+    "actions": [],
+    "broadcast_to_everyone": false,
+    "pick_message_randomly": false
+  },
+  "kill_entity": {
+    "actions": [],
+    "broadcast_to_everyone": true,
+    "pick_message_randomly": false
+  },
+  "kill_player": {
+    "actions": [],
+    "broadcast_to_everyone": true,
+    "pick_message_randomly": true
+  },
+  "leave": {
+    "actions": [],
+    "broadcast_to_everyone": true,
+    "pick_message_randomly": false
+  },
+  "custom_commands": []
+}

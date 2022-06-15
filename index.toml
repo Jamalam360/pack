@@ -45,6 +45,10 @@ file = "config/lithium.properties"
 hash = "b099d76bcdc3a4ef7949b91189f05470d3301fc66f8559b9dc159c3c2791509a"
 
 [[files]]
+file = "config/player_events.json"
+hash = "e353d1fe506cfe81b30b6aa6703b6611076d2fa4999d2b130038aa41506302aa"
+
+[[files]]
 file = "config/quickconnectbutton.json5"
 hash = "76ecae872289fe31c4e0cbe2cba09912e53397fa4f9a704c191e98fd0b0150ac"
 
@@ -432,7 +436,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "7586317e8f493545d692287fb8b5e8a6027772b529d6e2d9ba97c7c09c64b26f"
+hash = "4aa1bf4dc4a7e347e7c87757980b7a45c124018d73e5ce64caa998779e97a604"
 metafile = true
 
 [[files]]
