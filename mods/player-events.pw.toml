@@ -1,6 +1,6 @@
 name = "Player Events"
 filename = "player-events-2.3.0.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"

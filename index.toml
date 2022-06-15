@@ -572,7 +572,7 @@ metafile = true
 
 [[files]]
 file = "mods/player-events.pw.toml"
-hash = "b3762bf05c4631e452c273e9d44bde56bd2b574f596dff293f0403bf323a83f9"
+hash = "0aba663a29cd0e76ff733d85f743baacd53f1ac8ff24bcef61a4e0d5f1ce61fa"
 metafile = true
 
 [[files]]
