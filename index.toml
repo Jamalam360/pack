@@ -561,6 +561,11 @@ hash = "e17c18833aea515aef4f44aae82a7d05eca457059301fb7c010aca5daa9f1286"
 metafile = true
 
 [[files]]
+file = "mods/player-events.pw.toml"
+hash = "b3762bf05c4631e452c273e9d44bde56bd2b574f596dff293f0403bf323a83f9"
+metafile = true
+
+[[files]]
 file = "mods/pling.pw.toml"
 hash = "dfc73c6ed21d8be632f3d253bd23a921b1e690107a0cd70c63c55a5568278bfd"
 metafile = true
