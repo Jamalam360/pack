@@ -101,6 +101,11 @@ hash = "526cdf2d31fb8d66b3e6928481bccce7600b073c6f1ea8207c64f6e2e03a9247"
 metafile = true
 
 [[files]]
+file = "mods/armor-stand-editor.pw.toml"
+hash = "0875b25b3698b7e65df13fbfee171f99f6596c69b979175ceb67011c460cf082"
+metafile = true
+
+[[files]]
 file = "mods/artifacts-fabric.pw.toml"
 hash = "cd5ae872e2a98bf094c387bd2ad034859427757fe77354838c37c3dc7f9d358c"
 metafile = true
