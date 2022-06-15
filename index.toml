@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "a4cad2df36776ad1c8f4ed9c3196e93ab7c315075067e8baa68e907b94eb1e2b"
+hash = "cfbb5da372c80cd2e4f2d320a31c7304ad980d3d3212445e274a9e392f034357"
 metafile = true
 
 [[files]]
@@ -452,7 +452,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdabettergrass.pw.toml"
-hash = "01f79a7fb966690009a42f285e779bac8f7958df56240494e4d3d7d862332c2d"
+hash = "263845417c9210e72f32f3e146b95c87d54a013347964e6e075cdaace0d7cc2e"
 metafile = true
 
 [[files]]
@@ -503,11 +503,6 @@ metafile = true
 [[files]]
 file = "mods/more-villagers-fabric.pw.toml"
 hash = "a929f4bfa05a854f613297b75965be4890870268d15610570c2530a3d01061da"
-metafile = true
-
-[[files]]
-file = "mods/mouse-wheelie.pw.toml"
-hash = "d5c5b31884dc8d402831f3d7c5f2d8b3111e4568b7a452338465c7060db7318a"
 metafile = true
 
 [[files]]
