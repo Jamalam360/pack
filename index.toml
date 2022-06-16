@@ -405,11 +405,6 @@ hash = "399e2642bdf663c6352d6560f4f48e903750e889e1b78c731d240caf0c6a2e28"
 metafile = true
 
 [[files]]
-file = "mods/inventory-sorting.pw.toml"
-hash = "53d676cb098f77c9c84750b04ee3c384cc04a55bc92dc2c6e4cc0c31c31f00bf"
-metafile = true
-
-[[files]]
 file = "mods/iris.pw.toml"
 hash = "4aa1bf4dc4a7e347e7c87757980b7a45c124018d73e5ce64caa998779e97a604"
 metafile = true
