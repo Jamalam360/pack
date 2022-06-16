@@ -1,26 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "LICENSE"
-hash = "8759648fd631f4e11e8ef3935fd15b56ea0d0300dfa3d0ba606ef32bac9a32a6"
-
-[[files]]
-file = "bot/bot.ts"
-hash = "0d6e322a38a9172e87e2eb06a32af87c0540e12a01a6b7d6f543440d808597b4"
-
-[[files]]
-file = "bot/commands.ts"
-hash = "9b2f8f184e5765e9611e1f973b26cd7697f38bfc0edafdc0bf06eafe0529e394"
-
-[[files]]
-file = "bot/pack.ts"
-hash = "36d5222d31aa0f2159a18f66191b542e30922a1589b888246fb0f08fdae5aac9"
-
-[[files]]
-file = "categories.json"
-hash = "ee68ba2f250184f75703f86e6b9246ffe145c248a2c5a991e64d25a68669f0b5"
-
-[[files]]
 file = "config/blockbot-discord.toml"
 hash = "db5678efcc39891c54be3141eb709ecc84769937a3719fdee6a992ae2c48d3da"
 

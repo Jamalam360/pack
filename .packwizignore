@@ -2,7 +2,8 @@
 # See https://git-scm.com/docs/gitignore
 
 /README.md
-/bot.ts
+/LICENSE
+/categories.json
 /MultiMC.zip
 /.packwizignore
 /.gitignore
@@ -11,3 +12,4 @@
 .github/
 .vscode/
 .git/
+bot/
