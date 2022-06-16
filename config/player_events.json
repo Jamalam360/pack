@@ -14,7 +14,7 @@
       "Welcome <red>${player}</red>, press <blue>.</blue> to configure voice chat, or <blue>N</blue> to disable it.",
       "By default, voice chat is <blue>push to talk</blue>, this means your microphone will only activate when you hold down <blue>Caps Lock</blue>",
       "/tp ${player} 5329 115 -1228",
-      "/spawnpoint ${player} 5329, 115, -1228"
+      "/spawnpoint ${player} 5329 115 -1228"
     ],
     "broadcast_to_everyone": false,
     "pick_message_randomly": false
