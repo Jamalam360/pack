@@ -43,7 +43,7 @@
     {
       "command": "/position",
       "actions": [
-        "<red>${player}</red> broadcasted their location: <blue>${x}</blue>, <blue>${y}</blue>, <blue>${z}</blue>"
+        "<red>${player}</red> broadcasted their location: <blue>${player.x}</blue>, <blue>${player.y}</blue>, <blue>${player.z}</blue>"
       ],
       "broadcast_to_everyone": true,
       "pick_message_randomly": false
@@ -51,7 +51,7 @@
     {
       "command": "/pos",
       "actions": [
-        "<red>${player}</red> broadcasted their location: <blue>${x}</blue>, <blue>${y}</blue>, <blue>${z}</blue>"
+        "<red>${player}</red> broadcasted their location: <blue>${player.x}</blue>, <blue>${player.y}</blue>, <blue>${player.z}</blue>"
       ],
       "broadcast_to_everyone": true,
       "pick_message_randomly": false

@@ -26,7 +26,7 @@ hash = "b099d76bcdc3a4ef7949b91189f05470d3301fc66f8559b9dc159c3c2791509a"
 
 [[files]]
 file = "config/player_events.json"
-hash = "755a84f2c31c42480b32bfd5973dacd137b73ba54de4ec931390b193b68bd9c4"
+hash = "6943220be7a214774ae38bce25a8eae037e194a535c802a57e86fb1bc7c67b8d"
 
 [[files]]
 file = "config/quickconnectbutton.json5"
