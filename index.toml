@@ -621,7 +621,7 @@ metafile = true
 
 [[files]]
 file = "mods/rightclickharvest-fabric.pw.toml"
-hash = "e39be62daa7645fe9dde62146f2ece658132ad54a49927cae077c7bbfdce5048"
+hash = "1c38c2fb2dc6cf03a31b68eb04fecec3209391c14188b533f3899df1faba31e1"
 metafile = true
 
 [[files]]
