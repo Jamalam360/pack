@@ -26,7 +26,7 @@ hash = "b099d76bcdc3a4ef7949b91189f05470d3301fc66f8559b9dc159c3c2791509a"
 
 [[files]]
 file = "config/player_events.json"
-hash = "75d08d79a6ec63795c0e62296d61223921bfc2001aec6864c4184b05ae0548f8"
+hash = "755a84f2c31c42480b32bfd5973dacd137b73ba54de4ec931390b193b68bd9c4"
 
 [[files]]
 file = "config/quickconnectbutton.json5"
@@ -707,6 +707,11 @@ metafile = true
 [[files]]
 file = "mods/worldedit.pw.toml"
 hash = "9cba8becd46d571b7576be0d34fea48a7c38f5745265186c7baf1c79251ef373"
+metafile = true
+
+[[files]]
+file = "mods/worldeditcui-fabric.pw.toml"
+hash = "d662f0e5aae916336830c1dfd1087b664e45676cafc02f7f2d892abf692ebf30"
 metafile = true
 
 [[files]]
