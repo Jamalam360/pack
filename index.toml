@@ -6,7 +6,7 @@ hash = "db5678efcc39891c54be3141eb709ecc84769937a3719fdee6a992ae2c48d3da"
 
 [[files]]
 file = "config/debugify.json"
-hash = "df4127f50f179d3f1fea36bac1c381a959bba8491175aff14b2f932aae7994d3"
+hash = "3926a978324a4382174c0c674cd653bff1b0ffb2bfff45a20124b7b03d56ce3d"
 
 [[files]]
 file = "config/dynamicfps.toml"
