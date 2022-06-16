@@ -1,9 +1,0 @@
-name = "Computer Craft: Prometheus"
-filename = "cc-prometheus-fabric-1.18.2-2.0.1.jar"
-side = "both"
-
-[download]
-url = "https://cdn.discordapp.com/attachments/866314211016835113/986712805363298434/cc-prometheus-fabric-1.18.2-2.0.1.jar"
-hash-format = "sha1"
-hash = "e5e87e321247c6daf1b40078d0de325798225185"
-mode = ""

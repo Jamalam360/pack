@@ -175,11 +175,6 @@ hash = "a79e7f6e05ac9bfa97ab047777ab00babe5e6ae636fd069227dc1b7a5e85609d"
 metafile = true
 
 [[files]]
-file = "mods/cc-prometheus.pw.toml"
-hash = "8c52877da412d18b148ac0e0b136f68730c8749ece54333319383a9757c6c09d"
-metafile = true
-
-[[files]]
 file = "mods/cc-restitched.pw.toml"
 hash = "423f3cb323804973ccd4bcfbeb7c412857598df4074dcd0fd3764b699de1f657"
 metafile = true
@@ -697,11 +692,6 @@ metafile = true
 [[files]]
 file = "mods/tooltipfix.pw.toml"
 hash = "69214e78788c8db0b1b2e9fa48deff5fdb090dd590ced6898ac5b4286aa370b2"
-metafile = true
-
-[[files]]
-file = "mods/trashslot-fabric-edition.pw.toml"
-hash = "ec8d7505856c0cc9a53f072e111697a44d77373afb96f8116b235ec4a717bcf5"
 metafile = true
 
 [[files]]
