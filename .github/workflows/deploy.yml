@@ -1,6 +1,9 @@
 name: Deploy Modpack
 
-on: push
+on:
+  push:
+    branches:
+      - deploy
 
 jobs:
   deploy:
