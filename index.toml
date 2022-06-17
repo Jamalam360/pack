@@ -5,6 +5,10 @@ file = "config/blockbot-discord.toml"
 hash = "db5678efcc39891c54be3141eb709ecc84769937a3719fdee6a992ae2c48d3da"
 
 [[files]]
+file = "config/clean-logs/config.toml"
+hash = "f35f7afa8df9a0ea564500746c8c9f25271e8fb3a6d4d829e50fe086f8fb273f"
+
+[[files]]
 file = "config/debugify.json"
 hash = "3926a978324a4382174c0c674cd653bff1b0ffb2bfff45a20124b7b03d56ce3d"
 
