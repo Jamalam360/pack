@@ -65,11 +65,6 @@ hash = "86fddf37d21255242d6b36388910ca86296a2b2db683fc4508fc6ea3f986e4d9"
 metafile = true
 
 [[files]]
-file = "mods/arcanus.pw.toml"
-hash = "1627373c29b02b85daf087eb1c25f9293e45079a1b00fe3dde8a6b7c22f2e515"
-metafile = true
-
-[[files]]
 file = "mods/arch-ex.pw.toml"
 hash = "551744ac87a0351a1034c8de38070f3141f639adf84fd2215f28d291b2e4dbe6"
 metafile = true
