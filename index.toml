@@ -210,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "7f62c7897de629c37df2ce2bff049a3d28e0dd3da00e74b0ea226682466cc82e"
+hash = "88a8c9ca3ed1277f5304a12f1e318076ae51e8873daea640e7a1e01b23d9f084"
 metafile = true
 
 [[files]]
@@ -615,7 +615,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "a9f271c60317b13aac69142709084af03969a00a09358c6c34babc30c4cd22a1"
+hash = "da00e0495288f4c913e909cc9d76917fca8266a5f340b044c46c8e1160c5c69a"
 metafile = true
 
 [[files]]
@@ -721,6 +721,11 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "003dee7fef878abc298c3c6589b7b21e8922def090c9cf8259ae8c6aacc0946f"
+metafile = true
+
+[[files]]
+file = "mods/youre-in-grave-danger.pw.toml"
+hash = "be45dda8f3a54b9b87c115958842d7e3ab8c333cd614d91923335415436e19d6"
 metafile = true
 
 [[files]]
