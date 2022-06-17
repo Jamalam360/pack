@@ -5,8 +5,10 @@
     "pick_message_randomly": false
   },
   "death": {
-    "actions": [],
-    "broadcast_to_everyone": true,
+    "actions": [
+      "You died at <blue>${player.x}</blue>, <blue>${player.y}</blue>, <blue>${player.z}</blue>"
+    ],
+    "broadcast_to_everyone": false,
     "pick_message_randomly": false
   },
   "first_join": {
