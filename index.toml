@@ -170,6 +170,11 @@ hash = "163f685f318ba34efbb4d3071cfe175de1e85e83735e4f881ec26ae289bf8ed1"
 metafile = true
 
 [[files]]
+file = "mods/clean-logs.pw.toml"
+hash = "e5d072f589ed7618a71778ea49537f5299097845bc68104aa4777f5b83f7d56d"
+metafile = true
+
+[[files]]
 file = "mods/cloth-api.pw.toml"
 hash = "66e5a832549ae569bb7ccffecbc888aa0b56abdd06bc98f7fd027069738d04d0"
 metafile = true
