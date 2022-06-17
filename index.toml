@@ -187,6 +187,11 @@ hash = "e5d072f589ed7618a71778ea49537f5299097845bc68104aa4777f5b83f7d56d"
 metafile = true
 
 [[files]]
+file = "mods/clickthrough.pw.toml"
+hash = "d08bf8dc9e7f91f9dd522c2ee3929c43f8005e922761dc4a8b88680e098a4abc"
+metafile = true
+
+[[files]]
 file = "mods/cloth-api.pw.toml"
 hash = "66e5a832549ae569bb7ccffecbc888aa0b56abdd06bc98f7fd027069738d04d0"
 metafile = true
@@ -203,7 +208,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "e2768d23161411dcddebe4bcfa7f154632706b57f685c34bcf65e22543ec0b46"
+hash = "5ff4e61ba19baca3337f1ff6aa31a6d906d8c30efe8af15dce3f44beb8297d5f"
 metafile = true
 
 [[files]]
@@ -514,11 +519,6 @@ metafile = true
 [[files]]
 file = "mods/npc-variety-port.pw.toml"
 hash = "40fdecdeae4efc690b0a894bfd659fdb9b779f434538a557ba5fcc9732f96f7a"
-metafile = true
-
-[[files]]
-file = "mods/offhand-overhaul.pw.toml"
-hash = "7cfb1eecd10f8c65c5cf0b8e227f8fe95e021f6cff29db48b194cba78f9267f9"
 metafile = true
 
 [[files]]
