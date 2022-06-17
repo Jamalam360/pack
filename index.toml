@@ -5,6 +5,14 @@ file = "config/blockbot-discord.toml"
 hash = "db5678efcc39891c54be3141eb709ecc84769937a3719fdee6a992ae2c48d3da"
 
 [[files]]
+file = "config/charm.toml"
+hash = "a30164fa23931e0e675a7945367c3e5b030dbd3b736e01cc2ceb830170ed6424"
+
+[[files]]
+file = "config/clean-logs/config.toml"
+hash = "f35f7afa8df9a0ea564500746c8c9f25271e8fb3a6d4d829e50fe086f8fb273f"
+
+[[files]]
 file = "config/debugify.json"
 hash = "3926a978324a4382174c0c674cd653bff1b0ffb2bfff45a20124b7b03d56ce3d"
 
@@ -26,7 +34,7 @@ hash = "b099d76bcdc3a4ef7949b91189f05470d3301fc66f8559b9dc159c3c2791509a"
 
 [[files]]
 file = "config/player_events.json"
-hash = "f640ba5c4da9a29269bf22250375705dc8af53db8f8a5e4f8242d106c6efc961"
+hash = "c5fdb41a82ef0a7afa980c44de24ba8a74d85ae50def50f81027cee8bedb6344"
 
 [[files]]
 file = "config/quickconnectbutton.json5"
@@ -43,6 +51,10 @@ hash = "21928d23577813661d72e01de26e1b42e2e024e2bca85f2b04d599772b0522a3"
 [[files]]
 file = "config/sandwichable.json"
 hash = "3e7b728ab0ee306b0ebf4c735d069001cba70c443134e92b131194c6b2ab5c66"
+
+[[files]]
+file = "config/yigd.toml"
+hash = "fc64613a95f82a54fcf3ea3ed1e1ededcfe93a340d4953cf43cced1811c317b5"
 
 [[files]]
 file = "mods/addadd.pw.toml"
@@ -62,11 +74,6 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "86fddf37d21255242d6b36388910ca86296a2b2db683fc4508fc6ea3f986e4d9"
-metafile = true
-
-[[files]]
-file = "mods/arcanus.pw.toml"
-hash = "1627373c29b02b85daf087eb1c25f9293e45079a1b00fe3dde8a6b7c22f2e515"
 metafile = true
 
 [[files]]
@@ -175,6 +182,11 @@ hash = "163f685f318ba34efbb4d3071cfe175de1e85e83735e4f881ec26ae289bf8ed1"
 metafile = true
 
 [[files]]
+file = "mods/clean-logs.pw.toml"
+hash = "e5d072f589ed7618a71778ea49537f5299097845bc68104aa4777f5b83f7d56d"
+metafile = true
+
+[[files]]
 file = "mods/cloth-api.pw.toml"
 hash = "66e5a832549ae569bb7ccffecbc888aa0b56abdd06bc98f7fd027069738d04d0"
 metafile = true
@@ -206,7 +218,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "7f62c7897de629c37df2ce2bff049a3d28e0dd3da00e74b0ea226682466cc82e"
+hash = "88a8c9ca3ed1277f5304a12f1e318076ae51e8873daea640e7a1e01b23d9f084"
 metafile = true
 
 [[files]]
@@ -611,12 +623,17 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "a9f271c60317b13aac69142709084af03969a00a09358c6c34babc30c4cd22a1"
+hash = "da00e0495288f4c913e909cc9d76917fca8266a5f340b044c46c8e1160c5c69a"
 metafile = true
 
 [[files]]
 file = "mods/singleplayer-yeeter.pw.toml"
 hash = "55874bd76bbced38ef4b7504bfe73c3125fc8da145927689fe87a7507a1e5389"
+metafile = true
+
+[[files]]
+file = "mods/sneak-through-berries.pw.toml"
+hash = "8d7136fef6704fbcf222c9f90850711e3858e9acfb39eb059e2483648a51f728"
 metafile = true
 
 [[files]]
@@ -712,6 +729,11 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "003dee7fef878abc298c3c6589b7b21e8922def090c9cf8259ae8c6aacc0946f"
+metafile = true
+
+[[files]]
+file = "mods/youre-in-grave-danger.pw.toml"
+hash = "be45dda8f3a54b9b87c115958842d7e3ab8c333cd614d91923335415436e19d6"
 metafile = true
 
 [[files]]
