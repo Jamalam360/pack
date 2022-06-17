@@ -615,6 +615,11 @@ hash = "55874bd76bbced38ef4b7504bfe73c3125fc8da145927689fe87a7507a1e5389"
 metafile = true
 
 [[files]]
+file = "mods/sneak-through-berries.pw.toml"
+hash = "8d7136fef6704fbcf222c9f90850711e3858e9acfb39eb059e2483648a51f728"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "dd3572a0414b6d647f18d4571a8007f0f93ebd7092d08aefa194861878a42c6f"
 metafile = true
