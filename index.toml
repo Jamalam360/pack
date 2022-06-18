@@ -53,6 +53,10 @@ file = "config/sandwichable.json"
 hash = "3e7b728ab0ee306b0ebf4c735d069001cba70c443134e92b131194c6b2ab5c66"
 
 [[files]]
+file = "config/tb-bone-drops.json"
+hash = "a22d7836abc55e6b8a39d42a7145007da90fb5ac23970f61280e273a33b48d37"
+
+[[files]]
 file = "config/yigd.toml"
 hash = "fc64613a95f82a54fcf3ea3ed1e1ededcfe93a340d4953cf43cced1811c317b5"
 
@@ -684,6 +688,11 @@ metafile = true
 [[files]]
 file = "mods/tooltipfix.pw.toml"
 hash = "69214e78788c8db0b1b2e9fa48deff5fdb090dd590ced6898ac5b4286aa370b2"
+metafile = true
+
+[[files]]
+file = "mods/totally-balanced-bone-drops.pw.toml"
+hash = "2bfb470017c41e1a5bc42ff88d38ec2b7106e207504583d7292cc4963230d3b3"
 metafile = true
 
 [[files]]

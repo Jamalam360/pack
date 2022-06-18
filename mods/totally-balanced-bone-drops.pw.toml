@@ -1,0 +1,13 @@
+name = "Totally Balanced Bone Drops"
+filename = "tb-bone-drops-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "05d7ee8d38f68bd9b9a95c0d243f402a4a666145"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3837331
+project-id = 633492
