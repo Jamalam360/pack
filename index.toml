@@ -61,6 +61,22 @@ file = "config/yigd.toml"
 hash = "fc64613a95f82a54fcf3ea3ed1e1ededcfe93a340d4953cf43cced1811c317b5"
 
 [[files]]
+file = "journeymap/config/5.8/journeymap.core.config"
+hash = "516f14efbfa6e0c4610f7e3383532da2d3488e177923d73e440aac388f8890bb"
+
+[[files]]
+file = "journeymap/config/5.8/journeymap.fullmap.config"
+hash = "f3be12608c679f20c85e78aa14d40fca5b3dcc940784080db64b1caa667dad03"
+
+[[files]]
+file = "journeymap/config/5.8/journeymap.minimap.config"
+hash = "6f17fea5f1f767f8c040d47dfac2b56e09197b91cc4d18d09cf258c14d1813c2"
+
+[[files]]
+file = "journeymap/config/5.8/journeymap.minimap2.config"
+hash = "c317f44f6996832f8050312eafa9151ffaf91f0acfc431f1876f862a74290d84"
+
+[[files]]
 file = "mods/addadd.pw.toml"
 hash = "175093f4eeff366844fa0aaf4dcb96ddd02a4d332b2ae5c7b72ac5bfd8dafeeb"
 metafile = true
@@ -443,6 +459,11 @@ metafile = true
 [[files]]
 file = "mods/jamtastic.pw.toml"
 hash = "1250ac61d6791b5e7396d017fba6d9ca74a3c53dd399f73660e9fe9f4328aa40"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "d35f37a8030fcea2d00f21143a7918ff9e6b654e3406e07646e1f27a4330f71a"
 metafile = true
 
 [[files]]
