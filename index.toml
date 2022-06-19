@@ -742,6 +742,11 @@ hash = "c3befb94337e27ee79c23dfd8423a31fb67b2e262b74053b783c876098419d2f"
 metafile = true
 
 [[files]]
+file = "mods/wmitaf.pw.toml"
+hash = "e9b6eeb2a621196bda999018a33634fd61ac49a17e6d9b2fe7edbdcd5a6d3418"
+metafile = true
+
+[[files]]
 file = "mods/worldedit.pw.toml"
 hash = "9cba8becd46d571b7576be0d34fea48a7c38f5745265186c7baf1c79251ef373"
 metafile = true
