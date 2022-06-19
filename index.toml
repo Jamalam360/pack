@@ -686,6 +686,11 @@ hash = "46df8abe0e02c7611627e3abc1a298cd8864398c47e2824d19bf2a58010efd69"
 metafile = true
 
 [[files]]
+file = "mods/threaded-advancements.pw.toml"
+hash = "3d17d993c076b128f082022bd3dfb1a80a7952e2e141c79ffb2d1f4af68a0009"
+metafile = true
+
+[[files]]
 file = "mods/tooltipfix.pw.toml"
 hash = "69214e78788c8db0b1b2e9fa48deff5fdb090dd590ced6898ac5b4286aa370b2"
 metafile = true
