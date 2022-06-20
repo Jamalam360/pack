@@ -3,7 +3,7 @@ filename = "guard-villagers-fabric-1.18.2-1.0.14.jar"
 side = "both"
 
 [download]
-url = "https://cdn.discordapp.com/attachments/866314211016835113/983101075521413150/guard-villagers-fabric-1.18.2-1.0.14.jar"
+url = "https://cdn.jamalam.tech/guard-villagers-fabric-1.18.2-1.0.14.jar"
 hash-format = "sha1"
 hash = "0f92dbf207fac7b0b8f707f6fdfbdba784e91680"
 mode = ""

@@ -107,12 +107,12 @@ metafile = true
 
 [[files]]
 file = "mods/aurorasdecorations.pw.toml"
-hash = "6d6419c483e455e486031a13c78a4207c5646c25621a80b2f90503b6d4775950"
+hash = "07c360d25b16e4cec757a7ec6c43ae2e7978e526fcf5ea64a71f2a0a26569c15"
 metafile = true
 
 [[files]]
 file = "mods/automobility.pw.toml"
-hash = "5c2f4291a1dfe8cf3dbfd0269337bb557e7fda7bcda832495499a761f03fe999"
+hash = "7724dda24471c5ef32967a1a933fa0615a1efc7890607fafbeff12ae21a2eb4b"
 metafile = true
 
 [[files]]
@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/blockbot.pw.toml"
-hash = "1cc8ca586d96809a7d70cf37dd564df50601a6566d3917279bebfbb78ed6c28f"
+hash = "9033b99a3d675c3edea8c0bfde2e27ab45c8442ba1795cf6f91f1c1859052a6c"
 metafile = true
 
 [[files]]
@@ -387,7 +387,7 @@ metafile = true
 
 [[files]]
 file = "mods/guard-villagers-fabric.pw.toml"
-hash = "876ab936584990ce843fe9ca281a10dfc422c722921df3bfc85a76234feca10d"
+hash = "9bac98d98181fd358c24d24b6708b6060b4ebe7668c48f3bd1b3f4962c9977ef"
 metafile = true
 
 [[files]]
@@ -592,7 +592,7 @@ metafile = true
 
 [[files]]
 file = "mods/rats-mischief.pw.toml"
-hash = "5d91d444af591f914f4c9f8ab3c3e38f5da69f78abf96051022ce82c0d4ef90d"
+hash = "ecc85e3d8ed5055319f4789e230f817cb776577af4da302f2ee20b58e7d5ac1a"
 metafile = true
 
 [[files]]
@@ -687,7 +687,7 @@ metafile = true
 
 [[files]]
 file = "mods/threaded-advancements.pw.toml"
-hash = "3d17d993c076b128f082022bd3dfb1a80a7952e2e141c79ffb2d1f4af68a0009"
+hash = "a2cac0b93f895917570d2a78cd175c1654a52e9fcc140423f0a0436f420adc0f"
 metafile = true
 
 [[files]]
