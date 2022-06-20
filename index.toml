@@ -57,6 +57,10 @@ file = "config/tb-bone-drops.json"
 hash = "a22d7836abc55e6b8a39d42a7145007da90fb5ac23970f61280e273a33b48d37"
 
 [[files]]
+file = "config/threadedadvancements.json"
+hash = "951daf5d13f0991ab80fd7da2e3c8e6cf074fa9a84497694ba7ea4e5d385d27d"
+
+[[files]]
 file = "config/yigd.toml"
 hash = "fc64613a95f82a54fcf3ea3ed1e1ededcfe93a340d4953cf43cced1811c317b5"
 
@@ -687,7 +691,7 @@ metafile = true
 
 [[files]]
 file = "mods/threaded-advancements.pw.toml"
-hash = "a2cac0b93f895917570d2a78cd175c1654a52e9fcc140423f0a0436f420adc0f"
+hash = "bd0158ad1c3ef28297863a24d8d359ae84914eb3f039cf894255797629c2289f"
 metafile = true
 
 [[files]]

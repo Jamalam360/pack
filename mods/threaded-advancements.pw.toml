@@ -3,7 +3,7 @@ filename = "threaded-advancements-1.0.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.jamalam.tech/threaded-advancements-1.0.0.jar"
+url = "https://cdn.jamalam.tech/threaded-advancements-1.0.1.jar"
 hash-format = "sha1"
-hash = "802c78250459479316a7ceb54b8e1e0e541219c4"
+hash = "98315582cd2cb0355962042b26f77d063483c4dc"
 mode = ""
