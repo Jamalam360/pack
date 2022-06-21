@@ -1,0 +1,13 @@
+name = "Applied Energistics 2"
+filename = "appliedenergistics2-11.1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7426271f4f82b5d3182b422bac0f7d0ae25e15bb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3836462
+project-id = 223794
