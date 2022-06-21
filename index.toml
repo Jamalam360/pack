@@ -85,6 +85,11 @@ hash = "86fddf37d21255242d6b36388910ca86296a2b2db683fc4508fc6ea3f986e4d9"
 metafile = true
 
 [[files]]
+file = "mods/applied-energistics-2.pw.toml"
+hash = "2080e8b1ee8ae5f40b3a8760c3b1cded431ad1ecd0efeee6115f4d1292dc88a0"
+metafile = true
+
+[[files]]
 file = "mods/arch-ex.pw.toml"
 hash = "ac43dc1d242b83636bbde4309f4b3f6c1594daae9746678131646f7281c3917c"
 metafile = true
