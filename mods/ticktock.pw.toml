@@ -1,0 +1,13 @@
+name = "TickTock"
+filename = "ticktock-1.3.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "92d9bb0b5b4f869ee269535ea7dce12f416e0332"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3621007
+project-id = 411707
