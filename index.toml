@@ -65,6 +65,10 @@ file = "config/yigd.toml"
 hash = "fc64613a95f82a54fcf3ea3ed1e1ededcfe93a340d4953cf43cced1811c317b5"
 
 [[files]]
+file = "global_data_pack/chlo.zip"
+hash = "ecf15317c48d5478122a01af86dfb0cdb80d4aa752b8d1974885fefdc5c9caf5"
+
+[[files]]
 file = "mods/addadd.pw.toml"
 hash = "175093f4eeff366844fa0aaf4dcb96ddd02a4d332b2ae5c7b72ac5bfd8dafeeb"
 metafile = true
@@ -101,7 +105,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "317f026c85105dbbfeae5ea2a3129b1e7bda9785ead4712eb90a994cd66dea92"
+hash = "e92fb1a0365cf2c571a679c85f8ae2db4c972e050a8cc619b21751f925bb9b2c"
 metafile = true
 
 [[files]]
@@ -236,12 +240,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "88a8c9ca3ed1277f5304a12f1e318076ae51e8873daea640e7a1e01b23d9f084"
+hash = "2116855a040b8766c111784b48afb4f33c2a7ab2fc7b6dc911cedb02f07617f7"
 metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "e6296824efedc26529ffde9c9f462b9d2c397de447b8a8827724863ffe3654d3"
+hash = "271947f1dc13dd6e08b7497d252bfefa0a7271cbac333896f03d74c226f35e1b"
 metafile = true
 
 [[files]]
@@ -521,7 +525,7 @@ metafile = true
 
 [[files]]
 file = "mods/more-villagers-fabric.pw.toml"
-hash = "bda9aee694a66bd932162b79955bf4611f7ad25ca064ad0ef86c0a618a37773f"
+hash = "87ba7fa128e8545a15c302a800ad9926d533c70b7c912f2980719001e9ea2aca"
 metafile = true
 
 [[files]]
@@ -551,7 +555,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "79858c0794b316fb0c1b6629377b378f7ef859fff817dfdaee8e2d45bb36ffed"
+hash = "62906785f842dc0529de573ebcd614a2908c764995db37c70ad764c7366bcb08"
 metafile = true
 
 [[files]]
@@ -746,7 +750,7 @@ metafile = true
 
 [[files]]
 file = "mods/wiredredstone.pw.toml"
-hash = "c3befb94337e27ee79c23dfd8423a31fb67b2e262b74053b783c876098419d2f"
+hash = "c3c818acce472a8151e04f1f7b085fff3d021d97198e2bd02d1b23fcc0433233"
 metafile = true
 
 [[files]]
