@@ -290,6 +290,11 @@ hash = "98edafc4ad10539bb7a0196f089b28caa4eee791f576181aa57c7945650ac5c2"
 metafile = true
 
 [[files]]
+file = "mods/drp-global-datapack.pw.toml"
+hash = "1e7991f133949d8d1ac4fec851d9c630645567cae370229960789cbc5d1aa94d"
+metafile = true
+
+[[files]]
 file = "mods/dual-riders.pw.toml"
 hash = "0d70cb6c1c7185420ba64a968ac757512457cdc272fdf586abf5adf3842e8e6e"
 metafile = true
@@ -697,6 +702,11 @@ metafile = true
 [[files]]
 file = "mods/threaded-advancements.pw.toml"
 hash = "bd0158ad1c3ef28297863a24d8d359ae84914eb3f039cf894255797629c2289f"
+metafile = true
+
+[[files]]
+file = "mods/ticktock.pw.toml"
+hash = "c1570d1e672e5396029ea7b496efc4117b0d27ad3d9c2c65694ce50c9058ed46"
 metafile = true
 
 [[files]]
