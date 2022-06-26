@@ -95,7 +95,7 @@ metafile = true
 
 [[files]]
 file = "mods/arch-ex.pw.toml"
-hash = "ac43dc1d242b83636bbde4309f4b3f6c1594daae9746678131646f7281c3917c"
+hash = "4d8093103f6ac7e19e21720aa3a64278c11eebe0f43d2123728b4cd517afb396"
 metafile = true
 
 [[files]]
@@ -165,7 +165,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "cfbb5da372c80cd2e4f2d320a31c7304ad980d3d3212445e274a9e392f034357"
+hash = "dc173cbb7864b6d3767f55b2ff3f6686ef1fa8bd3286e01be2695de507f70276"
 metafile = true
 
 [[files]]
@@ -240,7 +240,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "2116855a040b8766c111784b48afb4f33c2a7ab2fc7b6dc911cedb02f07617f7"
+hash = "144510fd16b0c523a1bb1be05ce4e46a92551636cf0c20425f77dd13de3c2c2c"
 metafile = true
 
 [[files]]
@@ -400,7 +400,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "0f87d98f5cf3cc4f337381fb3e59879e5c30a144a0c23bc9fcbfc89f7e9af4d3"
+hash = "6d1e9a6628f25c3c20e853fa085f2e7679fe10d7117ad7a6593e1c1016f1c570"
 metafile = true
 
 [[files]]
@@ -420,7 +420,7 @@ metafile = true
 
 [[files]]
 file = "mods/i-know-what-im-doing.pw.toml"
-hash = "8b42623a5674360bbeacd63a8f2ff636ac145ea711e4cc1ddb5c41927a2c26e1"
+hash = "eb4c0bca4a7a278d586f14129cef39718ab4531152dea7bc048143abd9e892a6"
 metafile = true
 
 [[files]]
@@ -505,7 +505,7 @@ metafile = true
 
 [[files]]
 file = "mods/mealapi.pw.toml"
-hash = "e50530e14e455bed140ae34f590fe00fa0f0c08bc5ce06404eb0a5fd1ffd7683"
+hash = "4628ac5fb31672dd23f7bc521d7e6fa7f8c12606b782b51bd4abd8dde0f834a8"
 metafile = true
 
 [[files]]
@@ -590,7 +590,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "616ef63d544f8897ba5501d6bd3e7995de29b5b56c78f8f0f4f95e7ba728edec"
+hash = "a669267ad3c5f14404ae952210aea04b2045a44c5684c2e4f654ce34d3f2a212"
 metafile = true
 
 [[files]]
@@ -720,7 +720,7 @@ metafile = true
 
 [[files]]
 file = "mods/totally-balanced-bone-drops.pw.toml"
-hash = "2bfb470017c41e1a5bc42ff88d38ec2b7106e207504583d7292cc4963230d3b3"
+hash = "2b1be5b20de4c6970b19c8b1f28272e27bea49b063e5f0afc90a49c4cd8cf14c"
 metafile = true
 
 [[files]]
