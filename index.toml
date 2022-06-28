@@ -640,7 +640,7 @@ metafile = true
 
 [[files]]
 file = "mods/server-translations-api.pw.toml"
-hash = "923fc4c405b1451a21a0085d2bd2a8354a0755cbedf9c6381b03089f774e791a"
+hash = "70b8c27afe995da569ad74b7f4ae53dc441e99aacedfbd304c62d5e931c63e1d"
 metafile = true
 
 [[files]]

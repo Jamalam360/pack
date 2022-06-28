@@ -3,7 +3,7 @@ filename = "server-translations-api-1.4.12+1.18.2.jar"
 side = "both"
 
 [download]
-url = "https://maven.nucleoid.xyz/fr/catcore/server-translations-api/1.4.12%2B1.18.2/server-translations-api-1.4.12%2B1.18.2.jar"
+url = "https://cdn.jamalam.tech/server-translations-api-1.4.12%2B1.18.2.jar"
 hash-format = "sha1"
 hash = "78e6601818e184bd0fee7e4f50d57b9d09ca323c"
 mode = ""
