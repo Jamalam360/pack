@@ -3,7 +3,7 @@ filename = "aurorasdecorations-1.0.0+1.18.jar"
 side = "both"
 
 [download]
-url = "https://cdn.jamalam.tech/aurorasdecorations-1.0.01.18.jar"
+url = "https://cdn.jamalam.tech/aurorasdeco.jar"
 hash-format = "sha1"
-hash = "deb40419ddb664a70d0ad292bcab143b4eb711a4"
+hash = "4584ec1d4179c149c05307c8d0e285f6152634ad"
 mode = ""
