@@ -90,12 +90,12 @@ metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2.pw.toml"
-hash = "2080e8b1ee8ae5f40b3a8760c3b1cded431ad1ecd0efeee6115f4d1292dc88a0"
+hash = "5e9ca31128fecec41870c5361ce349cb9c8843459152cec4ba813d837b918b1c"
 metafile = true
 
 [[files]]
 file = "mods/arch-ex.pw.toml"
-hash = "c525222e714069253a8902103dc98de6058adb5b348e678b5ef9fcf6219ec613"
+hash = "e12dd95626c529030e8424bebc7f77555e9e90e44696f5f1dc30f664cbed827c"
 metafile = true
 
 [[files]]
@@ -150,7 +150,7 @@ metafile = true
 
 [[files]]
 file = "mods/bewitchment.pw.toml"
-hash = "f173d12e4bec1e529d375e5a9e3aeb6e2eb11ef5e15c4be3645f5b541f2b7153"
+hash = "234672988f6d344c27312777c87052bef1eff00befba1f3c353fa793b8ef1ba0"
 metafile = true
 
 [[files]]
@@ -165,7 +165,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "d3c2c288666b5ff97ccb899794ec7083e525fb0d80591a1e59bd17d6d46b6147"
+hash = "fd98380e1ae454f58b981a3cb916d56ed57434828adfe00926cdabdb37bd2e84"
 metafile = true
 
 [[files]]
@@ -325,7 +325,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "7ec588c4d9ee3d775d9a8c3efc4bf38bb48ec97043653d13be24d1df5e9d72bb"
+hash = "a6aabcde2d9672741571dd57406feb4157c61f081fb43be74b8697db64c0b47c"
 metafile = true
 
 [[files]]
@@ -590,7 +590,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "a669267ad3c5f14404ae952210aea04b2045a44c5684c2e4f654ce34d3f2a212"
+hash = "65a20726406aecd5c1a31317955deddeb48670228a640c8ed03300e41a264dd7"
 metafile = true
 
 [[files]]
@@ -645,7 +645,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "da00e0495288f4c913e909cc9d76917fca8266a5f340b044c46c8e1160c5c69a"
+hash = "31005db8e3a8f22b90ab3bcb85fc602c0dd017212bb7e9befe628fd632da740a"
 metafile = true
 
 [[files]]
@@ -750,7 +750,7 @@ metafile = true
 
 [[files]]
 file = "mods/wiredredstone.pw.toml"
-hash = "7647e03bc9dc40df3d96534d430620ca26c59ee5878fa1d8192eca8979d20213"
+hash = "49d534b0871ac4de1c85d38b84c9188c3698b98ff91c4148a3ba62b389069df7"
 metafile = true
 
 [[files]]
@@ -775,7 +775,7 @@ metafile = true
 
 [[files]]
 file = "mods/youre-in-grave-danger.pw.toml"
-hash = "be45dda8f3a54b9b87c115958842d7e3ab8c333cd614d91923335415436e19d6"
+hash = "08c07bd09429bc90bb34e0692cf2292219398c551c1b802722da03810e07f547"
 metafile = true
 
 [[files]]
