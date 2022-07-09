@@ -729,6 +729,16 @@ hash = "712e87884c53ad1c8891e7ea384318750051684144972ad11a15c44cf327a864"
 metafile = true
 
 [[files]]
+file = "mods/vanilla-excavators.pw.toml"
+hash = "40c28cda1233eed458e280e92fbbe73b8f8e5e860785ca5f2f644376e84a6cc6"
+metafile = true
+
+[[files]]
+file = "mods/vanilla-hammers.pw.toml"
+hash = "a2a39fe993ad407531c4d5458bd6e739053f97ec4b57e8dece5452ee35798a56"
+metafile = true
+
+[[files]]
 file = "mods/visual-overhaul.pw.toml"
 hash = "f1164f7741fe64b8d47a2515f453e1f4e14d6d3516f83c892c0e62b45266a188"
 metafile = true

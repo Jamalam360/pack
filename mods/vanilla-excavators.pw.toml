@@ -1,0 +1,13 @@
+name = "Vanilla Excavators"
+filename = "vanillaexcavators-2.3.1-1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3aa37e94c8502c754fe1089a9dde5518af15236e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3740910
+project-id = 341772
