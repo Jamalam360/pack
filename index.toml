@@ -689,11 +689,6 @@ hash = "3610cc0efd4c0bfa58b962452b7ee2c735f3c9a86c66b175a5c186258aaeecc7"
 metafile = true
 
 [[files]]
-file = "mods/structure-tools.pw.toml"
-hash = "5ad50122a5242f75545f3178f9834d7fca3bd9990bca27174a3515ce740fb2f3"
-metafile = true
-
-[[files]]
 file = "mods/terrablender-fabric.pw.toml"
 hash = "f4e0c267402d79fa23c2c439c5776396855f6e5cf4911b38ec664dfcc7caaabb"
 metafile = true
@@ -731,6 +726,16 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "712e87884c53ad1c8891e7ea384318750051684144972ad11a15c44cf327a864"
+metafile = true
+
+[[files]]
+file = "mods/vanilla-excavators.pw.toml"
+hash = "40c28cda1233eed458e280e92fbbe73b8f8e5e860785ca5f2f644376e84a6cc6"
+metafile = true
+
+[[files]]
+file = "mods/vanilla-hammers.pw.toml"
+hash = "a2a39fe993ad407531c4d5458bd6e739053f97ec4b57e8dece5452ee35798a56"
 metafile = true
 
 [[files]]
