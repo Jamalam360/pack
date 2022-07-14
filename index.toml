@@ -105,7 +105,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "e92fb1a0365cf2c571a679c85f8ae2db4c972e050a8cc619b21751f925bb9b2c"
+hash = "3d13167c5934ba49e8937a7fc5ff9bae619d2117fe2d194d1eacaf6ba6e74676"
 metafile = true
 
 [[files]]
@@ -165,7 +165,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "fd98380e1ae454f58b981a3cb916d56ed57434828adfe00926cdabdb37bd2e84"
+hash = "8692276b8d41c7a03c9f9614fdbea393dc71e724e4c6950d7b1c7b3b06ae56e4"
 metafile = true
 
 [[files]]
@@ -410,7 +410,7 @@ metafile = true
 
 [[files]]
 file = "mods/haema.pw.toml"
-hash = "5cea0de4f3bc0e613c9f6dc6a9d18714c45a477d92f3d0bf55b65f6abea8ba11"
+hash = "46312f38a474da79cc1e6c58b80ac3db0dba21ce4dfb3fb25300c4b10d024303"
 metafile = true
 
 [[files]]
@@ -545,7 +545,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-biomes-youll-go-fabric.pw.toml"
-hash = "057de9b6acc68c428738a8f7a3fea84590f3c2f2ba14024e2034f493075b02e8"
+hash = "5fcd8828fdd03f5ad5656d1143ab8c2dfda8415ed210a4ef3602e3562096b423"
 metafile = true
 
 [[files]]
@@ -580,7 +580,7 @@ metafile = true
 
 [[files]]
 file = "mods/player-events.pw.toml"
-hash = "0aba663a29cd0e76ff733d85f743baacd53f1ac8ff24bcef61a4e0d5f1ce61fa"
+hash = "29cf13d4fe64b70b0ee8b7e2de1f180d7a6c04c39bf61b69249ade1c6a8240ff"
 metafile = true
 
 [[files]]
@@ -645,7 +645,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "31005db8e3a8f22b90ab3bcb85fc602c0dd017212bb7e9befe628fd632da740a"
+hash = "41031b0841f3c77b90c615862f596730fc5965dd67c38a499543bbe469c07c76"
 metafile = true
 
 [[files]]
@@ -720,7 +720,7 @@ metafile = true
 
 [[files]]
 file = "mods/traverse.pw.toml"
-hash = "3b0cfcdcc60f138b697e1f0d0f09700548e4d74f7e8e1722593740867c0c961d"
+hash = "636af379d5700e60079ad5f0b1d422281abfd9ef4f7b74060857e0b8b08b1278"
 metafile = true
 
 [[files]]
