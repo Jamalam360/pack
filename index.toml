@@ -684,6 +684,11 @@ hash = "b51973797d0cc8b656e71b85c4a2143995a4bb599181453ef9b0e7e6e3de549f"
 metafile = true
 
 [[files]]
+file = "mods/status.pw.toml"
+hash = "69091b8c376d250c88e0cef53f77d3416a146cb1b16018e305dcabc670ef6128"
+metafile = true
+
+[[files]]
 file = "mods/statuseffecttimer.pw.toml"
 hash = "3610cc0efd4c0bfa58b962452b7ee2c735f3c9a86c66b175a5c186258aaeecc7"
 metafile = true
