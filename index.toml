@@ -704,11 +704,6 @@ hash = "46df8abe0e02c7611627e3abc1a298cd8864398c47e2824d19bf2a58010efd69"
 metafile = true
 
 [[files]]
-file = "mods/threaded-advancements.pw.toml"
-hash = "bd0158ad1c3ef28297863a24d8d359ae84914eb3f039cf894255797629c2289f"
-metafile = true
-
-[[files]]
 file = "mods/ticktock.pw.toml"
 hash = "087df141ce53f03e07eccb85fa1efa937bafd52f8a110e277d352c90c8258e67"
 metafile = true

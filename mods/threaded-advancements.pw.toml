@@ -1,9 +1,0 @@
-name = "Threaded Advancements"
-filename = "threaded-advancements-1.0.0.jar"
-side = "both"
-
-[download]
-url = "https://cdn.jamalam.tech/threaded-advancements-1.0.1.jar"
-hash-format = "sha1"
-hash = "98315582cd2cb0355962042b26f77d063483c4dc"
-mode = ""
