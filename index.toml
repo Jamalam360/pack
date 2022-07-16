@@ -10,7 +10,7 @@ hash = "a30164fa23931e0e675a7945367c3e5b030dbd3b736e01cc2ceb830170ed6424"
 
 [[files]]
 file = "config/clean-logs/config.toml"
-hash = "f35f7afa8df9a0ea564500746c8c9f25271e8fb3a6d4d829e50fe086f8fb273f"
+hash = "27414a96efdec9d0006e1bf9c0360e44080bef5ab57d43370e7da4d1e0fe4abc"
 
 [[files]]
 file = "config/debugify.json"
@@ -561,6 +561,11 @@ metafile = true
 [[files]]
 file = "mods/pehkui.pw.toml"
 hash = "973bd6c595505db1555232699ee8a2a1498117eca8ab5613b1f519497057e080"
+metafile = true
+
+[[files]]
+file = "mods/performant-advancements.pw.toml"
+hash = "e1e839496d333df7fbf27e8e7fc4118b68be1af6c47b3f295804fae9f9b710b4"
 metafile = true
 
 [[files]]
