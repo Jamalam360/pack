@@ -79,6 +79,11 @@ hash = "a25ff503721a6b8c3ee3cfea976b564a107a3d5ad587d7e03a84e6788f5cf185"
 metafile = true
 
 [[files]]
+file = "mods/advancements-debug.pw.toml"
+hash = "24085c5f01e5011fcc499dbb442d9c6bca379a1a604cb45e5811e03c17b65e41"
+metafile = true
+
+[[files]]
 file = "mods/animal_feeding_trough.pw.toml"
 hash = "7bd35ab87cc191359f8b7ca64bd6e812ce2cc81f34b75ae22948c2425a2e5e6d"
 metafile = true
