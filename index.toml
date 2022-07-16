@@ -564,11 +564,6 @@ hash = "973bd6c595505db1555232699ee8a2a1498117eca8ab5613b1f519497057e080"
 metafile = true
 
 [[files]]
-file = "mods/performant-advancements.pw.toml"
-hash = "e1e839496d333df7fbf27e8e7fc4118b68be1af6c47b3f295804fae9f9b710b4"
-metafile = true
-
-[[files]]
 file = "mods/petowner.pw.toml"
 hash = "a526744d12a2a3cdd3064bdb6634e4d06ba029dc7116e823df03f4a5cbad4a15"
 metafile = true

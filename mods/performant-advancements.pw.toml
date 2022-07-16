@@ -1,9 +1,0 @@
-name = "Performant Advancements"
-filename = "performant-advancements-1.0.1.jar"
-side = "both"
-
-[download]
-url = "https://cdn.jamalam.tech/performant-advancements-1.0.0.jar"
-hash-format = "sha1"
-hash = "ee63daafb21204ad3f7a5d2b7e37eda0a7e950a7"
-mode = ""
