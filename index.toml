@@ -5,6 +5,10 @@ file = "LICENSE"
 hash = "8759648fd631f4e11e8ef3935fd15b56ea0d0300dfa3d0ba606ef32bac9a32a6"
 
 [[files]]
+file = "categories.json.backup"
+hash = "dc516d2a63bbae9fe09eab89dbc7a26e2029ec02aa180baec906d98bf81b936a"
+
+[[files]]
 file = "config/blockbot-discord.toml"
 hash = "db5678efcc39891c54be3141eb709ecc84769937a3719fdee6a992ae2c48d3da"
 
