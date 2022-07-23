@@ -42,7 +42,7 @@ class Bot extends Client {
   help(interaction: Interaction) {
     interaction.respond({
       content:
-        "This bot is a utility for fetching information about the Tree Gang Minecraft server. It has the commands /mods and /count.",
+        "This bot is a utility for fetching information about the Tree Gang Minecraft server. It has the commands /mods, /refresh, /ping, and /count.",
     });
   }
 
@@ -91,6 +91,37 @@ ${mods}
       interaction.respond({
         content: `There are ${size} mods on the server.`,
       });
+    });
+  }
+
+  @slash()
+  refresh(interaction: Interaction) {
+    if (interaction.user.id != "478579885951156225") {
+      interaction.respond({
+        content: "You do not have permission to do that.",
+      });
+
+      return;
+    }
+
+    interaction.respond({
+      content: "Refreshing mods...",
+    });
+
+    getModsByCategory().then((res) => {
+      console.log(
+        `Found ${res.categories.length} categories with ${res.failures} failures`,
+      );
+    }).catch((err) => {
+      console.log("Failed to refresh mods!");
+      console.error(err);
+    });
+  }
+
+  @slash()
+  ping(interaction: Interaction) {
+    interaction.respond({
+      content: "Pong!",
     });
   }
 }

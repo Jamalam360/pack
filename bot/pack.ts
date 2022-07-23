@@ -14,28 +14,23 @@ let categories = await (await fetch(
   "https://raw.githubusercontent.com/Jamalam360/pack/deploy/categories.json",
 )).json();
 
-let lastCache = new Date();
-
 let modsByCategory:
   | ModsByCategory
   | null = null;
 
-async function checkCache() {
-  if (new Date().getTime() - lastCache.getTime() > 900000) {
-    console.log("Refreshing cache...");
+await refresh();
+modsByCategory = await getModsByCategory();
 
-    categories = await (await fetch(
-      "https://raw.githubusercontent.com/Jamalam360/pack/deploy/categories.json",
-    )).json();
-    modsByCategory = null;
+export async function refresh() {
+  categories = await (await fetch(
+    "https://raw.githubusercontent.com/Jamalam360/pack/deploy/categories.json",
+  )).json();
 
-    lastCache = new Date();
-  }
+  modsByCategory = null;
+  modsByCategory = await getModsByCategory();
 }
 
 export async function getModsByCategory(): Promise<ModsByCategory> {
-  await checkCache();
-
   if (modsByCategory != null) {
     console.log("Using cached modsByCategory");
     return modsByCategory;
