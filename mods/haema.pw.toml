@@ -1,13 +1,13 @@
 name = "Haema"
-filename = "haema-1.10.0+1.18.2.jar"
+filename = "haema-1.10.1+1.18.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "6404c0a1952bfdc3144023b1a621dd6793a517fc"
+hash = "30796b1f55b91cd12d33bf6ea27e79e1046b528e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3875274
+file-id = 3885032
 project-id = 391257
