@@ -2,23 +2,25 @@
   "worldgen": [
     "flowery-structures",
     "mo-structures",
+    "oh-the-biomes-youll-go-fabric",
     "repurposed-structures-fabric",
     "the-bumblezone-fabric",
     "traverse",
-    "oh-the-biomes-youll-go-fabric",
     "yungs-extras-fabric"
   ],
   "magic": [
-    "arcanus",
     "bewitchment"
   ],
   "combat-and-tools": [
     "gate-of-babylon",
     "harvest-scythes",
     "incantationem",
-    "reaping"
+    "reaping",
+    "vanilla-excavators",
+    "vanilla-hammers"
   ],
   "technology": [
+    "applied-energistics-2",
     "automobility",
     "cc-restitched",
     "create-fabric",
@@ -37,17 +39,17 @@
     "continuity",
     "decorative-blocks",
     "displaycase",
-    "structure-tools"
+    "fabric-chisel"
   ],
   "entities": [
     "animal_feeding_trough",
     "dual-riders",
     "guard-villagers-fabric",
     "haema",
+    "lovely-snails",
     "more-villagers-fabric",
     "npc-variety-port",
     "petowner",
-    "lovely-snails",
     "rats-mischief"
   ],
   "ambient": [
@@ -59,6 +61,7 @@
     "presence-footsteps"
   ],
   "performance": [
+    "advancements-debug",
     "clumps",
     "cull-less-leaves",
     "dynamic-fps",
@@ -69,9 +72,9 @@
     "lazydfu",
     "lithium",
     "reeses-sodium-options",
+    "sodium",
     "sodium-extra",
     "sodium-shadowy-path-blocks",
-    "sodium",
     "spark",
     "starlight"
   ],
@@ -79,10 +82,10 @@
     "better-beds",
     "better-mount-hud",
     "blur-fabric",
+    "dark-loading-screen",
     "farsight-fabric",
-    "iris",
     "inspecio",
-    "lambda-map",
+    "iris",
     "lambdabettergrass",
     "lambdynamiclights",
     "visual-overhaul",
@@ -92,40 +95,51 @@
     "addadd",
     "advancementinfo",
     "appleskin",
+    "armor-stand-editor",
     "betterf3",
     "borderless-mining",
+    "clickthrough",
     "couplings",
     "dcch",
+    "emi",
     "enchantment-descriptions",
     "fabrishot",
     "fallingtree",
     "i-know-what-im-doing",
     "inmis",
-    "inventory-sorting",
-    "mouse-wheelie",
+    "journeymap",
     "notrample-fabric",
     "now-playing",
-    "offhand-overhaul",
     "ok-zoomer",
-    "rightclickharvest-fabric",
-    "statuseffecttimer",
     "pling",
-    "emi"
+    "rightclickharvest-fabric",
+    "sneak-through-berries",
+    "status",
+    "statuseffecttimer",
+    "totally-balanced-bone-drops",
+    "youre-in-grave-danger"
   ],
   "other-and-utility": [
     "artifacts-fabric",
     "blockbot",
     "charm",
     "chunky",
+    "clean-logs",
+    "craftpresence",
     "drogtor",
+    "drp-global-datapack",
     "enhanced-celestials-fabric",
     "modmenu",
     "pinglist",
+    "player-events",
     "quickconnectbutton",
     "simple-voice-chat",
-    "yosbr",
-    "trash-slot-fabric-editions",
-    "singleplayer-yeeter"
+    "singleplayer-yeeter",
+    "ticktock",
+    "wdmnf",
+    "worldedit",
+    "worldeditcui-fabric",
+    "yosbr"
   ],
   "bug-fixes": [
     "debugify",
