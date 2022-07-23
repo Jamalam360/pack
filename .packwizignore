@@ -2,7 +2,6 @@
 # See https://git-scm.com/docs/gitignore
 
 /README.md
-/LICENSE
 /categories.json
 /MultiMC.zip
 /.packwizignore
@@ -13,4 +12,3 @@
 .vscode/
 .git/
 bot/
-resource_pack/

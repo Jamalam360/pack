@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "8759648fd631f4e11e8ef3935fd15b56ea0d0300dfa3d0ba606ef32bac9a32a6"
+
+[[files]]
 file = "config/blockbot-discord.toml"
 hash = "db5678efcc39891c54be3141eb709ecc84769937a3719fdee6a992ae2c48d3da"
 
@@ -110,7 +114,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "3d13167c5934ba49e8937a7fc5ff9bae619d2117fe2d194d1eacaf6ba6e74676"
+hash = "109a2bb4f7407b83c3470846349b162fd04cf2cd66d0534643d101f54f69721e"
 metafile = true
 
 [[files]]
@@ -170,7 +174,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "8692276b8d41c7a03c9f9614fdbea393dc71e724e4c6950d7b1c7b3b06ae56e4"
+hash = "f027f2c28683241586012b606bf3971393ef699da50159e769b15c76ba9a4dba"
 metafile = true
 
 [[files]]
@@ -225,7 +229,7 @@ metafile = true
 
 [[files]]
 file = "mods/clumps.pw.toml"
-hash = "88b53b7eb72f43fe09efae1dfef0e51d92ac79355ff4a1dd7298e513cfcd8672"
+hash = "906401c522b21eab1d2f3d7de8f6dc7b104d66ff4248bfd30b03d1ad8a01e64d"
 metafile = true
 
 [[files]]
@@ -330,7 +334,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "a6aabcde2d9672741571dd57406feb4157c61f081fb43be74b8697db64c0b47c"
+hash = "e555fc6193553393d2cb55efe723a2ed726329942627519762ba8886d573b751"
 metafile = true
 
 [[files]]
@@ -405,7 +409,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "6d1e9a6628f25c3c20e853fa085f2e7679fe10d7117ad7a6593e1c1016f1c570"
+hash = "810dfe46f616e54d2659432edcab7fa0f0c0c53ea9773ce817647ee483278920"
 metafile = true
 
 [[files]]
@@ -415,7 +419,7 @@ metafile = true
 
 [[files]]
 file = "mods/haema.pw.toml"
-hash = "46312f38a474da79cc1e6c58b80ac3db0dba21ce4dfb3fb25300c4b10d024303"
+hash = "ce1b70810fa9acf0c7929874dfe24979338b9d7fb1f1bae5af01856e4bb5b211"
 metafile = true
 
 [[files]]
@@ -515,7 +519,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "b99ac27df2f720034b01acc2ea7637b5f020be861a5ac691135fdbd815eb3882"
+hash = "86fc0f26d98784ec6141849c4e44e3fb8290d4d92eb8842fd59d22d7d60fca87"
 metafile = true
 
 [[files]]
@@ -625,7 +629,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "d714f6e72ebc849970b4c28384ed68f95624f497ea39d18b92e3e79251cbf659"
+hash = "f93edd1b50de2b484004d37b61e524d1e5d21d30ffb771f9fbeb62439d131e77"
 metafile = true
 
 [[files]]
@@ -635,7 +639,7 @@ metafile = true
 
 [[files]]
 file = "mods/rightclickharvest-fabric.pw.toml"
-hash = "1c38c2fb2dc6cf03a31b68eb04fecec3209391c14188b533f3899df1faba31e1"
+hash = "9f134aeba7d0a3c50c75fc8a4acf07a7b87b455732d7f48de3df10b7525f9460"
 metafile = true
 
 [[files]]
@@ -650,7 +654,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "41031b0841f3c77b90c615862f596730fc5965dd67c38a499543bbe469c07c76"
+hash = "73dc1d42a94f42c3c9e5dcb3e34dcb2285493bbf2f19f08298bd31cfc57aef08"
 metafile = true
 
 [[files]]
@@ -665,7 +669,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "dd3572a0414b6d647f18d4571a8007f0f93ebd7092d08aefa194861878a42c6f"
+hash = "f8585df7b27e6890f700639ab02856a58e7b89eb0986dc5eee981fc1f627f3cc"
 metafile = true
 
 [[files]]
@@ -760,7 +764,7 @@ metafile = true
 
 [[files]]
 file = "mods/wiredredstone.pw.toml"
-hash = "49d534b0871ac4de1c85d38b84c9188c3698b98ff91c4148a3ba62b389069df7"
+hash = "d62a734f91e2455c799bf603e41f0f7fe66b5c3f14dfa2594854aa4a8f06df69"
 metafile = true
 
 [[files]]

@@ -11,7 +11,7 @@ interface PaginatedMods {
 }
 
 let categories = await (await fetch(
-  "https://raw.githubusercontent.com/Jamalam360/pack/main/categories.json",
+  "https://raw.githubusercontent.com/Jamalam360/pack/deploy/categories.json",
 )).json();
 
 let lastCache = new Date();
@@ -23,7 +23,7 @@ let modsByCategory:
 async function checkCache() {
   if (new Date().getTime() - lastCache.getTime() > 900000) {
     categories = await (await fetch(
-      "https://raw.githubusercontent.com/Jamalam360/pack/main/categories.json",
+      "https://raw.githubusercontent.com/Jamalam360/pack/deploy/categories.json",
     )).json();
     modsByCategory = null;
 
