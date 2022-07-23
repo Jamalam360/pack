@@ -558,6 +558,11 @@ hash = "2c4643d064b78aa317a5a595923723bf15cd4aa947c9278406c0110be4b6d65b"
 metafile = true
 
 [[files]]
+file = "mods/overpoweredmending.pw.toml"
+hash = "f13c08fff97d0b27bd6abbdea106748b87bc2f585f05c2b2a3d75d0d0e6dc07e"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "62906785f842dc0529de573ebcd614a2908c764995db37c70ad764c7366bcb08"
 metafile = true
@@ -680,6 +685,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "4a16b4814eec9f3cdf8abaa98bd6c5affb62da67da10c194b749c0895c69c842"
+metafile = true
+
+[[files]]
+file = "mods/spice-of-fabric.pw.toml"
+hash = "7ae5d525b263334db6437d7165552fd144216d704558226e773e35ac4bcde7c5"
 metafile = true
 
 [[files]]
