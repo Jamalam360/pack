@@ -22,6 +22,8 @@ let modsByCategory:
 
 async function checkCache() {
   if (new Date().getTime() - lastCache.getTime() > 900000) {
+    console.log("Refreshing cache...");
+
     categories = await (await fetch(
       "https://raw.githubusercontent.com/Jamalam360/pack/deploy/categories.json",
     )).json();
@@ -35,8 +37,11 @@ export async function getModsByCategory(): Promise<ModsByCategory> {
   await checkCache();
 
   if (modsByCategory != null) {
+    console.log("Using cached modsByCategory");
     return modsByCategory;
   }
+
+  console.log("Fetching modsByCategory");
 
   const req = await fetch(
     "https://api.github.com/repos/Jamalam360/pack/contents/mods",
@@ -95,6 +100,8 @@ export async function getPaginatedMods(
   } else {
     mods = categories.categories[category];
   }
+
+  console.log(`Found ${mods.length} mods in category ${category}`);
 
   mods = mods.sort((a, b) => a.toLowerCase().localeCompare(b.toLowerCase()));
 
