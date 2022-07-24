@@ -332,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "803b611c2f3e302c1d6b2c70b7903b10d4b0eb8e5c1e89c38a09f45ff54d8dab"
+hash = "8807105e710c934236ff6192dfdd73ea0808efbb72f3fda9f8ef93a8e2a7dae0"
 metafile = true
 
 [[files]]
@@ -697,7 +697,7 @@ metafile = true
 
 [[files]]
 file = "mods/spice-of-fabric.pw.toml"
-hash = "7ae5d525b263334db6437d7165552fd144216d704558226e773e35ac4bcde7c5"
+hash = "8ab8d62c07c87d43d80866c073aab024f4168ad6c4159101ef79f48a9d760830"
 metafile = true
 
 [[files]]

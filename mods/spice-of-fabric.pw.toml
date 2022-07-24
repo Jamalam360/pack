@@ -1,14 +1,14 @@
 name = "Spice of Fabric"
-filename = "spiceoffabric-1.5.3-beta.1+1.18.2.jar"
+filename = "spiceoffabric-1.5.3+1.18.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/roxihOCb/versions/1.5.3-beta.1+1.18.2/spiceoffabric-1.5.3-beta.1%2B1.18.2.jar"
+url = "https://cdn.modrinth.com/data/roxihOCb/versions/1.5.3+1.18.2/spiceoffabric-1.5.3%2B1.18.2.jar"
 hash-format = "sha1"
-hash = "b0940fd870d01dac269bccf44ad7c7efea697883"
+hash = "bfb637db57b6e325536bd1ff422cadaf62f7f190"
 mode = ""
 
 [update]
 [update.modrinth]
 mod-id = "roxihOCb"
-version = "d66IiMIs"
+version = "c9MTlrED"
