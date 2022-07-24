@@ -62,7 +62,7 @@ hash = "3e7b728ab0ee306b0ebf4c735d069001cba70c443134e92b131194c6b2ab5c66"
 
 [[files]]
 file = "config/spiceoffabric.hjson"
-hash = "39b510d6c43ac90df75171ffad5a0da1a5a359fd1b929fbb7665091c7f5534e7"
+hash = "0418be636c6629749f1fcdeeee3e43d25201956709bb58edec1081e40164f38f"
 
 [[files]]
 file = "config/tb-bone-drops.json"
