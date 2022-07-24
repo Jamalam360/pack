@@ -61,6 +61,10 @@ file = "config/sandwichable.json"
 hash = "3e7b728ab0ee306b0ebf4c735d069001cba70c443134e92b131194c6b2ab5c66"
 
 [[files]]
+file = "config/spiceoffabric.hjson"
+hash = "39b510d6c43ac90df75171ffad5a0da1a5a359fd1b929fbb7665091c7f5534e7"
+
+[[files]]
 file = "config/tb-bone-drops.json"
 hash = "a22d7836abc55e6b8a39d42a7145007da90fb5ac23970f61280e273a33b48d37"
 
