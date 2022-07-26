@@ -386,6 +386,11 @@ hash = "41233eadb61c59cd9fb298f21709c79f45c78dc3e03b08c40d0c094c86a821d5"
 metafile = true
 
 [[files]]
+file = "mods/fastbench-for-fabric.pw.toml"
+hash = "dbfff2dfdda7c753ba66269eb2488f8004fc16890f24e728dffd26145a1abbc8"
+metafile = true
+
+[[files]]
 file = "mods/feature-nbt-deadlock-be-gone.pw.toml"
 hash = "f10747649a82c46e6671bf47f5cdbf697e0a8eac40608fbc1c7df6e59e12e07d"
 metafile = true
@@ -633,11 +638,6 @@ metafile = true
 [[files]]
 file = "mods/reaping.pw.toml"
 hash = "62278562ada13887025093c53feb866db04a14a072e53c53e32344158febeef2"
-metafile = true
-
-[[files]]
-file = "mods/recipe-cache.pw.toml"
-hash = "ef9db68226ba5b454d0a9840af8ba456cb39108427529be843f3b07c9d98b037"
 metafile = true
 
 [[files]]
