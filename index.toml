@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "f027f2c28683241586012b606bf3971393ef699da50159e769b15c76ba9a4dba"
+hash = "43b267ab1abf43db08d5b1b57d24e1a090fcd5c7df6673a105013a9015d956ad"
 metafile = true
 
 [[files]]
@@ -247,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "17ac3c7ad4d264714b86b9caa569878d15c7f71ec33c4c61b2ace8eb02139de1"
+hash = "866d1c0416252584fdcb7f57642537d77952f5c2e4d01d3f0c00427e56aace94"
 metafile = true
 
 [[files]]
@@ -462,7 +462,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "4aa1bf4dc4a7e347e7c87757980b7a45c124018d73e5ce64caa998779e97a604"
+hash = "5845b04d5b7eec20cb4f89a24e0bc9e514f2aee8a546c56aa58edc948c3e6ac5"
 metafile = true
 
 [[files]]
@@ -711,11 +711,6 @@ hash = "b51973797d0cc8b656e71b85c4a2143995a4bb599181453ef9b0e7e6e3de549f"
 metafile = true
 
 [[files]]
-file = "mods/status.pw.toml"
-hash = "69091b8c376d250c88e0cef53f77d3416a146cb1b16018e305dcabc670ef6128"
-metafile = true
-
-[[files]]
 file = "mods/statuseffecttimer.pw.toml"
 hash = "3610cc0efd4c0bfa58b962452b7ee2c735f3c9a86c66b175a5c186258aaeecc7"
 metafile = true
@@ -782,7 +777,7 @@ metafile = true
 
 [[files]]
 file = "mods/wiredredstone.pw.toml"
-hash = "d62a734f91e2455c799bf603e41f0f7fe66b5c3f14dfa2594854aa4a8f06df69"
+hash = "df15827486d437bcc447b9bbb4edb7f185158fffc4410942be1f09d3984076f2"
 metafile = true
 
 [[files]]

@@ -1,9 +1,0 @@
-name = "Status"
-filename = "status-1.18.2-1.0.0.jar"
-side = "both"
-
-[download]
-url = "https://cdn.jamalam.tech/status-1.18.2-1.0.0.jar"
-hash-format = "sha1"
-hash = "49a1f5a41812a50dc0c409490bca0d9307972f10"
-mode = ""
