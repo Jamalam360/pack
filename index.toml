@@ -5,8 +5,8 @@ file = "LICENSE"
 hash = "8759648fd631f4e11e8ef3935fd15b56ea0d0300dfa3d0ba606ef32bac9a32a6"
 
 [[files]]
-file = "categories.json.backup"
-hash = "dc516d2a63bbae9fe09eab89dbc7a26e2029ec02aa180baec906d98bf81b936a"
+file = "config/anvil_fix.json5"
+hash = "b6cc0ffaa47d7d56fa27f2cdd37bd044131debf8347fdb3293e60c2f4121aa1a"
 
 [[files]]
 file = "config/blockbot-discord.toml"
@@ -98,6 +98,11 @@ metafile = true
 [[files]]
 file = "mods/animal_feeding_trough.pw.toml"
 hash = "7bd35ab87cc191359f8b7ca64bd6e812ce2cc81f34b75ae22948c2425a2e5e6d"
+metafile = true
+
+[[files]]
+file = "mods/anvil-fix.pw.toml"
+hash = "9bf3173f9a931a78584687adf34a7d04429e8bec04da74140a553060a1c720ad"
 metafile = true
 
 [[files]]

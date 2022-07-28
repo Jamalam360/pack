@@ -24,4 +24,17 @@ for (const category of Object.keys(categories)) {
   );
 }
 
+// Remove mods that don't have a .pw.toml file
+for (const category of Object.keys(categories)) {
+  const newCategory: string[] = [];
+
+  for (const mod of categories[category]) {
+    if (await exists(`${Deno.args[1]}/${mod}.pw.toml`)) {
+      newCategory.push(mod);
+    }
+  }
+
+  categories[category] = newCategory;
+}
+
 await Deno.writeTextFile(Deno.args[0], JSON.stringify(categories, null, 2));

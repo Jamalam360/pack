@@ -62,7 +62,6 @@
   ],
   "performance": [
     "advancements-debug",
-    "clumps",
     "cull-less-leaves",
     "dynamic-fps",
     "ebe",
@@ -114,7 +113,6 @@
     "pling",
     "rightclickharvest-fabric",
     "sneak-through-berries",
-    "status",
     "statuseffecttimer",
     "totally-balanced-bone-drops",
     "youre-in-grave-danger"
