@@ -119,9 +119,22 @@ ${mods}
   }
 
   @slash()
-  ping(interaction: Interaction) {
+  ping_bot(interaction: Interaction) {
     interaction.respond({
       content: "Pong!",
+    });
+  }
+
+  @slash()
+  ping_server(interaction: Interaction) {
+    fetch(Deno.env.get("SERVER_IP")!).then((_) => {
+      interaction.respond({
+        content: "Successfully pinged the server!",
+      });
+    }).catch((_) => {
+      interaction.respond({
+        content: "Failed to ping the server!",
+      });
     });
   }
 }
