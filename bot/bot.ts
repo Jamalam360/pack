@@ -127,7 +127,7 @@ ${mods}
 
   @slash()
   ping_server(interaction: Interaction) {
-    fetch(Deno.env.get("SERVER_IP")!).then((_) => {
+    fetch(`${Deno.env.get("SERVER_IP")!}:25565`).then((_) => {
       interaction.respond({
         content: "Successfully pinged the server!",
       });
