@@ -1,9 +1,0 @@
-name = "Automobility"
-filename = "automobility-0.0.17.jar"
-side = "both"
-
-[download]
-url = "https://cdn.jamalam.tech/automobility.jar"
-hash-format = "sha1"
-hash = "56a47656ba434ef0f78a55938ae139c7d7dd759e"
-mode = ""
