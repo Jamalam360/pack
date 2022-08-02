@@ -551,11 +551,6 @@ hash = "273dc3a807d97ea6166902e0e5057688ce790479f389cfde3f9006411747fe7b"
 metafile = true
 
 [[files]]
-file = "mods/npc-variety-port.pw.toml"
-hash = "40fdecdeae4efc690b0a894bfd659fdb9b779f434538a557ba5fcc9732f96f7a"
-metafile = true
-
-[[files]]
 file = "mods/oh-the-biomes-youll-go-fabric.pw.toml"
 hash = "5fcd8828fdd03f5ad5656d1143ab8c2dfda8415ed210a4ef3602e3562096b423"
 metafile = true
