@@ -18,7 +18,7 @@ hash = "a30164fa23931e0e675a7945367c3e5b030dbd3b736e01cc2ceb830170ed6424"
 
 [[files]]
 file = "config/clean-logs/config.toml"
-hash = "27414a96efdec9d0006e1bf9c0360e44080bef5ab57d43370e7da4d1e0fe4abc"
+hash = "3d8d09d908b246e205f01a2626c5cb774df42bbf2145f37a964ab0c1672fe417"
 
 [[files]]
 file = "config/debugify.json"
@@ -35,6 +35,10 @@ hash = "36223ff3f8bff97e39d4aa7bf148e353e9f3f6ec6db755fd0abb23c48f58e1e6"
 [[files]]
 file = "config/fallingtree.json"
 hash = "3179fae689777a95853935397c303ba8908b7c4df959d542801c550444b647fc"
+
+[[files]]
+file = "config/global_data_and_resourcepacks.toml"
+hash = "ade2666237c094e76ee84162ae01c19b2f719964b18c9eac12f7e52e69ef9122"
 
 [[files]]
 file = "config/lithium.properties"
@@ -77,8 +81,8 @@ file = "config/yigd.toml"
 hash = "fc64613a95f82a54fcf3ea3ed1e1ededcfe93a340d4953cf43cced1811c317b5"
 
 [[files]]
-file = "global_data_pack/modifications.zip"
-hash = "57f1b02727ef0ddf2096336820ea0412f4342ec3afc9713152c8b8784944788f"
+file = "global_packs/required_data/modifications.zip"
+hash = "2931ef99c76fc52f78c464dbc4207bb65277ce1f6e687db8c36e28d711b295c3"
 
 [[files]]
 file = "mods/addadd.pw.toml"
@@ -661,9 +665,8 @@ hash = "300864871f9e825290721faeb0d2a2a441b337e66e42ae4e7813723660d8495e"
 metafile = true
 
 [[files]]
-file = "mods/singleplayer-yeeter.pw.toml"
+file = "mods/singleplayer-yeeter.pw.toml.ignored"
 hash = "55874bd76bbced38ef4b7504bfe73c3125fc8da145927689fe87a7507a1e5389"
-metafile = true
 
 [[files]]
 file = "mods/sneak-through-berries.pw.toml"

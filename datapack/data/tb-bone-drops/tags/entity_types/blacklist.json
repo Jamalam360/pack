@@ -1,0 +1,28 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:armor_stand",
+    "minecraft:bee",
+    "minecraft:blaze",
+    "minecraft:cave_spider",
+    "minecraft:creeper",
+    "minecraft:elder_guardian",
+    "minecraft:ender_dragon",
+    "minecraft:endermite",
+    "minecraft:ghast",
+    "minecraft:guardian",
+    "minecraft:iron_golem",
+    "minecraft:magma_cube",
+    "minecraft:pufferfish",
+    "minecraft:salmon",
+    "minecraft:shulker",
+    "minecraft:silverfish",
+    "minecraft:slime",
+    "minecraft:snow_golem",
+    "minecraft:spider",
+    "minecraft:tropical_fish",
+    "minecraft:vex",
+    "minecraft:wither",
+    "minecraft:wither_skeleton"
+  ]
+}
