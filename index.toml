@@ -665,8 +665,9 @@ hash = "300864871f9e825290721faeb0d2a2a441b337e66e42ae4e7813723660d8495e"
 metafile = true
 
 [[files]]
-file = "mods/singleplayer-yeeter.pw.toml.ignored"
+file = "mods/singleplayer-yeeter.pw.toml"
 hash = "55874bd76bbced38ef4b7504bfe73c3125fc8da145927689fe87a7507a1e5389"
+metafile = true
 
 [[files]]
 file = "mods/sneak-through-berries.pw.toml"
