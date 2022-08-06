@@ -77,8 +77,8 @@ file = "config/yigd.toml"
 hash = "fc64613a95f82a54fcf3ea3ed1e1ededcfe93a340d4953cf43cced1811c317b5"
 
 [[files]]
-file = "global_data_pack/chlo.zip"
-hash = "ecf15317c48d5478122a01af86dfb0cdb80d4aa752b8d1974885fefdc5c9caf5"
+file = "global_data_pack/modifications.zip"
+hash = "57f1b02727ef0ddf2096336820ea0412f4342ec3afc9713152c8b8784944788f"
 
 [[files]]
 file = "mods/addadd.pw.toml"
