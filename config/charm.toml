@@ -15,7 +15,7 @@
 #Right-click a bat with a bucket to capture it. Right-click again to release it and locate entities around you.
 "BatBuckets Enabled" = false
 #Passive and friendly mobs will heal themselves within range of a beacon with the regeneration effect.
-"BeaconsHealMobs Enabled" = true
+"BeaconsHealMobs Enabled" = false
 #Beekeepers are villagers that trade beekeeping items. Their job site is the beehive.
 "Beekeepers Enabled" = true
 #Ender pearl storage. A silverfish will be converted to an endermite upon touching an ender pearl block.
