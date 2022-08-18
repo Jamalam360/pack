@@ -59,7 +59,7 @@ export async function getModsByCategory(): Promise<ModsByCategory> {
       }
 
       mods[category].push(
-        data.name,
+        `${data.name} (${file.name.split(".pw.toml")[0]})`,
       );
     } else {
       failures++;

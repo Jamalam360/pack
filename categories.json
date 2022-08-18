@@ -62,11 +62,11 @@
   ],
   "performance": [
     "advancements-debug",
-    "clumps",
     "cull-less-leaves",
     "dynamic-fps",
     "ebe",
     "entityculling",
+    "fastbench-for-fabric",
     "ferrite-core",
     "krypton",
     "lazydfu",
@@ -94,6 +94,7 @@
   "quality-of-life": [
     "addadd",
     "advancementinfo",
+    "anvil-fix",
     "appleskin",
     "armor-stand-editor",
     "betterf3",
@@ -111,10 +112,10 @@
     "notrample-fabric",
     "now-playing",
     "ok-zoomer",
+    "overpoweredmending",
     "pling",
     "rightclickharvest-fabric",
     "sneak-through-berries",
-    "status",
     "statuseffecttimer",
     "totally-balanced-bone-drops",
     "youre-in-grave-danger"
@@ -135,8 +136,10 @@
     "quickconnectbutton",
     "simple-voice-chat",
     "singleplayer-yeeter",
+    "spice-of-fabric",
     "ticktock",
     "wdmnf",
+    "wmitaf",
     "worldedit",
     "worldeditcui-fabric",
     "yosbr"

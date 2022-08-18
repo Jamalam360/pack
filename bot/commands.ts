@@ -52,7 +52,22 @@ export const commands: SlashCommandPartial[] = [
   },
   {
     name: "count",
-    "description": "Show the number of mods on the server",
+    description: "Show the number of mods on the server",
+    options: [],
+  },
+  {
+    name: "refresh",
+    description: "Refresh the mod list",
+    options: [],
+  },
+  {
+    name: "ping_bot",
+    description: "Test the bots connection",
+    options: [],
+  },
+  {
+    name: "ping_server",
+    description: "Test the servers connection",
     options: [],
   },
 ];

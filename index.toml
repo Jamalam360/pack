@@ -5,8 +5,8 @@ file = "LICENSE"
 hash = "8759648fd631f4e11e8ef3935fd15b56ea0d0300dfa3d0ba606ef32bac9a32a6"
 
 [[files]]
-file = "categories.json.backup"
-hash = "dc516d2a63bbae9fe09eab89dbc7a26e2029ec02aa180baec906d98bf81b936a"
+file = "config/anvil_fix.json5"
+hash = "b6cc0ffaa47d7d56fa27f2cdd37bd044131debf8347fdb3293e60c2f4121aa1a"
 
 [[files]]
 file = "config/blockbot-discord.toml"
@@ -14,11 +14,11 @@ hash = "db5678efcc39891c54be3141eb709ecc84769937a3719fdee6a992ae2c48d3da"
 
 [[files]]
 file = "config/charm.toml"
-hash = "a30164fa23931e0e675a7945367c3e5b030dbd3b736e01cc2ceb830170ed6424"
+hash = "75fce8047677cc3d6250c49d527ee4328594ba7d8213793fb3dcdb08cdf34d77"
 
 [[files]]
 file = "config/clean-logs/config.toml"
-hash = "27414a96efdec9d0006e1bf9c0360e44080bef5ab57d43370e7da4d1e0fe4abc"
+hash = "3d8d09d908b246e205f01a2626c5cb774df42bbf2145f37a964ab0c1672fe417"
 
 [[files]]
 file = "config/debugify.json"
@@ -37,12 +37,16 @@ file = "config/fallingtree.json"
 hash = "3179fae689777a95853935397c303ba8908b7c4df959d542801c550444b647fc"
 
 [[files]]
+file = "config/global_data_and_resourcepacks.toml"
+hash = "ade2666237c094e76ee84162ae01c19b2f719964b18c9eac12f7e52e69ef9122"
+
+[[files]]
 file = "config/lithium.properties"
 hash = "b099d76bcdc3a4ef7949b91189f05470d3301fc66f8559b9dc159c3c2791509a"
 
 [[files]]
 file = "config/player_events.json"
-hash = "c5fdb41a82ef0a7afa980c44de24ba8a74d85ae50def50f81027cee8bedb6344"
+hash = "1c73325605f8556b708bb6b0f965cad9df03db7df97d9ed53666286afac1d4b4"
 
 [[files]]
 file = "config/quickconnectbutton.json5"
@@ -62,7 +66,7 @@ hash = "3e7b728ab0ee306b0ebf4c735d069001cba70c443134e92b131194c6b2ab5c66"
 
 [[files]]
 file = "config/spiceoffabric.hjson"
-hash = "0418be636c6629749f1fcdeeee3e43d25201956709bb58edec1081e40164f38f"
+hash = "a945af6411a36920404630914e6a47720bbb1bc58fe920ad7b1fb6af10d4b87a"
 
 [[files]]
 file = "config/tb-bone-drops.json"
@@ -77,8 +81,8 @@ file = "config/yigd.toml"
 hash = "fc64613a95f82a54fcf3ea3ed1e1ededcfe93a340d4953cf43cced1811c317b5"
 
 [[files]]
-file = "global_data_pack/chlo.zip"
-hash = "ecf15317c48d5478122a01af86dfb0cdb80d4aa752b8d1974885fefdc5c9caf5"
+file = "global_packs/required_data/modifications.zip"
+hash = "2931ef99c76fc52f78c464dbc4207bb65277ce1f6e687db8c36e28d711b295c3"
 
 [[files]]
 file = "mods/addadd.pw.toml"
@@ -98,6 +102,11 @@ metafile = true
 [[files]]
 file = "mods/animal_feeding_trough.pw.toml"
 hash = "7bd35ab87cc191359f8b7ca64bd6e812ce2cc81f34b75ae22948c2425a2e5e6d"
+metafile = true
+
+[[files]]
+file = "mods/anvil-fix.pw.toml"
+hash = "9bf3173f9a931a78584687adf34a7d04429e8bec04da74140a553060a1c720ad"
 metafile = true
 
 [[files]]
@@ -138,11 +147,6 @@ metafile = true
 [[files]]
 file = "mods/aurorasdecorations.pw.toml"
 hash = "92fe249ead2d0decb579691604fb3b271f2d32b0d9e77a866f6e4629042fe830"
-metafile = true
-
-[[files]]
-file = "mods/automobility.pw.toml"
-hash = "9d1eaef2bf3b25253e8ebda5d70f5de7fc04860d423893862164fd8996c30815"
 metafile = true
 
 [[files]]
@@ -256,11 +260,6 @@ hash = "996cb235d164070b7e2bc0ab6484b04b7cf4fd15e24510346ec860fb52e9ff4f"
 metafile = true
 
 [[files]]
-file = "mods/createaddition.pw.toml"
-hash = "bcd2682f3a80b4ad143f8d8a5f672b7c2beb2ed12dde4a16a52c20d9bcbc748c"
-metafile = true
-
-[[files]]
 file = "mods/createplus.pw.toml"
 hash = "8a4802536ab925162bb3e343137d56d0958453f559a38515ff686f49446e81db"
 metafile = true
@@ -362,7 +361,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "d896ba97d158198f857e0984e32daf27d5e83e7c62b367983897253db90d13ba"
+hash = "3796669c6b537fd6d040f741bf9fd8005dc607fd9571d6f8be340222acc03f92"
 metafile = true
 
 [[files]]
@@ -386,6 +385,11 @@ hash = "41233eadb61c59cd9fb298f21709c79f45c78dc3e03b08c40d0c094c86a821d5"
 metafile = true
 
 [[files]]
+file = "mods/fastbench-for-fabric.pw.toml"
+hash = "dbfff2dfdda7c753ba66269eb2488f8004fc16890f24e728dffd26145a1abbc8"
+metafile = true
+
+[[files]]
 file = "mods/feature-nbt-deadlock-be-gone.pw.toml"
 hash = "f10747649a82c46e6671bf47f5cdbf697e0a8eac40608fbc1c7df6e59e12e07d"
 metafile = true
@@ -406,13 +410,18 @@ hash = "6956e579b5b4be69e89b8dd2818ef10beb4df9d214a52df06c114683030b6e88"
 metafile = true
 
 [[files]]
+file = "mods/force-disable-hud.pw.toml"
+hash = "7c4978dc052b961275b870d6e1415af9661ee5adbbaeb2fbb489d84a597bc84d"
+metafile = true
+
+[[files]]
 file = "mods/gate-of-babylon.pw.toml"
 hash = "832280e1dc3ccd858c8415daf0a92338dd8479c530ac1cb94bddddb9b9fb4b7b"
 metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "810dfe46f616e54d2659432edcab7fa0f0c0c53ea9773ce817647ee483278920"
+hash = "c9267a41da148c0d7c54631208be0b1528772980204c1270b0fe9ce0df3d73f6"
 metafile = true
 
 [[files]]
@@ -551,11 +560,6 @@ hash = "273dc3a807d97ea6166902e0e5057688ce790479f389cfde3f9006411747fe7b"
 metafile = true
 
 [[files]]
-file = "mods/npc-variety-port.pw.toml"
-hash = "40fdecdeae4efc690b0a894bfd659fdb9b779f434538a557ba5fcc9732f96f7a"
-metafile = true
-
-[[files]]
 file = "mods/oh-the-biomes-youll-go-fabric.pw.toml"
 hash = "5fcd8828fdd03f5ad5656d1143ab8c2dfda8415ed210a4ef3602e3562096b423"
 metafile = true
@@ -606,6 +610,11 @@ hash = "dfc73c6ed21d8be632f3d253bd23a921b1e690107a0cd70c63c55a5568278bfd"
 metafile = true
 
 [[files]]
+file = "mods/plymouth.pw.toml"
+hash = "73e80ff271961ec89ff7fb002b5ee33369970dc027e57aa61324ac84a6406d0e"
+metafile = true
+
+[[files]]
 file = "mods/polymer.pw.toml"
 hash = "3a3c57b4ff2dbda353cf855e1420f3a3c432a1ffb513d27a1a2aa63e632ba980"
 metafile = true
@@ -633,11 +642,6 @@ metafile = true
 [[files]]
 file = "mods/reaping.pw.toml"
 hash = "62278562ada13887025093c53feb866db04a14a072e53c53e32344158febeef2"
-metafile = true
-
-[[files]]
-file = "mods/recipe-cache.pw.toml"
-hash = "ef9db68226ba5b454d0a9840af8ba456cb39108427529be843f3b07c9d98b037"
 metafile = true
 
 [[files]]
@@ -708,11 +712,6 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "b51973797d0cc8b656e71b85c4a2143995a4bb599181453ef9b0e7e6e3de549f"
-metafile = true
-
-[[files]]
-file = "mods/status.pw.toml"
-hash = "69091b8c376d250c88e0cef53f77d3416a146cb1b16018e305dcabc670ef6128"
 metafile = true
 
 [[files]]
