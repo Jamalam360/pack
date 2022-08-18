@@ -1,13 +1,13 @@
 name = "Decorative Blocks"
-filename = "Decorative Blocks-fabric-1.18.2-2.1.0.jar"
+filename = "Decorative Blocks-fabric-1.18.2-2.1.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "2574749d52b69cea643898ddf0dc977be174f13e"
+hash = "91351d8491be30b82660898a4fc3fca21f5558fb"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3681918
+file-id = 3932784
 project-id = 362528

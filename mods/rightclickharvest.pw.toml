@@ -1,13 +1,13 @@
 name = "RightClickHarvest"
-filename = "rightclickharvest-2.2.1+1.18.jar"
+filename = "rightclickharvest-3.0.0+1.18.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "27a87da3f269d2d8cb39b172400fe3afdcb75ac8"
+hash = "53b42614800dafed6bb7d8cf013a6326cd8926fe"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3894707
+file-id = 3933075
 project-id = 452834
