@@ -60,14 +60,4 @@ export const commands: SlashCommandPartial[] = [
     description: "Refresh the mod list",
     options: [],
   },
-  {
-    name: "ping_bot",
-    description: "Test the bots connection",
-    options: [],
-  },
-  {
-    name: "ping_server",
-    description: "Test the servers connection",
-    options: [],
-  },
 ];
