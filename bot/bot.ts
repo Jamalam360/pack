@@ -117,26 +117,6 @@ ${mods}
       console.error(err);
     });
   }
-
-  @slash()
-  ping_bot(interaction: Interaction) {
-    interaction.respond({
-      content: "Pong!",
-    });
-  }
-
-  @slash()
-  ping_server(interaction: Interaction) {
-    fetch(`${Deno.env.get("SERVER_IP")!}:25565`).then((_) => {
-      interaction.respond({
-        content: "Successfully pinged the server!",
-      });
-    }).catch((_) => {
-      interaction.respond({
-        content: "Failed to ping the server!",
-      });
-    });
-  }
 }
 
 const client = new Bot();
