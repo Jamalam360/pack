@@ -1,9 +1,0 @@
-name = "TickTock"
-filename = "ticktock-1.3.1.jar"
-side = "both"
-
-[download]
-url = "https://cdn.jamalam.tech/ticktock-1.3.1.jar"
-hash-format = "sha1"
-hash = "a12e2fadde703bd1d28868356ae045b63548afb8"
-mode = ""

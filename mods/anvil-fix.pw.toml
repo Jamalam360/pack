@@ -1,9 +1,0 @@
-name = "Anvil Fix"
-filename = "AnvilFix-1.3.0.jar"
-side = "both"
-
-[download]
-url = "https://cdn.jamalam.tech/AnvilFix-1.3.0.jar"
-hash-format = "sha1"
-hash = "a9d2996a8ce8734004c11ac730dadae8262dbda9"
-mode = ""

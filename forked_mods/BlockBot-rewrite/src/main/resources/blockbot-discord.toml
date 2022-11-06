@@ -1,0 +1,136 @@
+[bot]
+# Discord Bot token
+token = ""
+# Discord guild/server id
+guild =
+
+    # Channel IDs for the bot to use. Only the `chat` channel is required, others can be added or deleted
+    [bot.channels]
+    # Chat relay channel
+    chat =
+    # Console relay channel (can be deleted)
+    console =
+
+[ChatRelay]
+# Allow minecraft chat to mention/ping users and roles
+allowMentions = true
+# Convert discord formatting to minecraft formatting
+convertMarkdown = true
+# Try to escape player markdown sent in game
+escapeIngameMarkdown = false
+
+[ChatRelay.MinecraftFormat]
+# Discord -> Minecraft message format
+# Placeholders: {sender}, {sender_colored}, {top_role}, {message}
+# Supports Simplified Text Format and Placeholder API with server context
+messageFormat = "[<color:#7289DA>Discord</color> | {sender_colored}] {message}"
+# Discord -> Minecraft reply format
+# Placeholders: {sender}, {summary}
+# Supports Simplified Text Format and Placeholder API with server context
+replyFormat = "<gray>(Replying to @{sender}: {summary})</gray>"
+# Try to add images to messages
+appendImages = false
+# Use image interpolation
+imageInterpolation = false
+
+    # Used when not using Webhook
+    [ChatRelay.DiscordMessageFormat]
+
+    # Placeholders: {sender}, {sender_display}, {message}
+    # Supports discord markdown and Placeholder API with player context
+    # Minecraft -> Discord message format
+    messageFormat = "{sender_display} » {message}"
+    # Minecraft -> Discord annoucement format (/say)
+    announcementFormat = "{sender_display} » **{message}**"
+    # Minecraft -> Discord emote format (/me)
+    emoteFormat = "*{sender_display} {message}*"
+
+    # Supports discord markdown and Placeholder API with player context
+    playerJoin = "%player:displayname% joined the game"
+    playerLeave = "%player:displayname% left the game"
+    # Placeholders: {message}
+    playerDeath = "{message}"
+    # Placeholders: {advancement}
+    playerAdvancement = "%player:displayname% has made the advancement [{advancement}]"
+
+    serverStart = ":green_circle: Server Started"
+    serverStop = ":octagonal_sign: Server Stopped"
+
+    [ChatRelay.Webhook]
+    # Use a webhook (less compact) to display player names and avatars
+    useWebhook = true
+    # Name of the webhook for messages not from players
+    webhookName = "Server"
+    # URL for the webhook avatar for messages not from players
+    webhookAvatar = "https://i.imgur.com/IxPg1R2.png"
+    # URL to get the webhook avatar from for players
+    playerAvatarUrl = "https://cravatar.eu/helmavatar/{uuid}/128.png?{texture}"
+
+    # Placeholders: {sender}, {sender_display}, {message}
+    # Supports discord markdown and Placeholder API with player context
+    # Used when using Webhook
+    [ChatRelay.DiscordWebhookFormat]
+    messageFormat = "{message}"
+    announcementFormat = "**{message}**"
+    emoteFormat = "*{sender} {message}*"
+    # Placeholders: {sender}, {sender_display}
+    authorFormat = "{sender}"
+
+[ConsoleRelay]
+# Format to use for the console relay
+pattern = "[%level] (%logger{1}) %msg%n"
+# Minium logger level to show in the console relay. OFF, FATAL, ERROR, WARN, INFO, DEBUG, TRACE, ALL
+minLevel = "INFO"
+# Require administator on discord to use console
+requireAdmin = true
+
+[InlineCommands]
+# Enables the /mc discord slash command to run in game commands from discord
+enabled = true
+# Comma seperated list of the role ID's allowed to use the command
+allowedRoles = []
+# OP permission level to restrict commands
+opLevel = 3
+
+[Presence]
+# The type of presence. Can be "Game", "Listening", "Watching", "Competing"
+# Updates every 400 ticks (20 seconds)
+activityType = "Game"
+activityText = "Minecraft | %server:online%/%server:max_players%"
+
+[MemberCommands]
+# Enables the /playerlist discord slash command to get the players online
+playerList = true
+# Enables the /whitelist discord slash command to allow discord users to whitelist players
+whitelist = false
+
+[Linking]
+# Enable account linking between Minecraft and discord. Enables /link in game and in discord
+enabled = false
+# Requires a linked account to join (Like a whitelist) Shows linking code on disconnect screen
+requireLinking = false
+# Sync the linked users discord nickname to their minecraft username
+nicknameSync = false
+# Comma seperated list of role ID's allowed to join the server. Leave blank to allow any linked account to join. Also restricts /link command in discord
+requiredRoles = []
+# Require linked players to be in the main discord
+requireInServer = false
+# Message to show when linked players try to join without the required role
+requiredRoleDisconnectMessage = "<red>You don't have the required discord role to join"
+# Message to show when unlinked players try to join and requireLinking is true
+unlinkedDisconnectMessage = [
+    "<yellow>A linked Discord account is required to join",
+    "<yellow>Use <gray>/link</gray> in discord to link your account",
+    "<gray>Link Code: <green><bold>{code}",
+    "<gray>Discord: <blue><underline>discord.gg/INVITECODE"
+]
+# Message to inform players they must be in the discord server to join
+notInServerMessage = "<red>You must be in the discord server to join"
+    # Messages for the /link minecraft and discord commands
+    [Linking.Messages]
+    noLinkedAccounts = "<red>There are no matching linked accounts"
+    alreadyLinked = "<red>This account is already linked to <blue>{user}"
+    failedUnlink = "<red>Failed to unlink these accounts!"
+    successfulUnlink = "<blue>Successfully unlinked your account"
+    successfulLink = "Account successfully linked to: {player}"
+    linkCode = "<blue>Link your account with <gray>/link</gray> in discord. Code: <green><bold>{code}"

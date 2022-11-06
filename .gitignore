@@ -1,4 +1,1 @@
-# Exclude exported Modrinth modpacks
-*.mrpack
-tmp/
-.env
+/.vscode

@@ -1,9 +1,0 @@
-name = "Aurora's Decorations"
-filename = "aurorasdecorations-1.0.0+1.18.jar"
-side = "both"
-
-[download]
-url = "https://cdn.jamalam.tech/aurorasdeco.jar"
-hash-format = "sha1"
-hash = "4584ec1d4179c149c05307c8d0e285f6152634ad"
-mode = ""
