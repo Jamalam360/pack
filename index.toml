@@ -1,5 +1,2 @@
 hash-format = "sha256"
-
-[[files]]
-file = ".vscode/settings.json"
-hash = "cecc50415db1ac75d94ff9923802adab07b5130b22763dc037db66744b1260fc"
+files = []

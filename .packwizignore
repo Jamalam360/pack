@@ -1,9 +1,10 @@
 /.git/
 /.gitattributes
-/.github/
+/.github
 /.gitignore
 /.packwizignore
+/.vscode
 /forked_mods
-/git/
+/git
 /LICENSE
 /README.md
