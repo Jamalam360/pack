@@ -1,0 +1,18 @@
+name = "Bobby"
+filename = "bobby-3.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/M08ruV16/versions/3.0.0/bobby-3.0.0.jar"
+hash-format = "sha1"
+hash = "8ffd3e52f4cdcb7fa2ee1fb73de5f3ce869bee48"
+
+[update]
+[update.modrinth]
+mod-id = "M08ruV16"
+version = "lz0tHT2O"
+
+[option]
+optional = true
+default = false
+description = "Allows you to set a view distance higher than that of the server."

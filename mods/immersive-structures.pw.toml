@@ -1,0 +1,13 @@
+name = "Immersive structures"
+filename = "[Universal]Immersive_Structures_v2-0-5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CVBAErky/versions/QhF6sVFu/%5BUniversal%5DImmersive_Structures_v2-0-5.jar"
+hash-format = "sha1"
+hash = "663593d0e139d2311fca810d22280f70500e5175"
+
+[update]
+[update.modrinth]
+mod-id = "CVBAErky"
+version = "QhF6sVFu"

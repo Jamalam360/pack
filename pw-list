@@ -1,0 +1,5 @@
+#!/bin/sh
+
+for mod in $@; do
+  packwiz mr install $mod
+done
