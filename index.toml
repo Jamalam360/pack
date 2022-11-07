@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/additionalbars.pw.toml"
-hash = "1efab601abc21990261cd9ccf043bf05044bf29f62157a3c6cdf0d9ddcc5f1e1"
+hash = "7a43f255e4f1dabfdc53f773ce6560316d00bdf799a180a1182fbb1e2d9e2625"
 metafile = true
 
 [[files]]
@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/bobby.pw.toml"
-hash = "fc655cd3304eca47319fb24180fbec43210ca074ff708efa396c30b57aa5453f"
+hash = "b0d9b09d3ae1e2bab3c0f09f520356b80d7102d037d5d314fb7190d6e6d05fab"
 metafile = true
 
 [[files]]
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/drogtor.pw.toml"
-hash = "d83acdf32bcae0c2751709ffaff41a07a7590ce52b3a2dcace95d9b159862e0c"
+hash = "6aac65adbbc8fba3a165b7207758ce133ff294dc1a0c111b66d22ca3362c310c"
 metafile = true
 
 [[files]]
@@ -222,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "cf0e7548ba5041d756195a52476285c465d26ac8d2fcd55740edd3f8b2ee7660"
+hash = "3f196a5ba67e18f52901014dd413376944faf11cbf2f35722a08ac6195dd363d"
 metafile = true
 
 [[files]]
@@ -301,6 +301,11 @@ hash = "bc3811c1288e336dd62684bc292b7b7613b19bb3438f515af976b57f09ea6d5b"
 metafile = true
 
 [[files]]
+file = "mods/minisculewardenbuff.pw.toml"
+hash = "d46f00309780ca5e9eda74283dfe92e275010f8148342e652954955b86928bcd"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "4ff1e58c9c7fdce5cd5a392987c3013d02ce63ee2ed4149098389a85caac2838"
 metafile = true
@@ -362,7 +367,7 @@ metafile = true
 
 [[files]]
 file = "mods/reaping.pw.toml"
-hash = "027d34d801448ab5fbafdec5c5d85fe735fd6932d292abb1ecce19dfdcb8b99f"
+hash = "4787c1c7902bf0f03e8fe0de4d70363144428d782f9316c6998ec82ef7fcacf3"
 metafile = true
 
 [[files]]
@@ -377,7 +382,7 @@ metafile = true
 
 [[files]]
 file = "mods/right-click-harvest.pw.toml"
-hash = "bc03a7cbaaf53bf32552303319d7c9beff5f20df0c2f91fe6d7233e6649f484f"
+hash = "19a3e8b6c965bd90a100faab65eca26ad530664ef680ab767e11bc7075496a34"
 metafile = true
 
 [[files]]
@@ -392,7 +397,7 @@ metafile = true
 
 [[files]]
 file = "mods/show-me-what-you-got.pw.toml"
-hash = "432d99f2c43e5bd7aa703c4eccc9d6e6fe40d9d1e1b7d5c7ea0e305c8aa142da"
+hash = "5e11ac2d073b0b65f0c1eba950bee36e3545644c7cc2a5b6af2cfc6347e63d51"
 metafile = true
 
 [[files]]
@@ -478,3 +483,8 @@ metafile = true
 [[files]]
 file = "pw-list"
 hash = "a0c333230e89694c0f17b93c001d75d8e892bbdb036814800dae11ccff43740c"
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "81a09fdf6214ee127f845672c0ec7de5465704da34c4c9b3edb55273cbb2ec6f"
+metafile = true
