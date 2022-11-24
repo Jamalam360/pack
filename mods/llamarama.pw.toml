@@ -1,0 +1,13 @@
+name = "Llamarama"
+filename = "Llamarama-1.8.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6PfoSsEE/versions/1.8.4/Llamarama-1.8.4.jar"
+hash-format = "sha1"
+hash = "9edf02692f1d5cc3a42ccbac2a9c5ecc767f67fc"
+
+[update]
+[update.modrinth]
+mod-id = "6PfoSsEE"
+version = "FCaBebrN"

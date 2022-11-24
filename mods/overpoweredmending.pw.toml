@@ -1,0 +1,13 @@
+name = "OverpoweredMending"
+filename = "OverpoweredMending-1.19.2-2.8.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DKzFWXbg/versions/eI71t1Xd/OverpoweredMending-1.19.2-2.8.2.jar"
+hash-format = "sha1"
+hash = "75c33bd77ba03edf09bed5b6b27f48ce57b5c071"
+
+[update]
+[update.modrinth]
+mod-id = "DKzFWXbg"
+version = "eI71t1Xd"

@@ -1,0 +1,9 @@
+name = "Singleplayer Yeeter"
+filename = "singleplayer-yeeter-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://github.com/Jamalam360/singleplayer-yeeter/releases/download/1.0.0/singleplayer-yeeter-1.0.0.jar"
+hash-format = "sha1"
+hash = "e97e9cb83398eebc77badcd457a99f423ee2a5bd"
+mode = ""

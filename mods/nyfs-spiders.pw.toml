@@ -1,0 +1,13 @@
+name = "Nyf's Spiders"
+filename = "spiderstpo-fabric-1.19.2-2.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dOGM7ccu/versions/eEDsVWD7/spiderstpo-fabric-1.19.2-2.0.2.jar"
+hash-format = "sha1"
+hash = "ab902e540737a3dbe3c0c2560bbe76a6131a177c"
+
+[update]
+[update.modrinth]
+mod-id = "dOGM7ccu"
+version = "eEDsVWD7"

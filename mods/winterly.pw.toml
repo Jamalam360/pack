@@ -1,0 +1,13 @@
+name = "Winterly"
+filename = "winterly-0.7.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CEvDfomf/versions/0.7.2/winterly-0.7.2.jar"
+hash-format = "sha1"
+hash = "8e68418798e12ce35b340a567afdc8915a4efcd8"
+
+[update]
+[update.modrinth]
+mod-id = "CEvDfomf"
+version = "1zhzjHPc"

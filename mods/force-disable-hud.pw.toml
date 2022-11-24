@@ -1,0 +1,9 @@
+name = "Force Disable HUD"
+filename = "force-disable-hud-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/JamCoreModding/ForceDisableHud/releases/download/1.0.0/force-disable-hud-1.0.0.jar"
+hash-format = "sha1"
+hash = "9d69b5cc71ca7923378d429fc09c8d6d9103db59"
+mode = ""
