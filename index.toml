@@ -55,11 +55,6 @@ hash = "3804a5ff4cf4fed868bc32faf551053cc32514cf8839f6d6d993f8e78df74947"
 metafile = true
 
 [[files]]
-file = "mods/aurorasdecorations.pw.toml"
-hash = "10924756a73ac458c4ff94ee4c6e0f0591fb2650e56511d779eb3b280624d871"
-metafile = true
-
-[[files]]
 file = "mods/automobility.pw.toml"
 hash = "5969255784945bf4fa184d89e6c32e5b430122161f9c6b2cce08574f46f10c87"
 metafile = true
