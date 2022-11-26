@@ -1,0 +1,15 @@
+name: Deploy Modpack (Next)
+
+on:
+  push:
+    branches:
+      - next
+
+jobs:
+  deploy:
+    runs-on: ubuntu-22.04
+
+    steps:
+      - name: Send API Request
+        run: |
+          curl --silent --show-error --fail -X POST -H "Content-Type: application/json" -H "Authorization: ${{ secrets.API_DEPLOY_KEY }}" https://orion.jamalam.tech/deploy/pack-next

@@ -1,4 +1,4 @@
-name: Deploy Modpack
+name: Deploy Modpack (Main)
 
 on:
   push:
