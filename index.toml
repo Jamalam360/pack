@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/clean-logs/config.toml"
+hash = "2740c8573677fe730fb8475ffda5b7c1e7973bf8663c9074e52e982407be93e5"
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "67c4b2a7175fb35070d95927d7a8d2ff5ff8d9936cd67293a737e08a48f3c661"
 metafile = true
@@ -8,11 +12,6 @@ metafile = true
 [[files]]
 file = "mods/addadd.pw.toml"
 hash = "21d4c1c69be7ea0f9200ab3129fce65f560381618e5565fcaaf52ec02a0b3a48"
-metafile = true
-
-[[files]]
-file = "mods/additionalbars.pw.toml"
-hash = "7a43f255e4f1dabfdc53f773ce6560316d00bdf799a180a1182fbb1e2d9e2625"
 metafile = true
 
 [[files]]
@@ -42,7 +41,7 @@ metafile = true
 
 [[files]]
 file = "mods/arch-ex.pw.toml"
-hash = "db187c4c993bc672831702399b2a46da6aa7b49cb4c8b4dd2fd8c5474895df13"
+hash = "f0e9dfb7405e8c7667a670f398a644ec17ac044dd5404ebe9cbf5aa5bfb907c4"
 metafile = true
 
 [[files]]
@@ -72,7 +71,7 @@ metafile = true
 
 [[files]]
 file = "mods/bclib.pw.toml"
-hash = "cb26574a1fa20ea279b722a7dab37ee96e8946f693242b2d4096c145f80802b6"
+hash = "ab11c99ace12ad9fb23421b896274cb3b3aa0d8e34f8692bd75b00d06e69f9e2"
 metafile = true
 
 [[files]]
@@ -187,7 +186,7 @@ metafile = true
 
 [[files]]
 file = "mods/ct-overhaul-village.pw.toml"
-hash = "b4af96515a0d2f506f605ec20a6d31c4f70f1229437395b021e3747b6f8a4c06"
+hash = "5a055808f4ec61a42f715cb894cc4ce76d6c4edb10555cf6fca2c81046853425"
 metafile = true
 
 [[files]]
@@ -227,7 +226,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "ffc1f6d147394bfeb65b2fb9a78ca7d3365cbf5192c31af1312bc899190e4e34"
+hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
 metafile = true
 
 [[files]]
@@ -297,7 +296,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "1d87f8c04eeed21a9544cfad7f64afee6de58b5249a70b0367ba8522273a4816"
+hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
 metafile = true
 
 [[files]]
@@ -353,11 +352,6 @@ metafile = true
 [[files]]
 file = "mods/immersive-structures.pw.toml"
 hash = "ccb9fe34df1191907006d9d80adc3dc645cf9c88a2f1351623ac6024c4ad2c77"
-metafile = true
-
-[[files]]
-file = "mods/immersive-weathering.pw.toml"
-hash = "9233d882e4c914db72499731aecd18de2c2b0099f9c73f54228e424a7cd3b3e3"
 metafile = true
 
 [[files]]
@@ -476,11 +470,6 @@ hash = "7358029830c4246e9039d12156bb5a0b7aecd128155330783ca8bdb57a12333c"
 metafile = true
 
 [[files]]
-file = "mods/moonlight.pw.toml"
-hash = "eb6ad65bc55853f87bbd72085e690fd914318b94e3108bb6583b8da4363f480b"
-metafile = true
-
-[[files]]
 file = "mods/morechathistory.pw.toml"
 hash = "d1558ff187abe468110fef11eee834aa3c03df732e706ac16e221425b538da4d"
 metafile = true
@@ -557,7 +546,7 @@ metafile = true
 
 [[files]]
 file = "mods/peculiar-pieces.pw.toml"
-hash = "e035370ed454972d212e3c7515d4d8487e9f12a13f2f70c6355b72b9cf9d8635"
+hash = "6dc36572ee7f1dbc169b9ac9bb1210c03541a5e27b028a490a16775d76fedcb2"
 metafile = true
 
 [[files]]
@@ -587,7 +576,7 @@ metafile = true
 
 [[files]]
 file = "mods/quickconnectbutton.pw.toml"
-hash = "28f8c92f35abde6bff7864a64710b79f0c8ba01b5d377fa2f6cf06d3034ae92c"
+hash = "62f6af6480f713e7f643c367a157597b3740f0fc3b9d4234adb391ecab236aaa"
 metafile = true
 
 [[files]]
@@ -612,7 +601,7 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
-hash = "39638667d62782c81ddaa11e7607ceeec5bb7566b3486c9246b9e72c725a7b4f"
+hash = "af0e46a40167fe12c8621a6cbd0281d2e6168e95507c5e94fd3d4eaa88f8d84e"
 metafile = true
 
 [[files]]
@@ -621,8 +610,8 @@ hash = "375e83bd28d7c8ed0c7a2680580f549395558f55c6d61a858719ce9edb8723af"
 metafile = true
 
 [[files]]
-file = "mods/right-click-harvest.pw.toml"
-hash = "19a3e8b6c965bd90a100faab65eca26ad530664ef680ab767e11bc7075496a34"
+file = "mods/rightclickharvest.pw.toml"
+hash = "58895127695d12757a124219ae3f0ca7286d518179368fe3f6d7753604673cb8"
 metafile = true
 
 [[files]]
@@ -773,11 +762,6 @@ metafile = true
 [[files]]
 file = "mods/yigd.pw.toml"
 hash = "fdfab1aaaad776629ecb52c48ee0c933772b8fd89140ce09c81c30b44ce5e9d0"
-metafile = true
-
-[[files]]
-file = "mods/yosbr.pw.toml"
-hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
 metafile = true
 
 [[files]]
