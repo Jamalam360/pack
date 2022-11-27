@@ -1,9 +1,0 @@
-name = "BlockBot"
-filename = "blockbot-discord-2.0.0-beta+build.106.jar"
-side = "server"
-
-[download]
-url = "https://cdn.jamalam.tech/mods/blockbot-discord-2.0.0-beta+build.106.jar"
-hash-format = "sha1"
-hash = "ff7abf99bac0bf6d1edfa2d64383257c77489742"
-mode = ""

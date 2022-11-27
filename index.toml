@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/blockbot-discord.toml"
-hash = "c616cc5920d015368fc76351fd9d64a20f1d622ff84ee7d6097b9210d84b5c76"
-
-[[files]]
 file = "config/clean-logs/config.toml"
 hash = "712f903085a08eebf89055287dc2196626b3d612db8ef789863f5537cd9a0adf"
 
@@ -15,6 +11,10 @@ hash = "bd5a677328664704503322479e66ff1c59eb5fef85922372e353f45368c7f4e2"
 [[files]]
 file = "config/journeymap-server.json"
 hash = "2b77ff82093eb3698b79b2b953806855d1880d414544a8158f41b028d8e293ca"
+
+[[files]]
+file = "config/modfest.json"
+hash = "c314fea523c83ad62a9d99183989370603ff49aee380ae0753138e90987401ce"
 
 [[files]]
 file = "config/quickconnectbutton.json5"
@@ -106,11 +106,6 @@ metafile = true
 [[files]]
 file = "mods/biomesyougo.pw.toml"
 hash = "dbbe09e6693b3c8608f7831b99f66ff57a62a5dfef612295cbe144553abd7336"
-metafile = true
-
-[[files]]
-file = "mods/blockbot.pw.toml"
-hash = "6ec59be78fd779b73e14f878f14104ba8058ecbc33de66a5b93d0bea2f1fa723"
 metafile = true
 
 [[files]]
@@ -381,6 +376,11 @@ metafile = true
 [[files]]
 file = "mods/inspecio.pw.toml"
 hash = "373a56d7f4fb25661a0585492f7ea490e7613f1191e588fec08782438d52e1fd"
+metafile = true
+
+[[files]]
+file = "mods/interlink.pw.toml"
+hash = "447fa5adc48473ce827d4dad6e8d8f13906e38d2e0627dee6db9fc26a87442f1"
 metafile = true
 
 [[files]]
