@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/blockbot-discord.toml"
+hash = "c616cc5920d015368fc76351fd9d64a20f1d622ff84ee7d6097b9210d84b5c76"
+
+[[files]]
 file = "config/clean-logs/config.toml"
 hash = "712f903085a08eebf89055287dc2196626b3d612db8ef789863f5537cd9a0adf"
 
@@ -105,12 +109,8 @@ hash = "dbbe09e6693b3c8608f7831b99f66ff57a62a5dfef612295cbe144553abd7336"
 metafile = true
 
 [[files]]
-file = "mods/blockbot-discord.toml"
-hash = "c616cc5920d015368fc76351fd9d64a20f1d622ff84ee7d6097b9210d84b5c76"
-
-[[files]]
 file = "mods/blockbot.pw.toml"
-hash = "c9435de73a32ab61d7339b196c36fc442e5b865b5f407c0fe084d379e877044a"
+hash = "59ed13c72e01071dc96fd0477f098ab8ac82320061a212ee1c0fc82e6880cedb"
 metafile = true
 
 [[files]]
