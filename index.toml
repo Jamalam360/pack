@@ -174,11 +174,6 @@ hash = "0a82c23063612bf1baf43934323d8fca8dd23ddc2dc0a3db968f72d14b99e887"
 metafile = true
 
 [[files]]
-file = "mods/continents.pw.toml"
-hash = "49d330937c995cb37ad2e070ab1d6b2c13f5ab9be95720d1f99a137e419c62c3"
-metafile = true
-
-[[files]]
 file = "mods/continuity.pw.toml"
 hash = "3cbe3d523b39667928fcc34f71651b0e581e5c541dd5ecf17228464770466bc5"
 metafile = true
