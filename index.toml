@@ -9,6 +9,18 @@ file = "config/fallingtree.json"
 hash = "bd5a677328664704503322479e66ff1c59eb5fef85922372e353f45368c7f4e2"
 
 [[files]]
+file = "config/journeymap-server.json"
+hash = "2b77ff82093eb3698b79b2b953806855d1880d414544a8158f41b028d8e293ca"
+
+[[files]]
+file = "config/quickconnectbutton.json5"
+hash = "e9c32fdbd9c458ea345828e1dec83a5deb9f52b0326e1f8c5f3c645233f91197"
+
+[[files]]
+file = "config/reaping.json"
+hash = "a17c1499f733a981924964fd3c997677d7a5a887d97ed36b0421e00436855b14"
+
+[[files]]
 file = "config/yigd.toml"
 hash = "9c36fe73b45aef51f0c63ef1dc49572da232a2320bc04be97c87a0af360810f5"
 
@@ -25,6 +37,11 @@ metafile = true
 [[files]]
 file = "mods/adorn.pw.toml"
 hash = "a3b079d2a092784d2019e2443c1e47f3e08de10a0bdeab732067c5e45351a96c"
+metafile = true
+
+[[files]]
+file = "mods/advancements-debug.pw.toml"
+hash = "f6620ab34805ef3a7c88b8a83c044e69f15c2034af90bd55820041469e8357fa"
 metafile = true
 
 [[files]]
@@ -58,6 +75,11 @@ hash = "08ac0b6bdf14a0460a1cbd73eee1ecac0494b60a717eb8cbc3e9f97b9a23b2bf"
 metafile = true
 
 [[files]]
+file = "mods/armorstandeditor.pw.toml"
+hash = "05ad8e917843bc4cb4e7a6ba40fcfe07051b60d201d3aa54fab72cc50cc51ed2"
+metafile = true
+
+[[files]]
 file = "mods/attack-on-villager.pw.toml"
 hash = "3804a5ff4cf4fed868bc32faf551053cc32514cf8839f6d6d993f8e78df74947"
 metafile = true
@@ -88,6 +110,15 @@ hash = "dbbe09e6693b3c8608f7831b99f66ff57a62a5dfef612295cbe144553abd7336"
 metafile = true
 
 [[files]]
+file = "mods/blockbot-discord.toml"
+hash = "c616cc5920d015368fc76351fd9d64a20f1d622ff84ee7d6097b9210d84b5c76"
+
+[[files]]
+file = "mods/blockbot.pw.toml"
+hash = "c9435de73a32ab61d7339b196c36fc442e5b865b5f407c0fe084d379e877044a"
+metafile = true
+
+[[files]]
 file = "mods/blur-fabric.pw.toml"
 hash = "f4aeb1d6fd53edd4624eae5df9f5c6225813426f1114e16fdaf4a5a039cffff9"
 metafile = true
@@ -105,6 +136,11 @@ metafile = true
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "5d898bbdb655828c59223382f85016f8328884b3ff176b697c51e8dedaec68c1"
+metafile = true
+
+[[files]]
+file = "mods/cc-restitched.pw.toml"
+hash = "6e8faa4779dca8bafd4cc91cad8f7fe425f6d3d08511463466c6c13b8ffa55dd"
 metafile = true
 
 [[files]]
@@ -145,11 +181,6 @@ metafile = true
 [[files]]
 file = "mods/consistencyplus.pw.toml"
 hash = "0a82c23063612bf1baf43934323d8fca8dd23ddc2dc0a3db968f72d14b99e887"
-metafile = true
-
-[[files]]
-file = "mods/consolemc.pw.toml"
-hash = "a02ca6b255dd3acf58e07a2f2c7d6b29e8ce6afe246f04ac69ae8abc1a0e9a02"
 metafile = true
 
 [[files]]
@@ -274,7 +305,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabrishot.pw.toml"
-hash = "df12767833f6d916dcb6f6b9a75da6a1cbc134600561bc5588c3f0cbca03c93b"
+hash = "c062d901591a485a7957e8b1bb433a4961b06c0614ba1c2a04c5372819c4c298"
 metafile = true
 
 [[files]]
@@ -383,6 +414,11 @@ hash = "f1480d6ab6b5be038d817e0ed9bf8e35d0c81a5902e8f816c474e59af3bd3e29"
 metafile = true
 
 [[files]]
+file = "mods/kaffees_dual_ride.pw.toml"
+hash = "395e906a3ea26e62185f6ad673295ac0d2c09055b46d560f5a6cbc9926e635a8"
+metafile = true
+
+[[files]]
 file = "mods/kofi-table.pw.toml"
 hash = "8726c3ef33756d400f3f5fc00da96608ced3a11742682ef29bd4287225fe70d8"
 metafile = true
@@ -420,11 +456,6 @@ metafile = true
 [[files]]
 file = "mods/llamarama.pw.toml"
 hash = "37f26b3c7b65f156859ebb36eb894ac22977c8551d98c06ed929560db0b91d12"
-metafile = true
-
-[[files]]
-file = "mods/log-cleaner.pw.toml"
-hash = "65a25b591b2afa0767de3426a944495a52721d71a7328daa3639e60dd88a04eb"
 metafile = true
 
 [[files]]

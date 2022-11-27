@@ -1,0 +1,9 @@
+name = "BlockBot"
+filename = "blockbot-discord-2.0.0-beta+build.150.jar"
+side = "server"
+
+[download]
+url = "https://cdn.jamalam.tech/mods/blockbot-discord-2.0.0-beta+build.150.jar"
+hash-format = "sha1"
+hash = "00dc25a550ee232333f8ee7b87a83e8687bd338d"
+mode = ""
