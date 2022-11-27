@@ -1,0 +1,9 @@
+name = "BlockBot API"
+filename = "blockbot-api-1.0.0+build.150.jar"
+side = "server"
+
+[download]
+url = "https://cdn.jamalam.tech/mods/blockbot-api-1.0.0+build.150.jar"
+hash-format = "sha1"
+hash = "3da608dd8a9bf77af56e4a3377472154db20694d"
+mode = ""
