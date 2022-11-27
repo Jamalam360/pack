@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/clean-logs/config.toml"
-hash = "0a5fe55400db60ed71f903dc4454265b02cfcf054d4b22f3251cdcf008c2f924"
+hash = "712f903085a08eebf89055287dc2196626b3d612db8ef789863f5537cd9a0adf"
 
 [[files]]
 file = "config/fallingtree.json"
@@ -77,11 +77,6 @@ metafile = true
 [[files]]
 file = "mods/armorstandeditor.pw.toml"
 hash = "05ad8e917843bc4cb4e7a6ba40fcfe07051b60d201d3aa54fab72cc50cc51ed2"
-metafile = true
-
-[[files]]
-file = "mods/attack-on-villager.pw.toml"
-hash = "3804a5ff4cf4fed868bc32faf551053cc32514cf8839f6d6d993f8e78df74947"
 metafile = true
 
 [[files]]
