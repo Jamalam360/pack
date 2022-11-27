@@ -109,13 +109,8 @@ hash = "dbbe09e6693b3c8608f7831b99f66ff57a62a5dfef612295cbe144553abd7336"
 metafile = true
 
 [[files]]
-file = "mods/blockbot-api.pw.toml"
-hash = "8ac56a7345b1ddd006cfaef9973bb4784c4adcb47a170486ee481f5cd8f2bce1"
-metafile = true
-
-[[files]]
 file = "mods/blockbot.pw.toml"
-hash = "59ed13c72e01071dc96fd0477f098ab8ac82320061a212ee1c0fc82e6880cedb"
+hash = "6ec59be78fd779b73e14f878f14104ba8058ecbc33de66a5b93d0bea2f1fa723"
 metafile = true
 
 [[files]]
