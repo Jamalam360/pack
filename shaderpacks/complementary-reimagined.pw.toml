@@ -15,4 +15,4 @@ project-id = 627557
 [option]
 optional = true
 default = false
-description = "An Iris-Compatible Shader Pack. Iris is required to be installed."
+description = "A beatiful shaderpack."
