@@ -6,7 +6,22 @@ printOnStart = false
 printInitLineOnStart = true
 phrases = [
   "Force-disabling mixin",
-  "Force disabled MC-"
+  "Force disabled MC-",
+  "[ModuleLoader]",
+  "No data fixer registered for",
+  "as a Block",
+  "CPlus Blocks Key Ring",
+  "Set value of",
+  "bug fixes: [",
+  "Registering class",
+  "Registering C2S receiver",
+  "Reigstering S2C receiver",
+  "Encountered duplicate API provider registration",
+  "Unknown model loader: forge:obj",
+  "json5\" was read.",
+  "Loading fallback texture instead.",
+  "Using missing texture, file lambdabettergrass",
+  "Missing sound for event"
 ] # If a log message has one of these phrases, it will be filtered out from logging
 # If a log message matches one of these regex patterns, it will be filtered out from logging
 regex = []

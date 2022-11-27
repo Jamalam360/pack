@@ -2,7 +2,15 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/clean-logs/config.toml"
-hash = "2740c8573677fe730fb8475ffda5b7c1e7973bf8663c9074e52e982407be93e5"
+hash = "0a5fe55400db60ed71f903dc4454265b02cfcf054d4b22f3251cdcf008c2f924"
+
+[[files]]
+file = "config/fallingtree.json"
+hash = "bd5a677328664704503322479e66ff1c59eb5fef85922372e353f45368c7f4e2"
+
+[[files]]
+file = "config/yigd.toml"
+hash = "9c36fe73b45aef51f0c63ef1dc49572da232a2320bc04be97c87a0af360810f5"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
@@ -62,11 +70,6 @@ metafile = true
 [[files]]
 file = "mods/badpackets.pw.toml"
 hash = "63edbd012db544d0590a1cd2563a4973c0316b8033370b41a48c05b0e8e667e5"
-metafile = true
-
-[[files]]
-file = "mods/bclib.pw.toml"
-hash = "ab11c99ace12ad9fb23421b896274cb3b3aa0d8e34f8692bd75b00d06e69f9e2"
 metafile = true
 
 [[files]]
@@ -132,11 +135,6 @@ metafile = true
 [[files]]
 file = "mods/clickthrough.pw.toml"
 hash = "1a4c9d83b0709fd2f91814eb67f81e19bb1493315c42cb65efe911d0f34c5a13"
-metafile = true
-
-[[files]]
-file = "mods/cloak-of-gray-tomorrow.pw.toml"
-hash = "c160ef1f3f879e7ba36ec7a424932911380bd3ac16db3b8170c6c1b2366c0991"
 metafile = true
 
 [[files]]
@@ -255,11 +253,6 @@ hash = "cfcfcb3c97190708fe47074148d803d339713bdaa908b98d57a6ef4e40e053b5"
 metafile = true
 
 [[files]]
-file = "mods/enderscape.pw.toml"
-hash = "0cf50ca461e5fdb9af2ddc0a5d9661b6d578b0897dd6597a875255e4ed656450"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "5f7e8ec1787dc7e2c8556596c2ba53c0dae9828bf1a2d9c6a1f8b8f9ba41dfb7"
 metafile = true
@@ -347,6 +340,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-structures.pw.toml"
 hash = "ccb9fe34df1191907006d9d80adc3dc645cf9c88a2f1351623ac6024c4ad2c77"
+metafile = true
+
+[[files]]
+file = "mods/immersive-weathering.pw.toml"
+hash = "9233d882e4c914db72499731aecd18de2c2b0099f9c73f54228e424a7cd3b3e3"
 metafile = true
 
 [[files]]
@@ -460,8 +458,18 @@ hash = "bc3811c1288e336dd62684bc292b7b7613b19bb3438f515af976b57f09ea6d5b"
 metafile = true
 
 [[files]]
+file = "mods/mixin-conflict-helper.pw.toml"
+hash = "c7388b6ebb78040be98251fb064a009f3d7574133e15d2844e3fadf2929b2980"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "7358029830c4246e9039d12156bb5a0b7aecd128155330783ca8bdb57a12333c"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "eb6ad65bc55853f87bbd72085e690fd914318b94e3108bb6583b8da4363f480b"
 metafile = true
 
 [[files]]
@@ -758,10 +766,6 @@ metafile = true
 file = "mods/yigd.pw.toml"
 hash = "fdfab1aaaad776629ecb52c48ee0c933772b8fd89140ce09c81c30b44ce5e9d0"
 metafile = true
-
-[[files]]
-file = "pw-list"
-hash = "a0c333230e89694c0f17b93c001d75d8e892bbdb036814800dae11ccff43740c"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
