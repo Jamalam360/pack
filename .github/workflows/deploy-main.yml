@@ -4,6 +4,11 @@ on:
   push:
     branches:
       - deploy
+    paths:
+      - '**.toml'
+      - '.packwizignore'
+      - 'config/**'
+
 
 jobs:
   deploy-main:

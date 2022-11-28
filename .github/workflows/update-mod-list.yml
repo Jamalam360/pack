@@ -5,6 +5,9 @@ on:
     branches:
       - deploy
       - next
+    paths:
+      - '**.toml'
+      - 'mod_list.ts'
 
 jobs:
   update-mod-list:
@@ -25,5 +28,5 @@ jobs:
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "[Bot] Update mod list" 
+          commit_message: '[Bot] Update mod list' 
           file_pattern: MODS.md
