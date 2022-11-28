@@ -3,22 +3,49 @@
 import { findPackwizFiles } from "./packwiz_utils.ts";
 import { log } from "./utils.ts";
 
-type CategoryListing = Record<string, string[]>;
+type CategoryListing = Record<string, { name: string; url: string; description: string; }[]>;
 
 // Overrides of mods that are not on Modrinth, since I am not dealing with
-// the Curseforge API docs.
-const OVERRIDES: CategoryListing = {};
+// the Curseforge API.
+const OVERRIDES: CategoryListing = {
+  "Shaderpacks": [
+    {
+      name: "Complementary Reimagined Shaders",
+      url: "https://www.curseforge.com/minecraft/customization/complementary-reimagined",
+      description: "A Minecraft Java Edition shaderpack that aims for perfection"
+    },
+    {
+      name: "MakeUp UltraFast Shaders",
+      url: "https://www.curseforge.com/minecraft/customization/makeup-ultrafast-shader",
+      description: "A performant Minecraft Java Edition shaderpack"
+    }
+  ],
+  "Utility": [
+    {
+      name: "Singleplayer Yeeter",
+      url: "https://git.jamalam.tech/singleplayer-yeeter",
+      description: "Removes singleplayer to prevent cheating"
+    },
+    {
+      name: "Force Disable HUD",
+      url: "https://git.jamalam.tech/force-disable-hud",
+      description: "Allows admins to disable the HUD for players"
+    }
+  ]
+};
 
 export async function walkAndFindCategories(): Promise<CategoryListing> {
   if (!Deno.cwd().endsWith("pack")) {
     throw new Error("Expected CWD to be `pack`");
   }
 
-  const pwFiles = (await findPackwizFiles(Deno.cwd()));
+  const pwFiles = await findPackwizFiles(Deno.cwd());
   const categories: CategoryListing = {};
 
   for (const toml of pwFiles) {
-    let category: string | string[] | null = null;
+    let category: string | string[] | null= null;
+    let url: string | null = null;
+    let description: string | null = null;
 
     if (toml.update?.modrinth?.["mod-id"]) {
       log(
@@ -36,29 +63,39 @@ export async function walkAndFindCategories(): Promise<CategoryListing> {
           },
         },
       ).then((r) => r.json());
+
       category = res["categories"];
+      url = res[`https://modrinth.com/project/${res["slug"]}`];
+      description = res["description"];
     } else {
       for (const override of Object.entries(OVERRIDES)) {
-        if (override[1].includes(toml.name)) {
+        if (override[1].filter((v) => v.name === toml.name).length > 0) {
           category = override[0];
+          url = override[1].find((v) => v.name === toml.name)?.url || null;
+          description = override[1].find((v) => v.name === toml.name)?.description || null;
         }
       }
     }
 
-    if (category == null) {
-      log("Error", `Couldn't find category for mod ${toml.name}`);
-      categories["Unknown"] = categories["Unknown"] || [];
-      categories["Unknown"].push(toml.name);
+    if (category == null || url == null || description == null) {
+      log("Error", `Couldn't find properties for mod ${toml.name}`);
     } else {
       if (Array.isArray(category)) {
         for (const cat of category) {
           categories[cat] = categories[cat] || [];
-          categories[cat].push(toml.name);
+          categories[cat].push({
+            name: toml.name,
+            url,
+            description,
+          });
         }
       } else {
         categories[category] = categories[category] || [];
-
-        categories[category] = [toml.name];
+        categories[category].push({
+          name: toml.name,
+          url,
+          description,
+        });
       }
     }
   }
@@ -86,9 +123,9 @@ Some mods are included in multiple categories.
 
 ${
     sortedCategories.map((v) =>
-      `## ${v[0][0].toUpperCase() + v[0].slice(1)})
+      `## ${v[0][0].toUpperCase() + v[0].slice(1)}
 
-${v[1].map((v) => `- ${v}`).join("\n")}
+${v[1].map((v) => `- **${v.url ? `[${v.name}](${v.url})` : v.name}**` + ` - ${v.description}`).join("\n")}
 `
     ).join("\n")
   }
