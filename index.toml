@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "MODS.md"
-hash = "338f27bbdf19a1e09c351e8dd339258f22ae7283ea767c3be5456285ccf179ba"
+hash = "36a926f3d6dcbaf4b76a366de626c2412eb2e550fab9ff0c2c8f364d3d814834"
 
 [[files]]
 file = "config/clean-logs/config.toml"
@@ -198,11 +198,6 @@ hash = "e6ce78af13cd662ab6dedf5c67d8b9d9210b66242593cf1be08f45ed935d4af7"
 metafile = true
 
 [[files]]
-file = "mods/ct-overhaul-village.pw.toml"
-hash = "5a055808f4ec61a42f715cb894cc4ce76d6c4edb10555cf6fca2c81046853425"
-metafile = true
-
-[[files]]
 file = "mods/cull-less-leaves.pw.toml"
 hash = "c06e098c6d6eda6da4492e4a8dff1796e6081bbd30f487ffb89e1ed3c485e805"
 metafile = true
@@ -278,6 +273,11 @@ hash = "5f7e8ec1787dc7e2c8556596c2ba53c0dae9828bf1a2d9c6a1f8b8f9ba41dfb7"
 metafile = true
 
 [[files]]
+file = "mods/expanded-delight.pw.toml"
+hash = "26ce46903b0f7c33c0d54f20967ded566fbc9910d72151810b2eb7e475077c7b"
+metafile = true
+
+[[files]]
 file = "mods/extended-drawers.pw.toml"
 hash = "8d8c5a1095b1176dd838b0352d8931edfe9d76b7fc77e9d18a6af07422428a55"
 metafile = true
@@ -300,6 +300,16 @@ metafile = true
 [[files]]
 file = "mods/fallingtree.pw.toml"
 hash = "99f6a7efa6c8946aacfa1465ad8a2912cdf3233dc09a5788ad5d7f6d679836b4"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-fabric.pw.toml"
+hash = "b8d91a91ac8820ed7c99c12636c7de0a3e93ef825c1925d4a9287b443cd65f92"
+metafile = true
+
+[[files]]
+file = "mods/farmers-knives.pw.toml"
+hash = "107563b14c3db74a73711747ce8edcf25be6f6c8bdcc4634b170665371cf3077"
 metafile = true
 
 [[files]]
@@ -333,8 +343,18 @@ hash = "173f85a293b5f5fa525213de66e6b4cfcc45f1010888029458a6dd4b4b848e9a"
 metafile = true
 
 [[files]]
+file = "mods/guarding.pw.toml"
+hash = "181b07b6b2ec766b87c8b8c211293a354e4b56d772bf36a38e238b6f7d8be0d3"
+metafile = true
+
+[[files]]
 file = "mods/half-doors.pw.toml"
 hash = "fd34910c7292b2b48bb57c2b348c968cf5ea58f7c19683bf662ef801d167e233"
+metafile = true
+
+[[files]]
+file = "mods/horsebuff.pw.toml"
+hash = "a1f6e5c7010b82cc022a4ae37290966eff652658a0d0f6598d6519f068b659ae"
 metafile = true
 
 [[files]]
@@ -370,6 +390,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
+metafile = true
+
+[[files]]
+file = "mods/infusion-table.pw.toml"
+hash = "72532616ed2a4c5680463ba5ad0030152b66bdc4ec00ede0f1bef0a7e45bd07f"
 metafile = true
 
 [[files]]
@@ -588,13 +613,13 @@ hash = "5b14896e72e778df83fca0b37b6923640541aff1ac3dafc2db38fe98afb1342f"
 metafile = true
 
 [[files]]
-file = "mods/pressalttomeow.pw.toml"
-hash = "812e15c00f56405e369d7ad9548a868d95f42d201a98639e8212ce7bb8aa9247"
+file = "mods/plushie.pw.toml"
+hash = "91c8f12f4b35547f32d868157c5d869f4ef7c31214f717c3ef76effc176700bc"
 metafile = true
 
 [[files]]
-file = "mods/promenade.pw.toml"
-hash = "347ccf45370cce05e8341ae2c2ef987ad2af7b2763335943b1788fac6599fca8"
+file = "mods/pressalttomeow.pw.toml"
+hash = "812e15c00f56405e369d7ad9548a868d95f42d201a98639e8212ce7bb8aa9247"
 metafile = true
 
 [[files]]
@@ -653,6 +678,11 @@ hash = "672f3809a2053eef01aea4015ca4b0d4be6c507622172c091c17833b8d2ffb39"
 metafile = true
 
 [[files]]
+file = "mods/simple-discord-rpc.pw.toml"
+hash = "17673fa7be93d2bab46ab24fdf8d821e890122b37934a715191d01054ac372d2"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "478cd1ce1a766d8d27a4c0b35eb630628117d997e11e2270d2dfe8eb3231a9bf"
 metafile = true
@@ -693,13 +723,13 @@ hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
 metafile = true
 
 [[files]]
-file = "mods/tectonic.pw.toml"
-hash = "d03bc83d4497da2cc974b4eb9deb6428385e7e61cb860f438fe04f91f703fe76"
+file = "mods/tax-free-levels.pw.toml"
+hash = "d881b77b7acaaa149d385bbfe00f95135add06d8153a76e569a119fbc33e4d25"
 metafile = true
 
 [[files]]
-file = "mods/terrestria.pw.toml"
-hash = "14b90cddf1bb8d0ae49d2383e7e515f578930252a7e5f7d7f22a65b628fabca5"
+file = "mods/the-graveyard-fabric.pw.toml"
+hash = "777dbe5953942756dfa642b0503146fc4cc6a82f50cf5aa4122fece8907ba3bb"
 metafile = true
 
 [[files]]
@@ -718,11 +748,6 @@ hash = "26d8e1910d9054354b5e8c55c97167a76a0266fe73279aa302d35d1c9a0aaf9b"
 metafile = true
 
 [[files]]
-file = "mods/traverse.pw.toml"
-hash = "922979ee7eb9e1b16f1e1a64fd644f8e9a6c9045876946e61acc874b2e07745f"
-metafile = true
-
-[[files]]
 file = "mods/trinkets.pw.toml"
 hash = "b3acdba79cfef7e53cfd4df8dd6e7cbbe4eeae75972bf65fa2a6aaef034f4b8e"
 metafile = true
@@ -735,6 +760,11 @@ metafile = true
 [[files]]
 file = "mods/utility-belt.pw.toml"
 hash = "bd8b1d6b71204c2b6548c38ccef1add5570b6c06472d3fdc37d65ee6b9da501b"
+metafile = true
+
+[[files]]
+file = "mods/villager-hats.pw.toml"
+hash = "25bebe455474370ab23503a43ed39ea7905f87108a68eeaa9186f66e4729363c"
 metafile = true
 
 [[files]]
