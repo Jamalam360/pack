@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "MODS.md"
-hash = "4bfac8c1eac130ed6a9130443c23eef22c624ffd45eea1d9c996fb63c1aa581b"
-
-[[files]]
 file = "config/Adorn.json5"
 hash = "12a3d702b24ca95630a58e61525dbc723301ab17cc2cfb0ad9ddc5cbec11bf46"
 
