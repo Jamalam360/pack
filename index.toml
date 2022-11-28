@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "MODS.md"
-hash = "36a926f3d6dcbaf4b76a366de626c2412eb2e550fab9ff0c2c8f364d3d814834"
+hash = "4bfac8c1eac130ed6a9130443c23eef22c624ffd45eea1d9c996fb63c1aa581b"
 
 [[files]]
 file = "config/Adorn.json5"
@@ -729,6 +729,11 @@ metafile = true
 [[files]]
 file = "mods/tax-free-levels.pw.toml"
 hash = "d881b77b7acaaa149d385bbfe00f95135add06d8153a76e569a119fbc33e4d25"
+metafile = true
+
+[[files]]
+file = "mods/terrablender-fabric.pw.toml"
+hash = "199bf931e17458fa299e16fc5f761241dde9ff1f9e62fe33e52acdcc1fcc2aa0"
 metafile = true
 
 [[files]]

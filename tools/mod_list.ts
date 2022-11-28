@@ -30,6 +30,11 @@ const OVERRIDES: CategoryListing = {
       name: "Force Disable HUD",
       url: "https://git.jamalam.tech/force-disable-hud",
       description: "Allows admins to disable the HUD for players"
+    },
+    {
+      name: "TerraBlender (Fabric)",
+      url: "https://www.curseforge.com/minecraft/mc-mods/terrablender-fabric",
+      description: "TerraBlender is a library mod for adding biomes in a simple and compatible manner with Minecraft's new biome/terrain system."
     }
   ]
 };
