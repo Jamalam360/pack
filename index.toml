@@ -5,6 +5,10 @@ file = "MODS.md"
 hash = "36a926f3d6dcbaf4b76a366de626c2412eb2e550fab9ff0c2c8f364d3d814834"
 
 [[files]]
+file = "config/Adorn.json5"
+hash = "12a3d702b24ca95630a58e61525dbc723301ab17cc2cfb0ad9ddc5cbec11bf46"
+
+[[files]]
 file = "config/clean-logs/config.toml"
 hash = "712f903085a08eebf89055287dc2196626b3d612db8ef789863f5537cd9a0adf"
 
