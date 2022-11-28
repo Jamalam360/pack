@@ -683,6 +683,11 @@ hash = "af0e46a40167fe12c8621a6cbd0281d2e6168e95507c5e94fd3d4eaa88f8d84e"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "7248dc2b8208c4b315a8b4f521a47da3bf7a592728333a8a3e298aea29625639"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "375e83bd28d7c8ed0c7a2680580f549395558f55c6d61a858719ce9edb8723af"
 metafile = true
