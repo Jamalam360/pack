@@ -548,11 +548,6 @@ hash = "d1558ff187abe468110fef11eee834aa3c03df732e706ac16e221425b538da4d"
 metafile = true
 
 [[files]]
-file = "mods/morefrogs.pw.toml"
-hash = "213938169a69fe26d343bcef7c90c50f2b9b13e46b3d9ad7c37ef81cd2a14d7b"
-metafile = true
-
-[[files]]
 file = "mods/mythicmetals.pw.toml"
 hash = "be1ce20605a70f13c36516dae3df5b83608ba7bf4e2c8c921c76b477483f0867"
 metafile = true
