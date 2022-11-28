@@ -4,8 +4,8 @@
 /.gitignore
 /.packwizignore
 /.vscode
-/forked_mods
 /git
+/tools
 /LICENSE
 /README.md
 /TODO.md

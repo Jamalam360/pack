@@ -2,8 +2,6 @@
 
 My Quilt modpack, currently targeting 1.19.2.
 
-## Forked Mods
+The `deploy` branch is automatically served at [pack.jamalam.tech](https://pack.jamalam.tech), and the `next` branch at [pack-next.jamalam.tech](https://pack-next.jamalam.tech)
 
-Mods in the `forked_mods` directory are forked from other repositories.
-Directories in the `forked_mods` directory are licensed under their respective
-licenses. The forks contain a few modifications to fit my modpack's needs.
+`Launcher.zip` is a MultiMC (and forks) compatible profile export. 
