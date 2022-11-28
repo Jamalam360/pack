@@ -1,0 +1,13 @@
+name = "Illager Expansion [Rematch]"
+filename = "Illager-Expansion-Rematch-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BANfajzS/versions/1.0.0/Illager-Expansion-Rematch-1.0.0.jar"
+hash-format = "sha1"
+hash = "41f33f745fc09bb916019244a56d4fb21f2f963a"
+
+[update]
+[update.modrinth]
+mod-id = "BANfajzS"
+version = "NPGsIVcP"

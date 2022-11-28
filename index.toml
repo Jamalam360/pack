@@ -34,7 +34,7 @@ hash = "9c36fe73b45aef51f0c63ef1dc49572da232a2320bc04be97c87a0af360810f5"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
-hash = "67c4b2a7175fb35070d95927d7a8d2ff5ff8d9936cd67293a737e08a48f3c661"
+hash = "3445ad787dcf5be534aab140c9620a7dfa737cd684080cb1f04a7606febd279c"
 metafile = true
 
 [[files]]
@@ -208,11 +208,6 @@ hash = "ee791485dbd1008c51079c693960b6555311d2fc44d2a4901b7f4455d00eea24"
 metafile = true
 
 [[files]]
-file = "mods/dawn.pw.toml"
-hash = "4a13d096e82525f8cd4eb0e8c14f43929d11d7d8b54d7d34a981f7ac29614699"
-metafile = true
-
-[[files]]
 file = "mods/debugify.pw.toml"
 hash = "783c0415795fc4bea6d85315aac54d3a3f2770fcd02d66dad1f626b311f8bf4f"
 metafile = true
@@ -220,6 +215,11 @@ metafile = true
 [[files]]
 file = "mods/deeperdarker.pw.toml"
 hash = "7c319e5948529ed86793dbd517f9445ffd27547a60e8d97d63e8234e736e72e7"
+metafile = true
+
+[[files]]
+file = "mods/delightful-froge.pw.toml"
+hash = "b73afcd78c08f4062c4be7e113f91764cd9fa8934f2a12f3202b43e84d3d1cda"
 metafile = true
 
 [[files]]
@@ -373,6 +373,11 @@ hash = "6fd7515689f5d615195b919471c55704adb1937ca5f78950b238b9b45ecb1b07"
 metafile = true
 
 [[files]]
+file = "mods/illager-expansion-rematch.pw.toml"
+hash = "fa5530839aad943f430618d03a19c4f5fdfaa42fa35273be0ec9806f595cd363"
+metafile = true
+
+[[files]]
 file = "mods/illagers-love-armor.pw.toml"
 hash = "73cf4e8c2ad582db9c44ecd9ba3f4327bbd4dcb51afb271842ec642984c66938"
 metafile = true
@@ -493,6 +498,16 @@ hash = "9c9e53faff783784eec9c61aebd38368ebfd6c1a730f46941ad84b49a68c1902"
 metafile = true
 
 [[files]]
+file = "mods/mavapi.pw.toml"
+hash = "bfd9ad066f951b9292c7cfc71eb052418640134c7d54a6289b01c9b61443da82"
+metafile = true
+
+[[files]]
+file = "mods/mavm.pw.toml"
+hash = "1666b7be35ee758e442f14c9f2eb21253b68447c89a1b6efe473c29c43884a47"
+metafile = true
+
+[[files]]
 file = "mods/mbembe.pw.toml"
 hash = "e822ea1051d683db8fe3b780101e2912186757178b294ff80aa4c554d46c86d6"
 metafile = true
@@ -500,6 +515,11 @@ metafile = true
 [[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "9421355a24881292851803d45726a5aebce4c5a5863793d7d373565b4fceb1eb"
+metafile = true
+
+[[files]]
+file = "mods/mimic.pw.toml"
+hash = "4ac042bd40887184574cb152c49344380bffdc8f036fb42e8792efa0731981da"
 metafile = true
 
 [[files]]
@@ -528,8 +548,13 @@ hash = "d1558ff187abe468110fef11eee834aa3c03df732e706ac16e221425b538da4d"
 metafile = true
 
 [[files]]
+file = "mods/morefrogs.pw.toml"
+hash = "213938169a69fe26d343bcef7c90c50f2b9b13e46b3d9ad7c37ef81cd2a14d7b"
+metafile = true
+
+[[files]]
 file = "mods/mythicmetals.pw.toml"
-hash = "8a820398fee4850ce4b1839cde459a40ece4dd6a185d433bc6f4ce6ff80093f1"
+hash = "be1ce20605a70f13c36516dae3df5b83608ba7bf4e2c8c921c76b477483f0867"
 metafile = true
 
 [[files]]
@@ -589,7 +614,7 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "cf864900e82329abb22fa518ec66b6970c5cdd2765b2631276479a0d11e88258"
+hash = "853b51a21cf6c4824794dbb381f8951a1c627898ded2758eec144dc0422880eb"
 metafile = true
 
 [[files]]
@@ -624,7 +649,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "d34e602a503bc217e9e88ee9fb5389df14df0fd0fac247ff86d54df5c5176d76"
+hash = "69bf1ea45cd45cabbf4c2bf8d0a2b383b21faef7d31ef49fa315d392c85d612e"
 metafile = true
 
 [[files]]
@@ -668,8 +693,13 @@ hash = "58895127695d12757a124219ae3f0ca7286d518179368fe3f6d7753604673cb8"
 metafile = true
 
 [[files]]
+file = "mods/rottencreatures.pw.toml"
+hash = "3695e7bbeed755d9f746f114dd5329e854b2ceecf39bab90844427a083c269ce"
+metafile = true
+
+[[files]]
 file = "mods/rpgstats.pw.toml"
-hash = "a22906cd5f861bd92dae287dd2e4fceafbaa68b3cb95e770645289b59e7c1b74"
+hash = "58b176fee7a7ffac11989bf6d7631642ef130f6af25543ab8327d5fbcd5f3d87"
 metafile = true
 
 [[files]]
@@ -824,7 +854,7 @@ metafile = true
 
 [[files]]
 file = "mods/yigd.pw.toml"
-hash = "fdfab1aaaad776629ecb52c48ee0c933772b8fd89140ce09c81c30b44ce5e9d0"
+hash = "dcfc9996df859731e571721ffef8006ade14f3c2a2f26c716beca15575eb3ce6"
 metafile = true
 
 [[files]]
