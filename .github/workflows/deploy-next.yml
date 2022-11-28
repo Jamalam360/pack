@@ -8,6 +8,7 @@ on:
       - '**.toml'
       - '.packwizignore'
       - 'config/**'
+      - '.github/workflows/deploy-next.yml'
 
 jobs:
   deploy-next:

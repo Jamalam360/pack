@@ -7,7 +7,8 @@ on:
       - next
     paths:
       - '**.toml'
-      - 'mod_list.ts'
+      - 'tools/mod_list.ts'
+      - '.github/workflows/update-mod-list.yml'
 
 jobs:
   update-mod-list:

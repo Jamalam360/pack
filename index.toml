@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "MODS.md"
-hash = "869d07e938dfc4d48842961656536946b9e1f4258a10f395fcdf048123621bc7"
+hash = "338f27bbdf19a1e09c351e8dd339258f22ae7283ea767c3be5456285ccf179ba"
 
 [[files]]
 file = "config/clean-logs/config.toml"
