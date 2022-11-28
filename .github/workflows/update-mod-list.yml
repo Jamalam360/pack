@@ -1,4 +1,4 @@
-name: Deploy Modpack (Main)
+name: Update Mod List
 
 on:
   push:
@@ -15,9 +15,9 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Install Deno
-        uses: denoland/setup-deno@v2
+        uses: denoland/setup-deno@v1
         with:
-          deno-version: v1.28.0
+          deno-version: v1.x
 
       - name: Run Update Mod List Script
         run: |
