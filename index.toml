@@ -428,6 +428,11 @@ hash = "e6895b572857d6381b9c5c8d153eb6606b3cd2755feec53ff3905d025656a124"
 metafile = true
 
 [[files]]
+file = "mods/itemflexer.pw.toml"
+hash = "09d4670f42246d78e5c47aced194f908f051c8dd990def5f4a3e0530f0b0871d"
+metafile = true
+
+[[files]]
 file = "mods/jamlib.pw.toml"
 hash = "dab1b9951ec4ae8702752293bda463f07db441a63a46525c8c8c342a5a982c5a"
 metafile = true
