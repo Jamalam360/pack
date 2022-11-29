@@ -339,7 +339,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "173f85a293b5f5fa525213de66e6b4cfcc45f1010888029458a6dd4b4b848e9a"
+hash = "442019be001e642ad213b5dac7bc3f8587548f537221b3663ee4418c5353e342"
 metafile = true
 
 [[files]]
@@ -614,7 +614,7 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "853b51a21cf6c4824794dbb381f8951a1c627898ded2758eec144dc0422880eb"
+hash = "2961f0039fb0529ef5e81212a386f53e414fde5bb192e659281c5936755745ad"
 metafile = true
 
 [[files]]
