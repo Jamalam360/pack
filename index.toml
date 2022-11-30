@@ -289,7 +289,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "2d6dd083a7b01b1035a52c09a088137b930ea6f0f8f28ae3e0ba23f05937e3ef"
+hash = "3cb8e30672e6f29d7a0ee663f4239cb7374eb8ab44c82d1fc9382b56a8dc7b58"
 metafile = true
 
 [[files]]
@@ -474,7 +474,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "3f4546dc01dae84072184dca9687f0930a6ffe784adb8bf7ccc0eee91c19059f"
+hash = "1d524da25eef44c7cf2632b787b5441412a3d38309d7b9fba2bd13703b30a3f4"
 metafile = true
 
 [[files]]
@@ -604,7 +604,7 @@ metafile = true
 
 [[files]]
 file = "mods/overlord.pw.toml"
-hash = "7360bfb2ae4ba319db11a89b3dd6fc2568c9f83e3929689f70f0776b21348992"
+hash = "e9d290ee09b51053d2169dac3f058aa8dfe6ffe054c86780cbf2ad0aebac68aa"
 metafile = true
 
 [[files]]
@@ -684,7 +684,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-config.pw.toml"
-hash = "7248dc2b8208c4b315a8b4f521a47da3bf7a592728333a8a3e298aea29625639"
+hash = "60459eaf41dac32f24c64d9116299a6f2ded346421c5570ca7b0f568798341a5"
 metafile = true
 
 [[files]]
@@ -719,7 +719,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "478cd1ce1a766d8d27a4c0b35eb630628117d997e11e2270d2dfe8eb3231a9bf"
+hash = "83dd43e2ae6a86eb5596c223d5581a4ed6b6b12aa35e4fff227e27f3e467ffee"
 metafile = true
 
 [[files]]
