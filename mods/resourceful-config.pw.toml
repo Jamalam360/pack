@@ -1,13 +1,13 @@
 name = "Resourceful Config"
-filename = "resourcefulconfig-fabric-1.19.2-1.0.8.jar"
+filename = "resourcefulconfig-fabric-1.19.2-1.0.11.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/M1953qlQ/versions/AmKXTTvt/resourcefulconfig-fabric-1.19.2-1.0.8.jar"
+url = "https://cdn.modrinth.com/data/M1953qlQ/versions/CC4DR9Ew/resourcefulconfig-fabric-1.19.2-1.0.11.jar"
 hash-format = "sha1"
-hash = "5bbe839babcf6eca5be878fd17109838f0f5cf92"
+hash = "3e0afca0e8dc8e34c62a7dadf07eaa6d9f3cf568"
 
 [update]
 [update.modrinth]
 mod-id = "M1953qlQ"
-version = "AmKXTTvt"
+version = "CC4DR9Ew"

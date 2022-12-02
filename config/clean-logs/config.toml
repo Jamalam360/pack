@@ -13,16 +13,19 @@ phrases = [
   "CPlus Blocks Key Ring",
   "Set value of",
   "bug fixes: [",
-  "Registering class",
+  "Registered class observable",
   "Registering C2S receiver",
-  "Reigstering S2C receiver",
+  "Registering S2C receiver",
   "Encountered duplicate API provider registration",
   "Unknown model loader: forge:obj",
   "json5\" was read.",
   "Loading fallback texture instead.",
   "Using missing texture, file lambdabettergrass",
   "Missing sound for event",
-  "Incorrect key"
+  "Incorrect key",
+  "[WTHIT]",
+  "See debugging.md for more information.",
+  "Reloading ResourceManager: Default"
 ] # If a log message has one of these phrases, it will be filtered out from logging
 # If a log message matches one of these regex patterns, it will be filtered out from logging
 regex = []

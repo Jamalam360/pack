@@ -6,7 +6,7 @@ hash = "12a3d702b24ca95630a58e61525dbc723301ab17cc2cfb0ad9ddc5cbec11bf46"
 
 [[files]]
 file = "config/clean-logs/config.toml"
-hash = "712f903085a08eebf89055287dc2196626b3d612db8ef789863f5537cd9a0adf"
+hash = "13330b6207bb72c615ae969adc9ee6f6356464d9aad1210a693d3ded0d85b88f"
 
 [[files]]
 file = "config/fallingtree.json"
@@ -153,11 +153,6 @@ hash = "ff8960a3bf63e66854c676cf1db8b88c6666bc526e3d3562be297d94c528472a"
 metafile = true
 
 [[files]]
-file = "mods/charmonium.pw.toml"
-hash = "ccc10f99cb19427bbe111efeecce5c2934a02d4294b2fedc3ef1e7fdc60771d3"
-metafile = true
-
-[[files]]
 file = "mods/chunky.pw.toml"
 hash = "b52cd1f4295d855882a41b5f164385e2ba460d7766a2e2e6183ef56c00c824ab"
 metafile = true
@@ -254,7 +249,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi-loot.pw.toml"
-hash = "491154e7685a65eee47541ed5ea37b9c66620180818f3626471acabd7b702c06"
+hash = "45bc6548fdb9ca4fe85e0b69cafddd89ef0ada5f9954154fea99988caf0a8749"
 metafile = true
 
 [[files]]
@@ -509,7 +504,7 @@ metafile = true
 
 [[files]]
 file = "mods/mavapi.pw.toml"
-hash = "bfd9ad066f951b9292c7cfc71eb052418640134c7d54a6289b01c9b61443da82"
+hash = "a6c66745ff4e44c84d89d2bffe88413d0209252392ee9f7776aba3c30e8b9de9"
 metafile = true
 
 [[files]]
@@ -654,7 +649,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "69bf1ea45cd45cabbf4c2bf8d0a2b383b21faef7d31ef49fa315d392c85d612e"
+hash = "d7206d61ecd2c452b047966b6823c81ac4910eafcc113945799bf5d7c20812c4"
 metafile = true
 
 [[files]]
@@ -679,7 +674,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "1c6d01b013b9e8c6dd921046adc7c7768814c17a0fde45cbe695c8e2de40f8be"
+hash = "b2e3be698473bfb3f08865a11e74c9ee8d47239ac72a79d60acc1ee381722a50"
 metafile = true
 
 [[files]]
@@ -689,7 +684,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-config.pw.toml"
-hash = "60459eaf41dac32f24c64d9116299a6f2ded346421c5570ca7b0f568798341a5"
+hash = "501f54334cda897ebd9dd52dad05cae1c33163c29f1f977fb568129808c370ec"
 metafile = true
 
 [[files]]
@@ -744,7 +739,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "fbc7cf43256806a71a7ea1ee1c05bccfd94be736c5def2c2a5ed1908753e501f"
+hash = "09a2246cb32a1b13e94e264d53429e8fdf5bc1d6444bc4112f9f28b971f9dc54"
 metafile = true
 
 [[files]]
