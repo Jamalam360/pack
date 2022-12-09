@@ -79,7 +79,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "08ac0b6bdf14a0460a1cbd73eee1ecac0494b60a717eb8cbc3e9f97b9a23b2bf"
+hash = "808c30194a90fce3a57ba82e92333518f3a14a5fdb69c84b5fac247e46557632"
 metafile = true
 
 [[files]]
@@ -129,7 +129,7 @@ metafile = true
 
 [[files]]
 file = "mods/botarium.pw.toml"
-hash = "4b87b8fa906d8e935b5f83eac9008484418946841a7692fca3119e4c28ee74f4"
+hash = "40399ea268f690f1e5a51da01496aa4e43f9f555fa25323381262dad17ca15b2"
 metafile = true
 
 [[files]]
@@ -254,7 +254,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "2ea6f38df595c78289617f94a13fc533fdacadf3cb7e7580d60a32529aaa1a44"
+hash = "f8a11078f1d7f960612efacc95c1ddc2c8f29b8ade91fa248917659d4a767537"
 metafile = true
 
 [[files]]
@@ -334,7 +334,7 @@ metafile = true
 
 [[files]]
 file = "mods/friends-and-foes-quilt.pw.toml"
-hash = "d84438332ccb93ff4a240206f018de7e1c131771a886a593f3d4b0743cbbf77e"
+hash = "9e8a649a813bc07feae1ef2776e7a4d40259a301653beb78c17633852364ea3a"
 metafile = true
 
 [[files]]
@@ -439,7 +439,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "f1480d6ab6b5be038d817e0ed9bf8e35d0c81a5902e8f816c474e59af3bd3e29"
+hash = "2ad6a17bdb69e4f27e6bf8645346fd045d64c0514e97ab85a8401a6f4bf650a9"
 metafile = true
 
 [[files]]
@@ -474,12 +474,12 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "1d524da25eef44c7cf2632b787b5441412a3d38309d7b9fba2bd13703b30a3f4"
+hash = "b3d979146ffc548ff5aa6c121f3f73e5749ca04e2e39e1597f10e76f6a5b7cff"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "d2a65b42dcefbda9ac5c170ff5bf59b4a56ba192993a13d0b0da9b1f0678b4b3"
+hash = "77e9a02e09ec5a0d6682e5f448953048d99e36da299d92627044aff0828798e3"
 metafile = true
 
 [[files]]
@@ -539,7 +539,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "7358029830c4246e9039d12156bb5a0b7aecd128155330783ca8bdb57a12333c"
+hash = "09eb7db3ca7778d91ad66845e41b6b4814655fe375a05d4a69528c74b4f1c8af"
 metafile = true
 
 [[files]]
@@ -579,7 +579,7 @@ metafile = true
 
 [[files]]
 file = "mods/nyfs-spiders.pw.toml"
-hash = "7eb152023f61cb0102e1a8b0ebeb073f9040f9802776f240df36e9635a3e88a1"
+hash = "d02faadb0665db5f148eb7a5bcb817221a139b42d1437231e1def2f06a452bce"
 metafile = true
 
 [[files]]
@@ -614,7 +614,7 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "2961f0039fb0529ef5e81212a386f53e414fde5bb192e659281c5936755745ad"
+hash = "d6a99e144be13fb3d0865925bf73357a2ff82f4114929cc2f35930eb21f3c7e9"
 metafile = true
 
 [[files]]
@@ -649,7 +649,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "d7206d61ecd2c452b047966b6823c81ac4910eafcc113945799bf5d7c20812c4"
+hash = "d6593b7ec2735cf3867d1d01d29b8adfb3a24e93932022ea299f977e7a81dedd"
 metafile = true
 
 [[files]]
@@ -684,7 +684,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-config.pw.toml"
-hash = "501f54334cda897ebd9dd52dad05cae1c33163c29f1f977fb568129808c370ec"
+hash = "ac87f538bdb789b176029443890a5ddc6fff99dac348d1523c5ccc5a7cda0caa"
 metafile = true
 
 [[files]]
@@ -714,12 +714,12 @@ metafile = true
 
 [[files]]
 file = "mods/simple-discord-rpc.pw.toml"
-hash = "17673fa7be93d2bab46ab24fdf8d821e890122b37934a715191d01054ac372d2"
+hash = "7bc329ba362e6b9bce089cc236b3ae8d049cb9f874310e5cf1591fa764e2cb54"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "83dd43e2ae6a86eb5596c223d5581a4ed6b6b12aa35e4fff227e27f3e467ffee"
+hash = "df2bd3e4e339d7e8cc04d52e433621befbe0102ed5b58e1af80fefdc4d50c308"
 metafile = true
 
 [[files]]
@@ -829,12 +829,12 @@ metafile = true
 
 [[files]]
 file = "mods/wilder-wild.pw.toml"
-hash = "a1782ec3ae15e147a6ffbd512a0a63a76c1bf227f5cdbb15d8244b8565c93481"
+hash = "bb8ddf335a6fd18b3b408fa2a5a8828be77f52ffb5bac9c8240a3d278a61a30a"
 metafile = true
 
 [[files]]
 file = "mods/winterly.pw.toml"
-hash = "b399ae9d6e48f9507e1df2e26acab73bc01f2c7d3cf21975216f7f36a2ad1018"
+hash = "d01887293f4c45d78b92edaa12c612637c7c2089e2ed462f336ddaa6f702aa97"
 metafile = true
 
 [[files]]
