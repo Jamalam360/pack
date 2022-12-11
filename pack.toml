@@ -1,6 +1,6 @@
 name = "Jamalam's Modpack"
 author = "Jamalam <james[at]jamalam.tech | jamalam#0001>"
-version = "2.0.0+alpha.4"
+version = "2.0.0+beta.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -10,7 +10,7 @@ hash = "3794cc7b20a83d8da633a11e84af5ff1c7fc89666196017842aca194b9f82f51"
 
 [versions]
 minecraft = "1.19.2"
-quilt = "0.18.1-beta.21"
+quilt = "0.18.1-beta.23"
 
 [options]
 acceptable-game-versions = ["1.19.2"]
