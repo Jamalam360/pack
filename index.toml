@@ -34,7 +34,7 @@ hash = "9c36fe73b45aef51f0c63ef1dc49572da232a2320bc04be97c87a0af360810f5"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
-hash = "3445ad787dcf5be534aab140c9620a7dfa737cd684080cb1f04a7606febd279c"
+hash = "7e3bb146256bade0b3c629d425bdfc7df4d813c71d3b9229d3e05371bb969ad5"
 metafile = true
 
 [[files]]
@@ -44,7 +44,7 @@ metafile = true
 
 [[files]]
 file = "mods/adorn.pw.toml"
-hash = "a3b079d2a092784d2019e2443c1e47f3e08de10a0bdeab732067c5e45351a96c"
+hash = "d930cef1a8fac8f24ae0bd3b1f0fc07781f9a1a8c68ef1464d5ffe1b51af7f6e"
 metafile = true
 
 [[files]]
@@ -214,7 +214,7 @@ metafile = true
 
 [[files]]
 file = "mods/deeperdarker.pw.toml"
-hash = "7c319e5948529ed86793dbd517f9445ffd27547a60e8d97d63e8234e736e72e7"
+hash = "86802cfb223a60c289876727481f84e3edd2c1fbb4ad73402599e198fb6aa9a7"
 metafile = true
 
 [[files]]
@@ -249,7 +249,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi-loot.pw.toml"
-hash = "45bc6548fdb9ca4fe85e0b69cafddd89ef0ada5f9954154fea99988caf0a8749"
+hash = "acbe2b86cf452fd742fe76d32b6473f1da2f3e8f2d36d43a6f96fc32b369327e"
 metafile = true
 
 [[files]]
@@ -439,7 +439,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "2ad6a17bdb69e4f27e6bf8645346fd045d64c0514e97ab85a8401a6f4bf650a9"
+hash = "6911ad165964bf683549426e6be93b7a86d2e576f2dac9316cdec6615036f9e0"
 metafile = true
 
 [[files]]
@@ -664,7 +664,7 @@ metafile = true
 
 [[files]]
 file = "mods/raised.pw.toml"
-hash = "5bb00c8764af4747bec509578ec574e494f6b3f1dc81c6b419d7a82786797e23"
+hash = "a11bee072c28f106a16bda9987613f5a361f26215cf91c75b4210c07b2cab4ef"
 metafile = true
 
 [[files]]
@@ -719,7 +719,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "df2bd3e4e339d7e8cc04d52e433621befbe0102ed5b58e1af80fefdc4d50c308"
+hash = "cb70553bcdb6b6826e808c33c447f5663dcb60ce5aec435275e1677b97e546c2"
 metafile = true
 
 [[files]]
@@ -749,7 +749,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "79870ab97caf526e6599d2d429ef778848935bbaf2c7020948e203afbb3f32bc"
+hash = "413ce716e1ce679ff1097f1732023a5457ef5ec7b512d247ef087aeefd82d19b"
 metafile = true
 
 [[files]]
@@ -874,7 +874,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "ed0598191321286f40c445daee42b21421a5b873aad5f6319797bf76b3656f5e"
+hash = "01fad3de8ab48ea2d82ed37991e93069600435dc556838c9a48abca2754da63d"
 metafile = true
 
 [[files]]
