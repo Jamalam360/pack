@@ -77,7 +77,7 @@ Some mods are included in multiple categories.
 - **[Villager Hats](https://modrinth.com/project/villager-hats)** - Craft and wear villager hats.
 - **[Visuality](https://modrinth.com/project/visuality)** - Little visual improvements by adding a bunch of new particles.
 - **[Wilder Wild](https://modrinth.com/project/wilder-wild)** - This mod aims to upgrade the Wild Update!
-- **[Winterly](https://modrinth.com/project/winterly)** - A mod that adds decorative items themed around winter and holiday things.
+- **[Winterly](https://modrinth.com/project/winterly)** - Winter expansion mod adding cold and sloppy stuff.
 
 ## Economy
 
@@ -145,7 +145,7 @@ Some mods are included in multiple categories.
 - **[mine11lib](https://modrinth.com/project/mine11lib)** - Library mod required for most of mineblock11's mods.
 - **[Moonlight Lib](https://modrinth.com/project/moonlight)** - dynamic data pack and registration, villager activities, custom map marker and a lot more
 - **[More Axolotl Variants API](https://modrinth.com/project/mavapi)** - Lightweight API to implement new axolotl variants.
-- **[oωo (owo-lib)](https://modrinth.com/project/owo-lib)** - Particles, automatic registry and general utility lib
+- **[oωo (owo-lib)](https://modrinth.com/project/owo-lib)** - A general utility, GUI and config library for modding on Fabric and Quilt
 - **[Patchouli](https://modrinth.com/project/patchouli)** - Accessible, Data-Driven, Dependency-Free Documentation for Minecraft Modders and Pack Makers
 - **[Pehkui](https://modrinth.com/project/pehkui)** - Allows resizing of most entities, shrinking them smaller or growing them larger
 - **[Quilted Fabric API (QFAPI) / Quilt Standard Libraries (QSL)](https://modrinth.com/project/qsl)** - The standard libraries of the Quilt ecosystem. Essential for your modding experience on Quilt!
@@ -350,4 +350,4 @@ Some mods are included in multiple categories.
 - **[Towns and Towers](https://modrinth.com/project/towns-and-towers)** - Spice up your world with new villages, pillager outposts, and even new ships!
 - **[When Dungeons Arise](https://modrinth.com/project/when-dungeons-arise)** - Adds various elegant -and likely hostile- roguelike dungeons and structures that generate on your worlds!
 - **[Wilder Wild](https://modrinth.com/project/wilder-wild)** - This mod aims to upgrade the Wild Update!
-- **[Winterly](https://modrinth.com/project/winterly)** - A mod that adds decorative items themed around winter and holiday things.
+- **[Winterly](https://modrinth.com/project/winterly)** - Winter expansion mod adding cold and sloppy stuff.
