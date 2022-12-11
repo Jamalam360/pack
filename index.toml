@@ -358,6 +358,11 @@ hash = "a1f6e5c7010b82cc022a4ae37290966eff652658a0d0f6598d6519f068b659ae"
 metafile = true
 
 [[files]]
+file = "mods/htm.pw.toml"
+hash = "901342b13619be7cbe9627de3e111e2a213b9de7d3a2521be8e67f5a8aca3f84"
+metafile = true
+
+[[files]]
 file = "mods/i-know-what-im-doing.pw.toml"
 hash = "4191daf9db203945cd504e0489ce9008f718bb69fa8ce36cf3847ab28f05355c"
 metafile = true
