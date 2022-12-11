@@ -258,6 +258,16 @@ hash = "f8a11078f1d7f960612efacc95c1ddc2c8f29b8ade91fa248917659d4a767537"
 metafile = true
 
 [[files]]
+file = "mods/emi_farmersdelight.pw.toml"
+hash = "286ee406d092f5763327f12f44ba10a581bb369212ad5080d6fa0152783a24d2"
+metafile = true
+
+[[files]]
+file = "mods/emicompat.pw.toml"
+hash = "c607c7f81a931c158807ce6625af6b3d6c2c2d8f13f0fd5d95aa8494e4b4d4d0"
+metafile = true
+
+[[files]]
 file = "mods/emiffect.pw.toml"
 hash = "85f91bd1ff7f77e9e5b5d81844c1ec62b3a3815954b1d4f6ac1ad86ae6032909"
 metafile = true
@@ -280,6 +290,11 @@ metafile = true
 [[files]]
 file = "mods/extended-drawers.pw.toml"
 hash = "8d8c5a1095b1176dd838b0352d8931edfe9d76b7fc77e9d18a6af07422428a55"
+metafile = true
+
+[[files]]
+file = "mods/extra-mod-integrations.pw.toml"
+hash = "851f8319eb002b1a833bb5b469af592b057c8f76ee7e8285074e6e14874aaa46"
 metafile = true
 
 [[files]]
