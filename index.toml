@@ -671,6 +671,11 @@ hash = "527279ca4b9a30e756139465d01009482bafc3e2992c96947118a56e0bce293f"
 metafile = true
 
 [[files]]
+file = "mods/player-events.pw.toml"
+hash = "43f71f4ef7d18fd1416f06fb158af8b755827aa83d55052870a9ce9e9c5ddd99"
+metafile = true
+
+[[files]]
 file = "mods/playlist.pw.toml"
 hash = "5b14896e72e778df83fca0b37b6923640541aff1ac3dafc2db38fe98afb1342f"
 metafile = true
