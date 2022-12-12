@@ -421,6 +421,11 @@ hash = "73cf4e8c2ad582db9c44ecd9ba3f4327bbd4dcb51afb271842ec642984c66938"
 metafile = true
 
 [[files]]
+file = "mods/image2map.pw.toml"
+hash = "0b59d24e17268a011904e90d56a5b6fd3d3079479c07a61b344ecfec1c06df95"
+metafile = true
+
+[[files]]
 file = "mods/immersive-structures.pw.toml"
 hash = "ccb9fe34df1191907006d9d80adc3dc645cf9c88a2f1351623ac6024c4ad2c77"
 metafile = true
@@ -503,6 +508,11 @@ metafile = true
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "8fc06991e17c7ae9662dd0a37db7b31f2d00a99d16a435818be33e5564a71a01"
+metafile = true
+
+[[files]]
+file = "mods/lanterns-bow.pw.toml"
+hash = "4dcbc0c13835a68f1c58e75216beed433609e4565800f22342279f7934f7044b"
 metafile = true
 
 [[files]]
@@ -924,6 +934,10 @@ metafile = true
 file = "mods/yigd.pw.toml"
 hash = "dcfc9996df859731e571721ffef8006ade14f3c2a2f26c716beca15575eb3ce6"
 metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "507624025e4d827dfcca0e1280b9bc11897c7762d70a1946ea9cef5508a3fd43"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"

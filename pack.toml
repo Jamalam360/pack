@@ -1,12 +1,12 @@
 name = "Jamalam's Modpack"
 author = "Jamalam <james[at]jamalam.tech | jamalam#0001>"
-version = "2.0.0+beta.5"
+version = "2.0.0+beta.6"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "35e1bdb6034ada86a1667d20d622b3d1332759ab357b8d9ecd633cf1fe1e8250"
+hash = "c211becda43c7cc8a77234c4bc612d8c1b34dc9de88fac7a3ffba5c2804ff7e1"
 
 [versions]
 minecraft = "1.19.2"
