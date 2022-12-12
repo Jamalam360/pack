@@ -232,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/deeperdarker.pw.toml"
-hash = "86802cfb223a60c289876727481f84e3edd2c1fbb4ad73402599e198fb6aa9a7"
+hash = "f30fd50b9b1868a1e0aee52b1b56e8c95c254fd760622bfb0fc16a4dcd283f87"
 metafile = true
 
 [[files]]
@@ -282,7 +282,7 @@ metafile = true
 
 [[files]]
 file = "mods/emicompat.pw.toml"
-hash = "c607c7f81a931c158807ce6625af6b3d6c2c2d8f13f0fd5d95aa8494e4b4d4d0"
+hash = "7f2bac9db41f54dfc2f505602ea94e9fcd01454282f3d7f0075fb61ad2543e76"
 metafile = true
 
 [[files]]
@@ -462,7 +462,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "d2353c4dbc6ce293b7fb5797cd5242561fc2d0b77cf515243c3a4fc3117f3858"
+hash = "dc2d0b5e3807f21ca12a57e7a7212f16d048168aaa27283d8e1bbae6980c202d"
 metafile = true
 
 [[files]]
