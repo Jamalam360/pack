@@ -6,12 +6,12 @@ type PackwizFile = {
   name: string;
   update?: {
     modrinth?: {
-      "mod-id": string
-    }
-    [k: string]: unknown
-  }
+      "mod-id": string;
+    };
+    [k: string]: unknown;
+  };
   [k: string]: unknown;
-}
+};
 
 export function getPackwizFileFromFileContents(contents: string): PackwizFile {
   return parseToml(contents) as PackwizFile;

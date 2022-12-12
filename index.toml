@@ -14,11 +14,15 @@ hash = "bd5a677328664704503322479e66ff1c59eb5fef85922372e353f45368c7f4e2"
 
 [[files]]
 file = "config/journeymap-server.json"
-hash = "2b77ff82093eb3698b79b2b953806855d1880d414544a8158f41b028d8e293ca"
+hash = "435e7e7a5a18a46d23598bdd800b8abb1b0e37059c6dab21e48cd10fa2f8d478"
 
 [[files]]
 file = "config/modfest.json"
 hash = "c314fea523c83ad62a9d99183989370603ff49aee380ae0753138e90987401ce"
+
+[[files]]
+file = "config/player_events.json"
+hash = "793a0e1d283b2c908075205623198822e6cb2d8126dbc519c20714c223c878ce"
 
 [[files]]
 file = "config/quickconnectbutton.json5"
@@ -27,6 +31,10 @@ hash = "e9c32fdbd9c458ea345828e1dec83a5deb9f52b0326e1f8c5f3c645233f91197"
 [[files]]
 file = "config/reaping.json"
 hash = "a17c1499f733a981924964fd3c997677d7a5a887d97ed36b0421e00436855b14"
+
+[[files]]
+file = "config/rules.json"
+hash = "dff07db92d567fc854e39f2aa05d6310b45b4780712396934c0f48043e088597"
 
 [[files]]
 file = "config/yigd.toml"

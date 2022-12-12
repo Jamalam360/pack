@@ -1,0 +1,23 @@
+{
+  "first_join": {
+    "actions": [
+      "Welcome to the server, ${player}! Please use /server to learn about the server before playing."
+    ],
+    "broadcast_to_everyone": false,
+    "pick_message_randomly": false
+  },
+  "custom_commands": [
+    {
+      "command": "/server",
+      "actions": [
+        "Welcome to the server! Below is some important information.",
+        "* /rules can be used to view the rules.",
+        "* We are split into teams of ~2 players each.",
+        "* We use a mod for our economy. Use /nuismatic to explore it. There are shops and a central bank (where you can exchange materials for money) at the central hub.",
+        "* We use a voice chat mod, so make sure to configure it properly.",
+        "* Ask for help from any admin if you need it. We can help with technical issues and issues with the server itself.",
+        "* Enjoy! - James"
+      ]
+    }
+  ]
+}

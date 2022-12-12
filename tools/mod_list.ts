@@ -3,7 +3,10 @@
 import { findPackwizFiles } from "./packwiz_utils.ts";
 import { log } from "./utils.ts";
 
-type CategoryListing = Record<string, { name: string; url: string; description: string; }[]>;
+type CategoryListing = Record<
+  string,
+  { name: string; url: string; description: string }[]
+>;
 
 // Overrides of mods that are not on Modrinth, since I am not dealing with
 // the Curseforge API.
@@ -11,32 +14,36 @@ const OVERRIDES: CategoryListing = {
   "Shaderpacks": [
     {
       name: "Complementary Reimagined Shaders",
-      url: "https://www.curseforge.com/minecraft/customization/complementary-reimagined",
-      description: "A Minecraft Java Edition shaderpack that aims for perfection"
+      url:
+        "https://www.curseforge.com/minecraft/customization/complementary-reimagined",
+      description:
+        "A Minecraft Java Edition shaderpack that aims for perfection",
     },
     {
       name: "MakeUp UltraFast Shaders",
-      url: "https://www.curseforge.com/minecraft/customization/makeup-ultrafast-shader",
-      description: "A performant Minecraft Java Edition shaderpack"
-    }
+      url:
+        "https://www.curseforge.com/minecraft/customization/makeup-ultrafast-shader",
+      description: "A performant Minecraft Java Edition shaderpack",
+    },
   ],
   "Utility": [
     {
       name: "Singleplayer Yeeter",
       url: "https://git.jamalam.tech/singleplayer-yeeter",
-      description: "Removes singleplayer to prevent cheating"
+      description: "Removes singleplayer to prevent cheating",
     },
     {
       name: "Force Disable HUD",
       url: "https://git.jamalam.tech/force-disable-hud",
-      description: "Allows admins to disable the HUD for players"
+      description: "Allows admins to disable the HUD for players",
     },
     {
       name: "TerraBlender (Fabric)",
       url: "https://www.curseforge.com/minecraft/mc-mods/terrablender-fabric",
-      description: "TerraBlender is a library mod for adding biomes in a simple and compatible manner with Minecraft's new biome/terrain system."
-    }
-  ]
+      description:
+        "TerraBlender is a library mod for adding biomes in a simple and compatible manner with Minecraft's new biome/terrain system.",
+    },
+  ],
 };
 
 export async function walkAndFindCategories(): Promise<CategoryListing> {
@@ -48,7 +55,7 @@ export async function walkAndFindCategories(): Promise<CategoryListing> {
   const categories: CategoryListing = {};
 
   for (const toml of pwFiles) {
-    let category: string | string[] | null= null;
+    let category: string | string[] | null = null;
     let url: string | null = null;
     let description: string | null = null;
 
@@ -64,8 +71,7 @@ export async function walkAndFindCategories(): Promise<CategoryListing> {
         `https://api.modrinth.com/v2/project/${toml.update.modrinth["mod-id"]}`,
         {
           headers: {
-            "User-Agent":
-              "Jamalam360/pack (james@jamalam.tech | jamalam#0001)",
+            "User-Agent": "Jamalam360/pack (james@jamalam.tech | jamalam#0001)",
           },
         },
       ).then((r) => r.json());
@@ -78,7 +84,9 @@ export async function walkAndFindCategories(): Promise<CategoryListing> {
         if (override[1].filter((v) => v.name === toml.name).length > 0) {
           category = override[0];
           url = override[1].find((v) => v.name === toml.name)?.url || null;
-          description = override[1].find((v) => v.name === toml.name)?.description || null;
+          description = override[1].find((v) =>
+            v.name === toml.name
+          )?.description || null;
         }
       }
     }
@@ -110,11 +118,11 @@ export async function walkAndFindCategories(): Promise<CategoryListing> {
 }
 
 if (Deno.args.includes("--update-mod-list")) {
-  const categories = Object.entries(await walkAndFindCategories()).sort((a, b) =>
-    a[0].localeCompare(b[0])
-  );
+  const categories = Object.entries(await walkAndFindCategories()).sort((
+    a,
+    b,
+  ) => a[0].localeCompare(b[0]));
   const modCount = categories.reduce((a, b) => a + b[1].length, 0);
-
 
   log("Info", "Updating MODS.md");
 
@@ -128,10 +136,15 @@ There are ${categories.length} mod categories with ${modCount} mods in the modpa
 Some mods are included in multiple categories.
 
 ${
-  categories.map((v) =>
+    categories.map((v) =>
       `## ${v[0][0].toUpperCase() + v[0].slice(1)}
 
-${v[1].map((v) => `- **${v.url ? `[${v.name}](${v.url})` : v.name}**` + ` - ${v.description}`).join("\n")}
+${
+        v[1].map((v) =>
+          `- **${v.url ? `[${v.name}](${v.url})` : v.name}**` +
+          ` - ${v.description}`
+        ).join("\n")
+      }
 `
     ).join("\n")
   }
