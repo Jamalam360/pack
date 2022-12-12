@@ -128,6 +128,11 @@ hash = "fa40ffa65148c59d3584949a32a9a86005ecd6c5e44fbc99b98af183a3685079"
 metafile = true
 
 [[files]]
+file = "mods/borderless-mining.pw.toml"
+hash = "e8ccaa2816d767744121e3240a30bb061f8bba8c9274909017832d2f8576ce50"
+metafile = true
+
+[[files]]
 file = "mods/botarium.pw.toml"
 hash = "40399ea268f690f1e5a51da01496aa4e43f9f555fa25323381262dad17ca15b2"
 metafile = true
