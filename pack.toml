@@ -1,6 +1,6 @@
 name = "Jamalam's Modpack"
 author = "Jamalam <james[at]jamalam.tech | jamalam#0001>"
-version = "2.0.0+beta.2"
+version = "2.0.0+beta.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
