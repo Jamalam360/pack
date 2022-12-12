@@ -166,6 +166,11 @@ hash = "ff8960a3bf63e66854c676cf1db8b88c6666bc526e3d3562be297d94c528472a"
 metafile = true
 
 [[files]]
+file = "mods/chunks-fade-in.pw.toml"
+hash = "6ddd6ea160aaf91f5b28d5c722546490dc55ae9b89aeb642521e1b016977fba5"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "b52cd1f4295d855882a41b5f164385e2ba460d7766a2e2e6183ef56c00c824ab"
 metafile = true
@@ -772,7 +777,7 @@ metafile = true
 
 [[files]]
 file = "mods/singleplayer-yeeter.pw.toml"
-hash = "120a8f0e7826eae36e81bb319916bf0c76e5da28a9f400bd8c23a7c9a140042e"
+hash = "102220e84bec65bb80ef5ccea8f5625c35dae9d8452e1f5a1f725168dac9ede0"
 metafile = true
 
 [[files]]
