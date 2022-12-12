@@ -22,7 +22,7 @@ hash = "c314fea523c83ad62a9d99183989370603ff49aee380ae0753138e90987401ce"
 
 [[files]]
 file = "config/player_events.json"
-hash = "793a0e1d283b2c908075205623198822e6cb2d8126dbc519c20714c223c878ce"
+hash = "e64760ab41c92485cb32d41f9f18e84afc389e29cf4334f1f0a1dc0b5d9440ba"
 
 [[files]]
 file = "config/quickconnectbutton.json5"
@@ -34,7 +34,7 @@ hash = "a17c1499f733a981924964fd3c997677d7a5a887d97ed36b0421e00436855b14"
 
 [[files]]
 file = "config/rules.json"
-hash = "dff07db92d567fc854e39f2aa05d6310b45b4780712396934c0f48043e088597"
+hash = "db1949dfd9230acf055de712e66897049e55b06a8ebdcc69b27491ebd50a16e8"
 
 [[files]]
 file = "config/yigd.toml"

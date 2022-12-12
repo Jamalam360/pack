@@ -17,7 +17,9 @@
         "* We use a voice chat mod, so make sure to configure it properly.",
         "* Ask for help from any admin if you need it. We can help with technical issues and issues with the server itself.",
         "* Enjoy! - James"
-      ]
+      ],
+      "broadcast_to_everyone": false,
+      "pick_message_randomly": false
     }
   ]
 }
