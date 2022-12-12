@@ -733,6 +733,11 @@ hash = "58b176fee7a7ffac11989bf6d7631642ef130f6af25543ab8327d5fbcd5f3d87"
 metafile = true
 
 [[files]]
+file = "mods/rules.pw.toml"
+hash = "9af8df32148789d0a5c4f30cdcf4fc3d1f7bf0ed88161ed96c3110796113ab86"
+metafile = true
+
+[[files]]
 file = "mods/screenshot-to-clipboard.pw.toml"
 hash = "672f3809a2053eef01aea4015ca4b0d4be6c507622172c091c17833b8d2ffb39"
 metafile = true
