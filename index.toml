@@ -180,7 +180,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunks-fade-in.pw.toml"
-hash = "6ddd6ea160aaf91f5b28d5c722546490dc55ae9b89aeb642521e1b016977fba5"
+hash = "b3f6ab1279c1d4f166ecedb854a8f44212be7795da22a439492308670614f0fa"
 metafile = true
 
 [[files]]
@@ -475,7 +475,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "dc2d0b5e3807f21ca12a57e7a7212f16d048168aaa27283d8e1bbae6980c202d"
+hash = "b6567c077d73ed0956dcd849e5875ada50435322cddc1b7db9595a6884ef5a08"
 metafile = true
 
 [[files]]
@@ -535,7 +535,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "b3d979146ffc548ff5aa6c121f3f73e5749ca04e2e39e1597f10e76f6a5b7cff"
+hash = "8375f634df8513b4b5e481fc6188f3e4158f9208f47798c5adb337815c952dec"
 metafile = true
 
 [[files]]

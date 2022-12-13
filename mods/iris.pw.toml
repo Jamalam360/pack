@@ -11,7 +11,3 @@ hash = "d3ce7b31222b386ae8d776c4112605976abcbe4a"
 [update.modrinth]
 mod-id = "YL57xq9U"
 version = "j0DONNcY"
-
-[option]
-optional = true
-description = "Allows the use of shader packs."
