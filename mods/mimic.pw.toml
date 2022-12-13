@@ -1,0 +1,13 @@
+name = "Mimic"
+filename = "Mimic-fabric-1.19.1-1.2.38.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ePo6jqBP/versions/9AhqXN5q/Mimic-fabric-1.19.1-1.2.38.jar"
+hash-format = "sha1"
+hash = "d8ac1bc6029f6e3333912441726989bb8628177f"
+
+[update]
+[update.modrinth]
+mod-id = "ePo6jqBP"
+version = "9AhqXN5q"

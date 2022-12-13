@@ -1,0 +1,20 @@
+name: Deploy Modpack (Main)
+
+on:
+  push:
+    branches:
+      - deploy
+    paths:
+      - '**.toml'
+      - '.packwizignore'
+      - 'config/**'
+      - '.github/workflows/deploy-main.yml'
+
+jobs:
+  deploy-main:
+    runs-on: ubuntu-22.04
+
+    steps:
+      - name: Send API Request
+        run: |
+          curl --silent --show-error --fail -X POST -H "Authorization: Bearer ${{ secrets.API_DEPLOY_KEY }}" https://orion.jamalam.tech/deploy/pack

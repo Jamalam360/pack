@@ -1,0 +1,13 @@
+name = "Why stacks of 16?"
+filename = "wso16-fabric-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Gv3VVf1s/versions/EWhPvWF9/wso16-fabric-1.1.jar"
+hash-format = "sha1"
+hash = "d85fd7e4e3a18cf350e2f8837432d72dd954f345"
+
+[update]
+[update.modrinth]
+mod-id = "Gv3VVf1s"
+version = "EWhPvWF9"

@@ -1,0 +1,13 @@
+name = "Playlist"
+filename = "playlist-1.2.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Aj1EfTaU/versions/CSacNQ4h/playlist-1.2.0.jar"
+hash-format = "sha1"
+hash = "073b3e5290b65e8660c170ccc228f9c68d2b9972"
+
+[update]
+[update.modrinth]
+mod-id = "Aj1EfTaU"
+version = "CSacNQ4h"

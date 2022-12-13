@@ -1,13 +1,13 @@
 name = "WMITAF"
-filename = "wmitaf-fabric-mc1.18.2-2.4.0.jar"
-side = "both"
+filename = "wmitaf-fabric-mc1.19-3.1.1.jar"
+side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/mk6pNnsq/versions/cgSuov1n/wmitaf-fabric-mc1.19-3.1.1.jar"
 hash-format = "sha1"
-hash = "bb11a466df4d316e8fb3cb78a8fd4df8d4b0e897"
-mode = "metadata:curseforge"
+hash = "c48aa5d40b7af379f21cbc1f059299ea0644ed1c"
 
 [update]
-[update.curseforge]
-file-id = 3929240
-project-id = 547358
+[update.modrinth]
+mod-id = "mk6pNnsq"
+version = "cgSuov1n"

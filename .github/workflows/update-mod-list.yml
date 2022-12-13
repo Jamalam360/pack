@@ -1,0 +1,33 @@
+name: Update Mod List
+
+on:
+  push:
+    branches:
+      - deploy
+      - next
+    paths:
+      - '**.toml'
+      - 'tools/mod_list.ts'
+      - '.github/workflows/update-mod-list.yml'
+
+jobs:
+  update-mod-list:
+    runs-on: ubuntu-22.04
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Install Deno
+        uses: denoland/setup-deno@v1
+        with:
+          deno-version: v1.x
+
+      - name: Run Update Mod List Script
+        run: |
+          deno run --allow-net --allow-read --allow-write ./tools/mod_list.ts --update-mod-list
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: '[Bot] Update mod list' 
+          file_pattern: MODS.md

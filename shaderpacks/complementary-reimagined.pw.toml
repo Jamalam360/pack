@@ -1,0 +1,17 @@
+name = "Complementary Reimagined"
+filename = "ComplementaryReimagined_r1.3.2.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "b10a0a11a01691cf7a6f283ddc8fbf59ee4b0bf0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4062445
+project-id = 627557
+
+[option]
+optional = true
+description = "A beatiful shaderpack."

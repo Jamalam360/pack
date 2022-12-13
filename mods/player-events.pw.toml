@@ -1,13 +1,13 @@
 name = "Player Events"
-filename = "player-events-2.3.2.jar"
+filename = "player-events-2.4.1.jar"
 side = "server"
 
 [download]
+url = "https://cdn.modrinth.com/data/NLx6lJPJ/versions/TUIcYi38/player-events-2.4.1.jar"
 hash-format = "sha1"
-hash = "a55b58df702c1decaff3b8bfe37c8363c0f4800a"
-mode = "metadata:curseforge"
+hash = "85128abd83178cb27d8840eaef9fc6b0bfdbb6f4"
 
 [update]
-[update.curseforge]
-file-id = 3873053
-project-id = 404348
+[update.modrinth]
+mod-id = "NLx6lJPJ"
+version = "TUIcYi38"

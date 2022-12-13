@@ -1,0 +1,15 @@
+{
+  "server": {
+    "name": "Interlink",
+    "icon": "https://minecraft-max.net/upload/iblock/923/923e0728d46b4711ff92dba8c06624f9.png"
+  },
+  "discord": {
+    "webhook": "WEBHOOK_URL",
+    "channel": "866383409571037195",
+    "token": "BOT_TOKEN",
+    "mirrorDeath": true
+  },
+  "crashes": {
+    "uploadToHastebin": true
+  }
+}

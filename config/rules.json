@@ -1,0 +1,30 @@
+{
+  "rules_header": "<bold><italic><green>Tree Gang</green> SMP <reset>\n",
+  "rule_schema": "<bold>${rule_number}. <green>${rule_title}</green></bold>\n${rule_description}\n",
+  "rules": [
+    {
+      "title": "Be nice",
+      "description": "It's not hard - just have decency."
+    },
+    {
+      "title": "No griefing",
+      "description": "Don't destroy other people's stuff, and don't touch or change anything at people's islands without permission. This rule may be modified further down the line."
+    },
+    {
+      "title": "No hacking or explotation",
+      "description": "Don't use any mods or hacks that give you an unfair advantage. Additionally, do not use any exploits you find in mods or the game."
+    },
+    {
+      "title": "All team members <italic>must</italic> use the same origin",
+      "description": "This is to make the game more interesting. We will be checking. Do not try to circumvent this rule."
+    },
+    {
+      "title": "Teams are limited to a maximum of around 2 members",
+      "description": "This is to make the game more interesting, as in previous SMPs we have had 2 big teams, which is less interesting."
+    },
+    {
+      "title": "Admins have the final say",
+      "description": "If you have a problem with a rule, or a situation, please contact one of us."
+    }
+  ]
+}
