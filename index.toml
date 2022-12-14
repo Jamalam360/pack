@@ -37,6 +37,10 @@ file = "config/rules.json"
 hash = "429f9ee8290643c360563d7283b5b07576f0f42db84d17d356c8b2aab1f132e3"
 
 [[files]]
+file = "config/simple-rpc/simple-rpc.toml"
+hash = "61c0aa37a2728cbd441af396ab982a0e8ae06a4ff4481e4c0b3849d4527aecf7"
+
+[[files]]
 file = "config/yigd.toml"
 hash = "9c36fe73b45aef51f0c63ef1dc49572da232a2320bc04be97c87a0af360810f5"
 
