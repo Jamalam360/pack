@@ -635,11 +635,6 @@ hash = "d02faadb0665db5f148eb7a5bcb817221a139b42d1437231e1def2f06a452bce"
 metafile = true
 
 [[files]]
-file = "mods/observable.pw.toml"
-hash = "2ac2a051a9802000b6b725d54732111ad678a229bd66f135fe5b429b18e77395"
-metafile = true
-
-[[files]]
 file = "mods/ok-zoomer.pw.toml"
 hash = "67e52f1d24affe5295829b38769d1181fb147c4ebc86531fce0fae2d1549ef9a"
 metafile = true
