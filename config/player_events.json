@@ -1,7 +1,7 @@
 {
   "first_join": {
     "actions": [
-      "Welcome to the server, ${player}! Please use /server to learn about the server before playing."
+      "<green>Welcome to the server</green>, <blue>${player}</blue>! Please use <bold>/server</bold> to learn more before playing."
     ],
     "broadcast_to_everyone": false,
     "pick_message_randomly": false
@@ -22,7 +22,7 @@
         "",
         "<bold>5.</bold> Ask for help from any admin if you need it. We can help with technical issues and issues with the server itself.",
         "",
-        "Enjoy! - <blue><bold>James</bold></blue>"
+        "<italic>Enjoy</italic>! - <blue>James</blue>"
       ],
       "broadcast_to_everyone": false,
       "pick_message_randomly": false
