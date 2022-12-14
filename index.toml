@@ -26,7 +26,7 @@ hash = "e64760ab41c92485cb32d41f9f18e84afc389e29cf4334f1f0a1dc0b5d9440ba"
 
 [[files]]
 file = "config/quickconnectbutton.json5"
-hash = "e9c32fdbd9c458ea345828e1dec83a5deb9f52b0326e1f8c5f3c645233f91197"
+hash = "e61adeafd8939411018046699210fa73d2894038497da738c943a11e31df456d"
 
 [[files]]
 file = "config/reaping.json"
@@ -742,7 +742,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-config.pw.toml"
-hash = "ac87f538bdb789b176029443890a5ddc6fff99dac348d1523c5ccc5a7cda0caa"
+hash = "217772760b0f55c0095cbe3632479f042ffa3c547ecc7abea111b45b455c7bd0"
 metafile = true
 
 [[files]]
@@ -937,7 +937,7 @@ metafile = true
 
 [[files]]
 file = "servers.dat"
-hash = "507624025e4d827dfcca0e1280b9bc11897c7762d70a1946ea9cef5508a3fd43"
+hash = "f08d82506ac5aee6814fb7112864a8c895e7e4b7e6a532efb4402ac6cf0776af"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
