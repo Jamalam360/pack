@@ -22,7 +22,7 @@ hash = "c314fea523c83ad62a9d99183989370603ff49aee380ae0753138e90987401ce"
 
 [[files]]
 file = "config/player_events.json"
-hash = "e64760ab41c92485cb32d41f9f18e84afc389e29cf4334f1f0a1dc0b5d9440ba"
+hash = "c607461da79e042af271869d4c9c1ff0762094a6f8f16b2194c33d1c93527856"
 
 [[files]]
 file = "config/quickconnectbutton.json5"
@@ -34,7 +34,7 @@ hash = "a17c1499f733a981924964fd3c997677d7a5a887d97ed36b0421e00436855b14"
 
 [[files]]
 file = "config/rules.json"
-hash = "429f9ee8290643c360563d7283b5b07576f0f42db84d17d356c8b2aab1f132e3"
+hash = "d03b27570ccc49fe4509fb32d9aa9a5b31d028dfa976e6a0ae73aa1fca343c88"
 
 [[files]]
 file = "config/simple-rpc/simple-rpc.toml"
@@ -247,11 +247,6 @@ metafile = true
 [[files]]
 file = "mods/displaycase.pw.toml"
 hash = "0d7deb92fbe0f97cfc03199d2085d9b8fbb68d482aacda8005971951d417e85b"
-metafile = true
-
-[[files]]
-file = "mods/drogtor.pw.toml"
-hash = "6aac65adbbc8fba3a165b7207758ce133ff294dc1a0c111b66d22ca3362c310c"
 metafile = true
 
 [[files]]
@@ -545,6 +540,11 @@ hash = "afdc2fafab3adf523bd090b86a2216828e1d0171b69d8bd835ec050fd9853ce4"
 metafile = true
 
 [[files]]
+file = "mods/luckperms.pw.toml"
+hash = "0cccc3f572cda0003a3fdcd1e69caff25dca302db09653ce5c3ca2f7e44be4f2"
+metafile = true
+
+[[files]]
 file = "mods/maintenancemode.pw.toml"
 hash = "67c35462dfbb273be06b239c8a20900d3178adada22b38ad31fe1341c0057239"
 metafile = true
@@ -822,6 +822,11 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
+metafile = true
+
+[[files]]
+file = "mods/styled-nicknames.pw.toml"
+hash = "d0cd4b1f936b73cbe367ccc74c325688bb5aa1e87e41f571124a22c3b361c2c1"
 metafile = true
 
 [[files]]

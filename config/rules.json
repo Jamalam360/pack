@@ -1,5 +1,5 @@
 {
-  "rules_header": "<bold><italic><green>Tree Gang</green> SMP <reset>\n",
+  "rules_header": "<bold><italic><green>Tree Gang</green> Server Rules <reset>\n",
   "rule_schema": "<bold>${rule_number}. <green>${rule_title}</green></bold>\n${rule_description}\n",
   "rules": [
     {
