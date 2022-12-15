@@ -1,5 +1,4 @@
 #!/bin/sh
-#
 
 . git-sh-setup
 test -x "$GIT_WORK_TREE/git/hooks/pre-commit" &&

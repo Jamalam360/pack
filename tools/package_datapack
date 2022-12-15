@@ -1,0 +1,6 @@
+#!/bin/bash
+
+mkdir -p datapacks
+rm datapcks/JQM.zip > /dev/null
+cd datapack
+zip -r ../datapacks/JQM.zip .

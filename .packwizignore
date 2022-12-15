@@ -1,12 +1,14 @@
-/.git/
+/.git
 /.gitattributes
 /.github
 /.gitignore
 /.packwizignore
 /.vscode
+/datapack
 /git
-/tools
 /LICENSE
+/MODS.md
+/Profile.zip
 /README.md
 /TODO.md
-/MODS.md
+/tools

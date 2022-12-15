@@ -1,5 +1,4 @@
 #!/bin/sh
-#
 
 . git-sh-setup
 echo "Refreshing Packwiz Index"

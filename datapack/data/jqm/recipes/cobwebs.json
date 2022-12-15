@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "# #",
+        " # ",
+        "# #"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:cobweb"
+        }
+    },
+    "result": {
+        "item": "minecraft:chest",
+        "count": 8
+    }
+}

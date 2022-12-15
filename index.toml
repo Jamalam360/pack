@@ -5,6 +5,10 @@ file = "config/Adorn.json5"
 hash = "12a3d702b24ca95630a58e61525dbc723301ab17cc2cfb0ad9ddc5cbec11bf46"
 
 [[files]]
+file = "config/byg/biomepedia.json5"
+hash = "d9b7c4d1b5445c9b34618918f94f190e2f9dd5312ae1e241e11ac796edf7e31c"
+
+[[files]]
 file = "config/clean-logs/config.toml"
 hash = "13330b6207bb72c615ae969adc9ee6f6356464d9aad1210a693d3ded0d85b88f"
 
@@ -51,6 +55,10 @@ hash = "aac941710ef33919d05bce1036d9858508c774b2b1e354c78ad5afa52d52a647"
 [[files]]
 file = "config/yigd.toml"
 hash = "9c36fe73b45aef51f0c63ef1dc49572da232a2320bc04be97c87a0af360810f5"
+
+[[files]]
+file = "datapacks/JQM.zip"
+hash = "a8b5d8716ebb5829b81bb03e9cc89baa018e444f279b8d676cbc1a390c652c6a"
 
 [[files]]
 file = "journeymap/server/5.9/journeymap.server.global.config"
@@ -467,11 +475,6 @@ hash = "a6ef53bc79cd1040a89b07128295049b8c2496b4ddeaff3d4b241be54b51cf73"
 metafile = true
 
 [[files]]
-file = "mods/inventory-tabs.pw.toml"
-hash = "cdd86ea1f3209309ba24d6cf5b50c6b2eb3bc12f5529da846f7406d6d61bc172"
-metafile = true
-
-[[files]]
 file = "mods/iris.pw.toml"
 hash = "b6567c077d73ed0956dcd849e5875ada50435322cddc1b7db9595a6884ef5a08"
 metafile = true
@@ -864,6 +867,11 @@ metafile = true
 [[files]]
 file = "mods/tooltipfix.pw.toml"
 hash = "4f782435d758d3cfd57ba49e2a4994006722d42307ef74ef3d35a1704f9ed5c4"
+metafile = true
+
+[[files]]
+file = "mods/totally-balanced-bone-drops.pw.toml"
+hash = "7d3e4d52c41e409897a46c33c098826be28018e25d1e81b597f26812187b5612"
 metafile = true
 
 [[files]]
