@@ -609,6 +609,11 @@ hash = "d1558ff187abe468110fef11eee834aa3c03df732e706ac16e221425b538da4d"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "8f554f10f3ca26505c1f51871263a7d75fca1e07a288c60c1a96b18f830beede"
+metafile = true
+
+[[files]]
 file = "mods/mythicmetals.pw.toml"
 hash = "be1ce20605a70f13c36516dae3df5b83608ba7bf4e2c8c921c76b477483f0867"
 metafile = true
