@@ -5,7 +5,7 @@ on:
     branches:
       - next
     paths:
-      - 'datapack'
+      - 'datapack/**'
 
 jobs:
   update-datapack:
