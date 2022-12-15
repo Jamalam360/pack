@@ -58,7 +58,7 @@ hash = "9c36fe73b45aef51f0c63ef1dc49572da232a2320bc04be97c87a0af360810f5"
 
 [[files]]
 file = "global_data_pack/JQM.zip"
-hash = "a8b5d8716ebb5829b81bb03e9cc89baa018e444f279b8d676cbc1a390c652c6a"
+hash = "a011803eb9af5dc208a84a0b4fec7ef427c82966f476dc884d7bf20adc4d6081"
 
 [[files]]
 file = "journeymap/server/5.9/journeymap.server.global.config"
@@ -467,6 +467,16 @@ metafile = true
 [[files]]
 file = "mods/infusion-table.pw.toml"
 hash = "72532616ed2a4c5680463ba5ad0030152b66bdc4ec00ede0f1bef0a7e45bd07f"
+metafile = true
+
+[[files]]
+file = "mods/inmis.pw.toml"
+hash = "f33cb6b8cbbbe875d2e70d680658dd69b118aa0bed21e9b046e6958c5f4c5477"
+metafile = true
+
+[[files]]
+file = "mods/inmisaddon.pw.toml"
+hash = "2f5970bc9dbd6e1ffea0762b6fe7b33d113c08666c180e65b40be93977968181"
 metafile = true
 
 [[files]]
