@@ -49,6 +49,10 @@ file = "config/yigd.toml"
 hash = "9c36fe73b45aef51f0c63ef1dc49572da232a2320bc04be97c87a0af360810f5"
 
 [[files]]
+file = "journeymap/server/5.9/journeymap.server.global.config"
+hash = "19b3cc4283a91a76d270494908aef5522812263040c9ba2b96e48b6c3239c03b"
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "7e3bb146256bade0b3c629d425bdfc7df4d813c71d3b9229d3e05371bb969ad5"
 metafile = true
