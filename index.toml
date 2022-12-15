@@ -690,11 +690,6 @@ hash = "d6a99e144be13fb3d0865925bf73357a2ff82f4114929cc2f35930eb21f3c7e9"
 metafile = true
 
 [[files]]
-file = "mods/pack-it-up.pw.toml"
-hash = "053d2efccbbec9b6a3d7aed1494ae120ff7ed6106132e0d1ee3c6117db4482d6"
-metafile = true
-
-[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "2dab4b3cea2f1ce1505c3c7be55d8fb6123a7593435134f2c15eed18e6c07ddf"
 metafile = true
