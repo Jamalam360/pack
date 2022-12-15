@@ -42,7 +42,7 @@ hash = "61c0aa37a2728cbd441af396ab982a0e8ae06a4ff4481e4c0b3849d4527aecf7"
 
 [[files]]
 file = "config/styled-nicknames.json"
-hash = "c1c8620252e2bb05c430b1c4e27c87bc4048eccc3e515fcc4d7d6fc04875de19"
+hash = "61defddece54526221cd85bdc108804a66d0e2c2922f0c1b1d5e57df90842897"
 
 [[files]]
 file = "config/yigd.toml"
