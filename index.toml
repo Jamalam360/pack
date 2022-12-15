@@ -57,7 +57,7 @@ file = "config/yigd.toml"
 hash = "9c36fe73b45aef51f0c63ef1dc49572da232a2320bc04be97c87a0af360810f5"
 
 [[files]]
-file = "datapacks/JQM.zip"
+file = "global_data_pack/JQM.zip"
 hash = "a8b5d8716ebb5829b81bb03e9cc89baa018e444f279b8d676cbc1a390c652c6a"
 
 [[files]]
@@ -392,6 +392,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "442019be001e642ad213b5dac7bc3f8587548f537221b3663ee4418c5353e342"
+metafile = true
+
+[[files]]
+file = "mods/globalpacks.pw.toml"
+hash = "d95e508337c913a6f339f08f8cb34a6b2500959204f7e742c49e26f93e0a8060"
 metafile = true
 
 [[files]]
