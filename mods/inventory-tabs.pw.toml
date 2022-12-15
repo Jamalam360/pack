@@ -1,0 +1,9 @@
+name = "Inventory Tabs"
+filename = "inventorytabs-0.9.0-beta-1.19.x.jar"
+side = "both"
+
+[download]
+url = "https://cdn.jamalam.tech/mods/inventorytabs-0.9.0-beta-1.19.x.jar"
+hash-format = "sha1"
+hash = "b2e0951b19cc8746d930efe926882569491535e0"
+mode = ""

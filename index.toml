@@ -459,8 +459,8 @@ hash = "447fa5adc48473ce827d4dad6e8d8f13906e38d2e0627dee6db9fc26a87442f1"
 metafile = true
 
 [[files]]
-file = "mods/inventory-tabs-updated.pw.toml"
-hash = "a8ec5fd59ff7ddab287b339ca91c49af53ecea28105d764a1b560c4fbdfaf7d6"
+file = "mods/inventory-tabs.pw.toml"
+hash = "cdd86ea1f3209309ba24d6cf5b50c6b2eb3bc12f5529da846f7406d6d61bc172"
 metafile = true
 
 [[files]]
