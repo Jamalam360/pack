@@ -1,6 +1,5 @@
 #!/bin/bash
 
-mkdir -p global_data_pack
-rm global_data_pack/JQM.zip > /dev/null
+rm global_packs/required_data/JQM.zip
 cd datapack
-zip -r ../global_data_pack/JQM.zip .
+zip -r ../global_packs/required_data/JQM.zip .
