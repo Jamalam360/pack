@@ -25,7 +25,8 @@ phrases = [
   "Incorrect key",
   "[WTHIT]",
   "See debugging.md for more information.",
-  "Reloading ResourceManager: Default"
+  "Reloading ResourceManager: Default",
+  "Recipe loaded with duplicate id",
 ] # If a log message has one of these phrases, it will be filtered out from logging
 # If a log message matches one of these regex patterns, it will be filtered out from logging
 regex = []
