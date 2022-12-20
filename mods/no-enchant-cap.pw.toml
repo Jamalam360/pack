@@ -1,0 +1,13 @@
+name = "No Enchant Cap"
+filename = "noenchantcap-fabric-1.19.2-2.2.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ac9398009537bd2ee4d6acbbe3a0e9f10a401a74"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4181202
+project-id = 449328

@@ -655,6 +655,11 @@ hash = "16a127d24f4447fba5deb1e8ae5af7b3f707610373c2ffb3644c30e5666515d6"
 metafile = true
 
 [[files]]
+file = "mods/no-enchant-cap.pw.toml"
+hash = "e8c2f47e553ebc8b2959983826e99a85dd8615a6007039bfb3b27073adcc848a"
+metafile = true
+
+[[files]]
 file = "mods/no-unused-chunks.pw.toml"
 hash = "2c296414ee384c7e4fa022ccd41055b2529051ec8b7be15137ba873f6aa5a17d"
 metafile = true
