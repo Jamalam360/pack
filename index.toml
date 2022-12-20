@@ -376,7 +376,7 @@ metafile = true
 
 [[files]]
 file = "mods/force-disable-hud.pw.toml"
-hash = "9c99ce2a1c44037e966605abc5c10676d74d5344ae97be3ea01b237836fadabe"
+hash = "0867cc302d8ab15c265e1f862e429ca9d36ae40e79e77a99f6e128bac0d374d0"
 metafile = true
 
 [[files]]
@@ -841,7 +841,7 @@ metafile = true
 
 [[files]]
 file = "mods/singleplayer-yeeter.pw.toml"
-hash = "102220e84bec65bb80ef5ccea8f5625c35dae9d8452e1f5a1f725168dac9ede0"
+hash = "6b079129c76bdff42a7f32870833c786e6e812796c078e925ff96dfafbd693e5"
 metafile = true
 
 [[files]]
