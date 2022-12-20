@@ -146,7 +146,7 @@ Some mods are included in multiple categories.
 - **[libIPN](https://modrinth.com/project/libipn)** - Inventory Profiles Next GUI/Config library
 - **[megane](https://modrinth.com/project/megane)** - WTHIT plugin that shows more tooltip than you'll ever want.
 - **[MidnightLib](https://modrinth.com/project/midnightlib)** - Common library with a built-in configuration system
-- **[mine11lib](https://modrinth.com/project/mine11lib)** - Library mod required for most of mineblock11's mods.
+- **[mine11lib](https://modrinth.com/project/mine11lib)** - Mineblock's Repeated Utilities
 - **[Moonlight Lib](https://modrinth.com/project/moonlight)** - dynamic data pack and registration, villager activities, custom map marker and a lot more
 - **[More Axolotl Variants API](https://modrinth.com/project/mavapi)** - Lightweight API to implement new axolotl variants.
 - **[oωo (owo-lib)](https://modrinth.com/project/owo-lib)** - A general utility, GUI and config library for modding on Fabric and Quilt
@@ -242,7 +242,7 @@ Some mods are included in multiple categories.
 - **[Alloy Forgery](https://modrinth.com/project/alloy-forgery)** - Forge some alloys
 - **[Alternate Current](https://modrinth.com/project/alternate-current)** - An efficient and non-locational redstone dust implementation
 - **[Automobility](https://modrinth.com/project/automobility)** - Vehicle mod adding customizable and functional cars
-- **[CC: Restitched](https://modrinth.com/project/cc-restitched)** - CC:Tweaked for Fabric (ComputerCraft)
+- **[CC: Restitched](https://modrinth.com/project/cc-restitched)** - ComputerCraft Tweaked for Fabric
 - **[Create Fabric](https://modrinth.com/project/create-fabric)** - Building Tools and Aesthetic Technology
 - **[Halfdoors](https://modrinth.com/project/half-doors)** - A mod to add some smaller doors.
 - **[Ice Boat nerf](https://modrinth.com/project/ice-boat-nerf)** - Makes it so boats don't go extra fast on ice.
