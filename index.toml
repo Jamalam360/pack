@@ -166,7 +166,7 @@ metafile = true
 
 [[files]]
 file = "mods/botarium.pw.toml"
-hash = "56b88d9ff56efe49d70428fcbc1207be3a59eb6194e1b9e124c2b3a5b6d889e6"
+hash = "0b45c204e8d611256b355636916c8c87224a7cc9dc61ef758ea3d1e0f16a9884"
 metafile = true
 
 [[files]]
@@ -182,6 +182,11 @@ metafile = true
 [[files]]
 file = "mods/celestria.pw.toml"
 hash = "b3eda177d099ef511ccdd9d738d902c6c10f4037bd7dd0869ae9a3ff545a5d91"
+metafile = true
+
+[[files]]
+file = "mods/charm-fixer.pw.toml"
+hash = "34b78e0ca0c616d9ec6b24ef456063217b4f777becb86b99a634f9cbef60650b"
 metafile = true
 
 [[files]]
@@ -226,7 +231,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "b6d88ec0e940243d228316c8b3a186c4bb5024e8dba627c88bdc29f93bf7e31b"
+hash = "74b96d0443ddde36cc24703ba7c3f541777d9f7f9f567dab1d7a493934d14d72"
 metafile = true
 
 [[files]]
@@ -291,7 +296,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "4bef15bc30f11169512e61ab1644c844df76450f768b65227f6dcd0a546b2c93"
+hash = "ea6a724de658415a68092e3f4e1531290d569aed13cf45b2fa7b7eedb67a78c5"
 metafile = true
 
 [[files]]
@@ -386,7 +391,7 @@ metafile = true
 
 [[files]]
 file = "mods/friends-and-foes-quilt.pw.toml"
-hash = "9e8a649a813bc07feae1ef2776e7a4d40259a301653beb78c17633852364ea3a"
+hash = "65400f1a5ef41b0931aad7ace671de0891c5397be42bc3c41a6759349cadff5e"
 metafile = true
 
 [[files]]
@@ -396,7 +401,7 @@ metafile = true
 
 [[files]]
 file = "mods/globalpacks.pw.toml"
-hash = "d95e508337c913a6f339f08f8cb34a6b2500959204f7e742c49e26f93e0a8060"
+hash = "b8c8cee68030f257b7b33efd93885a47e0b0b45efd8987dcbd5af2fb12c481b8"
 metafile = true
 
 [[files]]
@@ -726,7 +731,7 @@ metafile = true
 
 [[files]]
 file = "mods/player-events.pw.toml"
-hash = "43f71f4ef7d18fd1416f06fb158af8b755827aa83d55052870a9ce9e9c5ddd99"
+hash = "e57f2fec780a69be926c63cfe5e3e84c2d72ef1c2c8642411afa7e9b860ea63a"
 metafile = true
 
 [[files]]
@@ -741,7 +746,7 @@ metafile = true
 
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
-hash = "137460be130a91349243be497e0e33f61d8631d271a1d420cbb37e4ddfd6ab62"
+hash = "9477fbbb66e9cbdb27c9a192a56862446210ab24b7e0aedeabd2b9ad21316141"
 metafile = true
 
 [[files]]
@@ -831,7 +836,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "cb70553bcdb6b6826e808c33c447f5663dcb60ce5aec435275e1677b97e546c2"
+hash = "e4a056c26bb9de7af9bb145a42910bc50b56b820f6614bc36cdb39f5581fd6c5"
 metafile = true
 
 [[files]]
@@ -851,7 +856,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "09a2246cb32a1b13e94e264d53429e8fdf5bc1d6444bc4112f9f28b971f9dc54"
+hash = "b8cf1d5ac2e56030d130ee9ffe37b7dad351702bca715d28bfb39b6f3ac652f9"
 metafile = true
 
 [[files]]
@@ -891,7 +896,7 @@ metafile = true
 
 [[files]]
 file = "mods/tooltipfix.pw.toml"
-hash = "4f782435d758d3cfd57ba49e2a4994006722d42307ef74ef3d35a1704f9ed5c4"
+hash = "acdc6135e7e805b3127d8c39f7ef2042497ad3c5cb09bfffe9f5da731a2441ba"
 metafile = true
 
 [[files]]
