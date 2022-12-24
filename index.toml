@@ -231,7 +231,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "74b96d0443ddde36cc24703ba7c3f541777d9f7f9f567dab1d7a493934d14d72"
+hash = "b6d88ec0e940243d228316c8b3a186c4bb5024e8dba627c88bdc29f93bf7e31b"
 metafile = true
 
 [[files]]
@@ -391,7 +391,7 @@ metafile = true
 
 [[files]]
 file = "mods/friends-and-foes-quilt.pw.toml"
-hash = "65400f1a5ef41b0931aad7ace671de0891c5397be42bc3c41a6759349cadff5e"
+hash = "12dfafd8fdb226b05b46ffbdc96cc49e2a185eb326528eef1d5ee92cf5f51111"
 metafile = true
 
 [[files]]
@@ -401,7 +401,7 @@ metafile = true
 
 [[files]]
 file = "mods/globalpacks.pw.toml"
-hash = "b8c8cee68030f257b7b33efd93885a47e0b0b45efd8987dcbd5af2fb12c481b8"
+hash = "d95e508337c913a6f339f08f8cb34a6b2500959204f7e742c49e26f93e0a8060"
 metafile = true
 
 [[files]]
@@ -541,7 +541,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "8fc06991e17c7ae9662dd0a37db7b31f2d00a99d16a435818be33e5564a71a01"
+hash = "a622bfcb0d0f2fac957b16db7ea3eefeb4cc7841c3c91b96bf0386bc5c26e8d1"
 metafile = true
 
 [[files]]
@@ -676,7 +676,7 @@ metafile = true
 
 [[files]]
 file = "mods/numismatic-overhaul.pw.toml"
-hash = "86e387f4ecd578e80163cd49e17f57c6ec75d4f5486d7618cc84935864272f98"
+hash = "0ea17b1e78d52b5a8543ca1a42387f2e6b8b966c070e1229808fba6a3323a69f"
 metafile = true
 
 [[files]]
@@ -796,7 +796,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-config.pw.toml"
-hash = "91ae4b5eb5e1bbc3e2b84ea7f22aa4e7ad405649c7ea20d2a849db2dca38ab3a"
+hash = "44c824b4d14a6f8cad8e1e6ace4a7a040cf637dde2fd6cf4113fb35fee7d8412"
 metafile = true
 
 [[files]]
@@ -836,7 +836,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "e4a056c26bb9de7af9bb145a42910bc50b56b820f6614bc36cdb39f5581fd6c5"
+hash = "6df4aaf2b55bdbdf478896b735afa69ab4aa951f8d0626495793cc32dae77926"
 metafile = true
 
 [[files]]
@@ -896,7 +896,7 @@ metafile = true
 
 [[files]]
 file = "mods/tooltipfix.pw.toml"
-hash = "acdc6135e7e805b3127d8c39f7ef2042497ad3c5cb09bfffe9f5da731a2441ba"
+hash = "4f782435d758d3cfd57ba49e2a4994006722d42307ef74ef3d35a1704f9ed5c4"
 metafile = true
 
 [[files]]
@@ -1000,7 +1000,7 @@ hash = "e8af40318bb389f5bffa27d9c8bfba490e9f9e18fd23afbc660efed820740f26"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "8d70e70c3d44a73b94b3f0ae42dc17ad33971e224e95ebfa05fb5d2804e463da"
+hash = "fd2196073ad4fbb3ffb3eebca719c802af9a2cc9af498e6f9417530e771270b0"
 metafile = true
 
 [[files]]
