@@ -1,0 +1,17 @@
+name = "MidnightControls"
+filename = "midnightcontrols-1.7.1+1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bXX9h73M/versions/flDrm4to/midnightcontrols-1.7.1%2B1.19.jar"
+hash-format = "sha1"
+hash = "00251267d771d818c44101585be4f25d4b913dd1"
+
+[update]
+[update.modrinth]
+mod-id = "bXX9h73M"
+version = "flDrm4to"
+
+[option]
+optional = true
+description = "Allows the usage of controllers, so you don't keep your whole house awake with your Cherry MX Blue keyboard ;)"
