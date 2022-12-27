@@ -76,7 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/adorn.pw.toml"
-hash = "d930cef1a8fac8f24ae0bd3b1f0fc07781f9a1a8c68ef1464d5ffe1b51af7f6e"
+hash = "f9cf1abe808c59f9c2ad85bb7033b6edffa133b5d870a6d3f4d718f260f0192a"
 metafile = true
 
 [[files]]
@@ -196,7 +196,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunks-fade-in.pw.toml"
-hash = "b3f6ab1279c1d4f166ecedb854a8f44212be7795da22a439492308670614f0fa"
+hash = "513b8127155120dacf5814323338d56dde982755f248513838ffbe361b6f6ed9"
 metafile = true
 
 [[files]]
@@ -386,7 +386,7 @@ metafile = true
 
 [[files]]
 file = "mods/friends-and-foes-quilt.pw.toml"
-hash = "12dfafd8fdb226b05b46ffbdc96cc49e2a185eb326528eef1d5ee92cf5f51111"
+hash = "beae0068dba8a8a798985b99f2814fc6664091e24edfa80ab0b18385fa1744b4"
 metafile = true
 
 [[files]]
@@ -451,7 +451,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-structures.pw.toml"
-hash = "ccb9fe34df1191907006d9d80adc3dc645cf9c88a2f1351623ac6024c4ad2c77"
+hash = "2210295dafe13407cfaabb19e51d24dc5960f86724f3d2d0759c48b1f7c77aea"
 metafile = true
 
 [[files]]
@@ -551,7 +551,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "8375f634df8513b4b5e481fc6188f3e4158f9208f47798c5adb337815c952dec"
+hash = "562362e7aca8c229409c6413cf686f77b3a734725a8b9a9704b53501f14446ed"
 metafile = true
 
 [[files]]
@@ -756,7 +756,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "d6593b7ec2735cf3867d1d01d29b8adfb3a24e93932022ea299f977e7a81dedd"
+hash = "b39a29623977769f92afcebfdcfa95d71acb2d513b4611a9462c0964b2f30294"
 metafile = true
 
 [[files]]
@@ -836,7 +836,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "6df4aaf2b55bdbdf478896b735afa69ab4aa951f8d0626495793cc32dae77926"
+hash = "9c4fd1635b7bff2b69551cdacc28464799774ce3da0c8490ce98f37125618020"
 metafile = true
 
 [[files]]
@@ -946,7 +946,7 @@ metafile = true
 
 [[files]]
 file = "mods/when-dungeons-arise.pw.toml"
-hash = "a171322112f845cfce4d815fa1e615bd857f2bd895329010193386b0f952a264"
+hash = "13edb6ded702c85072a99ebe5f36de5d36522a50c1360e01c2a88d2d46a6616f"
 metafile = true
 
 [[files]]
