@@ -58,7 +58,7 @@ hash = "9c36fe73b45aef51f0c63ef1dc49572da232a2320bc04be97c87a0af360810f5"
 
 [[files]]
 file = "global_packs/required_data/JQM.zip"
-hash = "9c0490017c6a6c8c2d0efb53418cf6f915152b794222790c794fa95b062fecd7"
+hash = "3471822f15754138eecdac0eb73cd88976c0227db05769841652a9fe322bea30"
 
 [[files]]
 file = "journeymap/server/5.9/journeymap.server.global.config"
