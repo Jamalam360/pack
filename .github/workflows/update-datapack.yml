@@ -6,6 +6,7 @@ on:
       - next
     paths:
       - 'datapack/**'
+      - '.github/workflows/update-datapack.yml'
 
 jobs:
   update-datapack:
@@ -22,4 +23,4 @@ jobs:
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: '[Bot] Update datapack' 
-          file_pattern: global_data_pack/JQM.zip
+          file_pattern: global_packs/required_data/JQM.zip
