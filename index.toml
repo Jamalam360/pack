@@ -196,7 +196,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunks-fade-in.pw.toml"
-hash = "513b8127155120dacf5814323338d56dde982755f248513838ffbe361b6f6ed9"
+hash = "40a384271baa8d6ac57bb7474aa02a0826aeeab7e83401b1476dcc4b7e77f1fa"
 metafile = true
 
 [[files]]
@@ -331,7 +331,7 @@ metafile = true
 
 [[files]]
 file = "mods/extra-mod-integrations.pw.toml"
-hash = "851f8319eb002b1a833bb5b469af592b057c8f76ee7e8285074e6e14874aaa46"
+hash = "814b3955219c3f1e6b10636b34c5615e09125df7138cad391fce3db39974a340"
 metafile = true
 
 [[files]]
@@ -341,7 +341,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "3cb8e30672e6f29d7a0ee663f4239cb7374eb8ab44c82d1fc9382b56a8dc7b58"
+hash = "c985bc9064cc29094fdfd59a037baa1523778cc2a9e5665c3f1b6ca0efe6a543"
 metafile = true
 
 [[files]]
@@ -676,7 +676,7 @@ metafile = true
 
 [[files]]
 file = "mods/numismatic-overhaul.pw.toml"
-hash = "0ea17b1e78d52b5a8543ca1a42387f2e6b8b966c070e1229808fba6a3323a69f"
+hash = "1d93acb8fe0f4afc330701c2bb19e30ee91e54426b7c8ffca6e7c53bdecac9d0"
 metafile = true
 
 [[files]]
@@ -856,7 +856,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "b8cf1d5ac2e56030d130ee9ffe37b7dad351702bca715d28bfb39b6f3ac652f9"
+hash = "8da0d4c285e7e57aee3f08ab4e268d04518704ace4060744f042aef3a7f6bc50"
 metafile = true
 
 [[files]]
