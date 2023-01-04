@@ -340,11 +340,6 @@ hash = "2e871ee3068cfb44e799d244f4e586e6f32e5708b16a6832939c3c4f01d91170"
 metafile = true
 
 [[files]]
-file = "mods/fabric-language-kotlin.pw.toml"
-hash = "c985bc9064cc29094fdfd59a037baa1523778cc2a9e5665c3f1b6ca0efe6a543"
-metafile = true
-
-[[files]]
 file = "mods/fabrishot.pw.toml"
 hash = "c062d901591a485a7957e8b1bb433a4961b06c0614ba1c2a04c5372819c4c298"
 metafile = true
@@ -762,6 +757,11 @@ metafile = true
 [[files]]
 file = "mods/pressalttomeow.pw.toml"
 hash = "812e15c00f56405e369d7ad9548a868d95f42d201a98639e8212ce7bb8aa9247"
+metafile = true
+
+[[files]]
+file = "mods/qkl.pw.toml"
+hash = "f239749fec928ef33a6204633aaa5449159f6e556348c591f609ed454de44ffa"
 metafile = true
 
 [[files]]
