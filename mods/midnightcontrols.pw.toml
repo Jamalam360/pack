@@ -1,16 +1,16 @@
 name = "MidnightControls"
-filename = "midnightcontrols-1.7.1+1.19.jar"
+filename = "midnightcontrols-1.7.3+1.19.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/bXX9h73M/versions/flDrm4to/midnightcontrols-1.7.1%2B1.19.jar"
+url = "https://cdn.modrinth.com/data/bXX9h73M/versions/UwWXm6bt/midnightcontrols-1.7.3%2B1.19.jar"
 hash-format = "sha1"
-hash = "00251267d771d818c44101585be4f25d4b913dd1"
+hash = "dec131e975e875851338ee02dca5eeacbfd399e5"
 
 [update]
 [update.modrinth]
 mod-id = "bXX9h73M"
-version = "flDrm4to"
+version = "UwWXm6bt"
 
 [option]
 optional = true

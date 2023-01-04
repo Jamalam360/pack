@@ -1,0 +1,7 @@
+name = "plymouth-common"
+filename = "ply-common-0.0.0-rc.9+mc.1.19.2.jar"
+
+[download]
+url = "https://github.com/the-glitch-network/plymouth-fabric/releases/download/v0.0.0-rc.9%2Bmc.1.19.2/ply-common-0.0.0-rc.9+mc.1.19.2.jar"
+hash-format = "sha1"
+hash = "f1cbe7df582b893a6230df68711fa8eff4ba9618"
