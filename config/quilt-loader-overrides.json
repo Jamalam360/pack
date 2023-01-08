@@ -3,16 +3,18 @@
   "overrides": [
     {
       "path": "<mods>/ad_astra-fabric-1.19.2-1.12.1.jar",
-      "depends": {
-        "replace": {
-          "id": "fabricloader",
-          "version": ">=0.14.12"
-        },
-        "with": {
-          "id": "fabricloader",
-          "version": ">=0.14.11"
+      "depends": [
+        {
+          "replace": {
+            "id": "fabricloader",
+            "versions": ">=0.14.12"
+          },
+          "with": {
+            "id": "fabricloader",
+            "versions": ">=0.14.11"
+          }
         }
-      }
+      ]
     }
   ]
 }
