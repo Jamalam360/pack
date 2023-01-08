@@ -138,7 +138,6 @@ Some mods are included in multiple categories.
 - **[Cardinal Components API](https://modrinth.com/project/cardinal-components-api)** - A data attachment API that is easy, modular, and extremely fast.
 - **[Cloth Config API](https://modrinth.com/project/cloth-config)** - Configuration Library for Minecraft Mods
 - **[EMI](https://modrinth.com/project/emi)** - A featureful and accessible item and recipe viewer
-- **[Fabric Language Kotlin](https://modrinth.com/project/fabric-language-kotlin)** - Fabric Language Kotlin
 - **[Fireplace Lib](https://modrinth.com/project/fireplace-lib)** - A library of common functionality used by my mods, in one place for easier maintenance and faster updates.
 - **[JamLib](https://modrinth.com/project/jamlib)** - A library used by JamCoreModding's mods
 - **[Ko-fi Table](https://modrinth.com/project/kofi-table)** - A mod to help add supporter bonuses to mods!
@@ -151,6 +150,7 @@ Some mods are included in multiple categories.
 - **[oωo (owo-lib)](https://modrinth.com/project/owo-lib)** - A general utility, GUI and config library for modding on Fabric and Quilt
 - **[Patchouli](https://modrinth.com/project/patchouli)** - Accessible, Data-Driven, Dependency-Free Documentation for Minecraft Modders and Pack Makers
 - **[Pehkui](https://modrinth.com/project/pehkui)** - Allows resizing of most entities, shrinking them smaller or growing them larger
+- **[Quilt Kotlin Libraries (QKL)](https://modrinth.com/project/qkl)** - Quilt's official Kotlin libraries
 - **[Quilted Fabric API (QFAPI) / Quilt Standard Libraries (QSL)](https://modrinth.com/project/qsl)** - The standard libraries of the Quilt ecosystem. Essential for your modding experience on Quilt!
 - **[Resourceful Config](https://modrinth.com/project/resourceful-config)** - Resourceful Config is a mod that allows for developers to make cross-platform configs
 - **[Resourceful Lib](https://modrinth.com/project/resourceful-lib)** - Resourceful Lib
