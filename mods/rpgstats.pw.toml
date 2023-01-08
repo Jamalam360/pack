@@ -1,13 +1,13 @@
 name = "RPGStats"
-filename = "rpgstats-5.0.1+1.19.2.jar"
+filename = "rpgstats-5.0.2+1.19.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/8RtckdKf/versions/a4IB2TPC/rpgstats-5.0.1%2B1.19.2.jar"
+url = "https://cdn.modrinth.com/data/8RtckdKf/versions/RzB4NPBK/rpgstats-5.0.2%2B1.19.2.jar"
 hash-format = "sha1"
-hash = "6490bcd5ead4362b52b6fe66dfb6dc072aa6c591"
+hash = "c94f40c7036c2eacda57b4868f94beb7c3ff8940"
 
 [update]
 [update.modrinth]
 mod-id = "8RtckdKf"
-version = "a4IB2TPC"
+version = "RzB4NPBK"

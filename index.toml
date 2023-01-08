@@ -66,7 +66,7 @@ hash = "19b3cc4283a91a76d270494908aef5522812263040c9ba2b96e48b6c3239c03b"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
-hash = "7e3bb146256bade0b3c629d425bdfc7df4d813c71d3b9229d3e05371bb969ad5"
+hash = "115536fc95d264f0d4785ec3b31f3bf820121d598c8528c73f258dc20a9c8616"
 metafile = true
 
 [[files]]
@@ -166,7 +166,7 @@ metafile = true
 
 [[files]]
 file = "mods/botarium.pw.toml"
-hash = "0b45c204e8d611256b355636916c8c87224a7cc9dc61ef758ea3d1e0f16a9884"
+hash = "ed2e23b38b2e862d187b8303903724995bc3c61ce54a72733f3c3792932c2b86"
 metafile = true
 
 [[files]]
@@ -356,7 +356,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-knives.pw.toml"
-hash = "107563b14c3db74a73711747ce8edcf25be6f6c8bdcc4634b170665371cf3077"
+hash = "3227076500fcb4b964d1fc1e1718151b5890b167977168aba98d49ddf895b897"
 metafile = true
 
 [[files]]
@@ -501,7 +501,7 @@ metafile = true
 
 [[files]]
 file = "mods/jamlib.pw.toml"
-hash = "dab1b9951ec4ae8702752293bda463f07db441a63a46525c8c8c342a5a982c5a"
+hash = "6cb50f4dcb3f6ba70ecbae01c0691b25fb40610a859aa41bf6ce261ad70429d2"
 metafile = true
 
 [[files]]
@@ -601,7 +601,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightcontrols.pw.toml"
-hash = "ec4a8c49d822ede2e01b47a7d670c469dec3929c82d01c521678c3f64768df9d"
+hash = "cfb3dc77acbe5098e472bf5ca9dce01a412dd32d8521da6cdc2ab91c57470fef"
 metafile = true
 
 [[files]]
@@ -721,7 +721,7 @@ metafile = true
 
 [[files]]
 file = "mods/pehkui.pw.toml"
-hash = "bfb2ed4cb4f501621eab3467dc6c6206525a414d0fe401a8f91f8aaca7232993"
+hash = "0c137fc602775302c23539446a7d562d9f2b903aa0a972b85314088d1f705492"
 metafile = true
 
 [[files]]
@@ -761,7 +761,7 @@ metafile = true
 
 [[files]]
 file = "mods/qkl.pw.toml"
-hash = "f239749fec928ef33a6204633aaa5449159f6e556348c591f609ed454de44ffa"
+hash = "78fe291bc3d50234209d5b80735b469044f4d858dc8d3ba5bc38d1e098cb786f"
 metafile = true
 
 [[files]]
@@ -811,12 +811,12 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "50a8504105877ca2cb2e8db64f4a50c062cb8abaf6881d665ad4eccc109680fd"
+hash = "b8a7848d058a838ed12889cc4005234d4feaf350343ad14f351004d4d25d9c2b"
 metafile = true
 
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
-hash = "58895127695d12757a124219ae3f0ca7286d518179368fe3f6d7753604673cb8"
+hash = "eb7d098a1b5e6e0cfb014073b5b3db6330f88b593ddc81f0d6c320cfa94178b9"
 metafile = true
 
 [[files]]
@@ -826,7 +826,7 @@ metafile = true
 
 [[files]]
 file = "mods/rpgstats.pw.toml"
-hash = "7180d060dcfea445219c0413f0f62b3cb42acddf0679e3cb38546d7f82ca6e12"
+hash = "ac8d16c76f69bd89d4f8e19b0594293f789b816f4f86bdea76b9f2f46765c36e"
 metafile = true
 
 [[files]]
@@ -966,7 +966,7 @@ metafile = true
 
 [[files]]
 file = "mods/wilder-wild.pw.toml"
-hash = "bb8ddf335a6fd18b3b408fa2a5a8828be77f52ffb5bac9c8240a3d278a61a30a"
+hash = "e49c3bcff346b02ee5f9ae0e25f3804d778cc0fdc6c84b2b2c41a00a692a2444"
 metafile = true
 
 [[files]]
