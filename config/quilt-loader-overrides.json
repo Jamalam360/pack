@@ -1,0 +1,21 @@
+{
+    "schema_version":1,
+    "overrides": [
+        {
+            "path": "<mods>/ad_astra-fabric-1.19.2-1.12.1.jar",
+            "version": "1.12.1",
+            "depends": [
+                {
+                    "replace": {
+                        "id": "fabricloader",
+                        "version": ">=0.14.12"
+                    },
+                    "with": {
+                        "id": "fabricloader",
+                        "version": ">=0.14.11"
+                    }
+                }
+            ]
+        }
+    ]
+}

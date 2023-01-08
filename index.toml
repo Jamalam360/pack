@@ -33,6 +33,10 @@ file = "config/quickconnectbutton.json5"
 hash = "e61adeafd8939411018046699210fa73d2894038497da738c943a11e31df456d"
 
 [[files]]
+file = "config/quilt-loader-overrides.json"
+hash = "2676eb54f9d012e3c14ebc572b44308161a1a37ab71ae9cbb6fe9aa48b47faa9"
+
+[[files]]
 file = "config/reaping.json"
 hash = "a17c1499f733a981924964fd3c997677d7a5a887d97ed36b0421e00436855b14"
 
