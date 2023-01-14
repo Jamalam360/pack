@@ -53,7 +53,7 @@ Some mods are included in multiple categories.
 
 - **[🪵 Twigs](https://modrinth.com/project/twigs)** - A Minecraft building blocks mod
 - **[Adorn](https://modrinth.com/project/adorn)** - Decorate your home!
-- **[Architecture Extensions](https://modrinth.com/project/arch-ex)** - A mod that extends one's creativity by implementing new blocks to Minecraft.
+- **[Architecture Extensions](https://modrinth.com/project/arch-ex)** - A mod that allows you to make more detailed builds with all kinds of new building blocks and shapes.
 - **[Armor Stand Editor](https://modrinth.com/project/armorstandeditor)** - Pose and modify your armor stand with ease!
 - **[Blur (Fabric)](https://modrinth.com/project/blur-fabric)** - Adds a blur effect to all GUI backgrounds - now for Fabric!
 - **[Celestria](https://modrinth.com/project/celestria)** - Adds celestrial events, such as shooting stars and occasional insomnia from full moon.
@@ -123,7 +123,7 @@ Some mods are included in multiple categories.
 - **[Kaffee's Dual Ride](https://modrinth.com/project/kaffees_dual_ride)** - A tiny mod that allows two players to sit on one horse.
 - **[Nether Wart Blocks to Nether Warts](https://modrinth.com/project/nether-wart-block-to-nether-warts)** - With this mod you can craft Nether Wart Blocks back to Nether Warts
 - **[Origins Minus](https://modrinth.com/project/origins-minus)** - Origins focused on simplicity, not balance.
-- **[Pehkui](https://modrinth.com/project/pehkui)** - Allows resizing of most entities, shrinking them smaller or growing them larger
+- **[Pehkui](https://modrinth.com/project/pehkui)** - Lets you change the size of most entities, shrinking them smaller or growing them larger
 - **[Smelting sand in blast furnace](https://modrinth.com/project/smelting-sand-in-blast-furnace)** - Smelt sand and red sand faster in a blast furnace
 - **[Why stacks of 16?](https://modrinth.com/project/why-stacks-of-16)** - Stack items initially stacking up to 16 now up to 64
 
@@ -149,7 +149,7 @@ Some mods are included in multiple categories.
 - **[More Axolotl Variants API](https://modrinth.com/project/mavapi)** - Lightweight API to implement new axolotl variants.
 - **[oωo (owo-lib)](https://modrinth.com/project/owo-lib)** - A general utility, GUI and config library for modding on Fabric and Quilt
 - **[Patchouli](https://modrinth.com/project/patchouli)** - Accessible, Data-Driven, Dependency-Free Documentation for Minecraft Modders and Pack Makers
-- **[Pehkui](https://modrinth.com/project/pehkui)** - Allows resizing of most entities, shrinking them smaller or growing them larger
+- **[Pehkui](https://modrinth.com/project/pehkui)** - Lets you change the size of most entities, shrinking them smaller or growing them larger
 - **[Quilt Kotlin Libraries (QKL)](https://modrinth.com/project/qkl)** - Quilt's official Kotlin libraries
 - **[Quilted Fabric API (QFAPI) / Quilt Standard Libraries (QSL)](https://modrinth.com/project/qsl)** - The standard libraries of the Quilt ecosystem. Essential for your modding experience on Quilt!
 - **[Resourceful Config](https://modrinth.com/project/resourceful-config)** - Resourceful Config is a mod that allows for developers to make cross-platform configs
