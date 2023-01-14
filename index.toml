@@ -70,7 +70,7 @@ hash = "19b3cc4283a91a76d270494908aef5522812263040c9ba2b96e48b6c3239c03b"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
-hash = "115536fc95d264f0d4785ec3b31f3bf820121d598c8528c73f258dc20a9c8616"
+hash = "8c2934e1be8c9a6723de7727107d587712e72c599cd22b7ca7f279a3d6281770"
 metafile = true
 
 [[files]]
@@ -200,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunks-fade-in.pw.toml"
-hash = "c638f4444cdf3bf1097ba4cd728f9c94c75e5b8284d93c8e71a84ab74aa01eb4"
+hash = "e0f944e93a2928124ced6a8e82b5dc46df578fcf13ffeb01e40ed6c7ee19c7bd"
 metafile = true
 
 [[files]]
@@ -385,7 +385,7 @@ metafile = true
 
 [[files]]
 file = "mods/friends-and-foes-quilt.pw.toml"
-hash = "beae0068dba8a8a798985b99f2814fc6664091e24edfa80ab0b18385fa1744b4"
+hash = "b6ee7e731942518992da0a8e336822dd511c81f97b111e1572a6d99d9b094dfd"
 metafile = true
 
 [[files]]
@@ -420,7 +420,7 @@ metafile = true
 
 [[files]]
 file = "mods/i-know-what-im-doing.pw.toml"
-hash = "4191daf9db203945cd504e0489ce9008f718bb69fa8ce36cf3847ab28f05355c"
+hash = "20a51bfb1800f25433301d1103fe627edcbe13aeccf24a935f9f9bd8eaa4aa21"
 metafile = true
 
 [[files]]
@@ -490,7 +490,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "02cef7560c9b885038b3cb2601581a057b9651ef82d0198e34aff1ae7be0d021"
+hash = "0bb13d0459be9af19faf40ea8e83b8bf29922b378dcbe9e430fc7de11d98dac3"
 metafile = true
 
 [[files]]
@@ -510,7 +510,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "6911ad165964bf683549426e6be93b7a86d2e576f2dac9316cdec6615036f9e0"
+hash = "30674895795238465a459627b3866840012db27328d9b5b5a319bfdcf4f65915"
 metafile = true
 
 [[files]]
@@ -770,7 +770,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "b39a29623977769f92afcebfdcfa95d71acb2d513b4611a9462c0964b2f30294"
+hash = "52b33bf6600eecca94d7f34b58828fe8969033d68a492abb633bba2394b93cd9"
 metafile = true
 
 [[files]]
@@ -810,7 +810,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-config.pw.toml"
-hash = "44c824b4d14a6f8cad8e1e6ace4a7a040cf637dde2fd6cf4113fb35fee7d8412"
+hash = "60eff3efa4c72b6ba8eecdc8a5072d03dd02b791f9b01bbc5b518e7e1b9bd30d"
 metafile = true
 
 [[files]]
@@ -830,7 +830,7 @@ metafile = true
 
 [[files]]
 file = "mods/rpgstats.pw.toml"
-hash = "ac8d16c76f69bd89d4f8e19b0594293f789b816f4f86bdea76b9f2f46765c36e"
+hash = "d07079415a4d9feb83d38c81101d9ac42bb97f375e2f3bf76af90ee9326dde82"
 metafile = true
 
 [[files]]
@@ -850,7 +850,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "9c4fd1635b7bff2b69551cdacc28464799774ce3da0c8490ce98f37125618020"
+hash = "0e5d25f9f7d06bf3c50d2b3f7ad5a00f43a5e5f056641b6b24eaf4d0b24e6119"
 metafile = true
 
 [[files]]
@@ -975,7 +975,7 @@ metafile = true
 
 [[files]]
 file = "mods/winterly.pw.toml"
-hash = "d01887293f4c45d78b92edaa12c612637c7c2089e2ed462f336ddaa6f702aa97"
+hash = "f864e0d4899a8e1b5e0ff01acf382264d647e7aad22990221e96382c4bf62927"
 metafile = true
 
 [[files]]
