@@ -34,7 +34,7 @@ hash = "e61adeafd8939411018046699210fa73d2894038497da738c943a11e31df456d"
 
 [[files]]
 file = "config/quilt-loader-overrides.json"
-hash = "3e07e8f35a1863b705e76c456211ebdb1b47d52b745a4566048bebd60c3c262f"
+hash = "2733de30744673dfda4c4d63383319ca1e92f10754b989bb60c65a99869fa3f1"
 
 [[files]]
 file = "config/reaping.json"
