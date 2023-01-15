@@ -364,6 +364,11 @@ hash = "3227076500fcb4b964d1fc1e1718151b5890b167977168aba98d49ddf895b897"
 metafile = true
 
 [[files]]
+file = "mods/fast-bench.pw.toml"
+hash = "a6ef4abc7e201066ce2e329c061e894ddc7ce28b9880e57eea58def21ec2239e"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
 metafile = true
