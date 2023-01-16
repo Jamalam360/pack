@@ -1,0 +1,13 @@
+name = "Excorrelation"
+filename = "excorrelation-1.1.32.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jqnzGtnW/versions/Fga1bUDq/excorrelation-1.1.32.jar"
+hash-format = "sha1"
+hash = "6d5f8dd25e89139a6445a643c7df9365782365b9"
+
+[update]
+[update.modrinth]
+mod-id = "jqnzGtnW"
+version = "Fga1bUDq"
