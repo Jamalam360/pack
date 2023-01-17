@@ -630,7 +630,7 @@ metafile = true
 
 [[files]]
 file = "mods/mine11lib.pw.toml"
-hash = "5e3b4d73b77e75021646cf61f4ef27e4469f3463adf0a6aa805ca4430179bd2f"
+hash = "bc3811c1288e336dd62684bc292b7b7613b19bb3438f515af976b57f09ea6d5b"
 metafile = true
 
 [[files]]
