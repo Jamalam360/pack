@@ -295,7 +295,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "ea6a724de658415a68092e3f4e1531290d569aed13cf45b2fa7b7eedb67a78c5"
+hash = "6b6203af7dc03a920fb09c81f79340d9d6d1bc9a9f9c3682db49e3b085d54549"
 metafile = true
 
 [[files]]
@@ -630,7 +630,7 @@ metafile = true
 
 [[files]]
 file = "mods/mine11lib.pw.toml"
-hash = "bc3811c1288e336dd62684bc292b7b7613b19bb3438f515af976b57f09ea6d5b"
+hash = "5e3b4d73b77e75021646cf61f4ef27e4469f3463adf0a6aa805ca4430179bd2f"
 metafile = true
 
 [[files]]
@@ -770,7 +770,7 @@ metafile = true
 
 [[files]]
 file = "mods/pressalttomeow.pw.toml"
-hash = "812e15c00f56405e369d7ad9548a868d95f42d201a98639e8212ce7bb8aa9247"
+hash = "391ba9c5a4d218740c8f78b7905e4a7e071ecc8dc0f48e6c98c28f43ab162fc7"
 metafile = true
 
 [[files]]
@@ -945,7 +945,7 @@ metafile = true
 
 [[files]]
 file = "mods/trinkets.pw.toml"
-hash = "b3acdba79cfef7e53cfd4df8dd6e7cbbe4eeae75972bf65fa2a6aaef034f4b8e"
+hash = "e4e021f4e9647d01496dfd9f4dbf77cf46575318bd54f40aac7d3b4996baecb8"
 metafile = true
 
 [[files]]
@@ -1020,7 +1020,7 @@ metafile = true
 
 [[files]]
 file = "mods/yigd.pw.toml"
-hash = "dcfc9996df859731e571721ffef8006ade14f3c2a2f26c716beca15575eb3ce6"
+hash = "69369708233e70a88d14445ba54e7a227cfcaf6f13bd5c7cfd3cd09f6d4fab51"
 metafile = true
 
 [[files]]
