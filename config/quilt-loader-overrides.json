@@ -30,6 +30,21 @@
           }
         }
       ]
+    },
+    {
+      "path": "<mods>/WilderWild-1.1.9-Fabric+1.19.2.jar",
+      "depends": [
+        {
+          "replace": {
+            "id": "fabricloader",
+            "versions": ">=0.14.12"
+          },
+          "with": {
+            "id": "fabricloader",
+            "versions": ">=0.14.11"
+          }
+        }
+      ]
     }
   ]
 }
