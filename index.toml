@@ -235,7 +235,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "b6d88ec0e940243d228316c8b3a186c4bb5024e8dba627c88bdc29f93bf7e31b"
+hash = "19783c9eb3f9c3a9522f47f11fa9b87dd62b64a42e52cadbdf9ce9d5c8d73d46"
 metafile = true
 
 [[files]]
@@ -295,7 +295,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "6b6203af7dc03a920fb09c81f79340d9d6d1bc9a9f9c3682db49e3b085d54549"
+hash = "c9b76faa13062eea32d52fac5e90ee7869700b487e53cf0307142dbaea5fb989"
 metafile = true
 
 [[files]]
@@ -335,7 +335,7 @@ metafile = true
 
 [[files]]
 file = "mods/extended-drawers.pw.toml"
-hash = "8d8c5a1095b1176dd838b0352d8931edfe9d76b7fc77e9d18a6af07422428a55"
+hash = "a49785f8c91790078ac8a1631af873f62fb1325024cc486ac24a7b37ecfb89ac"
 metafile = true
 
 [[files]]
@@ -395,7 +395,7 @@ metafile = true
 
 [[files]]
 file = "mods/friends-and-foes-quilt.pw.toml"
-hash = "b6ee7e731942518992da0a8e336822dd511c81f97b111e1572a6d99d9b094dfd"
+hash = "11bbb5de01ff0d039673a86a5269ef4f3624b7c14a133fb3736b45972d5979dd"
 metafile = true
 
 [[files]]
@@ -560,7 +560,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "562362e7aca8c229409c6413cf686f77b3a734725a8b9a9704b53501f14446ed"
+hash = "730a2942abc26467602f541397824c3d0f8cfb2d497f2239ec72d98f9c10fbe9"
 metafile = true
 
 [[files]]
@@ -580,7 +580,7 @@ metafile = true
 
 [[files]]
 file = "mods/luckperms.pw.toml"
-hash = "10adb8c5a5aab921443515680dd58a1369e1209ec4966fde0759d64f777f7525"
+hash = "a4a461e73eb037dd5b5f3015a9a53d947c4533535b98f072f4ea96e90e9d68e4"
 metafile = true
 
 [[files]]
@@ -630,7 +630,7 @@ metafile = true
 
 [[files]]
 file = "mods/mine11lib.pw.toml"
-hash = "bc3811c1288e336dd62684bc292b7b7613b19bb3438f515af976b57f09ea6d5b"
+hash = "5e3b4d73b77e75021646cf61f4ef27e4469f3463adf0a6aa805ca4430179bd2f"
 metafile = true
 
 [[files]]
@@ -660,7 +660,7 @@ metafile = true
 
 [[files]]
 file = "mods/mythicmetals.pw.toml"
-hash = "be1ce20605a70f13c36516dae3df5b83608ba7bf4e2c8c921c76b477483f0867"
+hash = "e0c137e731158cff47ea992778edda280be964099dd3843a483d6412b7eafdd2"
 metafile = true
 
 [[files]]
@@ -780,7 +780,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "52b33bf6600eecca94d7f34b58828fe8969033d68a492abb633bba2394b93cd9"
+hash = "f8abf37ca66a859e03c848166dfd7d82f4c89a22c7b4ec5b3f97890bda8438d7"
 metafile = true
 
 [[files]]
@@ -825,7 +825,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "b8a7848d058a838ed12889cc4005234d4feaf350343ad14f351004d4d25d9c2b"
+hash = "3a8258bea2381d1a03942b3cc88dd964c3bc6fb95b6c48898474ba29875ab0c0"
 metafile = true
 
 [[files]]
@@ -840,7 +840,7 @@ metafile = true
 
 [[files]]
 file = "mods/rpgstats.pw.toml"
-hash = "d07079415a4d9feb83d38c81101d9ac42bb97f375e2f3bf76af90ee9326dde82"
+hash = "b300f74f4fc58bb6346671181364be9b7ae73b8b17768d3c2ab9d3a63f304ed2"
 metafile = true
 
 [[files]]
@@ -860,7 +860,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "0e5d25f9f7d06bf3c50d2b3f7ad5a00f43a5e5f056641b6b24eaf4d0b24e6119"
+hash = "75dec29724ec4e91a5716dda598acf0bd2911255925709216101e16987f242b4"
 metafile = true
 
 [[files]]
@@ -985,7 +985,7 @@ metafile = true
 
 [[files]]
 file = "mods/wilder-wild.pw.toml"
-hash = "e49c3bcff346b02ee5f9ae0e25f3804d778cc0fdc6c84b2b2c41a00a692a2444"
+hash = "6de86d17dbdd7c63bb15f189605a2b42b60763103b0ca56373fccf237eab888c"
 metafile = true
 
 [[files]]
@@ -1010,17 +1010,17 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "b003caafe717cbbf9ba2a7539bdd361e4d7e58e0d9602bd81a41387691b7e70c"
+hash = "f9a7649acd64d6a27f7f9a4518b59fd9b09617a3be1aeb7c69bc5a0045b465fd"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "afc5f3bf4cae41e848070a109287bc6607c2f46045fc452da5d43189358adcb6"
+hash = "17d831dc9a5939806f745aadeb8a0b11b0f1c7f587043e0d1aa77f40c76f73b9"
 metafile = true
 
 [[files]]
 file = "mods/yigd.pw.toml"
-hash = "69369708233e70a88d14445ba54e7a227cfcaf6f13bd5c7cfd3cd09f6d4fab51"
+hash = "d50f1f988b35d7b788d945fece5e8605daac9c9b819a23f2ed3f87e9142f4a24"
 metafile = true
 
 [[files]]
