@@ -660,7 +660,7 @@ metafile = true
 
 [[files]]
 file = "mods/mythicmetals.pw.toml"
-hash = "e0c137e731158cff47ea992778edda280be964099dd3843a483d6412b7eafdd2"
+hash = "be1ce20605a70f13c36516dae3df5b83608ba7bf4e2c8c921c76b477483f0867"
 metafile = true
 
 [[files]]
