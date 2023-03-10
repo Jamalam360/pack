@@ -62,7 +62,7 @@ hash = "9c36fe73b45aef51f0c63ef1dc49572da232a2320bc04be97c87a0af360810f5"
 
 [[files]]
 file = "global_packs/required_data/JQM.zip"
-hash = "3471822f15754138eecdac0eb73cd88976c0227db05769841652a9fe322bea30"
+hash = "c42ef94f43a986e8f851bb4e210f635cb97a7b6ff9e2c54ff54eff137df2e09e"
 
 [[files]]
 file = "journeymap/server/5.9/journeymap.server.global.config"
@@ -70,7 +70,7 @@ hash = "19b3cc4283a91a76d270494908aef5522812263040c9ba2b96e48b6c3239c03b"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
-hash = "c039bbcd509c691d5dbc2a9cd4e23147f2a88cc3fb6045329df97d2b54d07513"
+hash = "8c2934e1be8c9a6723de7727107d587712e72c599cd22b7ca7f279a3d6281770"
 metafile = true
 
 [[files]]
@@ -231,6 +231,11 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "3cbe3d523b39667928fcc34f71651b0e581e5c541dd5ecf17228464770466bc5"
+metafile = true
+
+[[files]]
+file = "mods/corgilib.pw.toml"
+hash = "9322278362644f81f8cc456b622d0b761eaf2677abbaca5db1952b23098a33bb"
 metafile = true
 
 [[files]]
@@ -630,7 +635,7 @@ metafile = true
 
 [[files]]
 file = "mods/mine11lib.pw.toml"
-hash = "5e3b4d73b77e75021646cf61f4ef27e4469f3463adf0a6aa805ca4430179bd2f"
+hash = "bc3811c1288e336dd62684bc292b7b7613b19bb3438f515af976b57f09ea6d5b"
 metafile = true
 
 [[files]]
