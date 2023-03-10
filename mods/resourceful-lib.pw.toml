@@ -1,13 +1,13 @@
 name = "Resourceful Lib"
-filename = "resourcefullib-1.1.20.jar"
+filename = "resourcefullib-1.1.21.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/G1hIVOrD/versions/WoJVEX8A/resourcefullib-1.1.20.jar"
+url = "https://cdn.modrinth.com/data/G1hIVOrD/versions/DtRLheCF/resourcefullib-1.1.21.jar"
 hash-format = "sha1"
-hash = "f17c6c53acfcb0c2d1ba6ef298a5f9cbcc95be49"
+hash = "bed99c6e685e10eb37a644ffce02e31ee849c410"
 
 [update]
 [update.modrinth]
 mod-id = "G1hIVOrD"
-version = "WoJVEX8A"
+version = "DtRLheCF"
