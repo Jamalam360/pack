@@ -21,6 +21,10 @@ file = "config/journeymap-server.json"
 hash = "435e7e7a5a18a46d23598bdd800b8abb1b0e37059c6dab21e48cd10fa2f8d478"
 
 [[files]]
+file = "config/lithium.properties"
+hash = "1c1e904bb1ee68649afc0861a9d50610016c12a542e58a5606551d98026ae04f"
+
+[[files]]
 file = "config/modfest.json"
 hash = "c314fea523c83ad62a9d99183989370603ff49aee380ae0753138e90987401ce"
 
