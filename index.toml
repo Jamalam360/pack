@@ -10,7 +10,7 @@ hash = "748384cffc88e83d3be2591abc9f0723276d65fe533be1fea66fd6481e5003fb"
 
 [[files]]
 file = "config/yosbr/config/c2me.toml"
-hash = "cdf61af100d8a29e9bbf26cc1b7ad8ae29c82357831705a97bb1dffa8ab386fa"
+hash = "97fc344ecea6039db595715e1c169a80324cb75cec074af7df2b89b3bdaa156c"
 
 [[files]]
 file = "config/yosbr/config/do_a_barrel_roll-client.json"
@@ -81,6 +81,10 @@ file = "config/yosbr/config/mousewheelie.hjson"
 hash = "a4b0ae3044597bf0d93ef4abcac54cf8c5e4eceeabcd65ac9304ee82423d6366"
 
 [[files]]
+file = "config/yosbr/config/servercore.toml"
+hash = "7c2e6550e7854aa895380c58d19748be8936dcfa0d900df2db07129135075428"
+
+[[files]]
 file = "config/yosbr/config/smoothboot.json"
 hash = "c37edec3875da8e561eb60bb7a18dcdce128cc41cfe26261c65a8e942f65d58f"
 
@@ -95,6 +99,10 @@ hash = "0d0549563aca08c87a22a9fd862cc6e7a9906f2d6fca84dcbfa7cbec14dff7e6"
 [[files]]
 file = "config/yosbr/options.txt"
 hash = "d47d1011833fff602630dd3177dd07f129ec7f7b3a6c71c7c36bf1e5e3720b82"
+
+[[files]]
+file = "global_packs/required_data/jamalams-modpack.zip"
+hash = "603b4b20de36dd46b9cdcd0da897a59b8b9c3bb99de318c9508f154edfdf5dd6"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
