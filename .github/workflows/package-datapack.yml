@@ -16,7 +16,7 @@ jobs:
 
       - name: Run Update Datapack Zip
         run: |
-          rm global_packs/required_data/jamalams-modpack.zip
+          rm -f global_packs/required_data/jamalams-modpack.zip
           cd datapack
           zip -r ../global_packs/required_data/jamalams-modpack.zip .
 
