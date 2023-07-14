@@ -32,21 +32,21 @@ jobs:
           name: jamalams-pack-$VERSION.mrpack
           path: jamalams-pack-$VERSION.mrpack
 
-      - name: Publish to Modrinth
-        uses: Kir-Antipov/mc-publish@v3.3
-        with:
-          modrinth-id: TODO
-          modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+      # - name: Publish to Modrinth
+      #   uses: Kir-Antipov/mc-publish@v3.3
+      #   with:
+      #     modrinth-id: TODO
+      #     modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
+      #     github-token: ${{ secrets.GITHUB_TOKEN }}
 
-          files: |
-            jamalams-pack-$VERSION.mrpack
+      #     files: |
+      #       jamalams-pack-$VERSION.mrpack
 
-          name: Jamalam's Pack ($VERSION)
-          version: $VERSION
-          version-type: release
+      #     name: Jamalam's Pack ($VERSION)
+      #     version: $VERSION
+      #     version-type: release
 
-          loaders: |
-            quilt
-          game-versions: |
-            1.20.1
+      #     loaders: |
+      #       quilt
+      #     game-versions: |
+      #       1.20.1
