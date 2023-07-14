@@ -6,7 +6,7 @@ on:
       - '*'
 
 jobs:
-  deploy-main:
+  deploy:
     runs-on: ubuntu-22.04
 
     steps:
@@ -14,23 +14,23 @@ jobs:
         run: |
           curl --silent --show-error --fail -X POST -H "Authorization: Bearer ${{ secrets.API_DEPLOY_KEY }}" https://orion.jamalam.tech/deploy/pack
 
-      - name: Install Go
-        uses: actions/setup-go@v2
+      # - name: Install Go
+      #   uses: actions/setup-go@v2
 
-      - name: Install Packwiz
-        run: go install github.com/packwiz/packwiz@latest
+      # - name: Install Packwiz
+      #   run: go install github.com/packwiz/packwiz@latest
 
-      - name: Get Version Number
-        run: echo "VERSION=$(git describe --tags --abbrev=0)" >> $GITHUB_ENV
+      # - name: Get Version Number
+      #   run: echo "VERSION=$(git describe --tags --abbrev=0)" >> $GITHUB_ENV
 
-      - name: Package Modpack
-        run: packwiz modrinth export -o jamalams-pack-$VERSION.mrpack
+      # - name: Package Modpack
+      #   run: packwiz modrinth export -o jamalams-pack-$VERSION.mrpack
       
-      - name: Upload Artifact
-        uses: actions/upload-artifact@v2
-        with:
-          name: jamalams-pack-$VERSION.mrpack
-          path: jamalams-pack-$VERSION.mrpack
+      # - name: Upload Artifact
+      #   uses: actions/upload-artifact@v2
+      #   with:
+      #     name: jamalams-pack-$VERSION.mrpack
+      #     path: jamalams-pack-$VERSION.mrpack
 
       # - name: Publish to Modrinth
       #   uses: Kir-Antipov/mc-publish@v3.3
