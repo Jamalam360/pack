@@ -1,7 +1,0 @@
-name = "force-disable-hud"
-filename = "force-disable-hud-1.0.1.jar"
-
-[download]
-url = "https://github.com/JamCoreModding/force-disable-hud/releases/download/1.0.1/force-disable-hud-1.0.1.jar"
-hash-format = "sha1"
-hash = "90635f7bc51073d82c1798fd094d03046e8fc7d3"

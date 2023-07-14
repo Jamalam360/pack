@@ -1,0 +1,13 @@
+name = "AdditionZ"
+filename = "additionz-1.1.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QeSwHM7w/versions/4NcQDFbq/additionz-1.1.10.jar"
+hash-format = "sha1"
+hash = "5ff068f071ed262d7ff4902a78df92077c1290ba"
+
+[update]
+[update.modrinth]
+mod-id = "QeSwHM7w"
+version = "4NcQDFbq"

@@ -1,7 +1,0 @@
-name = "fast-bench"
-filename = "fastbench-1.19.2-3.jar"
-
-[download]
-url = "https://cdn.jamalam.tech/mods/fastbench-1.19.2-3.jar"
-hash-format = "sha1"
-hash = "bd61aed665adac4bf7189508a6563435eb196d56"

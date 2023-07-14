@@ -1,0 +1,26 @@
+name: Update Datapack
+
+on:
+  push:
+    paths:
+      - 'datapack/**'
+      - '.github/workflows/package-datapack.yml'
+
+jobs:
+  package-datapack:
+    runs-on: ubuntu-22.04
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Run Update Datapack Zip
+        run: |
+          rm global_packs/required_data/jamalams-modpack.zip
+          cd datapack
+          zip -r ../global_packs/required_data/jamalams-modpack.zip .
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: '[Bot] Update datapack' 
+          file_pattern: global_packs/required_data/jamalams-modpack.zip

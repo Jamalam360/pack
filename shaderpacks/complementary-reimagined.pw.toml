@@ -1,17 +1,13 @@
 name = "Complementary Reimagined"
-filename = "ComplementaryReimagined_r1.4.zip"
+filename = "ComplementaryReimagined_r2.2.1.zip"
 side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/HVnmMxH1/versions/RYvsFGd2/ComplementaryReimagined_r2.2.1.zip"
 hash-format = "sha1"
-hash = "a85fa028bf09cb0ee4ee51f9d9703522c16e597f"
-mode = "metadata:curseforge"
+hash = "d55a5f8e492e362539882032baedd6025d750a9c"
 
 [update]
-[update.curseforge]
-file-id = 4249677
-project-id = 627557
-
-[option]
-optional = true
-description = "A beatiful shaderpack."
+[update.modrinth]
+mod-id = "HVnmMxH1"
+version = "RYvsFGd2"

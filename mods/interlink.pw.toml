@@ -1,9 +1,0 @@
-name = "Interlink"
-filename = "Interlink-1.19.2-2.0.0.jar"
-side = "server"
-
-[download]
-url = "https://cdn.jamalam.tech/mods/Interlink-1.19.2-2.0.0.jar"
-hash-format = "sha1"
-hash = "92676122837c2ce2ec05c966d19864561b206302"
-mode = ""

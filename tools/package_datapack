@@ -1,5 +1,0 @@
-#!/bin/bash
-
-rm global_packs/required_data/JQM.zip
-cd datapack
-zip -r ../global_packs/required_data/JQM.zip .

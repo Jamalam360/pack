@@ -1,7 +1,0 @@
-name = "plymouth-utilities"
-filename = "ply-utilities-0.0.0-rc.9+mc.1.19.2.jar"
-
-[download]
-url = "https://github.com/the-glitch-network/plymouth-fabric/releases/download/v0.0.0-rc.9%2Bmc.1.19.2/ply-utilities-0.0.0-rc.9+mc.1.19.2.jar"
-hash-format = "sha1"
-hash = "2fa74a09aa96d8b02e7ce914bf5da6d57b3ef135"
