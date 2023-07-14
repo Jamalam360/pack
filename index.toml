@@ -121,7 +121,7 @@ metafile = true
 
 [[files]]
 file = "mods/alloy-forgery.pw.toml"
-hash = "149062fec33cc9b361650d6aacbbb668381007e14ec6b1ef98fb7e4fe9c51685"
+hash = "5036c67b29fd714f01f27f424955108b64fb25bd0c9559c1a7ba11f1d1599398"
 metafile = true
 
 [[files]]
@@ -381,7 +381,7 @@ metafile = true
 
 [[files]]
 file = "mods/mythicmetals.pw.toml"
-hash = "3902d0e4b99082a481bdee3dc452f53300c66dcb5b98e710db6f162fa34ba7cd"
+hash = "d822764238c63490e57e3178bb7b88bb472feaa0e251cffbc78e857dd38e5c00"
 metafile = true
 
 [[files]]
