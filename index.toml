@@ -120,6 +120,11 @@ hash = "e811caa81a299f542927662d28f61058716bfc95c74b2700d78e237fa0ac07c1"
 metafile = true
 
 [[files]]
+file = "mods/ae2.pw.toml"
+hash = "ae9173e1d85d2490f520e779f628b219c5f96b4822f1ca5fb6ce223e4de02acf"
+metafile = true
+
+[[files]]
 file = "mods/alloy-forgery.pw.toml"
 hash = "5036c67b29fd714f01f27f424955108b64fb25bd0c9559c1a7ba11f1d1599398"
 metafile = true
@@ -147,6 +152,11 @@ metafile = true
 [[files]]
 file = "mods/better-than-mending.pw.toml"
 hash = "c65fb7a6459404783860340cf31a4b20fa7b37f0f031a85372eb1bb509f27b3f"
+metafile = true
+
+[[files]]
+file = "mods/borderless-mining.pw.toml"
+hash = "c49d42cddfb05cf5e4882d5753bd98a525c9a994fda5f49651003e8266b7aa9d"
 metafile = true
 
 [[files]]
@@ -227,11 +237,6 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "31713296359c70914a4fc56d32a61f41620af105819f826bbffbb234591d34fe"
-metafile = true
-
-[[files]]
-file = "mods/eureka.pw.toml"
-hash = "37240bbf09c834ae237e5bb368faeb01183baa4cc59145dacc6d0399827a7802"
 metafile = true
 
 [[files]]
@@ -350,6 +355,11 @@ hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
 
 [[files]]
+file = "mods/manic.pw.toml"
+hash = "9714cf6042d9b40be8a2588fefaad0b241552feff821ce9f8ae01e201cca71ac"
+metafile = true
+
+[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "6c417b19bc836d7c516be0097261c49cf1a167951bb4744ec0f3cc0bd0d1d24a"
 metafile = true
@@ -401,7 +411,7 @@ metafile = true
 
 [[files]]
 file = "mods/origins-minus.pw.toml"
-hash = "02abe2f61f1489fed8672e7d89d9bc02fd6b44fe0d51028a2532293f075e1600"
+hash = "13c96ed14229bc8b81f8dca99685a1aba1325f3206c12d147ac7760fb0ff2097"
 metafile = true
 
 [[files]]
@@ -455,6 +465,11 @@ hash = "be8073079bf41847c3aa1fb80c9941fa52b8c0ae39eb44a1475618d31c33e1d9"
 metafile = true
 
 [[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "a1d419cad5a32a4a442b37b2e2fe2db3e761429d6ab60dd3bb79f43d36df2297"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "43e3a15bf79c2f26f1af9a13c4430da8dd93b2911ae17654ca579eadf0614ed9"
 metafile = true
@@ -490,6 +505,11 @@ hash = "82312494cc4cb1b914968097ff27733905e6af5dec5829cdbdbc86e5c05b421e"
 metafile = true
 
 [[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "ea193a0081775b5b2dda289e12578c9122294ec6b6363dbfd7c1e7b5d2dfbd71"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "217b07516517c4c01958387192143943f3e9309a0e935828f9f32af771425d66"
 metafile = true
@@ -515,6 +535,11 @@ hash = "0e2e29aea9c27742688dbad1e898cde053a15b0692723f1728177f9bba3d9f1f"
 metafile = true
 
 [[files]]
+file = "mods/tax-free-levels.pw.toml"
+hash = "d881b77b7acaaa149d385bbfe00f95135add06d8153a76e569a119fbc33e4d25"
+metafile = true
+
+[[files]]
 file = "mods/terrestria.pw.toml"
 hash = "ca18619d2625bf8ed2763871b61c63fd16376c0e0de9fee60ee88b2074aa2791"
 metafile = true
@@ -525,13 +550,28 @@ hash = "5ad04a604b92754fcc7896310f1d201bc9f22bb70901a76504daa265b3f8745c"
 metafile = true
 
 [[files]]
+file = "mods/twigs.pw.toml"
+hash = "5eff195b29b04ef06e84dc37cf1c193b70ae90b365c2c5622b76397fbdda9f45"
+metafile = true
+
+[[files]]
+file = "mods/useful-slime.pw.toml"
+hash = "f8e833d1257940587e4834bb965e9fbd46662c09c2aacb1baf488d407d3f34bc"
+metafile = true
+
+[[files]]
 file = "mods/utility-belt.pw.toml"
 hash = "9a7b6e75bb50f4582625d1aaf535e1cb9dd0dd85522e08074bc192844366b115"
 metafile = true
 
 [[files]]
-file = "mods/valkyrien-skies.pw.toml"
-hash = "68718abd97f2155900469902bb3ff28daf70fc4853db55417a0c2bd802aca187"
+file = "mods/vein-mining.pw.toml"
+hash = "e7358581e1e72b501354ee940a8b2f01e376139369314f288bc0863202c2def5"
+metafile = true
+
+[[files]]
+file = "mods/villager-hats.pw.toml"
+hash = "6276724d3ccbb3b8cd62289ad05855cb2e2df88f023688e5e345caec74e6ca53"
 metafile = true
 
 [[files]]
@@ -552,6 +592,11 @@ metafile = true
 [[files]]
 file = "mods/voice-chat-interaction.pw.toml"
 hash = "5efd3cf3ce070d55b607d938dae8ecd201ef54ca2def1fa3f316d6247de6ca8d"
+metafile = true
+
+[[files]]
+file = "mods/when-dungeons-arise.pw.toml"
+hash = "80029fa0d159a61982f8f352fd634aa2ea3026605f4066d47f7d512b1cf17792"
 metafile = true
 
 [[files]]
