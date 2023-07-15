@@ -140,6 +140,11 @@ hash = "eeef9f33e1c88b3c4607d998949b26a1d95b2d931ed2e82bef38eb14e403385e"
 metafile = true
 
 [[files]]
+file = "mods/better-log4j-config.pw.toml"
+hash = "368f54ece80b1770acb10afec2d6c9ac775b6cd0b4bc70d228a78c937820eb67"
+metafile = true
+
+[[files]]
 file = "mods/better-than-mending.pw.toml"
 hash = "c65fb7a6459404783860340cf31a4b20fa7b37f0f031a85372eb1bb509f27b3f"
 metafile = true
@@ -370,11 +375,6 @@ hash = "8f878789230d8c194102e1b720feb2762dc1a192e9ee04590a6785c657f7f70e"
 metafile = true
 
 [[files]]
-file = "mods/moreculling.pw.toml"
-hash = "6d813994b3eda187ae08b36561b60205de365852e2163f323c4c0ee283816ac6"
-metafile = true
-
-[[files]]
 file = "mods/mouse-wheelie.pw.toml"
 hash = "c35942704019f56300b7f38df4d082472062fbaeb23b6b67f7a94f4bbf1b8a1b"
 metafile = true
@@ -461,7 +461,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "e99cda7dfe83c55cd6698c5a4e1c8bfe738cdb48ce953a1843bb10be34ada205"
+hash = "13534f6c5df22054f4d3c0c280a91626dc58fe70a58c3ff439319857948a7969"
 metafile = true
 
 [[files]]
@@ -481,7 +481,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "e7c8b5dc13ef2dc2888842a2044c3bf4ea1750975db63bf467f9cf0f2eda411d"
+hash = "d87ec097134489e237f35016d088c5b672c479c62f8e8be67eb85941218ae77e"
 metafile = true
 
 [[files]]
@@ -531,7 +531,7 @@ metafile = true
 
 [[files]]
 file = "mods/valkyrien-skies.pw.toml"
-hash = "40d14acd47e114eb93c239054b99e118074b2f2e10ec44955e5a47ddfa2bb4df"
+hash = "68718abd97f2155900469902bb3ff28daf70fc4853db55417a0c2bd802aca187"
 metafile = true
 
 [[files]]
