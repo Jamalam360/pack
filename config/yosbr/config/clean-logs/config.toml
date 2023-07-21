@@ -1,0 +1,12 @@
+# Print out all phrases and regex to be filtered out on startup
+# default: true
+printOnStart = false
+# Print a single line on start saying that Clean Logs will filter from this point forward
+# default: false
+printInitLineOnStart = true
+# If a log message has one of these phrases, it will be filtered out from logging
+phrases = [
+    "Multiple paths added for"
+]
+# If a log message matches one of these regex patterns, it will be filtered out from logging
+regex = []

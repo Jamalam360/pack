@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/quilt-loader-overrides.json"
-hash = "c9b6e04272e42735225ecc13440e388c94d2c3e223902401aa9e8a0f2e34cd02"
+hash = "a227c9c2eb55176501c97c2d4582f418bfca18dd973127adac9feb228b630f3e"
 
 [[files]]
 file = "config/yosbr/config/additionz.json5"
@@ -11,6 +11,10 @@ hash = "748384cffc88e83d3be2591abc9f0723276d65fe533be1fea66fd6481e5003fb"
 [[files]]
 file = "config/yosbr/config/c2me.toml"
 hash = "97fc344ecea6039db595715e1c169a80324cb75cec074af7df2b89b3bdaa156c"
+
+[[files]]
+file = "config/yosbr/config/clean-logs/config.toml"
+hash = "278aadf61a20445047b1a3e6fbcbf73275d5c512483d6c228450456bb06b86fe"
 
 [[files]]
 file = "config/yosbr/config/do_a_barrel_roll-client.json"
@@ -177,6 +181,11 @@ metafile = true
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "e3a5e1b9f5c80d1fe052fe9825e3195ffb0fde3a33fe550a832c52e41c3b5452"
+metafile = true
+
+[[files]]
+file = "mods/clean-logs.pw.toml"
+hash = "acae53b7b4a8066aad64f95b9ae1c09e8efef08573b1a902c0b659454e1b922c"
 metafile = true
 
 [[files]]
@@ -375,11 +384,6 @@ hash = "e2a93bfe1d1e55657afd64a361b1d05929c8984332f1c39afd957eb7f88e9a62"
 metafile = true
 
 [[files]]
-file = "mods/moonlight.pw.toml"
-hash = "118b2f291407112a7506525a35e68837f67f0f35b1c0f1eea872241d18e494bc"
-metafile = true
-
-[[files]]
 file = "mods/more-mob-variants.pw.toml"
 hash = "8f878789230d8c194102e1b720feb2762dc1a192e9ee04590a6785c657f7f70e"
 metafile = true
@@ -532,11 +536,6 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "218f67d6bcaae849582618cd3e5eb1d4cac0fd6045115f64340620300e160c11"
-metafile = true
-
-[[files]]
-file = "mods/supplementaries.pw.toml"
-hash = "c4e216a13c42631f580da96e461abc76560d2b720bc5baac170dbf090e13b745"
 metafile = true
 
 [[files]]

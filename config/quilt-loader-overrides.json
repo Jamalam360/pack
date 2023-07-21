@@ -28,8 +28,8 @@
       "depends": [
         {
           "remove": {
-            "id": "minecraft",
-            "versions": "=1.20"
+            "id": "fabric-api",
+            "versions": ">=0.86.0+1.20.1"
           }
         }
       ]
@@ -41,6 +41,17 @@
           "remove": {
             "id": "minecraft",
             "versions": "=1.20"
+          }
+        }
+      ]
+    },
+    {
+      "path": "<mods>/moonlight-1.20-2.7.2-fabric.jar",
+      "depends": [
+        {
+          "remove": {
+            "id": "fabric",
+            "versions": ">=0.86.0"
           }
         }
       ]
