@@ -116,12 +116,12 @@ metafile = true
 
 [[files]]
 file = "mods/additionz.pw.toml"
-hash = "e811caa81a299f542927662d28f61058716bfc95c74b2700d78e237fa0ac07c1"
+hash = "6c4f975bb91148a769b765ac2266caa102b4a71f28cfa1157837863cdf032f84"
 metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "ae9173e1d85d2490f520e779f628b219c5f96b4822f1ca5fb6ce223e4de02acf"
+hash = "c4ecccd6435bca1170c15bce410a223895ffd1b6d236003bf1f8f914ee3b5dd2"
 metafile = true
 
 [[files]]
@@ -141,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/argonauts.pw.toml"
-hash = "eeef9f33e1c88b3c4607d998949b26a1d95b2d931ed2e82bef38eb14e403385e"
+hash = "3561f64598903f3407ab7badd5bf1c54ee8b6a3be4552e98586b74929f9427e3"
 metafile = true
 
 [[files]]
@@ -171,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/cadmus.pw.toml"
-hash = "2272fd33bc8bf8e37b22530aa0173f0f4e4780895c77433091bf13937fe260b1"
+hash = "63d31fe958c3cfa264ac20143a9919a20bfe23cab7dd5cc15a04785a55cd0c74"
 metafile = true
 
 [[files]]
@@ -226,12 +226,12 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "adb7d5422c876a0983e7d0019a6da7e2485525b56d841733bf7fc8ee49a301e8"
+hash = "24ed98f0fc3e1464c1ad72eba9be54f2f8d139b1509d6ca15289add45a927809"
 metafile = true
 
 [[files]]
 file = "mods/enhanced-groups.pw.toml"
-hash = "7b254fbbdb60ec50e5840a102bd16846fa4c9b2633886f82d1c6cf4b90f98786"
+hash = "eb06614e937de69bfec8712545a8f23bb1e87fc72df26d114197e24fbe5981d3"
 metafile = true
 
 [[files]]
@@ -256,7 +256,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingtree.pw.toml"
-hash = "b969e996c4674b56991dba3b6a2056fe6f7b68a4217aa62734bb42ed307154c3"
+hash = "50907d5d836b2a469620de817ebb28b8cd38fdaae9b4ffe8679eb5d1dd5c7870"
 metafile = true
 
 [[files]]
@@ -366,17 +366,17 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "50e1457f2dbefe5746e272bdbd1d3b936165f6871f663e39c9705ea3f416f496"
+hash = "b069be03cd4e76ff934e079cb3103101dba440ad9343b904967b06fc8a075e0f"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "e00217e8327711e7d6acf95814212d9398499bc15cde7a3ec4ca4417393a8fbc"
+hash = "e2a93bfe1d1e55657afd64a361b1d05929c8984332f1c39afd957eb7f88e9a62"
 metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "8a6291569b96ca9ea1a5cad6e806463049581ae09e6c9f5f6ade1c7666937fb2"
+hash = "118b2f291407112a7506525a35e68837f67f0f35b1c0f1eea872241d18e494bc"
 metafile = true
 
 [[files]]
@@ -481,7 +481,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "13534f6c5df22054f4d3c0c280a91626dc58fe70a58c3ff439319857948a7969"
+hash = "eb5e9e45d3bb6136be856aea9cc9d185fa074169c08028e8602007b5f10d9c5c"
 metafile = true
 
 [[files]]
@@ -501,7 +501,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "d87ec097134489e237f35016d088c5b672c479c62f8e8be67eb85941218ae77e"
+hash = "416160704a425b918df581192b214cbe3313b3358b2074e14d2d25a169746153"
 metafile = true
 
 [[files]]
@@ -511,7 +511,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "ea193a0081775b5b2dda289e12578c9122294ec6b6363dbfd7c1e7b5d2dfbd71"
+hash = "0906da8c52ef97aa073b150915eea98647ed1ad2445c4d2c91512acb32af8a30"
 metafile = true
 
 [[files]]
@@ -536,7 +536,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "0e2e29aea9c27742688dbad1e898cde053a15b0692723f1728177f9bba3d9f1f"
+hash = "c4e216a13c42631f580da96e461abc76560d2b720bc5baac170dbf090e13b745"
 metafile = true
 
 [[files]]
@@ -591,7 +591,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "7c3eff18529e48a5a3ba5e73315478fa84f32bf040adca45a37b4ba5a02bccf9"
+hash = "dc3970e3d66599050e917319f42a8a002f2ec0ed744d3140acc5a6f3d032199f"
 metafile = true
 
 [[files]]
