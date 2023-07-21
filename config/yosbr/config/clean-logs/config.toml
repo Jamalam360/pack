@@ -6,7 +6,10 @@ printOnStart = false
 printInitLineOnStart = true
 # If a log message has one of these phrases, it will be filtered out from logging
 phrases = [
-    "Multiple paths added for"
+    "Multiple paths added for",
+    "GL ERROR",
+    "@ Render",
+    "Invalid key"
 ]
 # If a log message matches one of these regex patterns, it will be filtered out from logging
 regex = []

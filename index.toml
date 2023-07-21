@@ -14,7 +14,7 @@ hash = "97fc344ecea6039db595715e1c169a80324cb75cec074af7df2b89b3bdaa156c"
 
 [[files]]
 file = "config/yosbr/config/clean-logs/config.toml"
-hash = "278aadf61a20445047b1a3e6fbcbf73275d5c512483d6c228450456bb06b86fe"
+hash = "372e4318ca0dc01d09b5a18114eddbcb7d703284911dada44b7e43ab76cdb18e"
 
 [[files]]
 file = "config/yosbr/config/do_a_barrel_roll-client.json"
@@ -361,11 +361,6 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
-metafile = true
-
-[[files]]
-file = "mods/manic.pw.toml"
-hash = "9714cf6042d9b40be8a2588fefaad0b241552feff821ce9f8ae01e201cca71ac"
 metafile = true
 
 [[files]]
