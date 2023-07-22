@@ -464,9 +464,12 @@ hash = "02343a477f6f4ffd9cbedd4f93252f443c599b2f8d250037920d3a47f5756e6a"
 metafile = true
 
 [[files]]
-file = "mods/qsl.pw.toml"
+file = "mods/qsl.pw.toml.disabled"
 hash = "be8073079bf41847c3aa1fb80c9941fa52b8c0ae39eb44a1475618d31c33e1d9"
-metafile = true
+
+[[files]]
+file = "mods/quilted-fabric-api-7.0.6+local-0.85.0-1.20.1.jar"
+hash = "28d7211aa132e66755bde1f1d59ad85fd97c0a928034ec01cf1da5b4dedccb13"
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
