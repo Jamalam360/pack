@@ -354,6 +354,11 @@ hash = "fd610ad08a1e4a973b741d4bedcf0583811cecfa723fd9a2128234eb1e019c80"
 metafile = true
 
 [[files]]
+file = "mods/immersive-structures.pw.toml"
+hash = "87184da0fbda69dd2d209f9597beca5241893eb32e3e3d07356d1be3afa496b8"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "85daf558c36022a664c9e2bc3d9a9bc21cb9fa62977890f142c20ccc155eae36"
 metafile = true
