@@ -13,17 +13,6 @@
       ]
     },
     {
-      "path": "<mods>/rpgdifficulty-1.3.12.jar",
-      "depends": [
-        {
-          "remove": {
-            "id": "minecraft",
-            "versions": "=1.20"
-          }
-        }
-      ]
-    },
-    {
       "path": "<mods>/additionz-1.1.10.jar",
       "depends": [
         {
@@ -35,23 +24,12 @@
       ]
     },
     {
-      "path": "<mods>/levelz-1.4.9.jar",
+      "path": "<mods>/rechiseled-1.1.2-fabric-mc1.20.jar",
       "depends": [
         {
           "remove": {
-            "id": "minecraft",
-            "versions": "=1.20"
-          }
-        }
-      ]
-    },
-    {
-      "path": "<mods>/moonlight-1.20-2.7.2-fabric.jar",
-      "depends": [
-        {
-          "remove": {
-            "id": "fabric",
-            "versions": ">=0.86.0"
+            "id": "fusion",
+            "versions": ">=1.0.0"
           }
         }
       ]

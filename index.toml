@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/quilt-loader-overrides.json"
-hash = "a227c9c2eb55176501c97c2d4582f418bfca18dd973127adac9feb228b630f3e"
+hash = "3ab0ba68d0962050fee8615a3dd24759c2a2803e60bd74c550ddd5267cf87a37"
 
 [[files]]
 file = "config/yosbr/config/additionz.json5"
