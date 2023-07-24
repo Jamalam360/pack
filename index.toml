@@ -106,7 +106,7 @@ hash = "d47d1011833fff602630dd3177dd07f129ec7f7b3a6c71c7c36bf1e5e3720b82"
 
 [[files]]
 file = "global_packs/required_data/jamalams-modpack.zip"
-hash = "603b4b20de36dd46b9cdcd0da897a59b8b9c3bb99de318c9508f154edfdf5dd6"
+hash = "c0c25f542c6be647e792bbdee0aa7b95cf068cd211caa98df3b3fdf4b733576f"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
