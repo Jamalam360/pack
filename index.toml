@@ -195,7 +195,7 @@ metafile = true
 
 [[files]]
 file = "mods/conjuring.pw.toml"
-hash = "aa72685b762aef09aa3c5eb83ae9153cd92b62d7ed4cc480efbd9022f05ff4a4"
+hash = "03cb04f1d0e24cdb4017482a7f4acb85446a155430c9c7923e5b326594648ff1"
 metafile = true
 
 [[files]]
@@ -420,7 +420,7 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "83b476730dba8c3cdc9ee6ed4e0623f97bc116848aebfe3149eece321083b251"
+hash = "8f43c4f9e5f569db5368050cc896e69b784f5f21a5525744b6ffbabcc6337277"
 metafile = true
 
 [[files]]
@@ -464,8 +464,9 @@ hash = "02343a477f6f4ffd9cbedd4f93252f443c599b2f8d250037920d3a47f5756e6a"
 metafile = true
 
 [[files]]
-file = "mods/qsl.pw.toml.disabled"
-hash = "be8073079bf41847c3aa1fb80c9941fa52b8c0ae39eb44a1475618d31c33e1d9"
+file = "mods/qsl.pw.toml"
+hash = "563f047d885e3a14fd018516a8de4eb798931ee3aa7c0948e957555cc0f127d0"
+metafile = true
 
 [[files]]
 file = "mods/quilted-fabric-api-7.0.6+local-0.85.0-1.20.1.jar"
