@@ -130,7 +130,7 @@ metafile = true
 
 [[files]]
 file = "mods/alloy-forgery.pw.toml"
-hash = "149062fec33cc9b361650d6aacbbb668381007e14ec6b1ef98fb7e4fe9c51685"
+hash = "5036c67b29fd714f01f27f424955108b64fb25bd0c9559c1a7ba11f1d1599398"
 metafile = true
 
 [[files]]
@@ -414,6 +414,11 @@ hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
 
 [[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "50149a97b2d959bfac8e1c377fdab49fc52f1439d004b1ac1c26a3a7f790e044"
+metafile = true
+
+[[files]]
 file = "mods/mob-lassos.pw.toml"
 hash = "3dbc7c47827067e038c68b74f97997c7930912123f70d349bfd2563ad3ac4f5a"
 metafile = true
@@ -450,7 +455,7 @@ metafile = true
 
 [[files]]
 file = "mods/mythicmetals.pw.toml"
-hash = "3902d0e4b99082a481bdee3dc452f53300c66dcb5b98e710db6f162fa34ba7cd"
+hash = "d822764238c63490e57e3178bb7b88bb472feaa0e251cffbc78e857dd38e5c00"
 metafile = true
 
 [[files]]
@@ -545,11 +550,11 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "563f047d885e3a14fd018516a8de4eb798931ee3aa7c0948e957555cc0f127d0"
+hash = "be8073079bf41847c3aa1fb80c9941fa52b8c0ae39eb44a1475618d31c33e1d9"
 metafile = true
 
 [[files]]
-file = "mods/quilted-fabric-api-7.0.6+local-0.85.0-1.20.1.jar"
+file = "mods/quilted-fabric-api-7.0.6+local-0.85.0-1.20.1.jar.disabled"
 hash = "e9de40f91ec90ad12e285d31841c9642f8b99621d7356229e7806def57302e5f"
 
 [[files]]
