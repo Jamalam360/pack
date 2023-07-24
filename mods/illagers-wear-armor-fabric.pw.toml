@@ -1,0 +1,13 @@
+name = "Illagers Wear Armor for Fabric"
+filename = "IllagersWearArmor-1.1.0+1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LlOkR2e2/versions/SQHejBlk/IllagersWearArmor-1.1.0%2B1.20.jar"
+hash-format = "sha1"
+hash = "45aadf19eb627f941d96f1516041f85a0337b29d"
+
+[update]
+[update.modrinth]
+mod-id = "LlOkR2e2"
+version = "SQHejBlk"
