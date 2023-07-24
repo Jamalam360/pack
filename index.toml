@@ -349,16 +349,6 @@ hash = "8bb36bbf7dbac0d531f6c308329109d29d95a83a2c0d972178655efd8afddf4b"
 metafile = true
 
 [[files]]
-file = "mods/levelz.pw.toml"
-hash = "5ee677e0ea208e8e7e93b84f99df49dc0953723b4dc08ded4a66ab905e06259c"
-metafile = true
-
-[[files]]
-file = "mods/libz.pw.toml"
-hash = "66acc70677e29a94a2dd4904ffcbd5f42474e4215b5b9f7e9dfa425bb0ab754a"
-metafile = true
-
-[[files]]
 file = "mods/lithium.pw.toml"
 hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
@@ -490,6 +480,11 @@ metafile = true
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "135bc946a52da94a866626b73e7b4ed3352aaeac1223dd08260250eb2e6cac23"
+metafile = true
+
+[[files]]
+file = "mods/rpgstats.pw.toml"
+hash = "0683cf0490ec1203c3b72b49246d33c63633890598dba0309d3956b3a0c97bec"
 metafile = true
 
 [[files]]
