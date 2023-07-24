@@ -230,7 +230,7 @@ metafile = true
 
 [[files]]
 file = "mods/cristel-lib.pw.toml"
-hash = "f031b3d9ac59d824611b1211470a1645baeacd4826a335908f396103a3b1b20b"
+hash = "8c62735e6f2cf6f58a6a32f533ee08c20078d1a0710e5532316c68b355167e9c"
 metafile = true
 
 [[files]]
@@ -664,7 +664,7 @@ metafile = true
 
 [[files]]
 file = "mods/towns-and-towers.pw.toml"
-hash = "b93993a54c2ce2465446f58dc4b91caec4e5d9a1ade03c56f3eedddbb89879b2"
+hash = "6388af755b6614c34fd589eaead32621e7ebefb4becd40976f38670f667a242e"
 metafile = true
 
 [[files]]
