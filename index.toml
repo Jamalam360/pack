@@ -235,7 +235,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "24ed98f0fc3e1464c1ad72eba9be54f2f8d139b1509d6ca15289add45a927809"
+hash = "eeb17cac42a55c1e59eebae12fce218d65c85bfd9b247b797870dea8090e13c2"
 metafile = true
 
 [[files]]
@@ -469,7 +469,7 @@ hash = "be8073079bf41847c3aa1fb80c9941fa52b8c0ae39eb44a1475618d31c33e1d9"
 
 [[files]]
 file = "mods/quilted-fabric-api-7.0.6+local-0.85.0-1.20.1.jar"
-hash = "28d7211aa132e66755bde1f1d59ad85fd97c0a928034ec01cf1da5b4dedccb13"
+hash = "8ea9d44a6b0ad2076848cbb003cf3a4cef435da4bda13e409d2aed238f27c276"
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
@@ -548,7 +548,7 @@ metafile = true
 
 [[files]]
 file = "mods/trinkets.pw.toml"
-hash = "5ad04a604b92754fcc7896310f1d201bc9f22bb70901a76504daa265b3f8745c"
+hash = "b2e02d1210f025b905299bfc88f895058640158343322641aca2c4875622c992"
 metafile = true
 
 [[files]]
