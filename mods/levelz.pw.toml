@@ -1,13 +1,13 @@
 name = "LevelZ"
-filename = "levelz-1.4.9.jar.disabled"
+filename = "levelz-1.4.10.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/EFtixeiF/versions/XYNMi9Xt/levelz-1.4.9.jar"
+url = "https://cdn.modrinth.com/data/EFtixeiF/versions/Mk1aTgPH/levelz-1.4.10.jar"
 hash-format = "sha1"
-hash = "ce7f9643fff612ddc0ec2cfc18993758b4d222f7"
+hash = "cb90f2c5df14e2ba0765955685a20e297f952605"
 
 [update]
 [update.modrinth]
 mod-id = "EFtixeiF"
-version = "XYNMi9Xt"
+version = "Mk1aTgPH"

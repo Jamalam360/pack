@@ -3,11 +3,11 @@ filename = "libz-1.0.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/yUBXc3AH/versions/AMqL6VaC/libz-1.0.1.jar"
+url = "https://cdn.modrinth.com/data/yUBXc3AH/versions/soKX5h3N/libz-1.0.1.jar"
 hash-format = "sha1"
-hash = "c692dce2b911bb1d4a40c00a6eecae1faddce609"
+hash = "6b5d2b08d425c29670a12cea205465a353dc25e2"
 
 [update]
 [update.modrinth]
 mod-id = "yUBXc3AH"
-version = "AMqL6VaC"
+version = "soKX5h3N"

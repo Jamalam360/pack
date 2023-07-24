@@ -145,7 +145,7 @@ metafile = true
 
 [[files]]
 file = "mods/argonauts.pw.toml"
-hash = "3561f64598903f3407ab7badd5bf1c54ee8b6a3be4552e98586b74929f9427e3"
+hash = "e8b749b6dcaa3b22a511b74cd54bc73ae8081985373a1bc67fa40bc80d71ec94"
 metafile = true
 
 [[files]]
@@ -265,7 +265,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingtree.pw.toml"
-hash = "50907d5d836b2a469620de817ebb28b8cd38fdaae9b4ffe8679eb5d1dd5c7870"
+hash = "14f0af22bc5c18c6dc850614f953f6ffb8c8eb243a0c6b31b5f97ffe1772e8fc"
 metafile = true
 
 [[files]]
@@ -350,12 +350,12 @@ metafile = true
 
 [[files]]
 file = "mods/levelz.pw.toml"
-hash = "e6390251e73dd325ddaf683843119599e8645c70839726db534184620914ecc9"
+hash = "5ee677e0ea208e8e7e93b84f99df49dc0953723b4dc08ded4a66ab905e06259c"
 metafile = true
 
 [[files]]
 file = "mods/libz.pw.toml"
-hash = "74c030b181832b1b16c6fc395ba4e4f974c96c5692eb829bd3d1b6591d0abe56"
+hash = "66acc70677e29a94a2dd4904ffcbd5f42474e4215b5b9f7e9dfa425bb0ab754a"
 metafile = true
 
 [[files]]
@@ -455,7 +455,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "a1ed3355090b2098ac551b98b98e778c694f2b2bfd0166b891ff62a09d108762"
+hash = "ac725b48dfd3fe576749dd141c28d2d00e931cd5a4029b1029f2e9b02029fde9"
 metafile = true
 
 [[files]]
