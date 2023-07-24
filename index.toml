@@ -550,11 +550,11 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "be8073079bf41847c3aa1fb80c9941fa52b8c0ae39eb44a1475618d31c33e1d9"
+hash = "563f047d885e3a14fd018516a8de4eb798931ee3aa7c0948e957555cc0f127d0"
 metafile = true
 
 [[files]]
-file = "mods/quilted-fabric-api-7.0.6+local-0.85.0-1.20.1.jar.disabled"
+file = "mods/quilted-fabric-api-7.0.6+local-0.85.0-1.20.1.jar"
 hash = "e9de40f91ec90ad12e285d31841c9642f8b99621d7356229e7806def57302e5f"
 
 [[files]]
