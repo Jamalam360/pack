@@ -1,10 +1,9 @@
 # Jamalam's Modpack
 
-A kitchen sink modpack. More description to come once it is stable.
+A kitchen sink modpack for my personal server.
 
 ## Installing the Modpack
 
-- Via [Modrinth](https://modrinth.com/jamalams-modpack) ([How?](https://docs.modrinth.com/docs/modpacks/playing_modpacks/))
 - Via [Packwiz](https://packwiz.infra.link) at
   [pack.jamalam.tech](https://pack.jamalam.tech), or use the
   [pre-made Prism/MultiMC profile](./Profile.zip).
