@@ -1,13 +1,13 @@
 name = "Prometheus"
-filename = "prometheus-fabric-1.20-0.0.0.jar"
+filename = "prometheus-fabric-1.20.1-0.0.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/iYcNKH7W/versions/C5LLDjN7/prometheus-fabric-1.20-0.0.0.jar"
+url = "https://cdn.modrinth.com/data/iYcNKH7W/versions/F7nP2aMi/prometheus-fabric-1.20.1-0.0.1.jar"
 hash-format = "sha1"
-hash = "e4d1d41ff975ffefb2629dc74b29746d75efe62e"
+hash = "7f10851f5636c06cd0992676e74f81be4ad1f58e"
 
 [update]
 [update.modrinth]
 mod-id = "iYcNKH7W"
-version = "C5LLDjN7"
+version = "F7nP2aMi"

@@ -17,6 +17,22 @@ file = "config/yosbr/config/clean-logs/config.toml"
 hash = "372e4318ca0dc01d09b5a18114eddbcb7d703284911dada44b7e43ab76cdb18e"
 
 [[files]]
+file = "config/yosbr/config/diggusmaximus/blacklist.json5"
+hash = "7a20ccfbebca1f6fdd7f0285212874b06f9ada427b8be8da16f4d6e0d8c5fb27"
+
+[[files]]
+file = "config/yosbr/config/diggusmaximus/config.json5"
+hash = "e54734fed3c37a3c4fa630539ea34d75e84215edcc5c85f309435364511c07e8"
+
+[[files]]
+file = "config/yosbr/config/diggusmaximus/excavatingshapes.json5"
+hash = "470a5630aa5b09d4d114ea2b222d5c96533f0b877c96f64e7f8fcfdebe8c09b4"
+
+[[files]]
+file = "config/yosbr/config/diggusmaximus/grouping.json5"
+hash = "195d64bbe953382519e30433d0cb74343cc6a7f24171fc471f0ccf4ad8e6975a"
+
+[[files]]
 file = "config/yosbr/config/do_a_barrel_roll-client.json"
 hash = "b9386576cc049b67add5dfe9111a223183547f21448500772e59b02443fc5cc9"
 
@@ -149,6 +165,11 @@ hash = "6869de1ca55dc09beabb3c234727e84be4d4fbdcbad2c8081c03010713f374e1"
 metafile = true
 
 [[files]]
+file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+hash = "e6884ac0de6b859e0bb65182055c3780d4c09dfa5d3240c9c16ba2fb5bb50ac3"
+metafile = true
+
+[[files]]
 file = "mods/argonauts.pw.toml"
 hash = "e8b749b6dcaa3b22a511b74cd54bc73ae8081985373a1bc67fa40bc80d71ec94"
 metafile = true
@@ -171,6 +192,11 @@ metafile = true
 [[files]]
 file = "mods/better-underwater-ruins.pw.toml"
 hash = "74c438eb8772f489e5c16bef32b8e3e0952aaf092cdc19ece3bc70aecc44ae08"
+metafile = true
+
+[[files]]
+file = "mods/bewitchment.pw.toml"
+hash = "98bfdd21faa25ea05af2a6b80ae8c24d16379afeae0f41a129d049f5f36c6862"
 metafile = true
 
 [[files]]
@@ -244,6 +270,11 @@ hash = "e6cd8a58a2938b799035c66df16b440db0edf09c798978b8e857a6a27e8a6474"
 metafile = true
 
 [[files]]
+file = "mods/diggus-maximus.pw.toml"
+hash = "db690311634819527b9455423d21dce9057a5f00292e8270a1b2baa28a063936"
+metafile = true
+
+[[files]]
 file = "mods/disenchanter.pw.toml"
 hash = "f3b0f6ed76e260dbbc24917cb0eed6b41c6e931f282e2644046b42e8cd3de775"
 metafile = true
@@ -299,11 +330,6 @@ hash = "6513a4c41a2bb10838474fa71753eae7dd83472989dee44d727c11c4298b3bad"
 metafile = true
 
 [[files]]
-file = "mods/fallingtree.pw.toml"
-hash = "14f0af22bc5c18c6dc850614f953f6ffb8c8eb243a0c6b31b5f97ffe1772e8fc"
-metafile = true
-
-[[files]]
 file = "mods/farmers-delight-fabric.pw.toml"
 hash = "76bff6c00431ae14e0de961cf30f2a950fb1dd46da429145f235a9b0adbecd7b"
 metafile = true
@@ -316,6 +342,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
+metafile = true
+
+[[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "3efad25726651094f4356340f8814854808b063dd609929740b71979cb980bf3"
 metafile = true
 
 [[files]]
@@ -419,6 +450,11 @@ hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
 
 [[files]]
+file = "mods/lmd.pw.toml"
+hash = "ba3601db0cde83877beb8e4c53cdcb5168c7350724a2a568fcc957f6ad9223f2"
+metafile = true
+
+[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "50149a97b2d959bfac8e1c377fdab49fc52f1439d004b1ac1c26a3a7f790e044"
 metafile = true
@@ -514,6 +550,11 @@ hash = "520b84d7e0458a4ff53f00f610a3d040ac49df034706c99b14bae3b203160dea"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "cd1f0cf0ae2b6e1c14e3caa4685ae721cb590835110e076400cd986be1db9903"
+metafile = true
+
+[[files]]
 file = "mods/pehkui.pw.toml"
 hash = "d46a3fac2fdeb35c27e7245fa162ccde40dd449dbe4812d162c13d95d742ccc3"
 metafile = true
@@ -540,7 +581,7 @@ metafile = true
 
 [[files]]
 file = "mods/prometheus.pw.toml"
-hash = "a9dd485ff054719e80b548fb8b8d30b1588b7a431beb337a0221d69db2616251"
+hash = "cb44b074437c6ea0e87923a11d5c146b7774fe1fcc7d34ae61b77dbd2189eed5"
 metafile = true
 
 [[files]]
@@ -561,6 +602,11 @@ metafile = true
 [[files]]
 file = "mods/quilted-fabric-api-7.0.6+local-0.85.0-1.20.1.jar"
 hash = "e9de40f91ec90ad12e285d31841c9642f8b99621d7356229e7806def57302e5f"
+
+[[files]]
+file = "mods/rechiseled.pw.toml"
+hash = "67499e7799c4fc1401af3641a0bf57509b24cce9ee75ad9471efef36a6b3f822"
+metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
@@ -609,7 +655,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "416160704a425b918df581192b214cbe3313b3358b2074e14d2d25a169746153"
+hash = "0f65b64253d3d258b8087e4543fab8b5a4cbe2738c388e45bf666220180285a3"
 metafile = true
 
 [[files]]
@@ -645,6 +691,16 @@ metafile = true
 [[files]]
 file = "mods/status-effect-bars.pw.toml"
 hash = "4fb915d2bc266c1ed7a0dce77e3da295305c5dbec7a7ae1d142b3abf621be309"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "a83eaf0e340efd659d6f501ae9799f486719e12f004cc70246f28d52e01173f0"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "bd920533eb33b12b4c872c0e91c3643a46893f4c1650faa637b25c25f184eeee"
 metafile = true
 
 [[files]]
