@@ -5,6 +5,8 @@ on:
     paths:
       - 'datapack/**'
       - '.github/workflows/package-datapack.yml'
+    tags-ignore:
+      - '**'
 
 jobs:
   package-datapack:
