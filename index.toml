@@ -305,11 +305,6 @@ hash = "f438dc8ebf458a05ebd69a902b0b471adba17576e993ac6305231b615e7fc56a"
 metafile = true
 
 [[files]]
-file = "mods/do-api.pw.toml"
-hash = "69c8135494c09b0cb9acf3bd90dd11268d0a5f611ebacda1ec16870e01fca566"
-metafile = true
-
-[[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
 hash = "26567686c9226eb0c6fe19fa01047275563b72c5bf26ab1f55f8c3fa2e624df2"
 metafile = true
@@ -532,11 +527,6 @@ metafile = true
 [[files]]
 file = "mods/mouse-wheelie.pw.toml"
 hash = "c35942704019f56300b7f38df4d082472062fbaeb23b6b67f7a94f4bbf1b8a1b"
-metafile = true
-
-[[files]]
-file = "mods/moving-elevators.pw.toml"
-hash = "71ff2d5d0fd0ba6669591130d0b6e6582fc90c0dd07aa7fd49cb1b2769ddb7bd"
 metafile = true
 
 [[files]]
