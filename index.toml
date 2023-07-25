@@ -346,7 +346,7 @@ metafile = true
 
 [[files]]
 file = "mods/extended-drawers.pw.toml"
-hash = "af8f9129d996c1ffccfe52e3308badc0989452ca09c58ca5471e05bd7344d40e"
+hash = "019ed86ae60a0f0f6981b0286aa89fe8ffb675374a9961ac8d349b7ead91074a"
 metafile = true
 
 [[files]]
@@ -709,11 +709,6 @@ hash = "0f65b64253d3d258b8087e4543fab8b5a4cbe2738c388e45bf666220180285a3"
 metafile = true
 
 [[files]]
-file = "mods/simply-swords.pw.toml"
-hash = "988a78ce0aae54741a2ec4dcf9b8653edcfb20647061416affd410d83118a894"
-metafile = true
-
-[[files]]
 file = "mods/smoothboot-fabric.pw.toml"
 hash = "82312494cc4cb1b914968097ff27733905e6af5dec5829cdbdbc86e5c05b421e"
 metafile = true
@@ -846,6 +841,11 @@ metafile = true
 [[files]]
 file = "mods/wiredredstone.pw.toml"
 hash = "82c917c802ee48ab23e42a2ff6f20ad7eb9c0ef45d90341b6dc8da0c35332dc9"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "1817999655716ccd487c6096cea09af0d379176c73a773b3e16b33879e9f3690"
 metafile = true
 
 [[files]]
