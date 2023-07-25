@@ -321,12 +321,12 @@ metafile = true
 
 [[files]]
 file = "mods/emi-loot.pw.toml"
-hash = "6839b26507e70368fd557d0104f3c640b4390d198cd0b658a20de363d80b2655"
+hash = "8766521465c1cc6b57199a24008be030eabfd417c0ba7eb6c91f26c2f6ffa70a"
 metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "eeb17cac42a55c1e59eebae12fce218d65c85bfd9b247b797870dea8090e13c2"
+hash = "c05fc927e48e00f16927152d3e31efe0b6984110c1e23383935bb9a34c22ac77"
 metafile = true
 
 [[files]]
@@ -346,7 +346,7 @@ metafile = true
 
 [[files]]
 file = "mods/extended-drawers.pw.toml"
-hash = "019ed86ae60a0f0f6981b0286aa89fe8ffb675374a9961ac8d349b7ead91074a"
+hash = "af8f9129d996c1ffccfe52e3308badc0989452ca09c58ca5471e05bd7344d40e"
 metafile = true
 
 [[files]]
@@ -441,7 +441,7 @@ metafile = true
 
 [[files]]
 file = "mods/jamlib.pw.toml"
-hash = "4cd28f6942c4df1618f8a9ccadc41e22666aef02b88315e0424b79c058c404cb"
+hash = "4a37864ebe44ddf66f7a127683adc76515d3dc97f8d8dba6fe362c43a1f39464"
 metafile = true
 
 [[files]]
@@ -684,11 +684,6 @@ hash = "0683cf0490ec1203c3b72b49246d33c63633890598dba0309d3956b3a0c97bec"
 metafile = true
 
 [[files]]
-file = "mods/sanguine.pw.toml"
-hash = "94e3bc7af966cba38a5495c712a660e821562a4684dda381910d64191f972b2b"
-metafile = true
-
-[[files]]
 file = "mods/screenshot-to-clipboard.pw.toml"
 hash = "672f3809a2053eef01aea4015ca4b0d4be6c507622172c091c17833b8d2ffb39"
 metafile = true
@@ -700,7 +695,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-pipes.pw.toml"
-hash = "982469e3629a7fc474a2b8c555b96879e8f5ea8a43d69b61c35b0d5e045ee11d"
+hash = "f5f1fc5fcb1f7ba1e12700d918a157f13d92044bf9f1f2ce7bcea1a340c7c014"
 metafile = true
 
 [[files]]
@@ -750,7 +745,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "bd920533eb33b12b4c872c0e91c3643a46893f4c1650faa637b25c25f184eeee"
+hash = "bd2a666b9d5a95f58b32d3dd4225cbaa31a94f218b263f61952f371acc3d0844"
 metafile = true
 
 [[files]]
