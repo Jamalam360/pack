@@ -250,6 +250,11 @@ hash = "afd29551e27c2dfe604be822e8e3ee4bd73913ff42d8dcc84b7475e75f6ebc30"
 metafile = true
 
 [[files]]
+file = "mods/chunks-fade-in.pw.toml"
+hash = "16c2d094c033d848e77d2217085501d05c7cacb41ff6193da5eb5772ab4a7d6e"
+metafile = true
+
+[[files]]
 file = "mods/cinderscapes.pw.toml"
 hash = "1ee4f8f755296c54434b5c4c02cbe86bfd36471e97dda15781877a88aa88be15"
 metafile = true
