@@ -824,11 +824,6 @@ hash = "6276724d3ccbb3b8cd62289ad05855cb2e2df88f023688e5e345caec74e6ca53"
 metafile = true
 
 [[files]]
-file = "mods/vinery.pw.toml"
-hash = "aa2dea10f235a99b5695604b21080554fa47fc2c740417d0a4bf2cfd5f47edb0"
-metafile = true
-
-[[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "a7f4c9db27e6d88dff443299ba7b04418f17a60316678b14719c767194b43ff3"
 metafile = true
