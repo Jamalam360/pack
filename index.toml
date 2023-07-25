@@ -380,11 +380,6 @@ hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
 
 [[files]]
-file = "mods/friends-and-foes-quilt.pw.toml"
-hash = "e995f14581cfa3e6148fecb00dea9a731533ba24a011e341f746e39c5c560a67"
-metafile = true
-
-[[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "3efad25726651094f4356340f8814854808b063dd609929740b71979cb980bf3"
 metafile = true
