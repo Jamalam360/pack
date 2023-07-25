@@ -170,8 +170,18 @@ hash = "e6884ac0de6b859e0bb65182055c3780d4c09dfa5d3240c9c16ba2fb5bb50ac3"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "a243675bc757485925b293932ee289b9fbcfb3b75bd3ba74eca7603f191cedad"
+metafile = true
+
+[[files]]
 file = "mods/argonauts.pw.toml"
 hash = "e8b749b6dcaa3b22a511b74cd54bc73ae8081985373a1bc67fa40bc80d71ec94"
+metafile = true
+
+[[files]]
+file = "mods/automobility.pw.toml"
+hash = "c3b5b2edf2b45384bd560bd7fe72c3f99515a95d023a69750c43ef691e59f546"
 metafile = true
 
 [[files]]
@@ -230,6 +240,16 @@ hash = "e3a5e1b9f5c80d1fe052fe9825e3195ffb0fde3a33fe550a832c52e41c3b5452"
 metafile = true
 
 [[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "2d5625745023a392a509aba9ced8e075990ab07a655c2f330decfa641cdddfcf"
+metafile = true
+
+[[files]]
+file = "mods/cccbridge.pw.toml"
+hash = "3311b8482f0c984f6d7be9815910d5609e7f8acd602f09d8a2d9aecd30f6677e"
+metafile = true
+
+[[files]]
 file = "mods/cinderscapes.pw.toml"
 hash = "1ee4f8f755296c54434b5c4c02cbe86bfd36471e97dda15781877a88aa88be15"
 metafile = true
@@ -285,6 +305,16 @@ hash = "f438dc8ebf458a05ebd69a902b0b471adba17576e993ac6305231b615e7fc56a"
 metafile = true
 
 [[files]]
+file = "mods/do-api.pw.toml"
+hash = "69c8135494c09b0cb9acf3bd90dd11268d0a5f611ebacda1ec16870e01fca566"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns.pw.toml"
+hash = "26567686c9226eb0c6fe19fa01047275563b72c5bf26ab1f55f8c3fa2e624df2"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "c8c6a3893859d2f0e04ebf400c8ce8b47de21cfe6097996b5dde1561e92f3c80"
 metafile = true
@@ -320,6 +350,11 @@ hash = "b9cca3d3bb4ff0d6cd2f397e2baf40235f869bb156970d8549448d43ba3d8229"
 metafile = true
 
 [[files]]
+file = "mods/extended-drawers.pw.toml"
+hash = "af8f9129d996c1ffccfe52e3308badc0989452ca09c58ca5471e05bd7344d40e"
+metafile = true
+
+[[files]]
 file = "mods/fabric-seasons-extras.pw.toml"
 hash = "5c5889f3686e3ff35ab215dc7f9f3e5e7585a0d24befe5989e0bdca47a04dac5"
 metafile = true
@@ -342,6 +377,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
+metafile = true
+
+[[files]]
+file = "mods/friends-and-foes-quilt.pw.toml"
+hash = "e995f14581cfa3e6148fecb00dea9a731533ba24a011e341f746e39c5c560a67"
 metafile = true
 
 [[files]]
@@ -460,6 +500,11 @@ hash = "50149a97b2d959bfac8e1c377fdab49fc52f1439d004b1ac1c26a3a7f790e044"
 metafile = true
 
 [[files]]
+file = "mods/mob-captains.pw.toml"
+hash = "4da733514ca3601f7a773759a6fc2ced2cc10d3d1f07b602d7b572da53a95849"
+metafile = true
+
+[[files]]
 file = "mods/mob-lassos.pw.toml"
 hash = "3dbc7c47827067e038c68b74f97997c7930912123f70d349bfd2563ad3ac4f5a"
 metafile = true
@@ -492,6 +537,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-wheelie.pw.toml"
 hash = "c35942704019f56300b7f38df4d082472062fbaeb23b6b67f7a94f4bbf1b8a1b"
+metafile = true
+
+[[files]]
+file = "mods/moving-elevators.pw.toml"
+hash = "71ff2d5d0fd0ba6669591130d0b6e6582fc90c0dd07aa7fd49cb1b2769ddb7bd"
 metafile = true
 
 [[files]]
@@ -562,6 +612,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "0b2d993433625cde097b5fd9afef50db0d65a6ba7a33b1b4ed9ae52816b2b7da"
+metafile = true
+
+[[files]]
+file = "mods/powah.pw.toml"
+hash = "f63f57d7be997a078288ed8d147c8991b69c9a2c527f24f438383db5234ead6b"
 metafile = true
 
 [[files]]
@@ -644,6 +699,11 @@ hash = "0683cf0490ec1203c3b72b49246d33c63633890598dba0309d3956b3a0c97bec"
 metafile = true
 
 [[files]]
+file = "mods/sanguine.pw.toml"
+hash = "94e3bc7af966cba38a5495c712a660e821562a4684dda381910d64191f972b2b"
+metafile = true
+
+[[files]]
 file = "mods/screenshot-to-clipboard.pw.toml"
 hash = "672f3809a2053eef01aea4015ca4b0d4be6c507622172c091c17833b8d2ffb39"
 metafile = true
@@ -654,8 +714,18 @@ hash = "b5a0689c8ca4d98adb7dfe35df4bc6a1dceac5c4b792e5fbb0ad5290991e2684"
 metafile = true
 
 [[files]]
+file = "mods/simple-pipes.pw.toml"
+hash = "982469e3629a7fc474a2b8c555b96879e8f5ea8a43d69b61c35b0d5e045ee11d"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "0f65b64253d3d258b8087e4543fab8b5a4cbe2738c388e45bf666220180285a3"
+metafile = true
+
+[[files]]
+file = "mods/simply-swords.pw.toml"
+hash = "988a78ce0aae54741a2ec4dcf9b8653edcfb20647061416affd410d83118a894"
 metafile = true
 
 [[files]]
@@ -759,6 +829,11 @@ hash = "6276724d3ccbb3b8cd62289ad05855cb2e2df88f023688e5e345caec74e6ca53"
 metafile = true
 
 [[files]]
+file = "mods/vinery.pw.toml"
+hash = "aa2dea10f235a99b5695604b21080554fa47fc2c740417d0a4bf2cfd5f47edb0"
+metafile = true
+
+[[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "a7f4c9db27e6d88dff443299ba7b04418f17a60316678b14719c767194b43ff3"
 metafile = true
@@ -781,6 +856,16 @@ metafile = true
 [[files]]
 file = "mods/when-dungeons-arise.pw.toml"
 hash = "80029fa0d159a61982f8f352fd634aa2ea3026605f4066d47f7d512b1cf17792"
+metafile = true
+
+[[files]]
+file = "mods/wilder-wild.pw.toml"
+hash = "eb89b75a073f65efb1a21de344212c002de08a0a712157e8437a7ecf0e228d87"
+metafile = true
+
+[[files]]
+file = "mods/wiredredstone.pw.toml"
+hash = "82c917c802ee48ab23e42a2ff6f20ad7eb9c0ef45d90341b6dc8da0c35332dc9"
 metafile = true
 
 [[files]]
