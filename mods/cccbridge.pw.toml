@@ -1,5 +1,5 @@
 name = "CC:C Bridge"
-filename = "cccbridge-mc1.20.1-fabric-v1.6.0.jar"
+filename = "cccbridge-mc1.20.1-fabric-v1.6.0.jar.disabled"
 side = "both"
 
 [download]
