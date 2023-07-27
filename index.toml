@@ -755,7 +755,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "ecfe4b722ab208dcc3fae855116b2a962a23aa5939245ba428fab97f6ecdf24f"
+hash = "c2b9ce06236572f857cce29c5de26e007d6eb449cbf9c70c61e043bcf1828876"
 metafile = true
 
 [[files]]
