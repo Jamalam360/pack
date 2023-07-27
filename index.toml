@@ -141,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "c4ecccd6435bca1170c15bce410a223895ffd1b6d236003bf1f8f914ee3b5dd2"
+hash = "8d390be8368b805652edd1f7bcdd4bb22e628243d3d31457d9444d840c0045ed"
 metafile = true
 
 [[files]]
@@ -167,6 +167,11 @@ metafile = true
 [[files]]
 file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
 hash = "e6884ac0de6b859e0bb65182055c3780d4c09dfa5d3240c9c16ba2fb5bb50ac3"
+metafile = true
+
+[[files]]
+file = "mods/arch-ex.pw.toml"
+hash = "1aee53015482dd4001abf60732c6cd7608fb3c58600ce6aa23003360c2cc6730"
 metafile = true
 
 [[files]]
@@ -226,7 +231,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "78bf078da5e46c2513889f86aa24e522d0651055b5a93a17341b96fdcba70b5e"
+hash = "084ec914d4aba5a139e1bfaeb67c6a6c7cf1ba22cfbf5ef96a46db49c830db96"
 metafile = true
 
 [[files]]
@@ -331,7 +336,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "c05fc927e48e00f16927152d3e31efe0b6984110c1e23383935bb9a34c22ac77"
+hash = "819b2fcd6fa31e79c4f3176439928ba14b49babcc455f8e2a0da2d920780e10c"
 metafile = true
 
 [[files]]
@@ -411,7 +416,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "a154087f80d2179cabd05cf7629c29c06c5a62538e70f7c58021dd1d4f9e3e3a"
+hash = "e306cd7e52af8a423bb5b189b20d82263b69bf1e6efb47e9bd054b7fd76f0517"
 metafile = true
 
 [[files]]
@@ -511,7 +516,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "b069be03cd4e76ff934e079cb3103101dba440ad9343b904967b06fc8a075e0f"
+hash = "9b06b57f650f8e55241eaf119f3e06fe501db9237ce95cd0c15fa731046be503"
 metafile = true
 
 [[files]]
@@ -616,7 +621,7 @@ metafile = true
 
 [[files]]
 file = "mods/profundis.pw.toml"
-hash = "e19fa9a01a793865acce073b6e75b44025e42120a257ff5ceb08c25a90774838"
+hash = "403dbb0b85984151c1e61aae50bafbcd9e0993e4f1d22abcd6e0c4c06f71f057"
 metafile = true
 
 [[files]]
@@ -655,7 +660,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "a1d419cad5a32a4a442b37b2e2fe2db3e761429d6ab60dd3bb79f43d36df2297"
+hash = "2cadde7b91d76a9376b6335b1215b734e8d75473c594a7b75ebb220ff7e2c017"
 metafile = true
 
 [[files]]
@@ -675,7 +680,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "eb5e9e45d3bb6136be856aea9cc9d185fa074169c08028e8602007b5f10d9c5c"
+hash = "452ca2001268ffa43daeaf1cfdf7af549ca71eea9bab2f55928e8a31d8da179e"
 metafile = true
 
 [[files]]
@@ -700,7 +705,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-pipes.pw.toml"
-hash = "f5f1fc5fcb1f7ba1e12700d918a157f13d92044bf9f1f2ce7bcea1a340c7c014"
+hash = "982469e3629a7fc474a2b8c555b96879e8f5ea8a43d69b61c35b0d5e045ee11d"
 metafile = true
 
 [[files]]
@@ -750,7 +755,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "bd2a666b9d5a95f58b32d3dd4225cbaa31a94f218b263f61952f371acc3d0844"
+hash = "ecfe4b722ab208dcc3fae855116b2a962a23aa5939245ba428fab97f6ecdf24f"
 metafile = true
 
 [[files]]
@@ -820,7 +825,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "f94769cf1233dd2c919693677be0eb53976d471674b2901a62d6251ceb8c5158"
+hash = "93e2bb699bae8854559b94395f8d3468682f61b52db24a8a076b946a87635e3c"
 metafile = true
 
 [[files]]
@@ -835,7 +840,7 @@ metafile = true
 
 [[files]]
 file = "mods/wilder-wild.pw.toml"
-hash = "eb89b75a073f65efb1a21de344212c002de08a0a712157e8437a7ecf0e228d87"
+hash = "525c24700f8712c593323975468bcab327406df8176ee46702f8a03f6583be11"
 metafile = true
 
 [[files]]
