@@ -386,7 +386,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "3efad25726651094f4356340f8814854808b063dd609929740b71979cb980bf3"
+hash = "ffe761e0fcfc71c59d5d0eebdfdcc298e13a40399e5abc65782d2d5d901b22e8"
 metafile = true
 
 [[files]]
@@ -416,7 +416,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "e306cd7e52af8a423bb5b189b20d82263b69bf1e6efb47e9bd054b7fd76f0517"
+hash = "2d6174a3ed06ac03e00fcd915d8f899aa102f25f8d8734032f60f2321ecf29bc"
 metafile = true
 
 [[files]]
@@ -432,6 +432,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "85daf558c36022a664c9e2bc3d9a9bc21cb9fa62977890f142c20ccc155eae36"
+metafile = true
+
+[[files]]
+file = "mods/industrial-revolution.pw.toml"
+hash = "4f57b2009f172b84f054664264ec2f33b5b3a2c764d0acb57964aec7b21cb6a0"
 metafile = true
 
 [[files]]
@@ -516,7 +521,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "9b06b57f650f8e55241eaf119f3e06fe501db9237ce95cd0c15fa731046be503"
+hash = "9f73d516ece73f6cccda8f03f0c79c21d4259ba6002b794bf17bbbdd505551d2"
 metafile = true
 
 [[files]]
@@ -636,7 +641,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "ac725b48dfd3fe576749dd141c28d2d00e931cd5a4029b1029f2e9b02029fde9"
+hash = "fe2384196e070ee510cb1d4cc69f82eb577fd8c231808ddf3633bed2dfbe13f1"
 metafile = true
 
 [[files]]
@@ -680,7 +685,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "452ca2001268ffa43daeaf1cfdf7af549ca71eea9bab2f55928e8a31d8da179e"
+hash = "3d785d2e8f8019224ab4c2da45cdb105d6961a8860e143476249445971a9389b"
 metafile = true
 
 [[files]]
@@ -755,7 +760,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "c2b9ce06236572f857cce29c5de26e007d6eb449cbf9c70c61e043bcf1828876"
+hash = "e43517217e0e829dc4c4dbb682e59503db2cb63b08edb8a00a9f3329e32af1ee"
 metafile = true
 
 [[files]]

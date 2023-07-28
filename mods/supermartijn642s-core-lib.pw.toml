@@ -1,6 +1,7 @@
 name = "SuperMartijn642's Core Lib"
 filename = "supermartijn642corelib-1.1.12a-fabric-mc1.20.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/rOUBggPv/versions/LjH16Rr8/supermartijn642corelib-1.1.12a-fabric-mc1.20.jar"
