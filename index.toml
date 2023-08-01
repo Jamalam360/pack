@@ -395,6 +395,11 @@ hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
 
 [[files]]
+file = "mods/forgotten-graves.pw.toml"
+hash = "3f3dce13535ee9364a37c9b990499f9846e3aac0fedb451653358c2264f98247"
+metafile = true
+
+[[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "6d90ff7052a7bb61bbb6b8babd8fe1d9370ecf0a830c65196d21950cfb35183c"
 metafile = true
@@ -407,11 +412,6 @@ metafile = true
 [[files]]
 file = "mods/globalpacks.pw.toml"
 hash = "edd891ba10d407c2ace1240ab4cfd1cebaf5cc07bcb2a9416b9666891a48c550"
-metafile = true
-
-[[files]]
-file = "mods/gravestones.pw.toml"
-hash = "ace9dbdca93d66c486a4474081fc91219640e506b62679bce01318c34af51e13"
 metafile = true
 
 [[files]]
