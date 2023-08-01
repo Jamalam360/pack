@@ -135,11 +135,6 @@ hash = "b7652939932ffd4a3205c67906a48eac67e3186b30842ebf4e6d43efdc64c776"
 metafile = true
 
 [[files]]
-file = "mods/additionz.pw.toml"
-hash = "6c4f975bb91148a769b765ac2266caa102b4a71f28cfa1157837863cdf032f84"
-metafile = true
-
-[[files]]
 file = "mods/ae2.pw.toml"
 hash = "8d390be8368b805652edd1f7bcdd4bb22e628243d3d31457d9444d840c0045ed"
 metafile = true
