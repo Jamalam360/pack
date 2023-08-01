@@ -615,11 +615,6 @@ hash = "0b2d993433625cde097b5fd9afef50db0d65a6ba7a33b1b4ed9ae52816b2b7da"
 metafile = true
 
 [[files]]
-file = "mods/porting-lib.pw.toml"
-hash = "0ab9f92dc8199fbec77d32ae24e80ffe4a76557b9298f8ab0f84ae6ecd6c0483"
-metafile = true
-
-[[files]]
 file = "mods/powah.pw.toml"
 hash = "f63f57d7be997a078288ed8d147c8991b69c9a2c527f24f438383db5234ead6b"
 metafile = true
@@ -742,6 +737,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "7ca0983d3b7852c06f84c66b9f12da8115ff9b8ba63293cd20452377a0de726e"
+metafile = true
+
+[[files]]
+file = "mods/spice-of-fabric.pw.toml"
+hash = "a2bc48552856576cfcbbcb1bb49b65c1fa642c97542c9f01b54e0645cee1cb98"
 metafile = true
 
 [[files]]
