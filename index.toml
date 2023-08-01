@@ -410,6 +410,11 @@ hash = "edd891ba10d407c2ace1240ab4cfd1cebaf5cc07bcb2a9416b9666891a48c550"
 metafile = true
 
 [[files]]
+file = "mods/gravestones.pw.toml"
+hash = "ace9dbdca93d66c486a4474081fc91219640e506b62679bce01318c34af51e13"
+metafile = true
+
+[[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "009c94b9c050bc8dda2fc6d2d1cd0da749a4001859c77f13d2f0de7ede5b2ea1"
 metafile = true
@@ -802,11 +807,6 @@ metafile = true
 [[files]]
 file = "mods/twigs.pw.toml"
 hash = "5eff195b29b04ef06e84dc37cf1c193b70ae90b365c2c5622b76397fbdda9f45"
-metafile = true
-
-[[files]]
-file = "mods/universal-graves.pw.toml"
-hash = "fda4e069e887ff780b767ba811a8e882ae527df4bdd8eacd7d60bab76eb27f27"
 metafile = true
 
 [[files]]
