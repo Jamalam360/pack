@@ -190,6 +190,11 @@ hash = "c3b5b2edf2b45384bd560bd7fe72c3f99515a95d023a69750c43ef691e59f546"
 metafile = true
 
 [[files]]
+file = "mods/badpackets.pw.toml"
+hash = "cbf5544ba86d4d10262fff9c53af6c9ef05bb92d329bb02f891a5aaf3ca94631"
+metafile = true
+
+[[files]]
 file = "mods/beaconoverhaul.pw.toml"
 hash = "e5ae1304581f2b33559bd8b06494278e0a02134bc69a2e8b672f3b280a168924"
 metafile = true
@@ -847,6 +852,11 @@ metafile = true
 [[files]]
 file = "mods/wiredredstone.pw.toml"
 hash = "82c917c802ee48ab23e42a2ff6f20ad7eb9c0ef45d90341b6dc8da0c35332dc9"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "afa5a21210e4a661713eac2b8f8a11cb1102079e725268aeb4fb2c705a103b1c"
 metafile = true
 
 [[files]]
