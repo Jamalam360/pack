@@ -1,13 +1,13 @@
 name = "Bewitchment"
-filename = "bewitchment-1.20-3.jar"
+filename = "bewitchment-1.20-4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/AKbBSvuC/versions/rr9HSWDo/bewitchment-1.20-3.jar"
+url = "https://cdn.modrinth.com/data/AKbBSvuC/versions/ITo0gg8u/bewitchment-1.20-4.jar"
 hash-format = "sha1"
-hash = "301ef2b9750062d834bd44451fc02f1595478a93"
+hash = "8b95b2418a40f00b02332230ce792c70e4f023f5"
 
 [update]
 [update.modrinth]
 mod-id = "AKbBSvuC"
-version = "rr9HSWDo"
+version = "ITo0gg8u"

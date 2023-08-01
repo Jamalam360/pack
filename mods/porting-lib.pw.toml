@@ -1,0 +1,7 @@
+name = "porting-lib"
+filename = "Porting-Lib-2.1.1087+1.20.jar"
+
+[download]
+url = "https://mvn.devos.one/snapshots/io/github/fabricators_of_create/Porting-Lib/Porting-Lib/2.1.1087+1.20/Porting-Lib-2.1.1087+1.20.jar"
+hash-format = "sha256"
+hash = "0a7781f524ee72386e2980d8aa88448c7ba31210d5c9ad8a2b424e0facad91e0"
