@@ -1,5 +1,5 @@
 name = "porting-lib"
-filename = "Porting-Lib-2.1.1087+1.20.jar"
+filename = "Porting-Lib-2.1.1087+1.20.jar.disabled"
 
 [download]
 url = "https://mvn.devos.one/snapshots/io/github/fabricators_of_create/Porting-Lib/Porting-Lib/2.1.1087+1.20/Porting-Lib-2.1.1087+1.20.jar"
