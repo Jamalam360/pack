@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/quickerconnectbutton.properties"
+hash = "4734d7f9657855f0e569f644d62f271dbb4087ae80b9bbde4c8ea6a6b126719e"
+
+[[files]]
 file = "config/quilt-loader-overrides.json"
 hash = "3ab0ba68d0962050fee8615a3dd24759c2a2803e60bd74c550ddd5267cf87a37"
 
@@ -136,12 +140,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "8d390be8368b805652edd1f7bcdd4bb22e628243d3d31457d9444d840c0045ed"
-metafile = true
-
-[[files]]
-file = "mods/alloy-forgery.pw.toml"
-hash = "5036c67b29fd714f01f27f424955108b64fb25bd0c9559c1a7ba11f1d1599398"
+hash = "7d3e3759802a8804a91078723cee2db7bd817f928af5270db0afc7e34009c6b3"
 metafile = true
 
 [[files]]
@@ -246,12 +245,12 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "1ae906b82db7667896bf592a3ca8cb90321ff519b9733ffa30e6dc616718ecd3"
+hash = "2d5625745023a392a509aba9ced8e075990ab07a655c2f330decfa641cdddfcf"
 metafile = true
 
 [[files]]
 file = "mods/cccbridge.pw.toml"
-hash = "afd29551e27c2dfe604be822e8e3ee4bd73913ff42d8dcc84b7475e75f6ebc30"
+hash = "ac863165be56f3648e179621a60981517afd72f1165fb2ee8591891ac75549a1"
 metafile = true
 
 [[files]]
@@ -290,13 +289,18 @@ hash = "aa72685b762aef09aa3c5eb83ae9153cd92b62d7ed4cc480efbd9022f05ff4a4"
 metafile = true
 
 [[files]]
+file = "mods/continuity.pw.toml"
+hash = "2ff8353009122a86ac846dd8d48b2522d46f3b43111eb3a697d99cc42285a14f"
+metafile = true
+
+[[files]]
 file = "mods/create-snr.pw.toml"
-hash = "21ca9d4878d155daa8a19242f636586719a931f3124bf0d3e422bf3a34822ab0"
+hash = "21c61dd46b09ff2f81672c1a84915bf2095fe9ff9f44f6dd3510634df5e485c0"
 metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "77e40c1402651ebe68f1940c95d5ea6a6668e8e2ede208605da6daf8596cf4e7"
+hash = "2193cd1267d102b9d53fc70b03c2c44e8531a4ff850cb7db49391f68a3bc7ef8"
 metafile = true
 
 [[files]]
@@ -560,11 +564,6 @@ hash = "2ded15faf9516865ddd0ab45feddc283acb8d4927dec2b99b3e5046e0abd944a"
 metafile = true
 
 [[files]]
-file = "mods/mythicmetals.pw.toml"
-hash = "d822764238c63490e57e3178bb7b88bb472feaa0e251cffbc78e857dd38e5c00"
-metafile = true
-
-[[files]]
 file = "mods/nicer-skies.pw.toml"
 hash = "cc7f7708bde62377a501a217ef082f72ee35930b6747d653c7bcf07dc49a8ad3"
 metafile = true
@@ -670,6 +669,11 @@ hash = "6ff7c68fb86e72f9f9feb1858e04cd2b7f80efda3b6819d484806a4316215557"
 metafile = true
 
 [[files]]
+file = "mods/quicker-connect-button.pw.toml"
+hash = "3294c0564167af6bd05c9d0dcfb585363e41d398be3d0941aecc926549f2cdf2"
+metafile = true
+
+[[files]]
 file = "mods/rechiseled.pw.toml"
 hash = "67499e7799c4fc1401af3641a0bf57509b24cce9ee75ad9471efef36a6b3f822"
 metafile = true
@@ -682,6 +686,11 @@ metafile = true
 [[files]]
 file = "mods/regions-unexplored.pw.toml"
 hash = "6d755e98a535f7598f90a1c1219901a4443be84552f1e8438357cedfa8d3c05f"
+metafile = true
+
+[[files]]
+file = "mods/registries-can-be-warm.pw.toml"
+hash = "347770cb817ba1d684a5f479de746dd6bcfc341c6a862274477fe77f5db910ab"
 metafile = true
 
 [[files]]
@@ -756,7 +765,7 @@ metafile = true
 
 [[files]]
 file = "mods/spice-of-fabric.pw.toml"
-hash = "a2bc48552856576cfcbbcb1bb49b65c1fa642c97542c9f01b54e0645cee1cb98"
+hash = "f9634199a057b5d9baf729ad427dac363637d049f98a7392aa9b44abf795c589"
 metafile = true
 
 [[files]]
