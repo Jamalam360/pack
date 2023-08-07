@@ -1,7 +1,7 @@
 name = "create-snr"
-filename = "Steam_Rails-fabric-1.5.0+fabric-mc1.20.1-build.481.jar"
+filename = "Steam_Rails-fabric-1.4.4+fabric-mc1.20.1-build.449.jar"
 
 [download]
-url = "https://maven.ithundxr.dev/releases/com/railwayteam/railways/Steam_Rails-fabric/1.5.0+fabric-mc1.20.1-build.481/Steam_Rails-fabric-1.5.0+fabric-mc1.20.1-build.481.jar"
+url = "https://maven.ithundxr.dev/releases/com/railwayteam/railways/Steam_Rails-fabric/1.4.4+fabric-mc1.20.1-build.449/Steam_Rails-fabric-1.4.4+fabric-mc1.20.1-build.449.jar"
 hash-format = "sha256"
-hash = "d431b93a076e5267ee024b2f6dbb4f49342e7322b295ecc98c1690ba320dd6ae"
+hash = "4b243ce145481399578f4a0e2bfaeb36a3fb3f5f13fc0b2d9302b9debcea3708"
