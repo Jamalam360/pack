@@ -295,7 +295,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-snr.pw.toml"
-hash = "21c61dd46b09ff2f81672c1a84915bf2095fe9ff9f44f6dd3510634df5e485c0"
+hash = "63c0aa0e1a9999631c1c2f7c3d7b967992616bfdf2a081122238468e1fbd179e"
 metafile = true
 
 [[files]]
