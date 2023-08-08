@@ -855,7 +855,7 @@ metafile = true
 
 [[files]]
 file = "mods/wilder-wild.pw.toml"
-hash = "51b9faf9525287adbfb5fa0733eb712f9fa48005ec2bcdad985580552f796419"
+hash = "525c24700f8712c593323975468bcab327406df8176ee46702f8a03f6583be11"
 metafile = true
 
 [[files]]
