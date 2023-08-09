@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/quickerconnectbutton.properties"
-hash = "4734d7f9657855f0e569f644d62f271dbb4087ae80b9bbde4c8ea6a6b126719e"
+hash = "602492e066130ccdc1253c6d7ea8d4e8e602baae39e2cc1ac47f88cdf804658f"
 
 [[files]]
 file = "config/quilt-loader-overrides.json"
@@ -129,6 +129,10 @@ file = "global_packs/required_data/jamalams-modpack.zip"
 hash = "c0c25f542c6be647e792bbdee0aa7b95cf068cd211caa98df3b3fdf4b733576f"
 
 [[files]]
+file = "mods/StaticData-1.0.1+1.20-patched.jar"
+hash = "326dd4afbd4c1a08646d5cc2a0708d794cab84bd36be8e409e8bab57ec7078d4"
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "4789940899b14c1a43c106b61b90498547109c21d0eff564eff98ab9e43a0f27"
 metafile = true
@@ -196,6 +200,11 @@ metafile = true
 [[files]]
 file = "mods/better-log4j-config.pw.toml"
 hash = "368f54ece80b1770acb10afec2d6c9ac775b6cd0b4bc70d228a78c937820eb67"
+metafile = true
+
+[[files]]
+file = "mods/better-ping-display-fabric.pw.toml"
+hash = "6a51c7bacf8d179e11fe783804fd3687e409f34f6288e1aaceedf7261ee14006"
 metafile = true
 
 [[files]]
@@ -329,6 +338,11 @@ hash = "9be78ce242dbdfcd381d57eafeaa1cf8d2533cf1a14ec9e491f5835c498f6e64"
 metafile = true
 
 [[files]]
+file = "mods/dramatic-doors.pw.toml"
+hash = "b411cf4702461067e918537c48a6b850ca6983f9cc0382cb202e4c8f4d7c2c44"
+metafile = true
+
+[[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
 hash = "26567686c9226eb0c6fe19fa01047275563b72c5bf26ab1f55f8c3fa2e624df2"
 metafile = true
@@ -350,7 +364,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "cfa6a711108fa04d3afcc5eb7e52cec5cfc1585d42977c6446e8d63541bda275"
+hash = "4f0afa4e70e830f08266c181c2a0deb207780712db6e7f8961ffb62061afada0"
 metafile = true
 
 [[files]]
@@ -435,7 +449,7 @@ metafile = true
 
 [[files]]
 file = "mods/illagers-wear-armor-fabric.pw.toml"
-hash = "eca1a3906074b7b3b1f64ba5449b64ec236609d536131df16effeb55768d4e01"
+hash = "32e683c1ff786b6c6ce2bce6636c7ce05a36f9f406cce885f733a03030b125a7"
 metafile = true
 
 [[files]]
@@ -660,17 +674,17 @@ metafile = true
 
 [[files]]
 file = "mods/qkl.pw.toml"
-hash = "f9a9e8ce7d7f9443a3dd6b95024d087350c10828a492811cf0247c6889009af4"
+hash = "b0615e667641dd52e900c970553e0ce80748645dfaa93117bb126dccae3e3c19"
 metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "6ff7c68fb86e72f9f9feb1858e04cd2b7f80efda3b6819d484806a4316215557"
+hash = "affe1dbede9008f5e03cdf764b4c7a910fe7b9062dbeeb82d99e2497dc8603d8"
 metafile = true
 
 [[files]]
 file = "mods/quicker-connect-button.pw.toml"
-hash = "3294c0564167af6bd05c9d0dcfb585363e41d398be3d0941aecc926549f2cdf2"
+hash = "3535f82493a836ccf02351c4ee40febca792d6f724416d1f23c5af981882efa1"
 metafile = true
 
 [[files]]
@@ -710,7 +724,7 @@ metafile = true
 
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
-hash = "135bc946a52da94a866626b73e7b4ed3352aaeac1223dd08260250eb2e6cac23"
+hash = "31b3bcbde9677f9fc1006aab482e6f43b7552146359cc4ef363e30a237d1d12b"
 metafile = true
 
 [[files]]
@@ -865,7 +879,7 @@ metafile = true
 
 [[files]]
 file = "mods/wilder-wild.pw.toml"
-hash = "525c24700f8712c593323975468bcab327406df8176ee46702f8a03f6583be11"
+hash = "51b9faf9525287adbfb5fa0733eb712f9fa48005ec2bcdad985580552f796419"
 metafile = true
 
 [[files]]
