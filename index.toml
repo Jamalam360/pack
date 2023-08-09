@@ -504,6 +504,11 @@ hash = "8bb36bbf7dbac0d531f6c308329109d29d95a83a2c0d972178655efd8afddf4b"
 metafile = true
 
 [[files]]
+file = "mods/leaves-us-in-peace.pw.toml"
+hash = "57cae0b7139111e4c74b41efc9543e662bf7300344e01d8b13e67ee1b47d38b9"
+metafile = true
+
+[[files]]
 file = "mods/libertyvillagers.pw.toml"
 hash = "429972b2a6f481cd74889f11262018cd7352102a46f3853b3cc69d3348dc076a"
 metafile = true
@@ -801,6 +806,11 @@ metafile = true
 [[files]]
 file = "mods/terrestria.pw.toml"
 hash = "1f8864220e64134a17647b86dc857f5ea95c62c134fff42b8619f2e44628cc3d"
+metafile = true
+
+[[files]]
+file = "mods/timeoutout.pw.toml"
+hash = "79bf46f1892bfb23ff9a69b16d0f9147da33809021f0f2ef2f73ae7d10bbefec"
 metafile = true
 
 [[files]]
