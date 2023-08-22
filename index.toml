@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/c2me.pw.toml"
+hash = "0f6a5b0a48ce8e6de822132cff184b60d4934aeaad61c8400cf51850b059cf1c"
+metafile = true
+
+[[files]]
 file = "config/quickerconnectbutton.properties"
 hash = "602492e066130ccdc1253c6d7ea8d4e8e602baae39e2cc1ac47f88cdf804658f"
 
@@ -879,7 +884,7 @@ metafile = true
 
 [[files]]
 file = "mods/wilder-wild.pw.toml"
-hash = "525c24700f8712c593323975468bcab327406df8176ee46702f8a03f6583be11"
+hash = "2552c8a7ec2371e7b0a984c4f5c59ff77b756644170d8e472f843434e3836ba1"
 metafile = true
 
 [[files]]
