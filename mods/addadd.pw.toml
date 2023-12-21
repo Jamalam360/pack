@@ -1,0 +1,13 @@
+name = "Additional Additions"
+filename = "AdditionalAdditions-6.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/R4TvILfj/versions/xAVIA60N/AdditionalAdditions-6.0.2.jar"
+hash-format = "sha1"
+hash = "d19f5e64415c11935f5128e5c869b0f2fe60a78c"
+
+[update]
+[update.modrinth]
+mod-id = "R4TvILfj"
+version = "xAVIA60N"

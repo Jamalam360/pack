@@ -1,0 +1,13 @@
+name = "Extra Alchemy"
+filename = "extraalchemy-fabric-1.20.2-1.11.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/n0S5OkPo/versions/Hp9hpnqj/extraalchemy-fabric-1.20.2-1.11.1.jar"
+hash-format = "sha1"
+hash = "735b97708c384165d96982ea09eac9a38b2dbade"
+
+[update]
+[update.modrinth]
+mod-id = "n0S5OkPo"
+version = "Hp9hpnqj"

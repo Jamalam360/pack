@@ -1,0 +1,13 @@
+name = "Voice Chat Interaction"
+filename = "vcinteraction-1.20.2-1.0.5.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/qsSP2ZZ0/versions/kCOps8sU/vcinteraction-1.20.2-1.0.5.jar"
+hash-format = "sha1"
+hash = "117fa15cd5a9643a9bbb0e8efd39654f2891c0ca"
+
+[update]
+[update.modrinth]
+mod-id = "qsSP2ZZ0"
+version = "kCOps8sU"

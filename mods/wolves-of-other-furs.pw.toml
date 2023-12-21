@@ -1,0 +1,13 @@
+name = "Wolves Of Other Furs (W.O.O.F)"
+filename = "woof-4.0.2+1.20.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/at26R0TN/versions/DFkZh3QI/woof-4.0.2%2B1.20.2.jar"
+hash-format = "sha1"
+hash = "3e1fdafdcb7de653a5e8f14dc4ede751903d0ae9"
+
+[update]
+[update.modrinth]
+mod-id = "at26R0TN"
+version = "DFkZh3QI"

@@ -1,0 +1,13 @@
+name = "NetherPortalFix"
+filename = "netherportalfix-fabric-1.20.2-14.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nPZr02ET/versions/Xma4SDMw/netherportalfix-fabric-1.20.2-14.0.3.jar"
+hash-format = "sha1"
+hash = "1f85b1be55ca2431f86edd9615377ecd635b99b0"
+
+[update]
+[update.modrinth]
+mod-id = "nPZr02ET"
+version = "Xma4SDMw"

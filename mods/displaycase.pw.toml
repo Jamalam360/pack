@@ -1,0 +1,13 @@
+name = "Display Case"
+filename = "Display Case-fabric-1.20.2-1.0.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cSIsh4gX/versions/A4TVFUjM/Display%20Case-fabric-1.20.2-1.0.9.jar"
+hash-format = "sha1"
+hash = "140402fe542f13e2bb4a18dee1cd60e5dea22b84"
+
+[update]
+[update.modrinth]
+mod-id = "cSIsh4gX"
+version = "A4TVFUjM"

@@ -1,0 +1,13 @@
+name = "Comforts"
+filename = "comforts-fabric-7.0.1+1.20.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SaCpeal4/versions/Np0ASroj/comforts-fabric-7.0.1%2B1.20.2.jar"
+hash-format = "sha1"
+hash = "8c73f55aa157b536ccfdb66ca3b88c72f477b7c3"
+
+[update]
+[update.modrinth]
+mod-id = "SaCpeal4"
+version = "Np0ASroj"

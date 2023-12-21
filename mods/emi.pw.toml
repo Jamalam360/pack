@@ -1,0 +1,13 @@
+name = "EMI"
+filename = "emi-1.0.28+1.20.2+fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fRiHVvU7/versions/M7ynHTnb/emi-1.0.28%2B1.20.2%2Bfabric.jar"
+hash-format = "sha1"
+hash = "902e821575e2b74f25a2c57cbda3392260a85d68"
+
+[update]
+[update.modrinth]
+mod-id = "fRiHVvU7"
+version = "M7ynHTnb"
