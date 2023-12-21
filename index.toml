@@ -138,6 +138,11 @@ hash = "7722342703740a3f9dd20329d95672f5e192fc8cc0883e4905b9bcf339a540b8"
 metafile = true
 
 [[files]]
+file = "mods/advanced-reborn.pw.toml"
+hash = "083defa905508f75581097330ca53c2db638c8340b0214201ebc32e94f8497c7"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "bedc5fd207a9959c72565f0131b65a8eec71dcdef3e83f6c4556f81e7292326a"
 metafile = true
@@ -389,7 +394,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "5e351f182c2aae09834c49d55248703c853d224afb0d4a88502b1e91f16db7d6"
+hash = "92ca7f58b97affa740c9e7b3acf35dc3ac616f6ea2fff988aa76d3eea2baff7b"
 metafile = true
 
 [[files]]
@@ -523,6 +528,11 @@ hash = "ee06300d272d579bcf31c794a7845afcf6e7c27aff75b393632a4bb60515fa1a"
 metafile = true
 
 [[files]]
+file = "mods/mcpitanlibarch.pw.toml"
+hash = "117f014f8f614fcd9319c59d684bd0cca948ef5fda5a4808e9ba706c8e6b3973"
+metafile = true
+
+[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "54e445b0b16e34991e7c2e2475905c1c36a65f7103ba9e4af05fe0df09160c4b"
 metafile = true
@@ -613,6 +623,11 @@ hash = "29d85b8c6d97e886f4f8200a1ea2e151602fc3944b71d5e5a134ecf6bcb5288a"
 metafile = true
 
 [[files]]
+file = "mods/quarry-reborn.pw.toml"
+hash = "ed3c511025424303466ddb7bbb400f60a9b462d9d55a61aefb86c24ca4f09a91"
+metafile = true
+
+[[files]]
 file = "mods/quicker-connect-button.pw.toml"
 hash = "7d3ec02952481f8cbee1a5c684a220bc53a72039d9b05c41419fab678176a38b"
 metafile = true
@@ -625,6 +640,11 @@ metafile = true
 [[files]]
 file = "mods/reaping.pw.toml"
 hash = "c5892ffb30d347222942ebdecbdb602878fea95f820db5c6d32eb7333836a56d"
+metafile = true
+
+[[files]]
+file = "mods/reborncore.pw.toml"
+hash = "438ced8ca6434b4f5283f90fd1fa6649a400eadd89745f74106ca2eeaa91dd15"
 metafile = true
 
 [[files]]
@@ -705,6 +725,11 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "4fe9243d4b103091edb7b1c5c79b252ddfb361dd689c831d3c17433afeb08ffb"
+metafile = true
+
+[[files]]
+file = "mods/techreborn.pw.toml"
+hash = "b2ace8f2d771406d6cb5b8b53b6281dc6533518b763c47c756518955f06971ac"
 metafile = true
 
 [[files]]

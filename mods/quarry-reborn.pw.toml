@@ -1,0 +1,13 @@
+name = "Quarry Reborn"
+filename = "quarry-reborn-1.20.2-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "28bcf7cf7018c609c469195c32b4c98357be419b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4877610
+project-id = 511254
