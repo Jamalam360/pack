@@ -7,6 +7,7 @@ on:
       - '.github/workflows/package-datapack.yml'
     tags-ignore:
       - '**'
+  workflow_dispatch:
 
 jobs:
   package-datapack:
