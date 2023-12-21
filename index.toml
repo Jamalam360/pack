@@ -110,7 +110,7 @@ hash = "2be2b5c10139cacd044848f7ecc86e345ae2d7ae855baeeb1e8e87b4342194eb"
 
 [[files]]
 file = "global_packs/required_data/jamalams-modpack.zip"
-hash = "c0c25f542c6be647e792bbdee0aa7b95cf068cd211caa98df3b3fdf4b733576f"
+hash = "6aa6f6fc834e8a80452017a18d40c091dece7c823d032f6e9de3cfb7f60f01a4"
 
 [[files]]
 file = "global_packs/required_resources/fast-better-grass.pw.toml"
