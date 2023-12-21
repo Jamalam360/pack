@@ -528,6 +528,11 @@ hash = "ee06300d272d579bcf31c794a7845afcf6e7c27aff75b393632a4bb60515fa1a"
 metafile = true
 
 [[files]]
+file = "mods/maintenancemode.pw.toml"
+hash = "ed2ff97cf59a6c5b9f4e509edbc8c48944bb3c98795f6738c8dfec353cbe350d"
+metafile = true
+
+[[files]]
 file = "mods/mcpitanlibarch.pw.toml"
 hash = "117f014f8f614fcd9319c59d684bd0cca948ef5fda5a4808e9ba706c8e6b3973"
 metafile = true
