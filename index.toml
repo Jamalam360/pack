@@ -298,11 +298,6 @@ hash = "526d23cabdf1801f950ceb90afcd76aa99295e93b4371906665849d2c906b484"
 metafile = true
 
 [[files]]
-file = "mods/customportalapi.pw.toml"
-hash = "dc7af110d0e43fd360c7e8b6eef196680b295a8641de8a89e99de45e92ae9bcc"
-metafile = true
-
-[[files]]
 file = "mods/dawn.pw.toml"
 hash = "e6cd8a58a2938b799035c66df16b440db0edf09c798978b8e857a6a27e8a6474"
 metafile = true
@@ -399,7 +394,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "92ca7f58b97affa740c9e7b3acf35dc3ac616f6ea2fff988aa76d3eea2baff7b"
+hash = "6c6ebc716eee42c2f60899e53dfcea8ac6e374222d1eff7eff29b9f599012bb5"
 metafile = true
 
 [[files]]
