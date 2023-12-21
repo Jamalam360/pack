@@ -1,8 +1,0 @@
-name = "C2ME Server Config"
-filename = "c2me.toml"
-side = "server"
-
-[download]
-url = "https://cdn.jamalam.tech/c2me.toml"
-hash-format = "sha1"
-hash = "a2d168ae228d74415d609e43f25fe2ed53c323e8"
