@@ -303,11 +303,6 @@ hash = "e6cd8a58a2938b799035c66df16b440db0edf09c798978b8e857a6a27e8a6474"
 metafile = true
 
 [[files]]
-file = "mods/deeperdarker.pw.toml"
-hash = "80bd9d805b070ea9bb4a3514b91bffd9699562a4d82e3341795a3ab01bf4c836"
-metafile = true
-
-[[files]]
 file = "mods/diggus-maximus.pw.toml"
 hash = "db690311634819527b9455423d21dce9057a5f00292e8270a1b2baa28a063936"
 metafile = true
@@ -394,7 +389,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "6c6ebc716eee42c2f60899e53dfcea8ac6e374222d1eff7eff29b9f599012bb5"
+hash = "5e351f182c2aae09834c49d55248703c853d224afb0d4a88502b1e91f16db7d6"
 metafile = true
 
 [[files]]
