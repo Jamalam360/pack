@@ -509,7 +509,7 @@ metafile = true
 
 [[files]]
 file = "mods/lilac.pw.toml"
-hash = "baca3b76ab9bf92fe2335a39285822ba68e47650eeb3ae145a6fea0061c6c9e9"
+hash = "40da6c11ac0a856fb0fa5688bf7df6538bba3cb0c0258b6611ce56fb8a0f0f69"
 metafile = true
 
 [[files]]
