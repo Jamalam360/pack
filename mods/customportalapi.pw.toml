@@ -1,0 +1,7 @@
+name = "customportalapi"
+filename = "customportalapi-0.0.1-beta64-1.20.2.jar"
+
+[download]
+url = "https://maven.kyrptonaught.dev/net/kyrptonaught/customportalapi/0.0.1-beta64-1.20.2/customportalapi-0.0.1-beta64-1.20.2.jar"
+hash-format = "sha256"
+hash = "c228fb3fd43fa3506b880f3ed215a04c64bff169a407cf7da7dc6dadc83779e8"
