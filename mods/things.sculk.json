@@ -1,0 +1,16 @@
+{
+    "filename": "things-0.3.3+1.20.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "7c1df2914ddda8b22b93d8823b8c5f3a7076afd4",
+        "sha512": "a79c8dbe581046fb9e86ffd987408e7e1651718252a40133b0473d8838857fffa8de51ba799fc09f5d5da9c204d81680878d48fc3c747d6617d44b2d615cbf25",
+        "murmur2": 2182287218
+    },
+    "fileSize": 930355,
+    "sources": {
+        "modrinth": {
+            "projectId": "VzAGdu9D",
+            "fileUrl": "https://cdn.modrinth.com/data/VzAGdu9D/versions/FLzUUyOd/things-0.3.3%2B1.20.jar"
+        }
+    }
+}

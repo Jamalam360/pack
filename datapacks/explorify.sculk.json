@@ -1,0 +1,16 @@
+{
+    "filename": "explorify-v1.4.0.zip",
+    "side": "both",
+    "hashes": {
+        "sha1": "356f4f8a698350e99a9d8bf412e5174f3060bbf4",
+        "sha512": "57b6bc44f903269e7e316a295dcb867d8fd6b3c0c031c0bcfdc8488537546f0013f1e40295064fa8ed55f0781a0bb7dbe89c38e3d79df68b0fa7962899ddd742",
+        "murmur2": 3943729439
+    },
+    "fileSize": 203686,
+    "sources": {
+        "modrinth": {
+            "projectId": "HSfsxuTo",
+            "fileUrl": "https://cdn.modrinth.com/data/HSfsxuTo/versions/3oZljcmg/explorify-v1.4.0.zip"
+        }
+    }
+}

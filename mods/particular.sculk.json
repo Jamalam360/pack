@@ -1,0 +1,16 @@
+{
+    "filename": "particular-1.1.1.jar",
+    "side": "client_only",
+    "hashes": {
+        "sha1": "f392b6c80edf5518b52ffe7667198202a0bcef8d",
+        "sha512": "a858d77246f1da8ba4e32fa61cad935c5366f422db2a1fc6f07bbf1e3c4fb1a44839d240dc7325964ef840f49d51e78ad3068e872b8153234b225bfa25c29d70",
+        "murmur2": 3663367799
+    },
+    "fileSize": 230403,
+    "sources": {
+        "modrinth": {
+            "projectId": "B1CcCd9h",
+            "fileUrl": "https://cdn.modrinth.com/data/B1CcCd9h/versions/19UWxtiZ/particular-1.1.1.jar"
+        }
+    }
+}

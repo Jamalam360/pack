@@ -1,0 +1,16 @@
+{
+    "filename": "MobCaptains-v3.1.2.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "f1c9f05bcc424348efe11e7d95c0a6875ba9684f",
+        "sha512": "bf9a183e9ad1514783756fbad1ee65cce8b6c7c7e32cc5a41e1cc97365d9d08d9925664f99f05dbe8389280d7c760056160b8b892532a037df61543e0cbdd92c",
+        "murmur2": 2632512244
+    },
+    "fileSize": 145775,
+    "sources": {
+        "modrinth": {
+            "projectId": "7tKn1fLd",
+            "fileUrl": "https://cdn.modrinth.com/data/7tKn1fLd/versions/YcFz1tcf/MobCaptains-v3.1.2.jar"
+        }
+    }
+}

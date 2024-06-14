@@ -1,0 +1,16 @@
+{
+    "filename": "clickthrough-1.20-fabric0.83.0-0.4.1.jar",
+    "side": "client_only",
+    "hashes": {
+        "sha1": "af4fab0a71ef09870c724a22036437070fb54952",
+        "sha512": "11b75d1cb1c1d220c180e674156a8e67b4c5cb5f8a2664ab1867be38b947efce029924d1cb28394dbde8d5f8bfceeb7d1a34b3449a298383481227490ec33bbd",
+        "murmur2": 1533178269
+    },
+    "fileSize": 95682,
+    "sources": {
+        "modrinth": {
+            "projectId": "Z5b0cAlD",
+            "fileUrl": "https://cdn.modrinth.com/data/Z5b0cAlD/versions/bwQT3Pqa/clickthrough-1.20-fabric0.83.0-0.4.1.jar"
+        }
+    }
+}

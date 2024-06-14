@@ -1,0 +1,16 @@
+{
+    "filename": "cristellib-1.1.5-fabric.jar",
+    "side": "server_only",
+    "hashes": {
+        "sha1": "fbf3e76abc2da1a31db0f998c39e64b69300e9bc",
+        "sha512": "50ac2ac365932c5ea43a8baa67c2509292ae810fbe15848f202160c0bac3ef5ae648f175ae93436a9226e5b082cec562fab8da17c524bb642360aa859ef52652",
+        "murmur2": 1381913936
+    },
+    "fileSize": 431581,
+    "sources": {
+        "modrinth": {
+            "projectId": "cl223EMc",
+            "fileUrl": "https://cdn.modrinth.com/data/cl223EMc/versions/tBnivdbu/cristellib-1.1.5-fabric.jar"
+        }
+    }
+}

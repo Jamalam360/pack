@@ -1,0 +1,16 @@
+{
+    "filename": "lavender-0.1.9+1.20.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "5803e3bc8ff760967475f0839bd4c66888f514a8",
+        "sha512": "4387b7d2934c8d420fb5cba7570f9a9475322c864e47022f57398dbc184dd19a4f3d1471ae9728299b46eb5ad6001957e03baec88072c20fa4051ebf5774d748",
+        "murmur2": 3977998799
+    },
+    "fileSize": 523368,
+    "sources": {
+        "modrinth": {
+            "projectId": "D5h9NKNI",
+            "fileUrl": "https://cdn.modrinth.com/data/D5h9NKNI/versions/nJIAf9uL/lavender-0.1.9%2B1.20.jar"
+        }
+    }
+}

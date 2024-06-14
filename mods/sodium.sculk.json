@@ -1,0 +1,16 @@
+{
+    "filename": "sodium-fabric-0.5.10+mc1.20.1.jar",
+    "side": "client_only",
+    "hashes": {
+        "sha1": "0a47b4930e2340173e00470f8f9da51374aa765d",
+        "sha512": "38c77d8bac2354d0662a533ee432be3321e1fac164071638ac97a2fc6db8579c2b13a304809362d5a004348d6d75ca2a32274f6f3d9e87453a8ade3cf13cea5b",
+        "murmur2": 1031804629
+    },
+    "fileSize": 965275,
+    "sources": {
+        "modrinth": {
+            "projectId": "AANobbMI",
+            "fileUrl": "https://cdn.modrinth.com/data/AANobbMI/versions/dEpHs0Hg/sodium-fabric-0.5.10%2Bmc1.20.1.jar"
+        }
+    }
+}

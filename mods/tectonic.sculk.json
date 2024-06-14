@@ -1,0 +1,16 @@
+{
+    "filename": "tectonic-fabric-1.20-2.3.5b.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "6067a345b92e61bc3b54579139eaa9aa9d377d11",
+        "sha512": "02d7cc6d5c4a87012b28db8ce4608dff6dcfa6b97a900abcb21c28abf50676d6b37f5b7350977f04d04946408c6d41c8998158cf1dfdb1e235c95200ad71d0a5",
+        "murmur2": 3009944203
+    },
+    "fileSize": 310831,
+    "sources": {
+        "modrinth": {
+            "projectId": "lWDHr9jE",
+            "fileUrl": "https://cdn.modrinth.com/data/lWDHr9jE/versions/GxY5oM7Y/tectonic-fabric-1.20-2.3.5b.jar"
+        }
+    }
+}

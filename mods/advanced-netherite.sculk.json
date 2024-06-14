@@ -1,0 +1,16 @@
+{
+    "filename": "advancednetherite-fabric-2.1.3-1.20.1.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "f5a8f912232ccaeac0e2167f2e9347b5da1bb26e",
+        "sha512": "fb94238f5fc928d9c8ca4881c7d3ae8fb1f2a014e2ddf2fc3264f8070a37b3c9f6c163590c8d0fa31fdfe18573e65fea7af64c990057262e77a32e73e37b49de",
+        "murmur2": 3233695333
+    },
+    "fileSize": 502658,
+    "sources": {
+        "modrinth": {
+            "projectId": "CFX9ftUJ",
+            "fileUrl": "https://cdn.modrinth.com/data/CFX9ftUJ/versions/KLFf6PpA/advancednetherite-fabric-2.1.3-1.20.1.jar"
+        }
+    }
+}

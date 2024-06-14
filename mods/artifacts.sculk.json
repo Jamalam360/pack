@@ -1,0 +1,16 @@
+{
+    "filename": "artifacts-fabric-9.5.12.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "89024afea2dede6f33597e901c2fddab62d3a971",
+        "sha512": "cfb31e73d13c28da7dd270b0dfb0ff9814e17c357976d5e33a05b8e74380c92dd62fdfc4d51d8158ece03c1798b86f719e0b776d7394af071206e4db469f6465",
+        "murmur2": 1771278497
+    },
+    "fileSize": 953089,
+    "sources": {
+        "modrinth": {
+            "projectId": "P0Mu4wcQ",
+            "fileUrl": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/jcPe37QH/artifacts-fabric-9.5.12.jar"
+        }
+    }
+}

@@ -1,0 +1,4 @@
+*.mrpack
+*.zip
+LICENSE
+.github/**

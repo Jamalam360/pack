@@ -1,0 +1,16 @@
+{
+    "filename": "woof-4.0.2+1.20.1.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "16fe4a0c3ccd19e72284556937f43fbdff064101",
+        "sha512": "7df169dd65c3bcbb02b8b531810d1d635ad39ef3cc0d65c68292663577c16769b2f0b276912b1778219285187c820fab1c39fbad4be444384a9be94c10b84369",
+        "murmur2": 1474139715
+    },
+    "fileSize": 684038,
+    "sources": {
+        "modrinth": {
+            "projectId": "at26R0TN",
+            "fileUrl": "https://cdn.modrinth.com/data/at26R0TN/versions/2wYLLPvO/woof-4.0.2%2B1.20.1.jar"
+        }
+    }
+}

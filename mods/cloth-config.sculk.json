@@ -1,0 +1,16 @@
+{
+    "filename": "cloth-config-11.1.118-fabric.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "f669f899d707b9e9acf1c239b0ae6b2c8be95361",
+        "sha512": "848aeaf9c218e39452a2efced1872c2f7275c8fd2504fc2cbd63b159faf4eed96481144b7e1dc4fa27296727f54803907ae2e477e66a803c07a2fd51f831eb07",
+        "murmur2": 2489051492
+    },
+    "fileSize": 1159192,
+    "sources": {
+        "modrinth": {
+            "projectId": "9s6osm5g",
+            "fileUrl": "https://cdn.modrinth.com/data/9s6osm5g/versions/J3FLptsi/cloth-config-11.1.118-fabric.jar"
+        }
+    }
+}

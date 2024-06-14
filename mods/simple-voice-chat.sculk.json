@@ -1,0 +1,16 @@
+{
+    "filename": "voicechat-fabric-1.20.1-2.5.16.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "2c61e2689de8488674266d4caad0b2c48ff327fe",
+        "sha512": "e11adaa6629611ba5ded5f5c27b85eb1e2ebdb64790f0af25c877f575c911f7101f64a3a59bb31bec96f0f7738ddd1b9b0c34e3d728c6bfee7bbbb3a123277a4",
+        "murmur2": 814920346
+    },
+    "fileSize": 8059177,
+    "sources": {
+        "modrinth": {
+            "projectId": "9eGKb6K1",
+            "fileUrl": "https://cdn.modrinth.com/data/9eGKb6K1/versions/VcVtx0Zu/voicechat-fabric-1.20.1-2.5.16.jar"
+        }
+    }
+}

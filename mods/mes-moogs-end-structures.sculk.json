@@ -1,0 +1,16 @@
+{
+    "filename": "mes-1.3.1-1.20-fabric.jar",
+    "side": "server_only",
+    "hashes": {
+        "sha1": "cd85eb7c6e382ac94b6413807d35daf74bee46db",
+        "sha512": "dc035e7a6b7782f7e057c25168a00102be21d590e1cf9ac52a0565fe9200a3d64040e6fb35aa39ec2b4955ba74b1c2de9251db23f6a1dd4ec3921c3e12dc9dff",
+        "murmur2": 3600556289
+    },
+    "fileSize": 392406,
+    "sources": {
+        "modrinth": {
+            "projectId": "r4PuRGfV",
+            "fileUrl": "https://cdn.modrinth.com/data/r4PuRGfV/versions/s3M8KkSa/mes-1.3.1-1.20-fabric.jar"
+        }
+    }
+}

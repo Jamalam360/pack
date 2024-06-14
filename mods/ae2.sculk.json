@@ -1,0 +1,16 @@
+{
+    "filename": "appliedenergistics2-fabric-15.2.0.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "ef1619d2a602350e6133c8471d4f2e28834d5ba3",
+        "sha512": "824c95994f8fa8d47135c30d058132561f3571454a635e8952cd15e6c40ce3568a6bca516ee795eadbedcf646091044e0d4aa425716c5401f7e5b18a8257c967",
+        "murmur2": 2311325758
+    },
+    "fileSize": 9852919,
+    "sources": {
+        "modrinth": {
+            "projectId": "XxWD5pD3",
+            "fileUrl": "https://cdn.modrinth.com/data/XxWD5pD3/versions/qpG9cRjY/appliedenergistics2-fabric-15.2.0.jar"
+        }
+    }
+}

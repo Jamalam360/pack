@@ -1,0 +1,293 @@
+{
+    "formatVersion": "1.1",
+    "name": "Jamalam's Pack",
+    "version": "1.0.0",
+    "minecraft": "1.20.1",
+    "loader": {
+        "type": "fabric",
+        "version": "0.15.11"
+    },
+    "manifests": [
+        {
+            "path": "mods/simple-voice-chat.sculk.json",
+            "sha256": "54d6e0941071d63a380ee3336b87252fdef74e92d946eef661f389b3c74ff13c"
+        },
+        {
+            "path": "mods/cloth-config.sculk.json",
+            "sha256": "20cebd0e90c008755e81333696aa1be5918f0166bfdfd7f4e1660b915fdad560"
+        },
+        {
+            "path": "mods/audioplayer.sculk.json",
+            "sha256": "73fd03980e7455a7d5296494d90bea2ea8ceccf3d4c981c1dbb6e9cba1139bf1"
+        },
+        {
+            "path": "mods/modmenu.sculk.json",
+            "sha256": "34a6d25f9fc1c48291caba91ba650b08e58ee4e42f4d1d31057f5e78e801da5e"
+        },
+        {
+            "path": "mods/sound-physics-remastered.sculk.json",
+            "sha256": "c1a87f0f88dc4a46f5176d688302bc71c6b914c952645e82021484350e17066c"
+        },
+        {
+            "path": "mods/fallingtree.sculk.json",
+            "sha256": "53a349bae9bcb70a957aeb2c78f93eed2b58dc81215d4a2242101adb118133ae"
+        },
+        {
+            "path": "mods/fabric-api.sculk.json",
+            "sha256": "a1385f62ac826d99da3a72e4f45f15bef28d531dc2b8887d2c306334f38bfe02"
+        },
+        {
+            "path": "mods/clumps.sculk.json",
+            "sha256": "01cba91d97875e2fac086959b9e7262b4c8cd28bb214a1e686564d7e85668701"
+        },
+        {
+            "path": "mods/wolves-of-other-furs.sculk.json",
+            "sha256": "cff196003c4e18806d7d7d9ab35937568867be7bc35fea28c3ceadda2518105a"
+        },
+        {
+            "path": "mods/mru.sculk.json",
+            "sha256": "b194bada6135ec83cec2116533c8114c1260893713a34dab9e70081eac2a1a85"
+        },
+        {
+            "path": "mods/ambientsounds.sculk.json",
+            "sha256": "a5eb6f389d2236ebc1dfd6044d22459d5a6908daf183275050b1c8da17bf3f3f"
+        },
+        {
+            "path": "mods/creativecore.sculk.json",
+            "sha256": "f3a44587f93b857a55b820b8b258a58337b6ff1858c9f9cb66cec398a734b849"
+        },
+        {
+            "path": "mods/presence-footsteps.sculk.json",
+            "sha256": "f6f21dacc86de636481e774f270312afb802f8059731cf762fe5f5b8c60fc28f"
+        },
+        {
+            "path": "mods/dripsounds-fabric.sculk.json",
+            "sha256": "14ce8e4c1974162047e81ec92fbcdc00dbd4eab2f1a91bb55c71497a71c347bb"
+        },
+        {
+            "path": "mods/particular.sculk.json",
+            "sha256": "b42dd4a5f763f0ed7d7f4e61ee007f8fa137b19136d9a1fbf375858678b49a6c"
+        },
+        {
+            "path": "mods/owo-lib.sculk.json",
+            "sha256": "7f479b1e4d32ba6b075f0b3085e66c2690289362122720c054df7048b9564095"
+        },
+        {
+            "path": "mods/sushi-bar.sculk.json",
+            "sha256": "3cc1d67a5d016aec07756953e43bca82e3eeb6d1c1f4a4ddfd6da073fa32b411"
+        },
+        {
+            "path": "mods/ad-astra.sculk.json",
+            "sha256": "5a3d47faeaf50e928d0b33edd57275d6ac8d99e562363d68fce54e43640353f4"
+        },
+        {
+            "path": "mods/botarium.sculk.json",
+            "sha256": "7c22082b6f12f33ef1e828cbf7e98477979c8cc411b0779c9d11a67405eec609"
+        },
+        {
+            "path": "mods/resourceful-lib.sculk.json",
+            "sha256": "d55265b1fb2a26854e6b7f01888c4736e6faf7e27e16be18712c5331f5771a83"
+        },
+        {
+            "path": "mods/resourceful-config.sculk.json",
+            "sha256": "dad81086028045ed18dd234831017ec39d75fedde00815985366ab7b58611704"
+        },
+        {
+            "path": "mods/things.sculk.json",
+            "sha256": "6c27321f58cca93e82ef3048ce67db1351c8a5e58a00c107a2875caf753345b6"
+        },
+        {
+            "path": "mods/trinkets.sculk.json",
+            "sha256": "488477632a52e405641cf4b03a298c16e0bd9aedc386d5f14ed223475ee43cfc"
+        },
+        {
+            "path": "mods/lavender.sculk.json",
+            "sha256": "3bb42b8d8b587af666ac7584ba2254bbb39e8499245a7c227177a5a6243ef232"
+        },
+        {
+            "path": "mods/artifacts.sculk.json",
+            "sha256": "b4bed7a06be4f1b9516f31df471ace456ac3164977e36f1ca7ff4fcc6825837e"
+        },
+        {
+            "path": "mods/architectury-api.sculk.json",
+            "sha256": "018b711c565f404fcd623d46aeda0014247deec7db348dd88401ab307540b53d"
+        },
+        {
+            "path": "mods/rightclickharvest.sculk.json",
+            "sha256": "941ba036823de6d2a0feb5099dbe42ba95f6736cc8f508eaff31ad5f579ea26a"
+        },
+        {
+            "path": "mods/jamlib.sculk.json",
+            "sha256": "2c5956a88e5f41bbfa43046ee43447c2691f0d44b0346c7e422548c4a9201167"
+        },
+        {
+            "path": "mods/beautify-refabricated.sculk.json",
+            "sha256": "6c0b6c82990506c47ab0643b46e23c1d5dba2cdc3bedf7314dd3f1c7cbf2f5d6"
+        },
+        {
+            "path": "mods/jade.sculk.json",
+            "sha256": "11ab2938e1641b55ecd1f5340899e34727340ae19b0c8e37dd3362b9d8a80b1f"
+        },
+        {
+            "path": "mods/elytra-trims.sculk.json",
+            "sha256": "860b0d16f16d17530db404c4fa2b97d7e5fbbc85a11938a52ea80496691dd850"
+        },
+        {
+            "path": "mods/yacl.sculk.json",
+            "sha256": "af94de2e272c44dc9328f35e09bb79de150e06b938c4881ffa6641f9d6020bfd"
+        },
+        {
+            "path": "mods/fabric-language-kotlin.sculk.json",
+            "sha256": "afe8b4657420e177b8dc4907e8d28706991f156e4ef31573401d08e67bdf7cf4"
+        },
+        {
+            "path": "mods/elytra_trinket.sculk.json",
+            "sha256": "1b7207466518c6abdd6a2d0822b03d6ea6b41187527e34e97fff30966f8fe8a6"
+        },
+        {
+            "path": "mods/emi.sculk.json",
+            "sha256": "57299f11401267773f52200d0c44545ddf091ee6888abde94c7e441af760029c"
+        },
+        {
+            "path": "mods/jei.sculk.json",
+            "sha256": "9eb47b6a438f00d8207f32edf38e1036c41aeca3bf64414f945c3a5666d75ee9"
+        },
+        {
+            "path": "mods/create-fabric.sculk.json",
+            "sha256": "d9513394b3ec4f0ab36f6ae4fec2dee2ad5cc253a102935143a246d0552575fd"
+        },
+        {
+            "path": "mods/ae2.sculk.json",
+            "sha256": "6dc2e580249ca37aa482be5c602a9044f9388815def08005e69364f8c6be1a83"
+        },
+        {
+            "path": "mods/mob-captains.sculk.json",
+            "sha256": "42e68f3456a78c69cd31943efc9c1ceca3215f2742bca362c630612ff8420a57"
+        },
+        {
+            "path": "mods/advanced-netherite.sculk.json",
+            "sha256": "9ba475abc5394be759b2552f260a9b71a3eef400afa6c2b3c6e0a3dbe33dcf0c"
+        },
+        {
+            "path": "mods/detail-armor-bar.sculk.json",
+            "sha256": "0b610fe9353a949687ff303c834aabece1cfbeabf84626aa8d61fadc5f9ed71a"
+        },
+        {
+            "path": "mods/appleskin.sculk.json",
+            "sha256": "184d471913b8d95b8d91f8c0b740005ecc5150244c876192a12dd97120ee92dd"
+        },
+        {
+            "path": "mods/clickthrough.sculk.json",
+            "sha256": "98c87ec0ab0755a04bacc527d2a88a2b8a491a61cb03b8238adff1d2863d4705"
+        },
+        {
+            "path": "mods/comforts.sculk.json",
+            "sha256": "346d8ff8cf5c0fbf9d2fe5e4adf51e142f11724e4100a83c278b4ba9f339d440"
+        },
+        {
+            "path": "mods/mouse-tweaks.sculk.json",
+            "sha256": "59cdffb8a3d3c4f625b916b3cf5682ff47005be79ea607fbbe1f41cce8444d26"
+        },
+        {
+            "path": "mods/easy-anvils.sculk.json",
+            "sha256": "df687c9bdbd471de0b15c13f6a8f6804077e16dcf7b15933671cc76b4e4c0860"
+        },
+        {
+            "path": "mods/forge-config-api-port.sculk.json",
+            "sha256": "b2165da347d79e4a0c6ad321fc9720275f0cda82a21ac5438265a2fb1026e68d"
+        },
+        {
+            "path": "mods/forge-config-screens.sculk.json",
+            "sha256": "78100f07c22577477ee9568534e25f25a6607f1efd5f10b2fd6e08fdf89d3111"
+        },
+        {
+            "path": "mods/puzzles-lib.sculk.json",
+            "sha256": "601e59a5431e227e13badaf21678b1b1b7286e8adb8acd99aa3579ca084e64a7"
+        },
+        {
+            "path": "mods/idwtialsimmoedm.sculk.json",
+            "sha256": "42c5aa810ab321d3335a28c0e89a0dd8a22e709bf2a8205425ff446a8d2b3c04"
+        },
+        {
+            "path": "mods/visual-workbench.sculk.json",
+            "sha256": "ef0bb5713f3da9c9ac0c8fe07cf5844ceb50c575210a74deed35524d44760224"
+        },
+        {
+            "path": "mods/xaeros-minimap.sculk.json",
+            "sha256": "d02a7c406e1a252841d9d608f07d82af86c804b479f7b5778736ca780b71232c"
+        },
+        {
+            "path": "mods/towns-and-towers.sculk.json",
+            "sha256": "415a5db6ee253ae5613e34d912049a9d6fcf222ee37ca572de1fe2c50f362068"
+        },
+        {
+            "path": "mods/cristel-lib.sculk.json",
+            "sha256": "e74bfdc709440d71dfdeeb4fdab2dc75cccc0c76ba51618f2348ac7627790540"
+        },
+        {
+            "path": "mods/terra.sculk.json",
+            "sha256": "0a08d879d7d5244d97521741d36b2155c7e00c4e49bdc599d48a87f28de8489b"
+        },
+        {
+            "path": "mods/tectonic.sculk.json",
+            "sha256": "949c601a023a0da4d5fe886455a848c867c33dc28153150f2615b4f97843dff1"
+        },
+        {
+            "path": "mods/lithostitched.sculk.json",
+            "sha256": "495500db2b21763700ea636c39c030ba1064074fa9eb9441def1643e1c4f8305"
+        },
+        {
+            "path": "datapacks/explorify.sculk.json",
+            "sha256": "fb54575ae3932d72a27f331b3c3e2452af84bd089016bead7f4ded2bd44918ff"
+        },
+        {
+            "path": "mods/amplified-nether.sculk.json",
+            "sha256": "bffb7d3029202e6d07fc8e3fff06be554f05ca040534da6f780ee49bcdbad188"
+        },
+        {
+            "path": "mods/nullscape.sculk.json",
+            "sha256": "063b4e4a4ea7a88872dab633b51e55621018a1312e5f593dd964442cd5079ca5"
+        },
+        {
+            "path": "mods/mes-moogs-end-structures.sculk.json",
+            "sha256": "1ed627d673efd306d1d1e58c6a7b3d1bce83dd7c5c47cccde18e6de8f896120e"
+        },
+        {
+            "path": "mods/sodium.sculk.json",
+            "sha256": "551ecb95f1194b8e7e3a1fd8a78eec93371c912c82580e8326d8fac11553c8d1"
+        },
+        {
+            "path": "mods/lithium.sculk.json",
+            "sha256": "999b209432e077f880a55ab2f6a8e46d23d9642e856bedbd1b935135644dbb41"
+        },
+        {
+            "path": "mods/indium.sculk.json",
+            "sha256": "5b9adcfa36b35019aae8952aa48b4e86a8c1d46b3279f9c87977ab504c13dae4"
+        },
+        {
+            "path": "mods/iris.sculk.json",
+            "sha256": "420cd00c4a819bd7b517a6663dc0fb4016ea822649c18d9b1a4f15d8df25aaa1"
+        },
+        {
+            "path": "mods/visuality.sculk.json",
+            "sha256": "88e135f5e0ac3b089eafb64a6d08ff0f1d1b2ae84237aab885588145701c4977"
+        },
+        {
+            "path": "mods/continuity.sculk.json",
+            "sha256": "034c0c3551fd762ff99776a95ac77726fa1c3f8cca3cd80176661e9781ab37ac"
+        },
+        {
+            "path": "mods/wakes.sculk.json",
+            "sha256": "1d95ec58cd5b585398f4243677695b566a73e92a4bd2f61417c101b88a075840"
+        },
+        {
+            "path": "mods/fallingleaves.sculk.json",
+            "sha256": "6b59b2533a66976678d7f7b9945c7261cb696d1ed00867f0bf5cd8b75bee56cc"
+        },
+        {
+            "path": "mods/make_bubbles_pop.sculk.json",
+            "sha256": "5f23559bfdd77b15a97d15d3a192dd2878d03cef2da28808abb6adbb3260bae1"
+        }
+    ],
+    "files": []
+}

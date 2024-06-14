@@ -1,0 +1,16 @@
+{
+    "filename": "lithostitched-fabric-1.20.1-1.1.6.jar",
+    "side": "server_only",
+    "hashes": {
+        "sha1": "3207b0a92454851c718763bee3b5ef34fba982a7",
+        "sha512": "ee436379c5b5dfca337b5822d0e4475b742a709a8f9e8d334eccd7d0f502ca57b3188996be708d44412d8932a59e527f0689d78d6594860157714ff6bdec56f7",
+        "murmur2": 2329476456
+    },
+    "fileSize": 159153,
+    "sources": {
+        "modrinth": {
+            "projectId": "XaDC71GB",
+            "fileUrl": "https://cdn.modrinth.com/data/XaDC71GB/versions/M9bgOO4Z/lithostitched-fabric-1.20.1-1.1.6.jar"
+        }
+    }
+}

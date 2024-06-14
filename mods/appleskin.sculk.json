@@ -1,0 +1,16 @@
+{
+    "filename": "appleskin-fabric-mc1.20.1-2.5.1.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "d0f11243f79c071416bbcee781ae93eb57a0283c",
+        "sha512": "1544c3705133694a886233bdf75b0d03c9ab489421c1f9f30e51d8dd9f4dcab5826edbef4b7d477b81ac995253c6258844579a54243422b73446f6fb8653b979",
+        "murmur2": 3598082303
+    },
+    "fileSize": 1064362,
+    "sources": {
+        "modrinth": {
+            "projectId": "EsAfCjCV",
+            "fileUrl": "https://cdn.modrinth.com/data/EsAfCjCV/versions/xcauwnEB/appleskin-fabric-mc1.20.1-2.5.1.jar"
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "filename": "resourcefullib-fabric-1.20.1-2.1.25.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "07150e917c0ef13624eb85a40721748a7af1edf0",
+        "sha512": "734943f356de7ae77b1704557c1a0a6310aa57ba066d42d80f82d27dfb99b900b3c2b394e4734ffd77d0d433ecdeccec692424e63356d744bc38660667beb63c",
+        "murmur2": 1229308694
+    },
+    "fileSize": 422902,
+    "sources": {
+        "modrinth": {
+            "projectId": "G1hIVOrD",
+            "fileUrl": "https://cdn.modrinth.com/data/G1hIVOrD/versions/NR6mwIdz/resourcefullib-fabric-1.20.1-2.1.25.jar"
+        }
+    }
+}

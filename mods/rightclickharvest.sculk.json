@@ -1,0 +1,16 @@
+{
+    "filename": "right-click-harvest-3.2.3+1.19.x-1.20.1-fabric.jar",
+    "side": "server_only",
+    "hashes": {
+        "sha1": "3ba10f7fd3acf5e1be6bdb665edd77bd95cd074e",
+        "sha512": "cbef5270f6b18172dbcb6a0b13d92a080186b8335253af1d1b0626d224b1faf46ba9bc0fe3f5105f114bda3c0c00cb72c2ba74f58e90a29c981827b318bb0fb2",
+        "murmur2": 3652693877
+    },
+    "fileSize": 226850,
+    "sources": {
+        "modrinth": {
+            "projectId": "Cnejf5xM",
+            "fileUrl": "https://cdn.modrinth.com/data/Cnejf5xM/versions/4UWabEWo/right-click-harvest-3.2.3%2B1.19.x-1.20.1-fabric.jar"
+        }
+    }
+}

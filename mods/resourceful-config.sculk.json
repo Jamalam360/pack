@@ -1,0 +1,16 @@
+{
+    "filename": "resourcefulconfig-fabric-1.20.1-2.1.2.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "d9633701cfd1cb29c1e94655e20a61e29a4021a1",
+        "sha512": "53a6ca7dd4c83963d56b7dc5fbeb9b71090461049931a45b912fda5e09b8aa716d9504f2e97c023995062482df27946d81bbf771252baaca0d6f46333c3947bf",
+        "murmur2": 2744088118
+    },
+    "fileSize": 134793,
+    "sources": {
+        "modrinth": {
+            "projectId": "M1953qlQ",
+            "fileUrl": "https://cdn.modrinth.com/data/M1953qlQ/versions/PlEObkl9/resourcefulconfig-fabric-1.20.1-2.1.2.jar"
+        }
+    }
+}

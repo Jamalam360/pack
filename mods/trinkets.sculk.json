@@ -1,0 +1,16 @@
+{
+    "filename": "trinkets-3.7.2.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "d58cc8759587f03f320f188972ca66baa788d008",
+        "sha512": "bedf97c87c5e556416410267108ad358b32806448be24ef8ae1a79ac63b78b48b9c851c00c845b8aedfc7805601385420716b9e65326fdab21340e8ba3cc4274",
+        "murmur2": 1562565928
+    },
+    "fileSize": 238532,
+    "sources": {
+        "modrinth": {
+            "projectId": "5aaWibi9",
+            "fileUrl": "https://cdn.modrinth.com/data/5aaWibi9/versions/AHxQGtuC/trinkets-3.7.2.jar"
+        }
+    }
+}

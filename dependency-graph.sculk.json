@@ -1,0 +1,74 @@
+{
+    "mods/jade.sculk.json": [
+        "mods/beautify-refabricated.sculk.json"
+    ],
+    "mods/lithostitched.sculk.json": [
+        "mods/tectonic.sculk.json"
+    ],
+    "mods/fabric-language-kotlin.sculk.json": [
+        "mods/elytra-trims.sculk.json"
+    ],
+    "mods/trinkets.sculk.json": [
+        "mods/things.sculk.json"
+    ],
+    "mods/audioplayer.sculk.json": [
+        "mods/simple-voice-chat.sculk.json"
+    ],
+    "mods/architectury-api.sculk.json": [
+        "mods/artifacts.sculk.json"
+    ],
+    "mods/owo-lib.sculk.json": [
+        "mods/particular.sculk.json"
+    ],
+    "mods/lavender.sculk.json": [
+        "mods/things.sculk.json"
+    ],
+    "mods/yacl.sculk.json": [
+        "mods/elytra-trims.sculk.json"
+    ],
+    "mods/forge-config-screens.sculk.json": [
+        "mods/forge-config-api-port.sculk.json"
+    ],
+    "mods/cloth-config.sculk.json": [
+        "mods/simple-voice-chat.sculk.json"
+    ],
+    "mods/resourceful-lib.sculk.json": [
+        "mods/ad-astra.sculk.json"
+    ],
+    "mods/forge-config-api-port.sculk.json": [
+        "mods/easy-anvils.sculk.json"
+    ],
+    "mods/fabric-api.sculk.json": [
+        "mods/fallingtree.sculk.json"
+    ],
+    "mods/mru.sculk.json": [
+        "mods/wolves-of-other-furs.sculk.json"
+    ],
+    "mods/resourceful-config.sculk.json": [
+        "mods/ad-astra.sculk.json"
+    ],
+    "mods/puzzles-lib.sculk.json": [
+        "mods/easy-anvils.sculk.json"
+    ],
+    "mods/cristel-lib.sculk.json": [
+        "mods/towns-and-towers.sculk.json"
+    ],
+    "mods/modmenu.sculk.json": [
+        "mods/simple-voice-chat.sculk.json"
+    ],
+    "mods/sound-physics-remastered.sculk.json": [
+        "mods/simple-voice-chat.sculk.json"
+    ],
+    "mods/sushi-bar.sculk.json": [
+        "mods/particular.sculk.json"
+    ],
+    "mods/botarium.sculk.json": [
+        "mods/ad-astra.sculk.json"
+    ],
+    "mods/creativecore.sculk.json": [
+        "mods/ambientsounds.sculk.json"
+    ],
+    "mods/jamlib.sculk.json": [
+        "mods/rightclickharvest.sculk.json"
+    ]
+}

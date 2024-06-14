@@ -1,0 +1,16 @@
+{
+    "filename": "Terra-fabric-6.3.1-BETA+73baaec6c.jar",
+    "side": "server_only",
+    "hashes": {
+        "sha1": "5758dc0c04555482c74f405b4b19b0ce8ea3e5fd",
+        "sha512": "78bfb107e0782b2fcd78158bf1395225d24b0981d29665b08c2bb4afab394d847bd1edaeb751d38672661ba5e7fc3c04970927ccc5b008e29c9fa68d0ef946fc",
+        "murmur2": 3896354428
+    },
+    "fileSize": 8685300,
+    "sources": {
+        "modrinth": {
+            "projectId": "FIlZB9L0",
+            "fileUrl": "https://cdn.modrinth.com/data/FIlZB9L0/versions/vP6oIlOO/Terra-fabric-6.3.1-BETA%2B73baaec6c.jar"
+        }
+    }
+}

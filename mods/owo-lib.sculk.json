@@ -1,0 +1,16 @@
+{
+    "filename": "owo-lib-0.11.2+1.20.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "be88938ca5df78271e64bc9f85c3575754f33e2a",
+        "sha512": "807e4a3daf493e92c5ff0d5657efbba2a4e0cd2a9b753f2d6f153422629415f189345842a6dd258c87d4c02ebf38950a517bcd8a7ed929af6ed6485ae46cf77e",
+        "murmur2": 2971442500
+    },
+    "fileSize": 905421,
+    "sources": {
+        "modrinth": {
+            "projectId": "ccKDOlHs",
+            "fileUrl": "https://cdn.modrinth.com/data/ccKDOlHs/versions/zyOBB7J4/owo-lib-0.11.2%2B1.20.jar"
+        }
+    }
+}

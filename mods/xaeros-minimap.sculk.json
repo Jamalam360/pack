@@ -1,0 +1,16 @@
+{
+    "filename": "Xaeros_Minimap_24.2.0_Fabric_1.20.jar",
+    "side": "client_only",
+    "hashes": {
+        "sha1": "396401316ddde6e7712f5d6122d4d491c4d5cd2c",
+        "sha512": "616471a75e4d564e28d5a85d022c78109409e10f0660770b06e2b39aaa3f80ad95bf8f665b2596008e9f9e2d539cb9ee89a298428d38005efd5e5046fc2b527e",
+        "murmur2": 127125115
+    },
+    "fileSize": 1500922,
+    "sources": {
+        "modrinth": {
+            "projectId": "1bokaNcj",
+            "fileUrl": "https://cdn.modrinth.com/data/1bokaNcj/versions/WQEX096d/Xaeros_Minimap_24.2.0_Fabric_1.20.jar"
+        }
+    }
+}

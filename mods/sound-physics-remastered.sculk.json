@@ -1,0 +1,16 @@
+{
+    "filename": "sound-physics-remastered-fabric-1.20.1-1.4.2.jar",
+    "side": "client_only",
+    "hashes": {
+        "sha1": "ff3c7e4fdb1e6cc9929791b269bcf56caca3caa0",
+        "sha512": "382c6ed89315a0789e3af59c5780f5191f3a2c10af46aef05d0a45a4690af476ac5e063087dc9c5d4014c55920ad0da91ca4e13c3c141e6ce3210b9175f970e9",
+        "murmur2": 3058520797
+    },
+    "fileSize": 195186,
+    "sources": {
+        "modrinth": {
+            "projectId": "qyVF9oeo",
+            "fileUrl": "https://cdn.modrinth.com/data/qyVF9oeo/versions/qcWiQYte/sound-physics-remastered-fabric-1.20.1-1.4.2.jar"
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "filename": "fabric-language-kotlin-1.11.0+kotlin.2.0.0.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "4f5b3f0d773c4cc9e79d2f5ede3a637e78737f6d",
+        "sha512": "afc292e199869b982f18bbad208fed4a1d95b2f4292e0cc422ee8116d1da1d91132f554ac0608e7c87959d7ede37c20293133c811986dcfc80a8648f29d13028",
+        "murmur2": 1828666287
+    },
+    "fileSize": 7015315,
+    "sources": {
+        "modrinth": {
+            "projectId": "Ha28R6CL",
+            "fileUrl": "https://cdn.modrinth.com/data/Ha28R6CL/versions/afsFajDC/fabric-language-kotlin-1.11.0%2Bkotlin.2.0.0.jar"
+        }
+    }
+}

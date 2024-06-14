@@ -1,0 +1,16 @@
+{
+    "filename": "jei-1.20.1-fabric-15.3.0.7.jar",
+    "side": "client_only",
+    "hashes": {
+        "sha1": "ebf66ee403a6a8f401f848a6b690b6d9b952e563",
+        "sha512": "1678f8573ed203388d0deea8fd637b66804007048c49487778a2c90baf287e87f92215374ed84d062276c2528c6f5624fce543fc59ab8a95a16dacd1e5078f4e",
+        "murmur2": 1231133158
+    },
+    "fileSize": 1152396,
+    "sources": {
+        "modrinth": {
+            "projectId": "u6dRKJwZ",
+            "fileUrl": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/L1uCKC92/jei-1.20.1-fabric-15.3.0.7.jar"
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "filename": "elytra_trinket-1.0.3.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "f33752c27b1b1e3c53e28e653c677c7e679cfaba",
+        "sha512": "e391663c4d33fbba3c6b770620a0d2ecfcfe303579aebb5f0ade9913e64248ece7047fb8e4b17ba1dfc092169d1e7a379575fb9fec4498800c5c298d725cff72",
+        "murmur2": 911877264
+    },
+    "fileSize": 12691,
+    "sources": {
+        "modrinth": {
+            "projectId": "wk57PrDM",
+            "fileUrl": "https://cdn.modrinth.com/data/wk57PrDM/versions/rzIxotxo/elytra_trinket-1.0.3.jar"
+        }
+    }
+}
