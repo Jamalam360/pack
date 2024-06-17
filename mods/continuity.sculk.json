@@ -1,6 +1,6 @@
 {
     "filename": "continuity-3.0.0-beta.5+1.20.1.jar",
-    "side": "client_only",
+    "side": "both",
     "hashes": {
         "sha1": "15ad75d51f567c69308b91223454bacfd2eda7a5",
         "sha512": "8996e74dfe96ee845bdd25e2fc5ec73a73073b2b7945693a6058182a19fd8486c4d7f03de87a3369fb73a912411b8f9061a93f0fef77c4d729157de2f31e96be",

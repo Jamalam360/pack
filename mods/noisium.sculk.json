@@ -1,0 +1,16 @@
+{
+    "filename": "noisium-fabric-2.0.3+mc1.20-1.20.1.jar",
+    "side": "server_only",
+    "hashes": {
+        "sha1": "6841863d47b3152d540e523eeebf670287c9cbcf",
+        "sha512": "630416bf312a55eb33ca95fcc94105f901bc01131d318782d73f4237e72e18885f22262863bcbe85f5d7709efcafe6799305bf1e590054aa0e4de9745fd7b0b7",
+        "murmur2": 1654333870
+    },
+    "fileSize": 217548,
+    "sources": {
+        "modrinth": {
+            "projectId": "KuNKN7d2",
+            "fileUrl": "https://cdn.modrinth.com/data/KuNKN7d2/versions/uTdy9g9c/noisium-fabric-2.0.3%2Bmc1.20-1.20.1.jar"
+        }
+    }
+}

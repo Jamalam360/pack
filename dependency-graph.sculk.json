@@ -56,9 +56,6 @@
     "mods/modmenu.sculk.json": [
         "mods/simple-voice-chat.sculk.json"
     ],
-    "mods/sound-physics-remastered.sculk.json": [
-        "mods/simple-voice-chat.sculk.json"
-    ],
     "mods/sushi-bar.sculk.json": [
         "mods/particular.sculk.json"
     ],
@@ -70,5 +67,8 @@
     ],
     "mods/jamlib.sculk.json": [
         "mods/rightclickharvest.sculk.json"
+    ],
+    "mods/sodium-extra.sculk.json": [
+        "mods/reeses-sodium-options.sculk.json"
     ]
 }

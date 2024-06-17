@@ -1,6 +1,6 @@
 {
     "filename": "idwtialsimmoedm-0.3.0+1.20.jar",
-    "side": "client_only",
+    "side": "both",
     "hashes": {
         "sha1": "9ba46e1882422c71837aefc33b93ed214e30e556",
         "sha512": "40992ec3ed4d5fc64fb4e71f77486b0c4203534716ffea25f3682d0e7c48654f5b59b4db62fcf1a9d3d524e9e0497507480db5b6060612eea77259cd04fecb16",

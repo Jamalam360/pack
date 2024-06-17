@@ -1,0 +1,16 @@
+{
+    "filename": "extra-mod-integrations-0.4.6+1.20.1.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "c0891c46d0c5cad99df98095a8c0092a6facc6fe",
+        "sha512": "522ab113584aad6fad8cce70a4ec8d120119600af7553e8d4a457db21c378407234a3c53b3a4c08c3c32e3e2ffebbd5842292d4c89de857fa2ebdbedc7effbb4",
+        "murmur2": 1568867587
+    },
+    "fileSize": 246673,
+    "sources": {
+        "modrinth": {
+            "projectId": "bpRHnWUb",
+            "fileUrl": "https://cdn.modrinth.com/data/bpRHnWUb/versions/IobIopQf/extra-mod-integrations-0.4.6%2B1.20.1.jar"
+        }
+    }
+}

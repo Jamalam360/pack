@@ -1,0 +1,16 @@
+{
+    "filename": "emi_ores-0.4+1.20.1.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "f3f6d4e131545579d404fa52258b07b7a35a89da",
+        "sha512": "196e533ad70fc2910a62cb94f750cec2d77ec4e608ff831c8d201a8a0a16fb5e422f8a4b947b14e9841eb21bb7c94a61a7c2e7e7947168e1843eb52a96a81765",
+        "murmur2": 192001793
+    },
+    "fileSize": 44794,
+    "sources": {
+        "modrinth": {
+            "projectId": "sG4TqDb8",
+            "fileUrl": "https://cdn.modrinth.com/data/sG4TqDb8/versions/DLW2L0g5/emi_ores-0.4%2B1.20.1.jar"
+        }
+    }
+}

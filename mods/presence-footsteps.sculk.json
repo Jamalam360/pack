@@ -1,6 +1,6 @@
 {
     "filename": "PresenceFootsteps-1.9.4+1.20.1.jar",
-    "side": "client_only",
+    "side": "both",
     "hashes": {
         "sha1": "f4b446c7153bf6dbe41b7f3325686e3dd630dff1",
         "sha512": "6319ed83c15b3a178ba7a2e43e1b8aff09efbf33e0e2807745ecf6ed72ac993d9bd560295b2623f79cbc4c06fb5cb09066cf108cb053f3c40608bb5dc93307c4",

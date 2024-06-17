@@ -1,0 +1,16 @@
+{
+    "filename": "emi_enchanting-0.1.0+1.20.1.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "a71e9d17d2974ae5d5c9f764279433c76c7f89e6",
+        "sha512": "d05530225ec2955d7d52c382dde3841967294be9e0f8611bf1a75bf7014eb1ffd7940b8f7ad25970bad97d4ac336cdf1730efa04d0fdd1390b3b5cdfd55d5acc",
+        "murmur2": 3292251493
+    },
+    "fileSize": 14190,
+    "sources": {
+        "modrinth": {
+            "projectId": "wbWoo11W",
+            "fileUrl": "https://cdn.modrinth.com/data/wbWoo11W/versions/EQYdSyh8/emi_enchanting-0.1.0%2B1.20.1.jar"
+        }
+    }
+}

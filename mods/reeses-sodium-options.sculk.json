@@ -1,0 +1,16 @@
+{
+    "filename": "reeses_sodium_options-1.7.2+mc1.20.1-build.101.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "206f1b01b99ac3df99ddd84ed96b466a8700412d",
+        "sha512": "efb5eab3caea346f9d13ea7c73e856f286bba1c87508c7250deada7bf4e9ad179a12e9861f61145d5c9578d88f740abf19c564f14579aac5da1f46bf6f086977",
+        "murmur2": 594864691
+    },
+    "fileSize": 77304,
+    "sources": {
+        "modrinth": {
+            "projectId": "Bh37bMuy",
+            "fileUrl": "https://cdn.modrinth.com/data/Bh37bMuy/versions/Rc9pkPug/reeses_sodium_options-1.7.2%2Bmc1.20.1-build.101.jar"
+        }
+    }
+}

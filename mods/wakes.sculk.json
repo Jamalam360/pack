@@ -1,6 +1,6 @@
 {
     "filename": "wakes-0.2.4+1.20.1.jar",
-    "side": "client_only",
+    "side": "both",
     "hashes": {
         "sha1": "32f620bd5a4a5e0bc99c73766d8985e1c455747a",
         "sha512": "d3c575f4cfb7260a441d9afd8441db3fc0a6544501f68dec4ab1514663bb91b66600f825e5617d9e22e47c309755357863926ac6b21071cfc2b1e7224726b81e",

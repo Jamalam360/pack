@@ -1,0 +1,16 @@
+{
+    "filename": "BetterF3-7.0.2-Fabric-1.20.1.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "ed0383ed8c68e1d1cbfc61267afee028d8a4d7fe",
+        "sha512": "1b1f5bae45050bf01a23c57cfe94b7f42c6e0e9d669150effc04d3d09fd43c2dbea6c634117309ab1ee11253fcdb3c6061a9034e963b7f08476a76f1e98c3b8a",
+        "murmur2": 833131114
+    },
+    "fileSize": 1782676,
+    "sources": {
+        "modrinth": {
+            "projectId": "8shC1gFX",
+            "fileUrl": "https://cdn.modrinth.com/data/8shC1gFX/versions/7WkFnw9F/BetterF3-7.0.2-Fabric-1.20.1.jar"
+        }
+    }
+}

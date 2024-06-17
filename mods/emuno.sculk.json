@@ -1,0 +1,16 @@
+{
+    "filename": "emuno-1.1.1.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "851deb11c20f2a7a43ae19919bed4f436483a033",
+        "sha512": "a3291d21e580eb4845fd74aa55cd774ef3d1abd92a9bc0b7fd8d2d3a8c168094a58702de8f8873eeca7932e9b6e80ae33ec52bebbaa33e61bff5203210ab28eb",
+        "murmur2": 974560765
+    },
+    "fileSize": 8990,
+    "sources": {
+        "modrinth": {
+            "projectId": "RLrPqrNI",
+            "fileUrl": "https://cdn.modrinth.com/data/RLrPqrNI/versions/Rt34JLkK/emuno-1.1.1.jar"
+        }
+    }
+}

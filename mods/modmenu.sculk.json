@@ -1,6 +1,6 @@
 {
     "filename": "modmenu-7.2.2.jar",
-    "side": "client_only",
+    "side": "both",
     "hashes": {
         "sha1": "099c68feeb74887cbbbd8ce9a27c6123804a2c5a",
         "sha512": "9a7837e04bb34376611b207a3b20e5fe1c82a4822b42929d5b410809ec4b88ff3cac8821c4568f880775bafa3c079dfc7800f8471356a4046248b12607e855eb",

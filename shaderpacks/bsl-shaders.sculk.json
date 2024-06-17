@@ -1,0 +1,16 @@
+{
+    "filename": "BSL_v8.2.09.zip",
+    "side": "both",
+    "hashes": {
+        "sha1": "cd92bf706a1347a2d2943b14391ffbe1233415bc",
+        "sha512": "68edfac08cac19ac151abdafd0708bb2304af608dde9dc04ffd52968a8e93bc2c6ce67902ff850e32c0280ec19587f06d0c550b41c709ee2e5d7974c8414c491",
+        "murmur2": 3042225731
+    },
+    "fileSize": 954784,
+    "sources": {
+        "modrinth": {
+            "projectId": "Q1vvjJYV",
+            "fileUrl": "https://cdn.modrinth.com/data/Q1vvjJYV/versions/c6RfHyKW/BSL_v8.2.09.zip"
+        }
+    }
+}

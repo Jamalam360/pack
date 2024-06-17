@@ -1,6 +1,6 @@
 {
     "filename": "DripSounds-1.19.4-0.3.2.jar",
-    "side": "client_only",
+    "side": "both",
     "hashes": {
         "sha1": "0ec2a4722337bdcb668b6e37c43ec35bc2e0c617",
         "sha512": "6210b85d06241456340266f19e89877ab5160741d29cc12fb9a3fc678f64a0b4591ca10fe1daf2ddfa98c3e6a7c6fdde6fffc23cb3df12023cbca069d5a2c5b2",

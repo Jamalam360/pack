@@ -1,0 +1,16 @@
+{
+    "filename": "ae2-emi-crafting-1.3.1.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "1a8d8e4a58c9be517c05c14f36c7d663f65a569f",
+        "sha512": "51fdb5e5fa57275b9b87b315d791e92633453f2d9880d8cd6cccc25f785264d1d4781c8bfd2521a6e84588c50ab036189dba1f18df9e8f801a600c63076f2568",
+        "murmur2": 1480696216
+    },
+    "fileSize": 119861,
+    "sources": {
+        "modrinth": {
+            "projectId": "eVAp8Nkw",
+            "fileUrl": "https://cdn.modrinth.com/data/eVAp8Nkw/versions/lEmazn2j/ae2-emi-crafting-1.3.1.jar"
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "filename": "ok-boomer-0.1.3+1.20.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "228f7d3bee8e9cd139eb9460e3fd5042588c286f",
+        "sha512": "a9041e98cf58e667a413c7a2723b2b57825d1d211e818360309f65431dd2e23918acb6b3fe7815a7ff7c3a19f37329a2f4f2b3ba9daebd964f9c6f590f540721",
+        "murmur2": 50498622
+    },
+    "fileSize": 50987,
+    "sources": {
+        "modrinth": {
+            "projectId": "SOLWeImS",
+            "fileUrl": "https://cdn.modrinth.com/data/SOLWeImS/versions/4uzRpnqm/ok-boomer-0.1.3%2B1.20.jar"
+        }
+    }
+}

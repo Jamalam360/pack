@@ -1,6 +1,6 @@
 {
     "filename": "CreativeCore_FABRIC_v2.11.30_mc1.20.1.jar",
-    "side": "client_only",
+    "side": "both",
     "hashes": {
         "sha1": "c67429d413713a83eb83139f678f7ef0ba980be9",
         "sha512": "5e5242c9268c1db0de9167098b16c7f11666e485202705341289f997e69c32d7e281db0303a861e3187b0fe9d4e1e3f0bde5269221d7eaf4bbaf6943f20eccda",

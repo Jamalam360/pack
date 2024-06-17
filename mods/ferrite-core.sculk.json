@@ -1,0 +1,16 @@
+{
+    "filename": "ferritecore-6.0.1-fabric.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "8fa3b84fc5860dbc30fdf8cced02af68dffcf3fa",
+        "sha512": "9b7dc686bfa7937815d88c7bbc6908857cd6646b05e7a96ddbdcada328a385bd4ba056532cd1d7df9d2d7f4265fd48bd49ff683f217f6d4e817177b87f6bc457",
+        "murmur2": 2896907526
+    },
+    "fileSize": 125197,
+    "sources": {
+        "modrinth": {
+            "projectId": "uXXizFIs",
+            "fileUrl": "https://cdn.modrinth.com/data/uXXizFIs/versions/unerR5MN/ferritecore-6.0.1-fabric.jar"
+        }
+    }
+}
