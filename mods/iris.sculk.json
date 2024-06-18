@@ -1,6 +1,6 @@
 {
     "filename": "iris-1.7.1+mc1.20.1.jar",
-    "side": "both",
+    "side": "client_only",
     "hashes": {
         "sha1": "574992b5760f3bf2f9aa0b70984f19fb1952b748",
         "sha512": "e0b8fe9adbecb427b00d4e90a21dc2730ed18415f9037ecfe4904ca9d246c1cc04cf8799ae0abf62d660bfde5faeec578afe7d4c0cb2c67045ce1ef2d45eea4c",

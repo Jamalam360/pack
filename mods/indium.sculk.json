@@ -1,6 +1,6 @@
 {
     "filename": "indium-1.0.32+mc1.20.1.jar",
-    "side": "both",
+    "side": "client_only",
     "hashes": {
         "sha1": "6689db86e97a6e112c36d276070fb537a1f3596e",
         "sha512": "4e9277a9d2c7a965663d537b3b4d0dd088945f16b9a06e56f2ff643bd9152a5553ece8e161cc5894bed0a22eef2ea80d50fc35f6b30e384ba264167c04893f13",

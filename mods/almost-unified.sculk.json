@@ -1,6 +1,6 @@
 {
     "filename": "almostunified-fabric-1.20.1-0.9.3.jar",
-    "side": "server_only",
+    "side": "both",
     "hashes": {
         "sha1": "4c8e59fc37a2c653344049e8e7fa47f7007e7bd6",
         "sha512": "764ced93262a7da93be7ccc9938ed3a71942b6c29e0eb5184e20ca9857a5909a97ba2a82f39997380b537c635508075a7083ba416a349483a3541644f0b3a8bb",

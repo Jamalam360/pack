@@ -1,6 +1,6 @@
 {
     "filename": "DetailArmorBar-2.6.3+1.20.1-fabric.jar",
-    "side": "both",
+    "side": "client_only",
     "hashes": {
         "sha1": "4ebf5767f28d700583e8ee0e91eab118657101d2",
         "sha512": "b0816df8b8052cafb31a48ad277965b55f1304659f4e4433fbf69958f20a56af0843fc672d70f4a9202021212667f8e43bcbacdb2b6619fcb78cc761182696f5",

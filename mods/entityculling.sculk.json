@@ -1,6 +1,6 @@
 {
     "filename": "entityculling-fabric-1.6.6-mc1.20.1.jar",
-    "side": "both",
+    "side": "client_only",
     "hashes": {
         "sha1": "d6894508d74e5f01fb525b5b89d20ac4e54257b6",
         "sha512": "1e272086c2a63bfaba910d98d1d048629d1f22a953b0caaf7349fd75ec6c80f17219cc67d938c7524d2bade2c0074117091237184f7bf72f30989294f84af66e",

@@ -1,6 +1,6 @@
 {
     "filename": "Clumps-fabric-1.20.1-12.0.0.4.jar",
-    "side": "both",
+    "side": "server_only",
     "hashes": {
         "sha1": "a20cfe0b0ee0b897887f81c4919af9d220ba22e7",
         "sha512": "2235d29b1239d5526035bffd547d35fe33b9e737d3e75cd341f6689d9cd834d0a7dc03ed80748772162cd9595ba08e7a0ab51221bc145a8fd979d596c3967544",

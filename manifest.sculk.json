@@ -233,10 +233,6 @@
             "sha256": "495500db2b21763700ea636c39c030ba1064074fa9eb9441def1643e1c4f8305"
         },
         {
-            "path": "datapacks/explorify.sculk.json",
-            "sha256": "fb54575ae3932d72a27f331b3c3e2452af84bd089016bead7f4ded2bd44918ff"
-        },
-        {
             "path": "mods/amplified-nether.sculk.json",
             "sha256": "bffb7d3029202e6d07fc8e3fff06be554f05ca040534da6f780ee49bcdbad188"
         },
@@ -399,6 +395,10 @@
         {
             "path": "shaderpacks/complementary-reimagined.sculk.json",
             "sha256": "f9a4285af947ca7c5d81ce5556e8e00dce94252f85a812d1dc32a9e7c5b19758"
+        },
+        {
+            "path": "mods/explorify.sculk.json",
+            "sha256": "70fb4907942873fb022b7fa8d0ad8e241969bc5233e90c1872738392d44b1509"
         }
     ],
     "files": []

@@ -1,0 +1,16 @@
+{
+    "filename": "Explorify v1.5.0 f10-48.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "b2d8cc76e1df215141f09bca40291c54661ffa0b",
+        "sha512": "f19b97f46b37a69617a1e042c6e00178a89cfd678593ab7c4ccd6a397caafbb21d74a23f45dfdb5b1ab00e4d64d68d1ffc715eb1d153e1cc652224edbd68ac28",
+        "murmur2": 1429315380
+    },
+    "fileSize": 707417,
+    "sources": {
+        "modrinth": {
+            "projectId": "HSfsxuTo",
+            "fileUrl": "https://cdn.modrinth.com/data/HSfsxuTo/versions/FMLZeLnv/Explorify%20v1.5.0%20f10-48.jar"
+        }
+    }
+}

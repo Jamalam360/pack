@@ -1,6 +1,6 @@
 {
     "filename": "ForgeConfigScreens-v8.0.2-1.20.1-Fabric.jar",
-    "side": "both",
+    "side": "client_only",
     "hashes": {
         "sha1": "d10defe8ab8ebf93c6adf33ab36bb9dc4e82b825",
         "sha512": "4ade6744614c05bf23a57e70e8f3569245d839e899a8eb9e0b2cd152a5b740fb9431f5224e0f350d80b9af319de800d9d179b6b0fbbb531ce8185dc83149dc4e",
