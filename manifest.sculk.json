@@ -399,7 +399,21 @@
         {
             "path": "shaderpacks/complementary-reimagined.sculk.json",
             "sha256": "f9a4285af947ca7c5d81ce5556e8e00dce94252f85a812d1dc32a9e7c5b19758"
+        },
+        {
+            "path": "mods/sound-physics-remastered.sculk.json",
+            "sha256": "4982af4321aa0b5e73f8d943cbc9f573c4f16c65e9dd178582e3adcb5c235473"
+        },
+        {
+            "path": "mods/spark.sculk.json",
+            "sha256": "a4c4c41b4c18ff7cf6fbc2a1f5110a0d5ac73f0d08478d432b7fb992380e0026"
         }
     ],
-    "files": []
+    "files": [
+        {
+            "path": "config/fabric_loader_dependencies.json",
+            "side": "both",
+            "sha256": "127ce0eea7bd9c587b8fda367201776dc8e1ec3ca57084a6d55e98e3a49ed22b"
+        }
+    ]
 }

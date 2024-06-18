@@ -1,0 +1,16 @@
+{
+    "filename": "spark-1.10.53-fabric.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "252de323db10d2b49ef74f8e7a6a5c72929be140",
+        "sha512": "ce6e8f7071bb37369ad3e90d844926b424e82d0fe0ffd0db7058abddc9cfcdd594e145c9395677ad70ec532f3da0b23b6862d1f1c20f7600263c215abb4fcea7",
+        "murmur2": 651317422
+    },
+    "fileSize": 3082974,
+    "sources": {
+        "modrinth": {
+            "projectId": "l6YH9Als",
+            "fileUrl": "https://cdn.modrinth.com/data/l6YH9Als/versions/XGW2fviP/spark-1.10.53-fabric.jar"
+        }
+    }
+}
