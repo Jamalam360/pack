@@ -1,0 +1,16 @@
+{
+    "filename": "Xaeros_Minimap_FP24.1.1_Fabric_1.20.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "986c2411901a2e71ba15f6bae5f6f66aacca761f",
+        "sha512": "a9eb4b9e87dc5053c62dc2e68623e6d2ded686fb3742fff2c7c4df4596c7fa1e1c7bab8d308e8166160edab4b09ced0d98eecd7b6b8be9725682a5e672be593b",
+        "murmur2": 2751687793
+    },
+    "fileSize": 1531052,
+    "sources": {
+        "modrinth": {
+            "projectId": "JkSi2Fzx",
+            "fileUrl": "https://cdn.modrinth.com/data/JkSi2Fzx/versions/XONxwTDV/Xaeros_Minimap_FP24.1.1_Fabric_1.20.jar"
+        }
+    }
+}

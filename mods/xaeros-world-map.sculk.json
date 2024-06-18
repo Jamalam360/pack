@@ -1,0 +1,16 @@
+{
+    "filename": "XaerosWorldMap_1.38.8_Fabric_1.20.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "51b20efcb6c70057c98a42b2d3591fb6e84f2299",
+        "sha512": "340b1acf742b1d02ff0cb492e06d68c1fe00ccf2fd3017d0c00e4f16b77666537165a37fdb8096e6c7822b833943cf8d8a82e38228019fc39fceba37a750c0e9",
+        "murmur2": 1341088767
+    },
+    "fileSize": 946610,
+    "sources": {
+        "modrinth": {
+            "projectId": "NcUtCpym",
+            "fileUrl": "https://cdn.modrinth.com/data/NcUtCpym/versions/szULGs3b/XaerosWorldMap_1.38.8_Fabric_1.20.jar"
+        }
+    }
+}

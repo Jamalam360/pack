@@ -201,10 +201,6 @@
             "sha256": "ef0bb5713f3da9c9ac0c8fe07cf5844ceb50c575210a74deed35524d44760224"
         },
         {
-            "path": "mods/xaeros-minimap.sculk.json",
-            "sha256": "a51b8747489d7d9f060a7ebf33e2c2d086ff885c9e2a98a460f4aeb016e74c5f"
-        },
-        {
             "path": "mods/towns-and-towers.sculk.json",
             "sha256": "415a5db6ee253ae5613e34d912049a9d6fcf222ee37ca572de1fe2c50f362068"
         },
@@ -399,6 +395,18 @@
         {
             "path": "mods/spark.sculk.json",
             "sha256": "a4c4c41b4c18ff7cf6fbc2a1f5110a0d5ac73f0d08478d432b7fb992380e0026"
+        },
+        {
+            "path": "mods/interlink.sculk.json",
+            "sha256": "1e7a5b30bf87539396cde70e8dc9a1fb2dbfacab11a16298734d662f981629fe"
+        },
+        {
+            "path": "mods/xaeros-world-map.sculk.json",
+            "sha256": "4438610677313d79a643c784af92146b5e63b74d4cc42a0ab8942a261de37140"
+        },
+        {
+            "path": "mods/xaeros-minimap-fair.sculk.json",
+            "sha256": "43fc8ac303010eee2fd623c02f4f3b902d77a520ccb0522e6c10250cf9f70752"
         }
     ],
     "files": [
