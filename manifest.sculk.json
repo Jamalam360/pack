@@ -54,7 +54,7 @@
         },
         {
             "path": "mods/presence-footsteps.sculk.json",
-            "sha256": "4fd9904b4b7bc5d0e07dbecf0362344375981168bae0548eab59309c60b6ba5b"
+            "sha256": "f6f21dacc86de636481e774f270312afb802f8059731cf762fe5f5b8c60fc28f"
         },
         {
             "path": "mods/dripsounds-fabric.sculk.json",
@@ -174,7 +174,7 @@
         },
         {
             "path": "mods/mouse-tweaks.sculk.json",
-            "sha256": "1b7f9d29efe733ffe0db451f70212f8171565d3e7b0cc3653f741c6bccbe9511"
+            "sha256": "59cdffb8a3d3c4f625b916b3cf5682ff47005be79ea607fbbe1f41cce8444d26"
         },
         {
             "path": "mods/easy-anvils.sculk.json",
@@ -266,11 +266,11 @@
         },
         {
             "path": "mods/emiffect.sculk.json",
-            "sha256": "8d0277ca5583ab16acb80441757ff39e6a674215a63c84fef9c2d294848d5d08"
+            "sha256": "1f9671105c53eb1c10e67893c85e3e92718c268c506c2094b534f9eae91c2b42"
         },
         {
             "path": "mods/emitrades.sculk.json",
-            "sha256": "27a4bbee8240d29d7ab2badf11569c497e69227f7d7da47ff69af49b7d497272"
+            "sha256": "e7ee6304e046de74a46232c11e21cf136c117cf315312e5baf4bf7f98109ead2"
         },
         {
             "path": "mods/extra-mod-integrations.sculk.json",
@@ -286,7 +286,7 @@
         },
         {
             "path": "mods/ae2-emi-crafting.sculk.json",
-            "sha256": "a9585d7160c34c68d818701faf0d15e7658f27e89e7f5ac8a065168c0aebeab7"
+            "sha256": "bd4c8bea50711a4d8f75e2beb8d01186a5703c10d42b17781a3cece7d7d9dc51"
         },
         {
             "path": "mods/betterf3.sculk.json",
@@ -350,7 +350,7 @@
         },
         {
             "path": "mods/ok-boomer.sculk.json",
-            "sha256": "0a0c1841cb5d04a183f600daa7f43ff414f7eb95fd3e2da02b97aa090e59b5e0"
+            "sha256": "d91c29adfb5bb023cd4cf63cc5422b7f7fcf63cd1fa7f31c3d8a61ce27943dc3"
         },
         {
             "path": "mods/immediatelyfast.sculk.json",
@@ -370,7 +370,7 @@
         },
         {
             "path": "mods/badoptimizations.sculk.json",
-            "sha256": "e37170c7108cf549b66672fd7872ede5c7ea479fa18af6284b8915bc62d881d9"
+            "sha256": "abc62ab4f8efe100b6bf0aa8b03225ab2f3aee11bdac8d09d658472f42a631e8"
         },
         {
             "path": "mods/emuno.sculk.json",
@@ -397,16 +397,20 @@
             "sha256": "a4c4c41b4c18ff7cf6fbc2a1f5110a0d5ac73f0d08478d432b7fb992380e0026"
         },
         {
-            "path": "mods/interlink.sculk.json",
-            "sha256": "1e7a5b30bf87539396cde70e8dc9a1fb2dbfacab11a16298734d662f981629fe"
-        },
-        {
             "path": "mods/xaeros-world-map.sculk.json",
             "sha256": "4438610677313d79a643c784af92146b5e63b74d4cc42a0ab8942a261de37140"
         },
         {
             "path": "mods/xaeros-minimap-fair.sculk.json",
             "sha256": "43fc8ac303010eee2fd623c02f4f3b902d77a520ccb0522e6c10250cf9f70752"
+        },
+        {
+            "path": "mods/no-unused-chunks.sculk.json",
+            "sha256": "18b2d707c1e206a714778757595a252f43f1500b61e11af5e3aa3725bea5e62a"
+        },
+        {
+            "path": "mods/dcintegration.sculk.json",
+            "sha256": "7f2f432dafb04bc6a8f470a07248a82ca2bd483c431054b4c7e0e4b75cc19770"
         }
     ],
     "files": [

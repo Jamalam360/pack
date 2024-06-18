@@ -1,0 +1,16 @@
+{
+    "filename": "dcintegration-fabric-3.0.7-1.20.1.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "5a5b13d8a5a3964ed92e930d385e2e51c7d98a66",
+        "sha512": "4723f3ffc0efefa63d49cae1825a3ec3cbcef81ddb77965fa2e61d0e9d7b868ea037274b548da6f5f53b2bdd9ea34a81eac71a3a9d076f6a82f6edbd421a0abf",
+        "murmur2": 1635075819
+    },
+    "fileSize": 15140101,
+    "sources": {
+        "modrinth": {
+            "projectId": "rbJ7eS5V",
+            "fileUrl": "https://cdn.modrinth.com/data/rbJ7eS5V/versions/WLOprDDs/dcintegration-fabric-3.0.7-1.20.1.jar"
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "filename": "nounusedchunks-2.0.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "71abbc99a35b63ba5c0f07ec3d6153ebd1c69a62",
+        "sha512": "725eec752a7f9845d28a89e6e7500b101377e4112d531340ad265b7750f910392e7c33e28257fc7cb605496e6bf350b459ac2c80dd55258244d1407672e0ea7b",
+        "murmur2": 1309305333
+    },
+    "fileSize": 48109,
+    "sources": {
+        "modrinth": {
+            "projectId": "U8avpWmO",
+            "fileUrl": "https://cdn.modrinth.com/data/U8avpWmO/versions/8J8ZE8MA/nounusedchunks-2.0.jar"
+        }
+    }
+}

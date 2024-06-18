@@ -1,6 +1,6 @@
 {
     "filename": "emiffect-fabric-1.1.2+mc1.20.1.jar",
-    "side": "both",
+    "side": "client_only",
     "hashes": {
         "sha1": "8a63f92080a05eeb53547ec76be615c5576ef901",
         "sha512": "084bcd4a045e1a58cfff4fb6b8707ff72904ec183464b5c0772bcda11e4b369a503e00c386893da286b2675489ce2704759b5d36cdb42674b9a991f0ceaea331",

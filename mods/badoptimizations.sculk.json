@@ -1,6 +1,6 @@
 {
     "filename": "BadOptimizations-2.1.4-1.20.1.jar",
-    "side": "both",
+    "side": "client_only",
     "hashes": {
         "sha1": "29c7689d1c4645a902115e1faa4991c47007b7a5",
         "sha512": "a68968e8fab27202f0d2737357511e27282967ced27732cc90d6beaff64cb99359448b7de3e24cdef4e564ecb99ed061ac1e336e07d8ab4771db47bec7c5da45",
