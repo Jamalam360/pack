@@ -61,16 +61,8 @@
             "sha256": "14ce8e4c1974162047e81ec92fbcdc00dbd4eab2f1a91bb55c71497a71c347bb"
         },
         {
-            "path": "mods/particular.sculk.json",
-            "sha256": "56ff6af2d09bc49633dad75d160da1506fe344c11e83a029a2ae66715177986a"
-        },
-        {
             "path": "mods/owo-lib.sculk.json",
             "sha256": "7f479b1e4d32ba6b075f0b3085e66c2690289362122720c054df7048b9564095"
-        },
-        {
-            "path": "mods/sushi-bar.sculk.json",
-            "sha256": "3cc1d67a5d016aec07756953e43bca82e3eeb6d1c1f4a4ddfd6da073fa32b411"
         },
         {
             "path": "mods/ad-astra.sculk.json",
