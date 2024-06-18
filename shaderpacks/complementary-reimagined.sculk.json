@@ -1,6 +1,6 @@
 {
     "filename": "ComplementaryReimagined_r5.2.1.zip",
-    "side": "client_only",
+    "side": "both",
     "hashes": {
         "sha1": "4ab8734a50018b58ecb1ac75042639f25094cf26",
         "sha512": "52f87a733c382353e5aa0e07555cf821a31b832f67dca63ab28e56b99d12de77c989ab90926aa452096b14496349c60bae77d9717e89cb3a68e3ac93c3b7495f",
