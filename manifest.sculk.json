@@ -411,6 +411,26 @@
         {
             "path": "mods/dcintegration.sculk.json",
             "sha256": "7f2f432dafb04bc6a8f470a07248a82ca2bd483c431054b4c7e0e4b75cc19770"
+        },
+        {
+            "path": "mods/scorched.sculk.json",
+            "sha256": "3bfc7c98bfbc796fb9a2722a676967774988080766a2a4ef76cff9e9da86858f"
+        },
+        {
+            "path": "mods/eureka.sculk.json",
+            "sha256": "41c7f5d87d498960774f944271c3d419cf86db946492e74f1c63cd2ebec28f15"
+        },
+        {
+            "path": "mods/valkyrien-skies.sculk.json",
+            "sha256": "eec181caec03689b8c550bf22cc5e7bc0cded696cd7343114f7f339018cd5cdb"
+        },
+        {
+            "path": "mods/hephaestus.sculk.json",
+            "sha256": "5581933d41779857511fbc80e3b0cfe02df62776a7204be13144cb80e29612d2"
+        },
+        {
+            "path": "mods/quicker-connect-button.sculk.json",
+            "sha256": "f0454b1a7a66732e7bb9cccd917b6b255ffd0e72df5f2eff98da2edff7e232d0"
         }
     ],
     "files": [

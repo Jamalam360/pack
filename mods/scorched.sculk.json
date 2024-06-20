@@ -1,0 +1,16 @@
+{
+    "filename": "scorched-1.1.3e.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "73ea7c127835d0bcdbea58fe600dfdd354ce5a2f",
+        "sha512": "5e594c9fa2d1a993e9b8a66267dfbcf6d82a0f57a06102c1f96b994bfa4839a2bbbb5f911784a9fcf084ce73aa6d434c083b0afb33a8ff8dc1dddec46cd47460",
+        "murmur2": 2450635074
+    },
+    "fileSize": 1110859,
+    "sources": {
+        "modrinth": {
+            "projectId": "yID404Mu",
+            "fileUrl": "https://cdn.modrinth.com/data/yID404Mu/versions/2gsKXcfO/scorched-1.1.3e.jar"
+        }
+    }
+}

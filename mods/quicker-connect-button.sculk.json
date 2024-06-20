@@ -1,0 +1,16 @@
+{
+    "filename": "Quicker Connect Button-fabric-1.20.1-1.0.1.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "cb12830cc8ff431bc17dccf97833712bc58cd79e",
+        "sha512": "7537d0a175fdaf35bb5d6823bfffaf35a6d96bd8f883d5851a1720713330ed9c7f8a860d76befedf1a9914c24f2679cf007f0df34a1f67c208d2f593f5c95f17",
+        "murmur2": 2602274998
+    },
+    "fileSize": 29758,
+    "sources": {
+        "modrinth": {
+            "projectId": "1SruaFxM",
+            "fileUrl": "https://cdn.modrinth.com/data/1SruaFxM/versions/KDftqfgI/Quicker%20Connect%20Button-fabric-1.20.1-1.0.1.jar"
+        }
+    }
+}

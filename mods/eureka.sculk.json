@@ -1,0 +1,16 @@
+{
+    "filename": "eureka-1201-1.5.1-beta.3.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "8100f4117fe236343b6f03d8f03e0d9fd8322919",
+        "sha512": "614b47e312cf7a8d2aaa6f005e805a3ca35347123552d442d3b4d36ac3304bda2a85ef3823300eae0d6b66e35a10f0345ac44654bea6bd24a0e1be78196f2869",
+        "murmur2": 3500869253
+    },
+    "fileSize": 480907,
+    "sources": {
+        "modrinth": {
+            "projectId": "EO8aSHxh",
+            "fileUrl": "https://cdn.modrinth.com/data/EO8aSHxh/versions/sXx5EPib/eureka-1201-1.5.1-beta.3.jar"
+        }
+    }
+}

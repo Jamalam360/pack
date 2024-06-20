@@ -1,0 +1,16 @@
+{
+    "filename": "valkyrienskies-120-2.3.0-beta.5.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "284bbc3f8eb3f4c0d8ac1bb57eb6cff5af35a25c",
+        "sha512": "acc6a13e788768d54c9fdeb4da6f5112acbe6a11cb5f9f08f6792400e350af3c55eb18347f1f99b1c6a8ae1a1085856ebc23c51c1f1c5f60fb5b693255be20ad",
+        "murmur2": 3435703260
+    },
+    "fileSize": 20688696,
+    "sources": {
+        "modrinth": {
+            "projectId": "V5ujR2yw",
+            "fileUrl": "https://cdn.modrinth.com/data/V5ujR2yw/versions/wDYLclLS/valkyrienskies-120-2.3.0-beta.5.jar"
+        }
+    }
+}
