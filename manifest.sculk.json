@@ -438,6 +438,11 @@
             "path": "config/fabric_loader_dependencies.json",
             "side": "both",
             "sha256": "127ce0eea7bd9c587b8fda367201776dc8e1ec3ca57084a6d55e98e3a49ed22b"
+        },
+        {
+            "path": "config/quickerconnectbutton.properties",
+            "side": "both",
+            "sha256": "d9f8fc823f4a381c3b1b996519c4de6de8679464a178785f61fa5ea732093f30"
         }
     ]
 }
