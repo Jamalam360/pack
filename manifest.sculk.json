@@ -209,10 +209,6 @@
             "sha256": "e74bfdc709440d71dfdeeb4fdab2dc75cccc0c76ba51618f2348ac7627790540"
         },
         {
-            "path": "mods/terra.sculk.json",
-            "sha256": "0a08d879d7d5244d97521741d36b2155c7e00c4e49bdc599d48a87f28de8489b"
-        },
-        {
             "path": "mods/tectonic.sculk.json",
             "sha256": "949c601a023a0da4d5fe886455a848c867c33dc28153150f2615b4f97843dff1"
         },
@@ -431,6 +427,14 @@
         {
             "path": "mods/quicker-connect-button.sculk.json",
             "sha256": "f0454b1a7a66732e7bb9cccd917b6b255ffd0e72df5f2eff98da2edff7e232d0"
+        },
+        {
+            "path": "mods/terralith.sculk.json",
+            "sha256": "3522c9d58af26e944bf18123265697b18411bc55e8ff8e34926f8b173b1af685"
+        },
+        {
+            "path": "mods/c2me-fabric.sculk.json",
+            "sha256": "839db82bc8090c92bcb41e37dcd07b6e252c0af46236138a25ec551a0b940025"
         }
     ],
     "files": [
@@ -442,7 +446,7 @@
         {
             "path": "config/quickerconnectbutton.properties",
             "side": "both",
-            "sha256": "d9f8fc823f4a381c3b1b996519c4de6de8679464a178785f61fa5ea732093f30"
+            "sha256": "abe68de6c7f73d9cffdbd8778545c8f79a635b3f4ea61dccc68a8e06ce454525"
         }
     ]
 }
