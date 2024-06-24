@@ -1,0 +1,16 @@
+{
+    "filename": "createaddition-fabric+1.20.1-1.2.4.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "a4b1618a3a7c14aab3c2fc46017a26c2b668dda3",
+        "sha512": "66bab7b3e0cada74d70cfc921d94f53759dd64189a261bcb7d75c5fd2818bbc375bcaa215d321c1c619092aff34ba56a94ec61e6868788d0e599913e7445341d",
+        "murmur2": 4009467841
+    },
+    "fileSize": 1596988,
+    "sources": {
+        "modrinth": {
+            "projectId": "kU1G12Nn",
+            "fileUrl": "https://cdn.modrinth.com/data/kU1G12Nn/versions/vV4bZmhm/createaddition-fabric%2B1.20.1-1.2.4.jar"
+        }
+    }
+}

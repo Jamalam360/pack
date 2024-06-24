@@ -1,0 +1,16 @@
+{
+    "filename": "chisel+fabric+1.20.1-1.7.2.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "79d3297d4fb648f3fc6646da2ab24ae48fc54ced",
+        "sha512": "88eedb4f3e537435770f13a7908a69a4d78e4ace0d5c32b72bbe33f5bf5e525c573f56a5cef88b10a2cd8e5ce9a3a5cb243398051fcc5b87a616b244418e40bf",
+        "murmur2": 3590039499
+    },
+    "fileSize": 8285659,
+    "sources": {
+        "modrinth": {
+            "projectId": "4KWv7wbN",
+            "fileUrl": "https://cdn.modrinth.com/data/4KWv7wbN/versions/bbyLR4RW/chisel%2Bfabric%2B1.20.1-1.7.2.jar"
+        }
+    }
+}

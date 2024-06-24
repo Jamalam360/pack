@@ -1,0 +1,16 @@
+{
+    "filename": "gravestones-1.0.4-1.20.1.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "41f63e14761dd3856f247a5c5bbe71c1a3174fba",
+        "sha512": "4a0fe950e12fb5d0354b39954566aa1bbfafda584f4107ba654a73a46d6bfce409ec0938b25ee1d99f05c3bc634d05a00339ffbcdf593669bebdad0cbaa35bcd",
+        "murmur2": 1603512152
+    },
+    "fileSize": 96982,
+    "sources": {
+        "modrinth": {
+            "projectId": "Heh3BbSv",
+            "fileUrl": "https://cdn.modrinth.com/data/Heh3BbSv/versions/siWOez1G/gravestones-1.0.4-1.20.1.jar"
+        }
+    }
+}

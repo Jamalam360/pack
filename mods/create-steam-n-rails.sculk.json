@@ -1,0 +1,16 @@
+{
+    "filename": "Steam_Rails-1.6.4+fabric-mc1.20.1.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "6aebceb3b11005d9cf7255f26344e1c3a635c91c",
+        "sha512": "e2c1ea06c270118a99d6a047f48eb210b047c6a25b3f05c53e53f0e4d1fc2805cff23aea02f8543af7d175c4f35bd43ba928be13c443dfa122ae13f8043fa3f3",
+        "murmur2": 3050478170
+    },
+    "fileSize": 9135839,
+    "sources": {
+        "modrinth": {
+            "projectId": "ZzjhlDgM",
+            "fileUrl": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/AJ3IGl3n/Steam_Rails-1.6.4%2Bfabric-mc1.20.1.jar"
+        }
+    }
+}

@@ -5,6 +5,9 @@
     "mods/fabric-language-kotlin.sculk.json": [
         "mods/elytra-trims.sculk.json"
     ],
+    "mods/pneumono_core.sculk.json": [
+        "mods/pneumono_gravestones.sculk.json"
+    ],
     "mods/audioplayer.sculk.json": [
         "mods/simple-voice-chat.sculk.json"
     ],

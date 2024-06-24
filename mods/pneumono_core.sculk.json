@@ -1,0 +1,16 @@
+{
+    "filename": "pneumonocore-1.1.4+1.20.1.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "4152e67c7f432534101bdcfcac6de617fe01fcc1",
+        "sha512": "e7be8b47f6f9d5871367c3e9dd43f6b9528c87c03b0b788087528bdd8e19798126661d8cf0f6fd1fcc226115edf2114ad1e7faa16de19227685dde4e6d16e266",
+        "murmur2": 1504671324
+    },
+    "fileSize": 110323,
+    "sources": {
+        "modrinth": {
+            "projectId": "ZLKQjA7t",
+            "fileUrl": "https://cdn.modrinth.com/data/ZLKQjA7t/versions/MtM4xjYo/pneumonocore-1.1.4%2B1.20.1.jar"
+        }
+    }
+}
