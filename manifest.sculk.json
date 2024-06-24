@@ -455,6 +455,14 @@
         {
             "path": "mods/createaddition.sculk.json",
             "sha256": "46044f4fd2db3d8cc89a68f007850e8e186c169f5bc63febe829a0c3439a7ab1"
+        },
+        {
+            "path": "mods/mouse-wheelie.sculk.json",
+            "sha256": "4dc32527dd6046ab1c29b683c7ef974c7c8e34968d08014765a72922071dca88"
+        },
+        {
+            "path": "mods/inmis.sculk.json",
+            "sha256": "a32426c5aa4e6c9315269cee7e4c0c4e86daea84c2fbb5b4b184616a2bb4ebee"
         }
     ],
     "files": [
