@@ -437,10 +437,6 @@
             "sha256": "839db82bc8090c92bcb41e37dcd07b6e252c0af46236138a25ec551a0b940025"
         },
         {
-            "path": "mods/magpie.sculk.json",
-            "sha256": "dd9a48546f3af3babbf27eda1458b44014abe58bc5a37d0b0bb5d63b44c4eaff"
-        },
-        {
             "path": "mods/create-steam-n-rails.sculk.json",
             "sha256": "e99f00ed70c3203a3154393230378483ca4a55a4ee02748e5297d396b3fc0ab1"
         },
