@@ -463,6 +463,10 @@
         {
             "path": "mods/inmis.sculk.json",
             "sha256": "a32426c5aa4e6c9315269cee7e4c0c4e86daea84c2fbb5b4b184616a2bb4ebee"
+        },
+        {
+            "path": "mods/when-dungeons-arise.sculk.json",
+            "sha256": "866b6e0fc42aaf48ae47a2254935589a86064d2f5a1a91ad971cabbf46e1964f"
         }
     ],
     "files": [
