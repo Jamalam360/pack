@@ -1,16 +1,16 @@
 {
-    "filename": "neruina-fabric-2.0.0-beta.10+1.20.1.jar",
+    "filename": "Neruina-2.1.0-fabric+1.20.1.jar",
     "side": "server_only",
     "hashes": {
-        "sha1": "894030ab9262549936775f26f4bf4ae04f2bc205",
-        "sha512": "db13de44b8d77105b758968a614d4eef9570cf1875cbe8c9d56c9db4524f40f7dda019b3ee4fc7e32d6e4565affbf71fee1a4f178d892ccd96a94dc8b5d1e0d9",
+        "sha1": "7325cf355f3ce052c8e0eba97a50aae68f0a513e",
+        "sha512": "4a0ff3dc59cca02b8460f21dd23a50a9615f20e9069568e0d18cdeeebc1593eed3a70afa0acc1829b72000e594e061440aaedc5a41d083f79ee87f53ab3a2837",
         "murmur2": 463156278
     },
-    "fileSize": 2976441,
+    "fileSize": 2976101,
     "sources": {
         "modrinth": {
             "projectId": "1s5x833P",
-            "fileUrl": "https://cdn.modrinth.com/data/1s5x833P/versions/ltv3yt61/neruina-fabric-2.0.0-beta.10%2B1.20.1.jar"
+            "fileUrl": "https://cdn.modrinth.com/data/1s5x833P/versions/9BTsibnM/Neruina-2.1.0-fabric%2B1.20.1.jar"
         }
     }
 }

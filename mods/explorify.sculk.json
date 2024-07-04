@@ -1,16 +1,16 @@
 {
-    "filename": "Explorify v1.5.0 f10-48.jar",
+    "filename": "Explorify v1.6.1 f10-48.jar",
     "side": "both",
     "hashes": {
-        "sha1": "b2d8cc76e1df215141f09bca40291c54661ffa0b",
-        "sha512": "f19b97f46b37a69617a1e042c6e00178a89cfd678593ab7c4ccd6a397caafbb21d74a23f45dfdb5b1ab00e4d64d68d1ffc715eb1d153e1cc652224edbd68ac28",
+        "sha1": "9c4cf5349f2fb6229d20cfa5008f82f512258b73",
+        "sha512": "826e19bb067ff2e42b18ca7b26b0adc0af3be146c5a281a9e4e0d1b13331fcb78085bfe038b22e54b17bfd5c7d668f55e280cbb332b0cd75aaaafc8ea13b03fe",
         "murmur2": 1429315380
     },
-    "fileSize": 707417,
+    "fileSize": 974913,
     "sources": {
         "modrinth": {
             "projectId": "HSfsxuTo",
-            "fileUrl": "https://cdn.modrinth.com/data/HSfsxuTo/versions/FMLZeLnv/Explorify%20v1.5.0%20f10-48.jar"
+            "fileUrl": "https://cdn.modrinth.com/data/HSfsxuTo/versions/ovtuGAG4/Explorify%20v1.6.1%20f10-48.jar"
         }
     }
 }

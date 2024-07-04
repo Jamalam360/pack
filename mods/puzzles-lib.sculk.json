@@ -1,16 +1,16 @@
 {
-    "filename": "PuzzlesLib-v8.1.20-1.20.1-Fabric.jar",
+    "filename": "PuzzlesLib-v8.1.21-1.20.1-Fabric.jar",
     "side": "both",
     "hashes": {
-        "sha1": "540ffdd7077e053531b80d7dde45c268739e64b8",
-        "sha512": "d7f04c01deeb9e1fe685c0d9464da3ad83ff3dbab919e27bfce2ed2be765fa15107c20d413705eebc97b0f46fc403928132bbacb5df302196b661b3c3c006a11",
+        "sha1": "1e3782d36fbf569d1505b7763a6d416bcc101847",
+        "sha512": "3de6a37785374fa0feb9ead334534d635a51162ae03770cbe9e57520ec8e6a4a851f077c4efc20f0b762379bee5f520d5238eba7bf351628d6cb6c0c74d685f4",
         "murmur2": 1654499434
     },
-    "fileSize": 978720,
+    "fileSize": 978795,
     "sources": {
         "modrinth": {
             "projectId": "QAGBst4M",
-            "fileUrl": "https://cdn.modrinth.com/data/QAGBst4M/versions/R9M0uem6/PuzzlesLib-v8.1.20-1.20.1-Fabric.jar"
+            "fileUrl": "https://cdn.modrinth.com/data/QAGBst4M/versions/xjQF8bha/PuzzlesLib-v8.1.21-1.20.1-Fabric.jar"
         }
     }
 }

@@ -1,16 +1,16 @@
 {
-    "filename": "idwtialsimmoedm-0.3.0+1.20.jar",
+    "filename": "idwtialsimmoedm-0.3.1+1.20.jar",
     "side": "both",
     "hashes": {
-        "sha1": "9ba46e1882422c71837aefc33b93ed214e30e556",
-        "sha512": "40992ec3ed4d5fc64fb4e71f77486b0c4203534716ffea25f3682d0e7c48654f5b59b4db62fcf1a9d3d524e9e0497507480db5b6060612eea77259cd04fecb16",
+        "sha1": "492d28f486f5c55dc235be01842d6522bd5cc18c",
+        "sha512": "64f6ab5b4baffd170e3c26d39c75ea0fd03a5769ce4ccaf5c118ab9b8ab94271997added219d0f9ed12bb55134b1bd930fccaff6b20782c4b6fc975423823124",
         "murmur2": 1747886522
     },
-    "fileSize": 32048,
+    "fileSize": 32108,
     "sources": {
         "modrinth": {
             "projectId": "ad89WlWh",
-            "fileUrl": "https://cdn.modrinth.com/data/ad89WlWh/versions/r64mao6F/idwtialsimmoedm-0.3.0%2B1.20.jar"
+            "fileUrl": "https://cdn.modrinth.com/data/ad89WlWh/versions/mt6ldABY/idwtialsimmoedm-0.3.1%2B1.20.jar"
         }
     }
 }

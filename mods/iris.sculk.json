@@ -1,16 +1,16 @@
 {
-    "filename": "iris-1.7.1+mc1.20.1.jar",
+    "filename": "iris-1.7.2+mc1.20.1.jar",
     "side": "client_only",
     "hashes": {
-        "sha1": "574992b5760f3bf2f9aa0b70984f19fb1952b748",
-        "sha512": "e0b8fe9adbecb427b00d4e90a21dc2730ed18415f9037ecfe4904ca9d246c1cc04cf8799ae0abf62d660bfde5faeec578afe7d4c0cb2c67045ce1ef2d45eea4c",
+        "sha1": "4841b993d37c0944ca6f7a02809364e561a6acc3",
+        "sha512": "bb8a8f1ab1b302bbe5d6c5f970d8e781089836fb5e669780cd05fcc5a23e93152ea16e18eead7aa87a7f9e5f7f0197f9de90ea83f7cdebffc2d9a9f6bc9dcad0",
         "murmur2": 1967997505
     },
-    "fileSize": 2684113,
+    "fileSize": 2701293,
     "sources": {
         "modrinth": {
             "projectId": "YL57xq9U",
-            "fileUrl": "https://cdn.modrinth.com/data/YL57xq9U/versions/G5dd9TM4/iris-1.7.1%2Bmc1.20.1.jar"
+            "fileUrl": "https://cdn.modrinth.com/data/YL57xq9U/versions/1CMVXDHo/iris-1.7.2%2Bmc1.20.1.jar"
         }
     }
 }

@@ -1,16 +1,16 @@
 {
-    "filename": "botarium-fabric-1.20.1-2.3.3.jar",
+    "filename": "botarium-fabric-1.20.1-2.3.4.jar",
     "side": "both",
     "hashes": {
-        "sha1": "ffd8b8ec111c5942b30aded4e3ba4f2429023f0e",
-        "sha512": "ba1dcf57c87a4a74932aa5e0da25342e6007cf04d59c54cadc70ed57f8e5193b052ae09e28afe353edfb978805d761364171b1e8cfbdbde97e7ea69735869fae",
+        "sha1": "20e1c12cd5e4b4127c7b20ab7e7f81e7119dbf8b",
+        "sha512": "03589a8d05c17dbb4271c212d0eb00c53d9d5c0705f63c7816ff9e099245db71f94e7c544e323beaeac28d30bd3807eeccb1352792cb6d778ff6ecf68f4635c7",
         "murmur2": 1506536293
     },
-    "fileSize": 188345,
+    "fileSize": 188388,
     "sources": {
         "modrinth": {
             "projectId": "2u6LRnMa",
-            "fileUrl": "https://cdn.modrinth.com/data/2u6LRnMa/versions/5a8eybLl/botarium-fabric-1.20.1-2.3.3.jar"
+            "fileUrl": "https://cdn.modrinth.com/data/2u6LRnMa/versions/f3ATcSfq/botarium-fabric-1.20.1-2.3.4.jar"
         }
     }
 }

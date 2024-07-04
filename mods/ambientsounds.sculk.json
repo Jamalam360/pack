@@ -1,16 +1,16 @@
 {
-    "filename": "AmbientSounds_FABRIC_v6.0.1_mc1.20.1.jar",
+    "filename": "AmbientSounds_FABRIC_v6.0.3_mc1.20.1.jar",
     "side": "client_only",
     "hashes": {
-        "sha1": "2e1625ef1755b753a764c2adba4aac35934e5fc0",
-        "sha512": "3d473d3a4aefa404a79b3bcf5c0d684d7fde43df776ce925b0c98c16c42fa100289dad6bbf534b63012211f13afcb124e4a7f92a257c9286b3cf65d241290955",
+        "sha1": "91d6d4b29c6d5198e52b9a2f48ee0268732522ab",
+        "sha512": "0e319765b08e02a93d4b00f799764121b4668e0c306c667923ce28532f79561cbce60552c3eb599d1bd64ce951bf46d057dff49dd344f28480b65d1e23af40dc",
         "murmur2": 217126263
     },
-    "fileSize": 85330881,
+    "fileSize": 85331533,
     "sources": {
         "modrinth": {
             "projectId": "fM515JnW",
-            "fileUrl": "https://cdn.modrinth.com/data/fM515JnW/versions/n7Rl5o6Y/AmbientSounds_FABRIC_v6.0.1_mc1.20.1.jar"
+            "fileUrl": "https://cdn.modrinth.com/data/fM515JnW/versions/zTT9Dzv8/AmbientSounds_FABRIC_v6.0.3_mc1.20.1.jar"
         }
     }
 }

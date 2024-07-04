@@ -1,16 +1,16 @@
 {
-    "filename": "indium-1.0.32+mc1.20.1.jar",
+    "filename": "indium-1.0.34+mc1.20.1.jar",
     "side": "client_only",
     "hashes": {
-        "sha1": "6689db86e97a6e112c36d276070fb537a1f3596e",
-        "sha512": "4e9277a9d2c7a965663d537b3b4d0dd088945f16b9a06e56f2ff643bd9152a5553ece8e161cc5894bed0a22eef2ea80d50fc35f6b30e384ba264167c04893f13",
+        "sha1": "a2de9ba15f155b09626995ad58b0e23803b05fe6",
+        "sha512": "15bb1be71ee8c0455804d38b0e735ce1cd72b6a65ce78199b227dd4806a7726fd5fcf44ea60b382b5d97546c693d289c64f7ef872701ee1ddf1ddab14f2cee74",
         "murmur2": 1141690650
     },
-    "fileSize": 105361,
+    "fileSize": 105359,
     "sources": {
         "modrinth": {
             "projectId": "Orvt0mRa",
-            "fileUrl": "https://cdn.modrinth.com/data/Orvt0mRa/versions/XPsoVC5n/indium-1.0.32%2Bmc1.20.1.jar"
+            "fileUrl": "https://cdn.modrinth.com/data/Orvt0mRa/versions/gofbpynL/indium-1.0.34%2Bmc1.20.1.jar"
         }
     }
 }

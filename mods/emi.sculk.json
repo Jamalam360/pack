@@ -1,16 +1,16 @@
 {
-    "filename": "emi-1.1.6+1.20.1+fabric.jar",
+    "filename": "emi-1.1.10+1.20.1+fabric.jar",
     "side": "both",
     "hashes": {
-        "sha1": "8ddbf004ebdb9f6518651ef3fffe02157f7300b2",
-        "sha512": "0ddadaf221a74dfc744ddcc7f32d042c3682c4c1c2da3ecff42a9298e160d273ea7e602dee3c352af3fc41f847eb603d8b6532a44ff7429d386ac15186588986",
+        "sha1": "863db56afaa62d3f7edf992df493e1bbf360c00c",
+        "sha512": "affdf42b803cc2311976cb598b44020fb4414ad07015553ef4d84cd2bb6187a9d180618ca7061a576ad5529eda8b718e000a0f05b95f945cd3f27dfb555aeb5c",
         "murmur2": 2490683551
     },
-    "fileSize": 978688,
+    "fileSize": 987429,
     "sources": {
         "modrinth": {
             "projectId": "fRiHVvU7",
-            "fileUrl": "https://cdn.modrinth.com/data/fRiHVvU7/versions/spghOu2N/emi-1.1.6%2B1.20.1%2Bfabric.jar"
+            "fileUrl": "https://cdn.modrinth.com/data/fRiHVvU7/versions/8KtEM1az/emi-1.1.10%2B1.20.1%2Bfabric.jar"
         }
     }
 }

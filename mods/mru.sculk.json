@@ -1,16 +1,16 @@
 {
-    "filename": "mru-0.4.2+1.20.1.jar",
+    "filename": "mru-0.4.4+1.20.1.jar",
     "side": "both",
     "hashes": {
-        "sha1": "8e1fd166c154ee4b820524406bc4d0f7da978790",
-        "sha512": "91991e57056a227b7c63440e36c1e0a91c68dc88759ea5235ebbd19e959127253dffc7ee2828ced7167d5956ffec3c6340fc73be411e045a75ce7f63c953e454",
+        "sha1": "c522965ab1bc4a5d8a32fcaec83036ee99808972",
+        "sha512": "69ae56d86347e7275305f2014097b9236c88e126b7247b778a0f8d447f657919b268cec508c763e548669e10582dc04df3bffa4fd6bd7693d23817fbf646a42d",
         "murmur2": 1596021623
     },
-    "fileSize": 1182366,
+    "fileSize": 1182726,
     "sources": {
         "modrinth": {
             "projectId": "SNVQ2c0g",
-            "fileUrl": "https://cdn.modrinth.com/data/SNVQ2c0g/versions/bnInuGfl/mru-0.4.2%2B1.20.1.jar"
+            "fileUrl": "https://cdn.modrinth.com/data/SNVQ2c0g/versions/IWJh0MMO/mru-0.4.4%2B1.20.1.jar"
         }
     }
 }

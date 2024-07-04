@@ -10,7 +10,7 @@
     "manifests": [
         {
             "path": "mods/simple-voice-chat.sculk.json",
-            "sha256": "54d6e0941071d63a380ee3336b87252fdef74e92d946eef661f389b3c74ff13c"
+            "sha256": "e4100f6122fe151fea59f532286448a90469a73bf027ea7421cecf671eaf7b7f"
         },
         {
             "path": "mods/cloth-config.sculk.json",
@@ -42,11 +42,11 @@
         },
         {
             "path": "mods/mru.sculk.json",
-            "sha256": "b194bada6135ec83cec2116533c8114c1260893713a34dab9e70081eac2a1a85"
+            "sha256": "34af958f747e4be7621db2e074ca92d35ed7eab8850ce58b3f5904f34abd0a0f"
         },
         {
             "path": "mods/ambientsounds.sculk.json",
-            "sha256": "a5eb6f389d2236ebc1dfd6044d22459d5a6908daf183275050b1c8da17bf3f3f"
+            "sha256": "4c0405be0aa3d80a72de5db333a1682186345a5ff266e8eb4281c2483a586982"
         },
         {
             "path": "mods/creativecore.sculk.json",
@@ -70,7 +70,7 @@
         },
         {
             "path": "mods/botarium.sculk.json",
-            "sha256": "7c22082b6f12f33ef1e828cbf7e98477979c8cc411b0779c9d11a67405eec609"
+            "sha256": "f34db295bd15fb28abcf6f39bf82a95640972dee9c9ed2e0dc7f24a8f4850caf"
         },
         {
             "path": "mods/resourceful-lib.sculk.json",
@@ -118,7 +118,7 @@
         },
         {
             "path": "mods/elytra-trims.sculk.json",
-            "sha256": "860b0d16f16d17530db404c4fa2b97d7e5fbbc85a11938a52ea80496691dd850"
+            "sha256": "0be817845f493839d6eac9659707412a6080db3b4245dd83b3066982aa2bbae1"
         },
         {
             "path": "mods/yacl.sculk.json",
@@ -134,11 +134,11 @@
         },
         {
             "path": "mods/emi.sculk.json",
-            "sha256": "391a1d5d963b63d2c26a62b7a93b84d541eec6fcacfe1c5c50e9a955c1fd5868"
+            "sha256": "0cb488f5978c7a9153f01e8a074bbea21d026efb74d73f0fcfc0d1aa57c718d3"
         },
         {
             "path": "mods/jei.sculk.json",
-            "sha256": "f040b21cd1384d89780ae829fc35d0d92240ff1ae62f24f31dea44508473597b"
+            "sha256": "f7c5bf137e3a0b2789ade3a7c412e8570055406657a7a9658786b9c190a0fcd3"
         },
         {
             "path": "mods/create-fabric.sculk.json",
@@ -146,7 +146,7 @@
         },
         {
             "path": "mods/ae2.sculk.json",
-            "sha256": "6dc2e580249ca37aa482be5c602a9044f9388815def08005e69364f8c6be1a83"
+            "sha256": "4039b2c8378662cc6fefe8f0c2403fbe8d9580bea6a732775077b74b601129c1"
         },
         {
             "path": "mods/mob-captains.sculk.json",
@@ -190,11 +190,11 @@
         },
         {
             "path": "mods/puzzles-lib.sculk.json",
-            "sha256": "601e59a5431e227e13badaf21678b1b1b7286e8adb8acd99aa3579ca084e64a7"
+            "sha256": "1ff9e03b87f144a9f0cab5ae0e7362ff576beb543d575016dc1a148dd60777f7"
         },
         {
             "path": "mods/idwtialsimmoedm.sculk.json",
-            "sha256": "5e9f723a880c618e96f4cadd66f8f77c68bac33d2c9b35623ceeb3ccb407f3bf"
+            "sha256": "66679026efae186372cbcd17cc0737f7cc814bd60d9473ecb249321fa74f7365"
         },
         {
             "path": "mods/visual-workbench.sculk.json",
@@ -230,7 +230,7 @@
         },
         {
             "path": "mods/sodium.sculk.json",
-            "sha256": "551ecb95f1194b8e7e3a1fd8a78eec93371c912c82580e8326d8fac11553c8d1"
+            "sha256": "bc8fb6994f7b708043e60112074d86be99ebb65f3799443cbf71fcf374285383"
         },
         {
             "path": "mods/lithium.sculk.json",
@@ -238,7 +238,7 @@
         },
         {
             "path": "mods/iris.sculk.json",
-            "sha256": "420cd00c4a819bd7b517a6663dc0fb4016ea822649c18d9b1a4f15d8df25aaa1"
+            "sha256": "1af5a83d3f24eaccdbe4d3b80d2221da007dc75fd973c098d31550fa51faa7e2"
         },
         {
             "path": "mods/visuality.sculk.json",
@@ -294,7 +294,7 @@
         },
         {
             "path": "mods/neruina.sculk.json",
-            "sha256": "ddc2b0ff2dcc0788b8fd0f66a0f5f88edb7b5a74c19a1aba767f1ff7fd0d996f"
+            "sha256": "a5c5a69e4d3c632115a9be025b62d7b0152af04c2133654357a2aeca6c4080aa"
         },
         {
             "path": "mods/here-be-no-dragons.sculk.json",
@@ -302,7 +302,7 @@
         },
         {
             "path": "mods/indium.sculk.json",
-            "sha256": "f2c13f8179071288cc105a092a19abc4c964caeb801452659c3cec42a8cc52d7"
+            "sha256": "12987c73f8c97139063776657d75b9b2e39796aa7701c3280c748f258542eb7c"
         },
         {
             "path": "mods/yosbr.sculk.json",
@@ -314,11 +314,11 @@
         },
         {
             "path": "mods/fabricbettergrass.sculk.json",
-            "sha256": "1ff57bdc0837f6e04ab69e58638b8d2a5b63cb74610e5eda52ed5f06ce7e39ad"
+            "sha256": "15502b071c67d9b3755cbeb386a81b20f03cfcf41a66a878ef524a0dac3d7a32"
         },
         {
             "path": "mods/dynamic-fps.sculk.json",
-            "sha256": "4c15181305cf67212e31eca80cfc7deb1fc34a62f7e538148be291ec3448ef70"
+            "sha256": "e63af3f2fc19ced1fa84d252f27f771b895016b5d78c9b967a53536cd082e870"
         },
         {
             "path": "mods/noisium.sculk.json",
@@ -374,7 +374,7 @@
         },
         {
             "path": "mods/explorify.sculk.json",
-            "sha256": "70fb4907942873fb022b7fa8d0ad8e241969bc5233e90c1872738392d44b1509"
+            "sha256": "a69ad58eb9f41b92943a62666ee376bc4ee8b09c0804e8478bf0df0d24e3028b"
         },
         {
             "path": "shaderpacks/bsl-shaders.sculk.json",
@@ -442,7 +442,7 @@
         },
         {
             "path": "mods/chisel-reborn.sculk.json",
-            "sha256": "b41c2031dd71b4fedaf5f7a9284b9fa3b54279ebf5c26e12e71a48fb8ca080b0"
+            "sha256": "c823f2d92b1478d309d3a4b51413e6da7a8c21ef4f2be50ed6ccc65149d9bf9f"
         },
         {
             "path": "mods/pneumono_gravestones.sculk.json",
