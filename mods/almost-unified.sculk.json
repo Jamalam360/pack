@@ -1,16 +1,16 @@
 {
-    "filename": "almostunified-fabric-1.20.1-0.9.3.jar",
+    "filename": "almostunified-fabric-1.20.1-0.9.4.jar",
     "side": "both",
     "hashes": {
-        "sha1": "4c8e59fc37a2c653344049e8e7fa47f7007e7bd6",
-        "sha512": "764ced93262a7da93be7ccc9938ed3a71942b6c29e0eb5184e20ca9857a5909a97ba2a82f39997380b537c635508075a7083ba416a349483a3541644f0b3a8bb",
+        "sha1": "0b80c820186244667e9f3f326ad864355cc1407b",
+        "sha512": "ec47335d9d8b98c107a2b4cb4bada845669728f78c65df2ef2ee5e06d9ac866d276d09892896c216e30eb028a6fdd0a6cc92a8741eee1c14fa3d0ca24444cbdb",
         "murmur2": 1501087336
     },
-    "fileSize": 201853,
+    "fileSize": 201914,
     "sources": {
         "modrinth": {
             "projectId": "sdaSaQEz",
-            "fileUrl": "https://cdn.modrinth.com/data/sdaSaQEz/versions/s5fw9UvM/almostunified-fabric-1.20.1-0.9.3.jar"
+            "fileUrl": "https://cdn.modrinth.com/data/sdaSaQEz/versions/iVBf0ICr/almostunified-fabric-1.20.1-0.9.4.jar"
         }
     }
 }

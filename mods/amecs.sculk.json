@@ -1,0 +1,16 @@
+{
+    "filename": "amecs-1.3.10+mc.1.20.1.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "1eff33308da62b47e5767875b28cdd436da77e2c",
+        "sha512": "f75b6953825e0d59a5c205fc686e82ea67fa76bdbd79b39a9ab2d948a090503c6638de7be252b7d070114521a0e995cdf0964da417dfdf72af07b7fcd5f4643f",
+        "murmur2": 3746346736
+    },
+    "fileSize": 180129,
+    "sources": {
+        "modrinth": {
+            "projectId": "rcLriA4v",
+            "fileUrl": "https://cdn.modrinth.com/data/rcLriA4v/versions/HuXAp0GB/amecs-1.3.10%2Bmc.1.20.1.jar"
+        }
+    }
+}

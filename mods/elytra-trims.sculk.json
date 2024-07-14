@@ -1,16 +1,16 @@
 {
-    "filename": "elytratrims-fabric-3.3.0+1.20.1.jar",
+    "filename": "elytratrims-fabric-3.4.1+1.20.1.jar",
     "side": "both",
     "hashes": {
-        "sha1": "0f1b59cb7aac75b2a84310ffefc0eae518ee01e5",
-        "sha512": "9e5f1308a0664f9c4c7b13c0a77b24889ede4cd5d649bd0af3f37e6e3b33409fcb0e5e9088e0764aa21d2edcbbee10da6074731c83b3f42b9a6ee473ab984577",
+        "sha1": "be86b1f7f6bdbb58825629785cb1c432d0eb6dbf",
+        "sha512": "8fb17e30dcbe2f35cd5ec3cfc044f4cb02108e0b8d833385ce8faf518f9891d67d42954dbd690bfde391351571890fea0cb8c01021a18c612ae9d3a353803a79",
         "murmur2": 1193624784
     },
-    "fileSize": 583038,
+    "fileSize": 601875,
     "sources": {
         "modrinth": {
             "projectId": "XpzGz7KD",
-            "fileUrl": "https://cdn.modrinth.com/data/XpzGz7KD/versions/WrT3g90N/elytratrims-fabric-3.3.0%2B1.20.1.jar"
+            "fileUrl": "https://cdn.modrinth.com/data/XpzGz7KD/versions/r6apLAXP/elytratrims-fabric-3.4.1%2B1.20.1.jar"
         }
     }
 }
