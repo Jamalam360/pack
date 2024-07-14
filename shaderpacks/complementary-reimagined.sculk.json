@@ -1,16 +1,16 @@
 {
-    "filename": "ComplementaryReimagined_r5.2.1.zip",
+    "filename": "ComplementaryReimagined_r5.2.2.zip",
     "side": "both",
     "hashes": {
-        "sha1": "4ab8734a50018b58ecb1ac75042639f25094cf26",
-        "sha512": "52f87a733c382353e5aa0e07555cf821a31b832f67dca63ab28e56b99d12de77c989ab90926aa452096b14496349c60bae77d9717e89cb3a68e3ac93c3b7495f",
+        "sha1": "07cd8165acf24ec8ddada03f60729537687dd435",
+        "sha512": "1b49966c89559e43ad7ea2466213663ee543fd302383998ea367e8a53a855a183941e5bef72e13f60086a89a92a06758feef11d49f9a1890b26261657f37d153",
         "murmur2": 325048455
     },
-    "fileSize": 439882,
+    "fileSize": 441683,
     "sources": {
         "modrinth": {
             "projectId": "HVnmMxH1",
-            "fileUrl": "https://cdn.modrinth.com/data/HVnmMxH1/versions/6lz4f6iK/ComplementaryReimagined_r5.2.1.zip"
+            "fileUrl": "https://cdn.modrinth.com/data/HVnmMxH1/versions/pAOQ9Amz/ComplementaryReimagined_r5.2.2.zip"
         }
     }
 }

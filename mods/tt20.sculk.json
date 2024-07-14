@@ -1,0 +1,16 @@
+{
+    "filename": "tt20-0.6.0+mc1.20.1.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "0717f10e4e6b01d586c6f3c1de1a948031f1587f",
+        "sha512": "30165751b985b6a98463c599d294875c9cfd3b51f5d402ce9dd3e5a3b392fc1fcab8f16f2d85c3588eecbd10dbe5ea76a080d2af0eb6a7e45c1b5a8ba65a3d32",
+        "murmur2": 2170110960
+    },
+    "fileSize": 42409,
+    "sources": {
+        "modrinth": {
+            "projectId": "YS3ZignI",
+            "fileUrl": "https://cdn.modrinth.com/data/YS3ZignI/versions/o0fkw5Af/tt20-0.6.0%2Bmc1.20.1.jar"
+        }
+    }
+}

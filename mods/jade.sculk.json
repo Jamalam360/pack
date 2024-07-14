@@ -1,16 +1,16 @@
 {
-    "filename": "Jade-1.20-fabric-11.9.2.jar",
+    "filename": "Jade-1.20-fabric-11.10.0.jar",
     "side": "both",
     "hashes": {
-        "sha1": "7ce9f9002e831e089d2bba8ed5fe1780bd927e76",
-        "sha512": "8d316762e4790060d25b1e13408b1e58af9719612925745146034d38a56e5a02fd5d2527c6f06e938ae585181caf94c870e22e9504d50527e6148fbe938ce562",
+        "sha1": "12ac6dfd44286de4062fdb11ed02b6a6891551de",
+        "sha512": "735a9f2208240daa730a401c393ea3f0c4bdd2bdab484ebcf83f5ed0a1c278505b657154cb778ffc3dc5b9fd9e29a8e46d1650f64bd0894767e913e5175f3009",
         "murmur2": 2815790738
     },
-    "fileSize": 567066,
+    "fileSize": 568418,
     "sources": {
         "modrinth": {
             "projectId": "nvQzSEkH",
-            "fileUrl": "https://cdn.modrinth.com/data/nvQzSEkH/versions/re9m40O9/Jade-1.20-fabric-11.9.2.jar"
+            "fileUrl": "https://cdn.modrinth.com/data/nvQzSEkH/versions/vlM1OUBd/Jade-1.20-fabric-11.10.0.jar"
         }
     }
 }

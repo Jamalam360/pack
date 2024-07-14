@@ -1,16 +1,16 @@
 {
-    "filename": "appliedenergistics2-fabric-15.2.8.jar",
+    "filename": "appliedenergistics2-fabric-15.2.9.jar",
     "side": "both",
     "hashes": {
-        "sha1": "babdac1057532e04e5b30433ce8a5ebbfbd9532f",
-        "sha512": "48780800ef395939c6eed159a60a107197a97a5e8737ebafa05b0741542016d6e1bbd647916d4099a05d3143669f16394764af7f678aba3ab7342e877b5a987d",
+        "sha1": "de1bb69a97c688ba738586278c0e25c03ad8e399",
+        "sha512": "f03b2b6ec67c6fe6b9d1584738f1fb0424ad1afdd86fe8d0eaecaa897a08d97cad7e3fe9fe3a458c017802c1012e4fdefbbedcba15c4dfde20aef573cc6c30f6",
         "murmur2": 2311325758
     },
-    "fileSize": 9858738,
+    "fileSize": 9858759,
     "sources": {
         "modrinth": {
             "projectId": "XxWD5pD3",
-            "fileUrl": "https://cdn.modrinth.com/data/XxWD5pD3/versions/INdhXaep/appliedenergistics2-fabric-15.2.8.jar"
+            "fileUrl": "https://cdn.modrinth.com/data/XxWD5pD3/versions/fatWoH9r/appliedenergistics2-fabric-15.2.9.jar"
         }
     }
 }

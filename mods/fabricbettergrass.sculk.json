@@ -1,16 +1,16 @@
 {
-    "filename": "FabricBetterGrass-1.0.15+1.20.1.jar",
+    "filename": "FabricBetterGrass-1.0.17+1.20.1.jar",
     "side": "client_only",
     "hashes": {
-        "sha1": "092308389760a5ebe5a5736e552273d959a2654f",
-        "sha512": "f8fdc73d494edc75ba70a402a9e1821058b1bece82b7c2114db043de056fc08515d9e88187803a4750454ac8e416e04f15ad08eae0f24caab1ac2426008d053c",
+        "sha1": "cf22d079f4005e177ec7033b2e517364a01cdb19",
+        "sha512": "0d229d597b30d163d5e5ea6798905729a2c443e0775f8d846540939b18532652f522801523ddd5ba935949508edf79d01dae89da1d40b066d92646d9cdc5829a",
         "murmur2": 1599945187
     },
-    "fileSize": 46526,
+    "fileSize": 117895,
     "sources": {
         "modrinth": {
             "projectId": "m5T5xmUy",
-            "fileUrl": "https://cdn.modrinth.com/data/m5T5xmUy/versions/9a0z7PO2/FabricBetterGrass-1.0.15%2B1.20.1.jar"
+            "fileUrl": "https://cdn.modrinth.com/data/m5T5xmUy/versions/AWuCIzVV/FabricBetterGrass-1.0.17%2B1.20.1.jar"
         }
     }
 }

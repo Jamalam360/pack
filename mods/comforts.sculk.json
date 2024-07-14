@@ -1,16 +1,16 @@
 {
-    "filename": "comforts-fabric-6.3.5+1.20.1.jar",
+    "filename": "comforts-fabric-6.4.0+1.20.1.jar",
     "side": "both",
     "hashes": {
-        "sha1": "e87ac9650bb006e26623f939d47e12e5dcd50610",
-        "sha512": "68fe9aa7dfb23c0f0dd377a2430f4e7a7213dd280a1aec98ab336b4d87dc9eef48a81798e34d7e76b88f377bfb7c0a9200f4f4b8b1d978ddf217a0fd0594bcb0",
+        "sha1": "96c1b52fa6dcff140b56e17ce980d2a5c528fad2",
+        "sha512": "c1796378b47aa03544b772d2b631d7387e4365ba0c0a3468dc5e78348d26e0406bd015b530e0acab679e090310aafd201a106e519d3b9e32b26e0db9928b04be",
         "murmur2": 4065042149
     },
-    "fileSize": 719114,
+    "fileSize": 693624,
     "sources": {
         "modrinth": {
             "projectId": "SaCpeal4",
-            "fileUrl": "https://cdn.modrinth.com/data/SaCpeal4/versions/D2F8i5te/comforts-fabric-6.3.5%2B1.20.1.jar"
+            "fileUrl": "https://cdn.modrinth.com/data/SaCpeal4/versions/pMr60Kkq/comforts-fabric-6.4.0%2B1.20.1.jar"
         }
     }
 }
