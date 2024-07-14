@@ -1,0 +1,16 @@
+{
+    "filename": "mmode-fabric-1.20-1.1.1.jar",
+    "side": "both",
+    "hashes": {
+        "sha1": "da772889aaff617e9d85fd1ff4637663219f38c3",
+        "sha512": "4c0079e47fb6822bc45785d2e17d6593958a05eb851bd92f562343b63a6f50f6e62eba063c236b20157d75cd84474e05441b078ca472b760f418369b6f6202c7",
+        "murmur2": 4145521150
+    },
+    "fileSize": 1134983,
+    "sources": {
+        "modrinth": {
+            "projectId": "QOkEkSap",
+            "fileUrl": "https://cdn.modrinth.com/data/QOkEkSap/versions/TT7eUrpf/mmode-fabric-1.20-1.1.1.jar"
+        }
+    }
+}

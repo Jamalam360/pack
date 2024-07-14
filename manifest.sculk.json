@@ -475,6 +475,10 @@
         {
             "path": "mods/amecs.sculk.json",
             "sha256": "2bb00fe9dc1c92279da3c818a0eb85cca9f0f61881043b09591d7fca1fb1bd96"
+        },
+        {
+            "path": "mods/maintenancemode.sculk.json",
+            "sha256": "43d06443b9dfabb33460c064c3fc2c5239cac3c09a2f55ab6ee98e451abe1726"
         }
     ],
     "files": [
