@@ -23,9 +23,6 @@
     "mods/resourceful-lib.sculk.json": [
         "mods/ad-astra.sculk.json"
     ],
-    "mods/valkyrien-skies.sculk.json": [
-        "mods/eureka.sculk.json"
-    ],
     "mods/mru.sculk.json": [
         "mods/wolves-of-other-furs.sculk.json"
     ],
