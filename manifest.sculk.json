@@ -467,6 +467,10 @@
         {
             "path": "mods/amecs.sculk.json",
             "sha256": "2bb00fe9dc1c92279da3c818a0eb85cca9f0f61881043b09591d7fca1fb1bd96"
+        },
+        {
+            "path": "mods/valkyrien-skies.sculk.json",
+            "sha256": "eec181caec03689b8c550bf22cc5e7bc0cded696cd7343114f7f339018cd5cdb"
         }
     ],
     "files": [
@@ -484,11 +488,6 @@
             "path": "config/fallingtree.json",
             "side": "both",
             "sha256": "2f6a2872974507978e4d740ad8e66b01490c3056a08bdc5fbd73191d143c1732"
-        },
-        {
-            "path": "mods/valkyrienskies-120-2.3.0-beta.5+a9348063d0.jar",
-            "side": "both",
-            "sha256": "5e52df3ab40f8f00e1c1d67f9b5120e1f05928628f04ef8b4340e2b3881c0ffc"
         }
     ]
 }
