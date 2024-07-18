@@ -1,16 +1,16 @@
 {
-    "filename": "Hephaestus-1.20.1-3.6.4.274.jar",
+    "filename": "Hephaestus-1.20.1-3.6.4.279.jar",
     "side": "both",
     "hashes": {
-        "sha1": "b6dfa5ad8f8452f9b068ecb505b4904b3b3c530a",
-        "sha512": "feca3088b67b85a35c941827b60a1bec8118793da1f95ff2924c8d4fd6dcdbf1d4576bf29cb356fd77d717c271df218b25101f4cff9026267bc69550f3985caa",
+        "sha1": "539424fcbdc2f776e202c283d13e772a49962739",
+        "sha512": "b16e1b33ffb11215071722a9512c3e41ebda8e32146acbf659215e4e9f579624eb4b7b3450e318d1d01e83d4b91d029db66f375eab49ca5ba435dec05f703ca4",
         "murmur2": 362550048
     },
-    "fileSize": 23629059,
+    "fileSize": 23630344,
     "sources": {
         "modrinth": {
             "projectId": "sdSn3wvy",
-            "fileUrl": "https://cdn.modrinth.com/data/sdSn3wvy/versions/woXXzIDr/Hephaestus-1.20.1-3.6.4.274.jar"
+            "fileUrl": "https://cdn.modrinth.com/data/sdSn3wvy/versions/IQqKnFcN/Hephaestus-1.20.1-3.6.4.279.jar"
         }
     }
 }

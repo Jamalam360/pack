@@ -118,7 +118,7 @@
         },
         {
             "path": "mods/elytra-trims.sculk.json",
-            "sha256": "dd7124692762b4350a4a0625048f4e660040621b451dcda25f0158557eb1f56e"
+            "sha256": "07bd0196225448bdc8b5f9f00d165d38301b2adb0e3dd69675bf7767b7c9e97f"
         },
         {
             "path": "mods/yacl.sculk.json",
@@ -138,7 +138,7 @@
         },
         {
             "path": "mods/jei.sculk.json",
-            "sha256": "00cea64ad3b184e1a3852047c4c1909a49f37f7e77ab691fd14e65c4c21b1a4a"
+            "sha256": "af1962d45a4190e8abc130910cd41728b3ad7bccf519c0cc50874bc335915ca4"
         },
         {
             "path": "mods/create-fabric.sculk.json",
@@ -258,7 +258,7 @@
         },
         {
             "path": "mods/make_bubbles_pop.sculk.json",
-            "sha256": "5f23559bfdd77b15a97d15d3a192dd2878d03cef2da28808abb6adbb3260bae1"
+            "sha256": "40ed9b04bbcc8f04ff4e039187c28b5aadcb59fd3fe5c178eefa454e70523cf9"
         },
         {
             "path": "mods/emiffect.sculk.json",
@@ -310,11 +310,11 @@
         },
         {
             "path": "mods/modernfix.sculk.json",
-            "sha256": "e7331fddbdfef6d47a56c0a917893cc698b2f9e1cc800d131c62d1ba935bd1bb"
+            "sha256": "54b0085af79349f8b1686fac4c9d670fbe8cad7b2e0d7a4611b4933f3bf1723d"
         },
         {
             "path": "mods/fabricbettergrass.sculk.json",
-            "sha256": "7888e2450edddde8c1730a5ab48a71517f910b44ecb953a34bfb22152e48038f"
+            "sha256": "02f2b0e6ab17216ef855a414931db4a344b075c4a4a9f785fbee6c815c8223f8"
         },
         {
             "path": "mods/dynamic-fps.sculk.json",
@@ -418,7 +418,7 @@
         },
         {
             "path": "mods/hephaestus.sculk.json",
-            "sha256": "5581933d41779857511fbc80e3b0cfe02df62776a7204be13144cb80e29612d2"
+            "sha256": "4cef79733552a4625f2d040f0b19dc8041e3705f79604c641ef7f4bc0f92394f"
         },
         {
             "path": "mods/quicker-connect-button.sculk.json",
